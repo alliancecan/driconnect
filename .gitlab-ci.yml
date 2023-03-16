@@ -1,5 +1,5 @@
 image: centos:7
-build-job:
+build:
   stage: build
   tags: 
     - k8s
