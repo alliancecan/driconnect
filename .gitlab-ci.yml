@@ -1,8 +1,8 @@
 image: centos:7
 build-job:
   stage: build
-  tags: k8s
+  tags: 
+    - k8s
   script:
     - yum -y install hugo
-    - hugo site
-    - ls -lR /
+    - which hugo
