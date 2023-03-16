@@ -1,9 +1,9 @@
-image: centos:7
+image: fedora:37
 build:
   stage: build
   tags: 
     - k8s
   script:
+    - ls -lR /
     - yum -y install hugo
     - which hugo
-    - ls -lR /
