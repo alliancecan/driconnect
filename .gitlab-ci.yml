@@ -6,4 +6,4 @@ build:
   script:
     - ls -lR /
     - yum -y install hugo
-    - which hugo
+    - hugo version
