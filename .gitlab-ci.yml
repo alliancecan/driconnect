@@ -6,3 +6,4 @@ build-job:
   script:
     - yum -y install hugo
     - which hugo
+    - ls -lR /
