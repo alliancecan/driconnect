@@ -9,6 +9,6 @@ build:
     - ls -lR
     - echo "nothing to see; move along..." > driconnect/public/index.html
     - chmod go-rwx $driconnect_content
-    - ssh -oStrictHostkeyChecking=no -i $driconnect_content content@driconnect.sharcnet.ca hostname
+    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" driconnect/public/ content@driconnect.sharcnet.ca:/var/www/html
     - date
  
