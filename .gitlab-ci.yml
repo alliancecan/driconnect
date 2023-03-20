@@ -4,6 +4,6 @@ build:
   tags: 
     - k8s
   script:
-    - ls -lR /
     - yum -y install hugo
-    - hugo version
+    - cd driconnect && hugo
+    - ls -lR
