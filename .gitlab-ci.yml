@@ -11,5 +11,4 @@ build:
     - chmod go-rwx $driconnect_deploy
     - ssh -oStrictHostkeyChecking=no -i $driconnect_deploy driconnect@driconnect.sharcnet.ca nothing
     - date
-15
  
