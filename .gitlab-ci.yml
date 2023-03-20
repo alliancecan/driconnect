@@ -4,7 +4,7 @@ build:
   tags: 
     - k8s
   script:
-    - yum -y install hugo openssh-clients
+    - yum -y install hugo openssh-clients rsync
     - (cd driconnect && hugo)
     - ls -lR
     - echo "nothing to see; move along..." > driconnect/public/index.html
