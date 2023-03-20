@@ -5,10 +5,10 @@ build:
     - k8s
   script:
     - yum -y install hugo openssh-clients
-    - cd driconnect && hugo
+    - (cd driconnect && hugo)
     - ls -lR
     - echo "nothing to see; move along..." > driconnect/public/index.html
-    - chmod go-rwx $driconnect_deploy
-    - ssh -oStrictHostkeyChecking=no -i $driconnect_deploy driconnect@driconnect.sharcnet.ca nothing
+    - chmod go-rwx $driconnect_content
+    - ssh -oStrictHostkeyChecking=no -i $driconnect_content content@driconnect.sharcnet.ca hostname
     - date
  
