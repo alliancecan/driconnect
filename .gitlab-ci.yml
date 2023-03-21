@@ -4,11 +4,13 @@ build:
   tags: 
     - k8s
   script:
-    - yum -y install hugo openssh-clients rsync
-    - (cd driconnect && hugo -t mini)
+    - yum -y install git hugo openssh-clients rsync
+    - cd driconnect
+    - git submodule init
+    - git submodule update
+    - hugo -t mini
     - ls -lR
 #    - echo "nothing to see; move along..." > driconnect/public/index.html
-    - chmod go-rwx $driconnect_content
-    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" driconnect/public/ content@driconnect.sharcnet.ca:/var/www/html
-    - date
+#    - chmod go-rwx $driconnect_content
+#    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" driconnect/public/ content@driconnect.sharcnet.ca:/var/www/html
  
