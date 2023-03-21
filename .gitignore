@@ -1,4 +1,7 @@
 *~
 *.retry
+\#*\#
+.\#*
 ansible.log
+.hugo_build.lock
 driconnect/public/*
