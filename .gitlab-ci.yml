@@ -11,5 +11,5 @@ build:
     - hugo -t mini
     - ls -lR
     - chmod go-rwx $driconnect_content
-    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" driconnect/public/ content@driconnect.sharcnet.ca:/var/www/html
+    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" public/ content@driconnect.sharcnet.ca:/var/www/html
  
