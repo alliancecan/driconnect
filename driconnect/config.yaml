@@ -1,0 +1,52 @@
+baseurl: "https://driconnect.alliancecan.ca/"
+copyright: "© 2023 Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
+enablerobotstxt: false
+theme: "paige"
+
+defaultContentLanguage: "en"
+languagecode: "en-us"
+languages:
+  en:
+    languageName: "English"
+    title: "DRI Connect - Spring 2023"
+    menu:
+      main:
+      - identifier: "home"
+        name: "Home"
+        url: "/"
+        weight: 1
+      - identifier: "program"
+        name: "Program"
+        url: "/program/"
+        weight: 2
+      - identifier: "code_of_conduct"
+        name: "Code of Conduct"
+        url: "/code_of_conduct/"
+        weight: 3
+      - identifier: "language"
+        name: "=> Français / Accueil"
+        url: "/fr/"
+        weight: 99
+    weight: 10
+  fr:
+    languageName: "Français"
+    title: "DRI Connect - Printemps 2023"
+    menu:
+      main:
+      - identifier: "accueil"
+        name: "Accueil"
+        url: "/fr/"
+        weight: 1
+      - identifier: "programme"
+        name: "Programme"
+        url: "/fr/programme/"
+        weight: 2
+      - identifier: "code_de_conduite"
+        name: "Code de conduite"
+        url: "/fr/code_de_conduite/"
+        weight: 3
+      - identifier: "language"
+        name: "=> English / Home"
+        url: "/"
+        weight: 99
+    weight: 20

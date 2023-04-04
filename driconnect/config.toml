@@ -1,4 +1,0 @@
-baseURL = 'http://driconnect.sharcnet.ca/'
-languageCode = 'en-us'
-title = 'DRIConnect site'
-theme = 'mini'
