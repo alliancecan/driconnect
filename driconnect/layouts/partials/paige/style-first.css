@@ -1,0 +1,17 @@
+#paige-authors,
+#paige-breadcrumbs,
+#paige-collections,
+#paige-credit,
+#paige-keywords,
+#paige-pages,
+#paige-reading-time,
+#paige-series,
+#paige-toc,
+.paige-authors,
+.paige-date,
+.paige-keywords,
+.paige-reading-time,
+.paige-series,
+.paige-summary {
+    display: none;
+}
