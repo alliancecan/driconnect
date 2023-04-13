@@ -1,16 +1,8 @@
-image: fedora:37
+image: klakegg/hugo:0.100.2-ext-alpine-ci
 build:
   stage: build
   tags: 
     - k8s
   script:
-    - yum -y install git hugo openssh-clients rsync
-    - cd driconnect
-    - git submodule init
-    - git submodule update
     - hugo -t paige
     - ls -ltR
-    - id
-    - chmod go-rwx $driconnect_content
-    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" . content@driconnect.sharcnet.ca:stuff
- 
