@@ -5,6 +5,9 @@ build:
     - k8s
   script:
     - yum -y install git hugo openssh-clients rsync
+    - wget https://github.com/sass/dart-sass-embedded/releases/download/1.60.0/sass_embedded-1.60.0-linux-x64.tar.gz
+    - tar -zxf sass_embedded-1.60.0-linux-x64.tar.gz
+    - export PATH=$PWD/sass_embedded:$PATH
     - cd driconnect
     - git submodule init
     - git submodule update
