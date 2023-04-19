@@ -4,7 +4,7 @@ build:
   tags: 
     - k8s
   script:
-    - yum -y install git hugo openssh-clients rsync
+    - yum -y install git hugo openssh-clients rsync wget
     - wget https://github.com/sass/dart-sass-embedded/releases/download/1.60.0/sass_embedded-1.60.0-linux-x64.tar.gz
     - tar -zxf sass_embedded-1.60.0-linux-x64.tar.gz
     - export PATH=$PWD/sass_embedded:$PATH
