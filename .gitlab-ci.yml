@@ -6,3 +6,5 @@ build:
   script:
     - hugo -t paige
     - ls -ltR
+    - chmod go-rwx $driconnect_content
+    - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" driconnect/public/ content@driconnect.sharcnet.ca:/var/www/html
