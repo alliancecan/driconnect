@@ -5,6 +5,7 @@ build:
   tags: 
     - k8s
   script:
+    - apt update
     - apt search rsync
     - apt install rsync
     - apt install wget git openssh-client
