@@ -1,15 +1,10 @@
-#image: klakegg/hugo:0.107.0-ext-alpine-ci
 image: alpine:latest
 build:
   stage: build
   tags: 
     - k8s
   script:
-    - which wget
-    - which git
-    - which ssh
-    - which rsync
-    - apk add git openssh-client rsync wget
+    - apk add wget git openssh-client rsync wget
     - HUGO_VER=0.110.0
     - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
     - tar -zvvxf hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
