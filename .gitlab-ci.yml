@@ -4,14 +4,14 @@ build:
   tags: 
     - k8s
   script:
-    - apk add git openssh-client rsync wget
-    - HUGO_VER=0.110.0
+    - apk add openssh-client rsync wget
+#    - HUGO_VER=0.110.0
+#    - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
+#    - tar -zvvxf hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
     - DART_VER=1.60.0
-    - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
     - wget https://github.com/sass/dart-sass-embedded/releases/download/$DART_VER/sass_embedded-${DART_VER}-linux-x64.tar.gz
-    - tar -zxf hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
-    - tar -zxf sass_embedded-${DART_VER}-linux-x64.tar.gz
-    - chmod a+rx dart-sass-embedded
+    - tar -zvvxf sass_embedded-${DART_VER}-linux-x64.tar.gz
+#    - chmod a+rx sass_embedded/dart-sass-embedded
     - export PATH=$PWD/sass_embedded:$PWD:$PATH
     - cd driconnect
     - git submodule init
