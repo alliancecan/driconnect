@@ -5,6 +5,8 @@ build:
   tags: 
     - k8s
   script:
+    - apt search rsync
+    - apt install rsync
     - apt install wget git openssh-client
     - HUGO_VER=0.110.0
     - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
