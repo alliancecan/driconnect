@@ -13,12 +13,11 @@ build:
     - tar -zvvxf sass_embedded-${DART_VER}-linux-x64.tar.gz
 #    - chmod a+rx sass_embedded/dart-sass-embedded
     - export PATH=$PWD/sass_embedded:$PWD:$PATH
-    - which dart-sass-embedded
-    - file sass_embedded/dart-sass-embedded
     - cd driconnect
+    - which dart-sass-embedded
     - git submodule init
     - git submodule update
     - hugo -t paige
     - ls -ltR
-    - chmod go-rwx $driconnect_content
+    - chmod go-rx $driconnect_content
     - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" public/ content@driconnect.sharcnet.ca:/var/www/html
