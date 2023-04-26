@@ -1,4 +1,4 @@
-image: klakegg/hugo:0.101.0-ext-alpine-ci
+image: klakegg/hugo:0.107.0-ext-alpine-ci
 build:
   stage: build
   tags: 
