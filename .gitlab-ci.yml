@@ -21,3 +21,4 @@ build:
     - ls -ltR
     - chmod go-rx $driconnect_content
     - rsync -a --stats -e "ssh -oStrictHostkeyChecking=no -i $driconnect_content" public/ content@driconnect.sharcnet.ca:/var/www/html
+    - echo placeholder, please ignore
