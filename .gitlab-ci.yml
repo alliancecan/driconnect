@@ -4,7 +4,7 @@ build:
   tags: 
     - k8s
   script:
-    - apk add git openssh-clients rsync wget
+    - apk add git openssh-client rsync wget
     - HUGO_VER=0.110.0
     - DART_VER=1.60.0
     - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_extended_${HUGO_VER}_linux-amd64.tar.gz
