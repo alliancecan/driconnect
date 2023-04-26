@@ -1,13 +1,18 @@
 ---
 slug: "programme"
-title: "Programme"
-paige:
-  style: |
-    #paige-breadcrumbs { display: none; }
-    #paige-reading-time { display: none; }
+title: "Rencontre printanière sur l'infrastructure de recherche numérique"
 ---
+{{< paige/hero
+    alt="Rencontre printanière sur l'IRN, Du 30 mai au 1er juin 2023"
+    header="Programme"
+    image="../header_fr.png"
+    imageclass="rounded-4 shadow"
+    stretch=true >}}
+Merci à toutes et à tous pour vos idées de séances!
+{{< /paige/hero >}}
 
-En construction... mais, essentiellement :
+Essentiellement :
+
 * **Trois jours** :
   * Mardi le 30 mai
   * Mercredi le 31 mai

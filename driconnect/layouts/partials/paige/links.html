@@ -1,0 +1,27 @@
+{{ $page := . }}
+
+{{ if fileExists "static/favicon.ico" }}
+    <link href="{{ `/favicon.ico` | safeURL }}" rel="shortcut icon">
+{{ end }}
+
+{{ if fileExists "static/safari-pinned-tab.svg" }}
+    <link color="{{ $page.Param `paige.color` | default `#0d6efd` }}" href="{{ `/safari-pinned-tab.svg` | safeURL }}" rel="mask-icon">
+{{ end }}
+
+{{ if fileExists "assets/site.webmanifest" }}
+    <link href="{{ (resources.Get `site.webmanifest` | resources.ExecuteAsTemplate `site.webmanifest` .).RelPermalink | safeURL }}" rel="manifest">
+{{ end }}
+
+{{ partial "paige/link.html" (dict "href" "_paige/bootstrap/paige.scss" "page" $page "sass" true "template" true) }}
+{{ partial "paige/link.html" (dict "href" "_paige/bootstrap-icons/bootstrap-icons.css") }}
+
+{{ if $page.Param "paige.math" }}
+    {{ partial "paige/link.html" (dict "href" "_paige/katex/katex.min.css") }}
+{{ end }}
+
+{{ if .AlternativeOutputFormats }}
+    {{ $title := partial "paige/title.html" $page }}
+    {{ range .AlternativeOutputFormats }}
+        <link href="{{ .Permalink | safeURL }}" rel="{{ .Rel }}" title="{{ $title }}" type="{{ .MediaType.Type }}">
+    {{ end }}
+{{ end }}
