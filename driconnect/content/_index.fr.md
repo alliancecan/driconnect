@@ -1,5 +1,6 @@
 ---
 title: "Rencontre printanière sur l'infrastructure de recherche numérique"
+lang_code: "fr"
 ---
 
 {{< paige/hero

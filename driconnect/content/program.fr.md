@@ -1,6 +1,7 @@
 ---
 slug: "programme"
 title: "Rencontre printanière sur l'infrastructure de recherche numérique"
+lang_code: "fr"
 ---
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 30 mai au 1er juin 2023"

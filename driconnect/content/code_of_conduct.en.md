@@ -1,6 +1,7 @@
 ---
 slug: "code_of_conduct"
 title: "Code of conduct"
+lang_code: "en"
 ---
 
 See the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).

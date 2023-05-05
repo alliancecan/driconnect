@@ -1,6 +1,7 @@
 ---
 slug: "assister"
 title: "Comment y assister"
+lang_code: "fr"
 ---
 
 <p class="text-center">

@@ -1,6 +1,7 @@
 ---
 slug: "program"
 title: "Spring Digital Research Infrastructure Connect"
+lang_code: "en"
 ---
 
 {{< paige/hero

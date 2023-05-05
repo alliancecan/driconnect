@@ -1,6 +1,7 @@
 ---
 slug: "attend"
 title: "How to attend"
+lang_code: "en"
 ---
 
 <p class="text-center">
