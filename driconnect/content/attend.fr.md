@@ -42,15 +42,15 @@ des conseils sur la façon de vous rendre au QAI à partir de l’aéroport de V
 
 # Hébergement
 
-[**Civic Hotel**](https://civichotel.ca/)
-(voir aussi le **lien de réservation** ci-dessous),
+[**Civic Hotel - lien de réservation**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
+(voir aussi [civichotel.ca](https://civichotel.ca/)),
 13475 Central Avenue, Surrey, C.-B.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9564.838223780587!2d-122.85612885584797!3d49.1885585663603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d9d358d76255%3A0x1b4a79bf22c7b38a!2sCivic%20Hotel%2C%20Autograph%20Collection!5e0!3m2!1sfr!2sca!4v1680728432707!5m2!1sfr!2sca" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Nous avons réservé un certain nombre de chambres au Civic Hotel (Marriott),
 qui est situé à quelques pas du [QAI](#emplacement).
-Ne tardez pas à réserver votre chambre en cliquant sur
+Les personnes invitées ont **jusqu’au 8 mai, à 23h59 (heure du Pacifique)**, pour réserver en cliquant sur
 [**CE LIEN**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
 afin de profiter d’un tarif préférentiel.
 Puisque le nombre de chambres réservées est limité,

@@ -42,15 +42,15 @@ tips on getting from the Vancouver airport to the QAI.
 
 # Accommodations
 
-[**Civic Hotel**](https://civichotel.ca/)
-(see also the **reservation link** below),
+[**Civic Hotel - Reservation link**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
+(see also [civichotel.ca](https://civichotel.ca/)),
 13475 Central Avenue, Surrey, B.C.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9564.838223780587!2d-122.85612885584797!3d49.1885585663603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d9d358d76255%3A0x1b4a79bf22c7b38a!2sCivic%20Hotel%2C%20Autograph%20Collection!5e0!3m2!1sfr!2sca!4v1680728432707!5m2!1sfr!2sca" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 We have secured a hotel room block at the Civic Hotel (Marriott)
 just steps away from the [QAI](#location).
-Don’t delay in booking your accommodation through
+Guests have **until 11:59 p.m. PST on May 8** to book through
 [**THIS LINK**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
 to benefit from a preferred rate.
 There are a finite number of rooms in this block, so

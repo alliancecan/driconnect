@@ -29,4 +29,4 @@ et des logiciels de recherche.
 * [Emplacement](/fr/assister/#emplacement)
   * [Pour se rendre à partir de Vancouver](/fr/assister/#pour-se-rendre-à-partir-de-vancouver)
     (SkyTrain)
-* [Hébergement](/fr/assister/#hébergement)
+* [Hébergement](/fr/assister/#hébergement) (hôtel)

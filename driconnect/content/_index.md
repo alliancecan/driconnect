@@ -28,4 +28,4 @@ research software professionals.
 * [Location](/attend/#location)
   * [Commute from Vancouver](/attend/#commute-from-vancouver)
     (SkyTrain)
-* [Accommodations](/attend/#accommodations)
+* [Accommodations](/attend/#accommodations) (hotel)
