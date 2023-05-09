@@ -1,0 +1,28 @@
+<hr />
+<h5 class="text-center text-secondary" id="sponsors">{{ if eq .Params.lang_code "fr" }}
+  Merci à nos commanditaires!{{ else }}
+  Thank you to our sponsors!{{ end }}
+</h5>
+<div class="container">
+  <div class="row text-center">
+    <div class="col">
+      <p>
+        <a href="https://quantumalgorithms.ca/">
+          <img alt="Quantum Algorithms Institute" src="/QAI-logo.svg" height="160">
+        </a><br /><br />{{ if eq .Params.lang_code "fr" }}
+        Merci au <a href="https://quantumalgorithms.ca/">Quantum Algorithms Institute</a>
+        pour avoir généreusement fourni le lieu de cet événement!{{ else }}
+        Thank you to the <a href="https://quantumalgorithms.ca/">Quantum Algorithms Institute</a>
+        for generously providing the venue for this event!{{ end }}
+      </p>
+    </div>
+    <div class="col">
+      <a href="#sponsors">
+        <svg width="100" height="100">
+          <rect x="10" y="10" width="80" height="80" fill="#d6ab00" />
+          Some logo
+        </svg>
+      </a>
+    </div>
+  </div>
+</div>
