@@ -38,7 +38,7 @@ Thank you everyone for all your session ideas!
 ## Day 0 - Preconference
 
 <details>
-  <summary class="h3">Monday, May 29</summary>
+  <summary class="h3">Monday, May 29 <small class="text-muted">(click to expand)</small></summary>
   <div class="container">
     <div class="row">
       <div class="col-2 bg-primary text-white">Time</div>
@@ -70,9 +70,9 @@ Thank you everyone for all your session ideas!
 ## Days 1-3 - Conference
 
 <details>
-  <summary class="h3">Tuesday, May 30</summary>
+  <summary class="h3">Tuesday, May 30 <small class="text-muted">(click to expand)</small></summary>
   <div class="container">
-    <div class="row">
+    <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">Description</div>
@@ -293,11 +293,25 @@ Thank you everyone for all your session ideas!
 </details>
 
 <details>
-  <summary class="h3">Wednesday, May 31</summary>
+  <summary class="h3">Wednesday, May 31 <small class="text-muted">(click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-2 bg-primary text-white">Time</div>
+      <div class="col-2 bg-primary text-white">Room</div>
+      <div class="col bg-primary text-white">Description</div>
+    </div>
+  </div>  <!-- Container as a table -->
 </details>
 
 <details>
-  <summary class="h3">Thursday, June 1</summary>
+  <summary class="h3">Thursday, June 1 <small class="text-muted">(click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-2 bg-primary text-white">Time</div>
+      <div class="col-2 bg-primary text-white">Room</div>
+      <div class="col bg-primary text-white">Description</div>
+    </div>
+  </div>  <!-- Container as a table -->
 </details>
 
 <hr />
@@ -305,5 +319,8 @@ Thank you everyone for all your session ideas!
 ## Social Events
 
 <details>
-  <summary class="h3">Wednesday, May 31</summary>
+  <summary class="h3">Wednesday, May 31 <small class="text-muted">(click to expand)</small></summary>
+  <div class="container">
+    <p>More details soon...</p>
+  </div>  <!-- Container to be expanded -->
 </details>
