@@ -21,15 +21,14 @@ Merci à toutes et à tous pour vos idées de séances!
 # Salles
 
 * **Centre de données de Cedar** (jour 0) - Campus SFU
-* ***Flex space*** (jours 1-3) - espace principal au QAI, pour les déjeuners et dîners
-* **Plénière large** (jours 1-3) -
-  [Campus SFU à Surrey, **5280** Lecture theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
-* **Salle de lecture** (jours 1-3) -
-  [Campus SFU à Surrey, **5240** Classroom](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
-* **Salle de réunion #1** (jours 2-3) -
-  [QAI, room TBD](#salles)
-* **Salle de réunion #2** (jours 2-3) -
-  [QAI, room TBD](#salles)
+* ***Classroom*** (jour 2) - [QAI](/fr/assister/#emplacement) -
+  salle nommée "Classroom"
+* ***Flex space*** (jours 1-3) - [QAI](/fr/assister/#emplacement) -
+  espace principal pour les déjeuners, dîners et pauses
+* **SRYC 5240** (jours 1-3) -
+  [Campus SFU à Surrey](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
+* **SRYC 5280** (jours 1-3) -
+  [Campus SFU à Surrey](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
 
 # Programme détaillé
 
@@ -91,12 +90,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col"><h4>Introduction and Land Acknowledgement</h4></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h15<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Welcome Address from the CEO</summary>
@@ -106,7 +105,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h30<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Update of the Researcher Council Priorities</summary>
@@ -132,12 +131,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h15<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de lecture</a></div>
+      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h45<br />(105 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Salle de lecture</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM, RS and HPC Introduction and Integration Discovery Session</summary>
@@ -160,7 +159,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h30<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Cloud National Team Update</summary>
@@ -170,7 +169,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h45<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Globus National Team Update</summary>
@@ -180,7 +179,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h00<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Data Analytics National Team Update</summary>
@@ -190,7 +189,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h15<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">HSS National Team Update</summary>
@@ -200,7 +199,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h30<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">NSC Update</summary>
@@ -210,7 +209,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h45<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM National Training Expert Group Update</summary>
@@ -220,12 +219,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h00<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de lecture</a></div>
+      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h15<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to Alliance RDM for the DRI Community</summary>
@@ -239,7 +238,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h45<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">NSC Presents: Security, Software, and the Supply Chain</summary>
@@ -260,7 +259,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h30<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">DRI Reporting</summary>
@@ -284,7 +283,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h45<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Serverless platforms: State of the Art</summary>
@@ -316,7 +315,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">What’s Digital About the Humanities?</summary>
@@ -348,12 +347,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h00<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de lecture</a></div>
+      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h30<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">Explorations in Cloud</summary>
@@ -367,7 +366,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h15<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Tri-Agency Research Data Management (RDM) Policy, two years in</summary>
@@ -387,7 +386,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h45<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">From GenAP to the UseGalaxy.ca initiative</summary>
@@ -412,7 +411,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h15<br />(180 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Salle de réunion #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>Classroom</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to OpenSearch Workshop</summary>
@@ -432,7 +431,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h15<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM Network of Experts</summary>
@@ -454,7 +453,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h15<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Research Data Alliance (RDA): Enriching RDM in Canada, the Americas, and Globally</summary>
@@ -474,7 +473,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h30<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Impact of Canadian DRI</summary>
@@ -496,12 +495,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h45<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de lecture</a></div>
+      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h15<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">Alliance Data Champions Pilot Project</summary>
@@ -518,7 +517,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h45<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">McMaster’s Digital Research Commons Pilot: Building a more connected, capable, and researcher-focused approach to digital research support</summary>
@@ -543,7 +542,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h15<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Plénière large</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5280</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
@@ -571,7 +570,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
@@ -585,12 +584,12 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h00<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de lecture</a></div>
+      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h30<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Salle de réunion #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Latest Trends in GPU hardware</summary>
@@ -607,7 +606,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h30<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de réunion #1</a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">ACENET Training: A collaborative success</summary>
@@ -629,7 +628,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h45<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de réunion #1</a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">The instruments for advanced research computing are here, but are researchers ready?</summary>
@@ -664,7 +663,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h00<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Salle de réunion #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to C++ Parallel Algorithms</summary>
@@ -691,7 +690,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h00<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de réunion #1</a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Access Limited Data Discovery Working Group</summary>
@@ -718,7 +717,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h45<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>Salle de réunion #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Vault and SSH with short lived certs</summary>
@@ -731,7 +730,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11h45<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de réunion #1</a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Next Steps - Learning from a community-led survey of Canadian Dataverse administrators</summary>
@@ -750,7 +749,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">12h00<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Salle de réunion #1</a></div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">PaaS: Collecting puzzle pieces</summary>
@@ -772,7 +771,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h30<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Inclusion, Diversity, Equity & Accessibility Actionable Ideas Session</summary>
@@ -782,7 +781,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">14h30<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Plénière large</a></div>
+      <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Closing Remarks</summary>
