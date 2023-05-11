@@ -34,6 +34,10 @@ Thank you everyone for all your session ideas!
 
 # Detailed Program
 
+<button class="btn" onclick="expandAll()">
+  Click here to expand all sections below and all session descriptions.
+</button>
+
 <hr />
 
 ## Day 0 - Preconference
@@ -76,7 +80,9 @@ Thank you everyone for all your session ideas!
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">
+        Description (<a onclick="expand(this)">click here to expand all</a>)
+      </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">8:00 AM<br />(60 min.)</div>
@@ -299,7 +305,9 @@ Thank you everyone for all your session ideas!
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">
+        Description (<a onclick="expand(this)">click here to expand all</a>)
+      </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">8:00 AM<br />(60 min.)</div>
@@ -541,7 +549,9 @@ Thank you everyone for all your session ideas!
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">
+        Description (<a onclick="expand(this)">click here to expand all</a>)
+      </div>
     </div>
   </div>  <!-- Container as a table -->
 </details>
@@ -568,3 +578,28 @@ Thank you everyone for all your session ideas!
     </div>
   </div>  <!-- Container as a table -->
 </details>
+
+<script>
+  function expandAll() {
+    let all_details = document.getElementsByTagName("details");
+    for (let details of all_details) {
+      details.setAttribute("open", "")
+    }
+  }
+  function expand(header) {
+    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    for (let details of all_details) {
+      details.setAttribute("open", "")
+    }
+    header.text = "click here to close all"
+    header.onclick = function() { collapse(header); }
+  }
+  function collapse(header) {
+    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    for (let details of all_details) {
+      details.removeAttribute("open")
+    }
+    header.text = "click here to expand all"
+    header.onclick = function() { expand(header); }
+  }
+</script>
