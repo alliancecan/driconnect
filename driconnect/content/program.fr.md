@@ -86,7 +86,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">8h00<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
+      <div class="col text-center"><h5>Déjeuner et enregistrement</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(15 min.)</div>
@@ -132,7 +132,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">10h15<br />(30 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Coffee Break</h5></div>
+      <div class="col text-center"><h5>Pause café</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h45<br />(105 min.)</div>
@@ -155,7 +155,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">12h30<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Lunch</h5></div>
+      <div class="col text-center"><h5>Dîner</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h30<br />(15 min.)</div>
@@ -220,7 +220,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">15h00<br />(15 min.)</div>
       <div class="col-2 text-center">TBD</div>
-      <div class="col text-center"><h5>Tea Break</h5></div>
+      <div class="col text-center"><h5>Pause thé</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h15<br />(30 min.)</div>
@@ -311,7 +311,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">8h00<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
+      <div class="col text-center"><h5>Déjeuner et enregistrement</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(60 min.)</div>
@@ -348,7 +348,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">10h00<br />(30 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Coffee Break</h5></div>
+      <div class="col text-center"><h5>Pause café</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h30<br />(45 min.)</div>
@@ -407,7 +407,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">12h15<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Lunch</h5></div>
+      <div class="col text-center"><h5>Dîner</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h15<br />(180 min.)</div>
@@ -496,7 +496,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">14h45<br />(30 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Tea Break</h5></div>
+      <div class="col text-center"><h5>Pause thé</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h15<br />(30 min.)</div>
@@ -566,7 +566,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">8h00<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
+      <div class="col text-center"><h5>Déjeuner et enregistrement</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(60 min.)</div>
@@ -585,7 +585,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">10h00<br />(30 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Coffee Break</h5></div>
+      <div class="col text-center"><h5>Pause café</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10h30<br />(30 min.)</div>
@@ -767,7 +767,7 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">12h30<br />(60 min.)</div>
       <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
-      <div class="col text-center"><h5>Lunch</h5></div>
+      <div class="col text-center"><h5>Dîner</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">13h30<br />(60 min.)</div>
@@ -809,8 +809,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center">18h à 21h</div>
       <div class="col-2 text-center">TBD</div>
       <div class="col">
-        <h4>Team Dinner</h4>
-        <p>More details soon...</p>
+        <h4>Souper d'équipe</h4>
+        <p>Plus de détails à venir...</p>
       </div>
     </div>
   </div>  <!-- Container as a table -->
