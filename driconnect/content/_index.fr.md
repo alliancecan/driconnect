@@ -27,6 +27,7 @@ et des logiciels de recherche.
 
 * [**Programme**](/fr/programme/)
   * [Code de conduite](/fr/code_de_conduite/)
+  * Activités sociales
 * [Emplacement](/fr/assister/#emplacement)
   * [Pour se rendre à partir de Vancouver](/fr/assister/#pour-se-rendre-à-partir-de-vancouver)
     (SkyTrain)

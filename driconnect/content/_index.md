@@ -26,6 +26,7 @@ research software professionals.
 
 * [**Program**](/program/)
   * [Code of conduct](/code_of_conduct/)
+  * [Social Events](/program/#social-events)
 * [Location](/attend/#location)
   * [Commute from Vancouver](/attend/#commute-from-vancouver)
     (SkyTrain)
