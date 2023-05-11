@@ -542,7 +542,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout rooms #1 &amp; #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Large Plenary</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
@@ -561,6 +561,233 @@ Thank you everyone for all your session ideas!
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">
         Description (<a onclick="expand(this)">click here to expand all</a>)
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">8:00 AM<br />(60 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
+      <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">9:00 AM<br />(60 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
+          <p>
+            Keynote speaker: <strong>Patrick Schmitz</strong>
+            (Virtually delivered)
+          </p>
+          <p><small>More details soon...</small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">10:00 AM<br />(30 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col text-center"><h5>Coffee Break</h5></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">10:30 AM<br />(30 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Latest Trends in GPU hardware</summary>
+          <p>Speakers: <strong>TBD</strong></p>
+          <p><small>
+            We are about to have a system refresh,
+            with hardware likely being purchased in early 2024.
+            This session would discuss the latest trends in GPU hardware,
+            with particular focus on what will be available for purchase
+            in that time frame.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">10:30 AM<br />(15 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">ACENET Training: A collaborative success</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            Join us for this brief review of ACENET's training
+            journey as we’ve tried to solve some common challenges.
+            Our small, but geographically dispersed Atlantic Canadian
+            research community, training needs across many disciplines,
+            and a small team of research consultants to respond to
+            those needs combine to create a challenging environment,
+            particularly when faced with growing demand.
+            Over the past number of years, we’ve strategically
+            found some ways to address these challenges,
+            and the results have been dramatic.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">10:45 AM<br />(15 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">The instruments for advanced research computing are here, but are researchers ready?</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            The current times are exciting: we are witnessing a
+            growth of computing power while the open source
+            community is vigorously building impressive machine
+            learning and scientific programming tools.
+          </small></p>
+          <p><small>
+            This boom of hardware and software assets
+            cannot however translate into research if graduate
+            students aren't able to take advantage of it.
+            Curricula often lack training pertinent
+            to the use of such resources.
+            Worse yet, in many fields faculties and PIs
+            don't have the necessary background to help
+            their students with high-performance programming.
+            The training team at Simon Fraser University
+            Research Computing Group aims to fill this gap
+            in the West on behalf of the Alliance and
+            all Western Canadian universities.
+          </small></p>
+          <p><small>
+            This talk will present an overview of the training we provide,
+            from introductory skill sets for researchers new to ARC
+            and HPC to advanced topics in parallel programming.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">11:00 AM<br />(45 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Introduction to C++ Parallel Algorithms</summary>
+          <p>Speaker: <strong>Paul Preney</strong></p>
+          <p><small>
+            This short, approximately 30 minute + 15 minutes for questions,
+            staff-to-staff presentation will present how one can easily
+            write efficient multithreaded C++ code using C++ parallel
+            algorithms (including with multidimensional arrays) and
+            exploit the use of such on CPU cores and on NVIDIA GPUs.
+          </small></p>
+          <p><small>
+            As this is a short presentation, should one wish to learn more
+            in the near future consider interacting with the presenter
+            directly (e.g., Slack or email), requesting the presentation
+            slides and code, and/or attending the Compute Ontario 2023
+            Summer School course "Modern C++ Parallel Programming".
+            The accelerators working group (#accelerators-discuss
+            in Slack) may also host some presentations on this
+            and other items in the fall of 2023 as well.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">11:00 AM<br />(45 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Access Limited Data Discovery Working Group</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            The ability to find and access restricted data for
+            research remains a challenge for researchers,
+            and is especially true in a Canadian context.
+            To address the low adoption of metadata standards,
+            a national team of data discovery and sharing experts
+            reviewed and extracted metadata elements from each
+            restricted health data source to identify commonalities
+            in how they describe their data for discovery, and what
+            information they require if a data access request is made.
+          </small></p>
+          <p><small>
+            This session will share the evaluation result, recommend
+            strategies for the future adoption and harmonization of metadata
+            for restricted data in Canada, and engage attendees in a
+            discussion of how to best address this issue on a national scale.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">11:45 AM<br />(45 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Vault and SSH with short lived certs</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            More details soon...
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">11:45 AM<br />(15 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Next Steps - Learning from a community-led survey of Canadian Dataverse administrators</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            This presentation will discuss the survey of Canadian Dataverse
+            administrators, including what was learned about institutional
+            context, demographics, service models and collection policies,
+            experiences using the Dataverse software, and perceptions of
+            the emerging national community of Dataverse administrators.
+            Presenters will engage our DRI colleagues in
+            discussion and for potential collaborations.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">12:00 PM<br />(30 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">PaaS: Collecting puzzle pieces</summary>
+          <p>Speaker: <strong>TBD</strong></p>
+          <p><small>
+            This series of lightning talks showcases several
+            Platform as a Service (PaaS) projects "Puzzle pieces"
+            currently underway in the Alliance ecosystem.
+            Some of them are side projects or pilots, but each has something
+            unique to bring to the discussion of the larger vision of PaaS.
+          </small></p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">12:30 PM<br />(60 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
+      <div class="col text-center"><h5>Lunch</h5></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">1:30 PM<br />(60 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Inclusion, Diversity, Equity & Accessibility Actionable Ideas Session</summary>
+          <p>This is a panel session.</p>
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center">2:30 PM<br />(30 min.)</div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col">
+        <details>
+          <summary class="h4">Closing Remarks</summary>
+          <p>Speakers: <strong>TBD</strong></p>
+          <p><small>Spring DRI Connect is done at 3:00 PM</small></p>
+        </details>
       </div>
     </div>
   </div>  <!-- Container as a table -->
