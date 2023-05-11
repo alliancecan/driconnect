@@ -390,13 +390,14 @@ Thank you everyone for all your session ideas!
       <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Genetics and Genomics Analysis Platform (GenAP)</summary>
+          <summary class="h4">From GenAP to the UseGalaxy.ca initiative</summary>
           <p>Speaker: <strong>TBD</strong></p>
           <p><small>
-            A brief update on GenAP. GenAP is a platform
-            that has been in operation since 2015 and has
-            helped hundreds of Canadian researchers and students
-            from the Medicine and Life sciences communities.
+            This presentation will introduce the UseGalaxy.ca initiative
+            that will succeed and gradually replace GenAP.ca.
+            GenAP is a platform that has been in operation since 2015
+            and has helped hundreds of Canadian researchers and
+            students from the Medicine and Life sciences communities.
             It has been supported over the years in various
             ways by Calcul Québec, Calcul Canada (Alliance),
             Genome Canada, Canarie and the CFI (Cyberinfrastructures).
@@ -431,7 +432,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM Network of Experts</summary>
@@ -453,7 +454,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:15 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Research Data Alliance (RDA): Enriching RDM in Canada, the Americas, and Globally</summary>
@@ -473,7 +474,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:30 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Impact of Canadian DRI</summary>
@@ -495,12 +496,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:45 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">Outside rooms<br />#1 &amp; #2</div>
+      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:15 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
           <summary class="h4">Alliance Data Champions Pilot Project</summary>
@@ -517,7 +518,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:45 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
       <div class="col">
         <details>
           <summary class="h4">McMaster’s Digital Research Commons Pilot: Building a more connected, capable, and researcher-focused approach to digital research support</summary>
