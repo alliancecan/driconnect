@@ -415,7 +415,17 @@ Thank you everyone for all your session ideas!
       <div class="col">
         <details>
           <summary class="h4">Introduction to OpenSearch Workshop</summary>
-          <p>In-person workshop only</p>
+          <p>Important notes:</p>
+          <ul>
+            <li>This is an in-person session, in English only;</li>
+            <li>Participants must bring their own laptop;</li>
+            <li>Attendance is limited.</li>
+          </ul>
+          <p>
+            Due to limited availability,
+            <a href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8">
+              <strong>please only sign up</strong></a>
+            if you are certain you will attend.</p>
         </details>
       </div>
     </div>
