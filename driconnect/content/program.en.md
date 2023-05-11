@@ -22,15 +22,13 @@ Thank you everyone for all your session ideas!
 # Rooms
 
 * **Cedar's data center** (day 0) - SFU Campus
-* **Flex space** (days 1-3) - main space at QAI, for breakfasts and lunches
-* **Large Plenary** (days 1-3) -
-  [SFU Surrey Campus, **5280** Lecture theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
-* **Lecture Room** (days 1-3) -
-  [SFU Surrey Campus, **5240** Classroom](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
-* **Breakout room #1** (days 2-3) -
-  [QAI, room TBD](#rooms)
-* **Breakout room #2** (days 2-3) -
-  [QAI, room TBD](#rooms)
+* ***Classroom*** (day 2) - [QAI](/attend/#location) - room named "Classroom"
+* ***Flex space*** (days 1-3) -
+  [QAI](/attend/#location) - main space for breakfasts, lunches and breaks
+* **SRYC 5240** (days 1-3) -
+  [SFU Surrey Campus](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
+* **SRYC 5280** (days 1-3) -
+  [SFU Surrey Campus](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
 
 # Detailed Program
 
@@ -91,12 +89,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:00 AM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col"><h4>Introduction and Land Acknowledgement</h4></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:15 AM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Welcome Address from the CEO</summary>
@@ -106,7 +104,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:30 AM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Update of the Researcher Council Priorities</summary>
@@ -132,12 +130,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:15 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:45 AM<br />(105 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Lecture Room</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM, RS and HPC Introduction and Integration Discovery Session</summary>
@@ -160,7 +158,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:30 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Cloud National Team Update</summary>
@@ -170,7 +168,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:45 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Globus National Team Update</summary>
@@ -180,7 +178,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Data Analytics National Team Update</summary>
@@ -190,7 +188,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:15 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">HSS National Team Update</summary>
@@ -200,7 +198,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:30 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">NSC Update</summary>
@@ -210,7 +208,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:45 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM National Training Expert Group Update</summary>
@@ -220,12 +218,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:15 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to Alliance RDM for the DRI Community</summary>
@@ -239,7 +237,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:45 PM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">NSC Presents: Security, Software, and the Supply Chain</summary>
@@ -260,7 +258,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:30 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">DRI Reporting</summary>
@@ -284,7 +282,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:45 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Serverless platforms: State of the Art</summary>
@@ -316,7 +314,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">What’s Digital About the Humanities?</summary>
@@ -348,12 +346,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:30 AM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">Explorations in Cloud</summary>
@@ -367,7 +365,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:15 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Tri-Agency Research Data Management (RDM) Policy, two years in</summary>
@@ -387,7 +385,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:45 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">From GenAP to the UseGalaxy.ca initiative</summary>
@@ -412,7 +410,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:15 PM<br />(180 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Classroom</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to OpenSearch Workshop</summary>
@@ -432,7 +430,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">RDM Network of Experts</summary>
@@ -454,7 +452,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:15 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Research Data Alliance (RDA): Enriching RDM in Canada, the Americas, and Globally</summary>
@@ -474,7 +472,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:30 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">The Impact of Canadian DRI</summary>
@@ -496,12 +494,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:45 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:15 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">Alliance Data Champions Pilot Project</summary>
@@ -518,7 +516,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:45 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5240</a></div>
       <div class="col">
         <details>
           <summary class="h4">McMaster’s Digital Research Commons Pilot: Building a more connected, capable, and researcher-focused approach to digital research support</summary>
@@ -543,7 +541,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Large Plenary</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5280</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
@@ -571,7 +569,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
@@ -585,12 +583,12 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:30 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Latest Trends in GPU hardware</summary>
@@ -607,7 +605,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:30 AM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">ACENET Training: A collaborative success</summary>
@@ -629,7 +627,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:45 AM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">The instruments for advanced research computing are here, but are researchers ready?</summary>
@@ -664,7 +662,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:00 AM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Introduction to C++ Parallel Algorithms</summary>
@@ -691,7 +689,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:00 AM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Access Limited Data Discovery Working Group</summary>
@@ -718,7 +716,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Vault and SSH with short lived certs</summary>
@@ -731,7 +729,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">11:45 AM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Next Steps - Learning from a community-led survey of Canadian Dataverse administrators</summary>
@@ -750,7 +748,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">12:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Breakout room #1</a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">PaaS: Collecting puzzle pieces</summary>
@@ -772,7 +770,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">1:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Inclusion, Diversity, Equity & Accessibility Actionable Ideas Session</summary>
@@ -782,7 +780,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
           <summary class="h4">Closing Remarks</summary>
