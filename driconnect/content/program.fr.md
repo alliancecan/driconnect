@@ -219,7 +219,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h00<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#salles">Flex space</a></div>
+      <div class="col-2 text-center">TBD</div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
@@ -542,7 +542,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h15<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5280</strong></a></div>
+      <div class="col-2 text-center">TBD</div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
