@@ -4,7 +4,7 @@
   Thank you to our sponsors!{{ end }}
 </h5>
 <div class="container">
-  <div class="row text-center">
+  <div class="row gx-5 text-center">
     <div class="col">
       <p>
         <a href="https://quantumalgorithms.ca/">
@@ -17,12 +17,15 @@
       </p>
     </div>
     <div class="col">
-      <a href="#sponsors">
-        <svg width="100" height="100">
-          <rect x="10" y="10" width="80" height="80" fill="#d6ab00" />
-          Some logo
-        </svg>
-      </a>
+      <p>
+        <a href="https://www.cdw.com/">
+          <img alt="CDW" src="/CDW-logo.png" height="160">
+        </a><br /><br />{{ if eq .Params.lang_code "fr" }}
+        Merci à <a href="https://fr.cdw.ca/">CDW Canada</a>
+        pour la présentation spéciale humoristique!{{ else }}
+        Thank you to <a href="https://www.cdw.ca/">CDW Canada</a>
+        for the Comedy Special event!{{ end }}
+      </p>
     </div>
   </div>
 </div>
