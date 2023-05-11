@@ -22,9 +22,10 @@ Thank you everyone for all your session ideas!
 # Rooms
 
 * **Cedar's data center** (day 0) - SFU Campus
+* **Flex space** (days 1-3) - main space at QAI, for breakfasts and lunches
 * **Large Plenary** (days 1-3) -
   [SFU Surrey Campus, **5280** Lecture theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
-* **Lecture Room** (day 1) -
+* **Lecture Room** (days 1-3) -
   [SFU Surrey Campus, **5240** Classroom](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
 * **Breakout room #1** (days 2-3) -
   [QAI, room TBD](#rooms)
@@ -79,7 +80,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">8:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
     </div>
     <div class="row my-3">
@@ -125,7 +126,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:15 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
@@ -148,7 +149,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">12:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Lunch</h5></div>
     </div>
     <div class="row my-3">
@@ -213,7 +214,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
@@ -302,7 +303,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">8:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Breakfast &amp; Registration</h5></div>
     </div>
     <div class="row my-3">
@@ -339,7 +340,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">10:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Lecture Room</a></div>
       <div class="col text-center"><h5>Coffee Break</h5></div>
     </div>
     <div class="row my-3">
@@ -397,7 +398,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">12:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms">Large Plenary</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Flex space</a></div>
       <div class="col text-center"><h5>Lunch</h5></div>
     </div>
     <div class="row my-3">
@@ -476,7 +477,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">2:45 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">Outside rooms<br />1 and 2</div>
+      <div class="col-2 text-center">Outside rooms<br />#1 &amp; #2</div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
@@ -523,7 +524,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout room #2</strong></a></div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>Breakout rooms #1 &amp; #2</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
