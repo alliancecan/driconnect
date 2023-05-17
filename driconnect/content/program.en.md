@@ -21,7 +21,7 @@ Thank you everyone for all your session ideas!
 
 # Rooms
 
-* **Cedar's data center** (day 0) - SFU Campus
+* **Datacenter at SFU** (day 0) - Simon-Fraser University Campus
 * ***Classroom*** (day 2) - [QAI](/attend/#location) - room named "Classroom"
 * ***Flex space*** (days 1-3) -
   [QAI](/attend/#location) - main space for breakfasts, lunches and breaks
@@ -32,8 +32,9 @@ Thank you everyone for all your session ideas!
 
 # Detailed Program
 
-<button class="btn" onclick="expandAll()">
-  Click here to expand all sections below and all session descriptions.
+<button class="btn text-primary" onclick="expandAll(this)">
+  <strong>Click here</strong> to expand all sections below
+  and all session descriptions.
 </button>
 
 <hr />
@@ -50,17 +51,17 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row">
       <div class="col-2">1:00 PM - 5:00 PM</div>
-      <div class="col-2 text-center"><a href="#rooms">Cedar's data center</a></div>
+      <div class="col-2 text-center"><a href="#rooms">Datacenter at SFU</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Tour of Cedar</summary>
+          <summary class="h4">Simon-Fraser University Datacenter Tour</summary>
           <p>
-            Preconference event for those who
-            <a href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317">registered</a>
-            for it.
+            This is a preconference in-person event
+            for those who registered before May 17.
           </p>
           <ul>
-            <li>Details will be published soon...</li>
+            <li>Visits will be done in small groups</li>
+            <li>More details will be published soon...</li>
           </ul>
         </details>
       </div>
@@ -816,11 +817,19 @@ Thank you everyone for all your session ideas!
 </details>
 
 <script>
-  function expandAll() {
+  function expandAll(text_button) {
     let all_details = document.getElementsByTagName("details");
     for (let details of all_details) {
       details.setAttribute("open", "")
     }
+    text_button.onclick = function() { collapseAll(text_button); }
+  }
+  function collapseAll(text_button) {
+    let all_details = document.getElementsByTagName("details");
+    for (let details of all_details) {
+      details.removeAttribute("open")
+    }
+    text_button.onclick = function() { expandAll(text_button); }
   }
   function expand(header) {
     let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")

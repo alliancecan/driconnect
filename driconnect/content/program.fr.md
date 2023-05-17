@@ -20,7 +20,7 @@ Merci à toutes et à tous pour vos idées de séances!
 
 # Salles
 
-* **Centre de données de Cedar** (jour 0) - Campus SFU
+* **Centre de données de SFU** (jour 0) - Campus de l’Université Simon-Fraser
 * ***Classroom*** (jour 2) - [QAI](/fr/assister/#emplacement) -
   salle nommée "Classroom"
 * ***Flex space*** (jours 1-3) - [QAI](/fr/assister/#emplacement) -
@@ -32,8 +32,8 @@ Merci à toutes et à tous pour vos idées de séances!
 
 # Programme détaillé
 
-<button class="btn" onclick="expandAll()">
-  Cliquez ici pour développer toutes les sections ci-dessous,
+<button class="btn text-primary" onclick="expandAll(this)">
+  <strong>Cliquez ici</strong> pour développer toutes les sections ci-dessous,
   de même que toutes les descriptions des séances.
 </button>
 
@@ -51,17 +51,17 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row">
       <div class="col-2">13h à 17h</div>
-      <div class="col-2 text-center"><a href="#salles">Centre de données de Cedar</a></div>
+      <div class="col-2 text-center"><a href="#salles">Centre de données de SFU</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Tour of Cedar</summary>
+          <summary class="h4">Visite du centre de données de l’Université Simon-Fraser</summary>
           <p>
-            Preconference event for those who
-            <a href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317">registered</a>
-            for it.
+            Il s'agit d'une activité de préconférence en personne pour
+            celles et ceux qui se sont inscrits avant le 17 mai.
           </p>
           <ul>
-            <li>Details will be published soon...</li>
+            <li>Les visites se feront en petits groupes</li>
+            <li>Plus de détails à venir...</li>
           </ul>
         </details>
       </div>
@@ -817,11 +817,19 @@ Merci à toutes et à tous pour vos idées de séances!
 </details>
 
 <script>
-  function expandAll() {
+  function expandAll(text_button) {
     let all_details = document.getElementsByTagName("details");
     for (let details of all_details) {
       details.setAttribute("open", "")
     }
+    text_button.onclick = function() { collapseAll(text_button); }
+  }
+  function collapseAll(text_button) {
+    let all_details = document.getElementsByTagName("details");
+    for (let details of all_details) {
+      details.removeAttribute("open")
+    }
+    text_button.onclick = function() { expandAll(text_button); }
   }
   function expand(header) {
     let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
