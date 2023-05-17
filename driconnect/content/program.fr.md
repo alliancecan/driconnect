@@ -219,7 +219,7 @@ Merci à toutes et à tous pour vos idées de séances!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">15h00<br />(15 min.)</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col text-center"><h5>Pause thé</h5></div>
     </div>
     <div class="row my-3">

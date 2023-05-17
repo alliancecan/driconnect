@@ -219,7 +219,7 @@ Thank you everyone for all your session ideas!
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">3:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 5240</strong></a></div>
       <div class="col text-center"><h5>Tea Break</h5></div>
     </div>
     <div class="row my-3">
