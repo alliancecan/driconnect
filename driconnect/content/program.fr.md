@@ -91,40 +91,45 @@ Merci à toutes et à tous pour vos idées de séances!
     <div class="row my-3">
       <div class="col-2 text-center">9h00<br />(15 min.)</div>
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
-      <div class="col"><h4>Introduction and Land Acknowledgement</h4></div>
+      <div class="col"><h4>Introduction et reconnaissance du territoire</h4></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h15<br />(15 min.)</div>
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
-      <div class="col">
-        <details>
-          <summary class="h4">Welcome Address from the CEO</summary>
-          <p>Speaker: <strong>George Ross</strong></p>
-        </details>
-      </div>
+      <div class="col"><h4>Mot de bienvenue de George Ross</h4></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9h30<br />(45 min.)</div>
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Update of the Researcher Council Priorities</summary>
+          <summary class="h4">Mise-à-jour des priorités du Conseil des chercheurs</summary>
           <p>
-            Keynote speaker: <strong>Dr. Randall Sobie</strong>,
-            Chair, Alliance Researcher Council; University of Victoria
+            Conférencier d’honneur : <strong>Randall Sobie, Ph. D.</strong>,
+            président du Conseil des chercheurs de l’Alliance,
+            Université de Victoria
           </p>
           <p><small>
-            In 2021 the Researcher Council provided a list of priorities in a
-            number of critical areas that were used as input to the Strategic
-            Plans of the Alliance. Recently, the Researcher Council was been
-            reviewing the priorities and identifying gaps in our list.
-            We are finalizing an addendum to our initial document that focuses
-            specifically on cloud computing (both community and commercial
-            clouds) that is based on the original input from the community,
-            a cloud working group, a cloud survey working group and the output
-            of the survey. We review the priorities and give the Researcher
-            Council perspective on the implementation of our priorities and
-            activities to provide input in other areas, such as research software.
+            En 2021, le Conseil des chercheurs a publié une liste de priorités
+            portant sur plusieurs domaines essentiels. Cette liste a par la
+            suite servi à orienter les plans stratégiques de l’Alliance.
+          </small></p>
+          <p><small>
+            Le Conseil des chercheurs a récemment réexaminé
+            la liste pour en déceler les lacunes.
+          </small></p>
+          <p><small>
+            Nous mettons la touche finale à un addenda au document initial qui
+            porte sur l’infonuagique (nuages commercial et communautaire) et
+            qui s’appuie sur les commentaires originaux de la communauté, sur
+            le groupe de travail sur l’infonuagique, sur le groupe de travail
+            du sondage sur l’infonuagique et sur les résultats du sondage.
+          </small></p>
+          <p><small>
+            Nous réévaluons les priorités pour donner au Conseil des
+            chercheurs de l'information sur la mise-en-œuvre de celles-ci
+            et sur les activités qui contribueront aux réflexions dans
+            d'autres domaines, comme celui des logiciels de recherche.
           </small></p>
         </details>
       </div>
@@ -139,15 +144,17 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">RDM, RS and HPC Introduction and Integration Discovery Session</summary>
-          <p>Cross-Pillar Session - Panel and Breakouts</p>
+          <summary class="h4">Présentation et intégration de la GDR, des LR et du CIP</summary>
+          <p>Séance hybride avec un panel et division en petits groupes</p>
           <p><small>
-            This is a facilitated participatory session.
-            Subject matter experts for ARC HPC, ARC Cloud, Research Software
-            and RDM will provide an overview of their respective ""pilllars"".
-            The audience will then be placed in breakout groups with an
-            assigned scribe and spokesperson, with the task of generating
-            at least one idea for bridging or working between pillars.
+            Lors de cette séance animée participative, des expertes et
+            experts en calcul informatique de pointe (CIP) et en calcul
+            de haute performance (CHP), en CIP infonuagique, en logiciels
+            de recherche (LR) et en gestion des données de recherche
+            (GDR) donneront un aperçu de leur « pilier » respectif.
+            Le public sera ensuite divisé en petits groupes, avec
+            secrétaire et porte-parole, qui auront la tâche de trouver
+            au moins une idée pour faire le pont entre les piliers.
           </small></p>
         </details>
       </div>
@@ -162,8 +169,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Cloud National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles de l’équipe nationale d’infonuagique</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -172,8 +179,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Globus National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles de l’équipe nationale Globus</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -182,8 +189,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Data Analytics National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles de l’équipe nationale d’analyse de données</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -192,8 +199,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">HSS National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles de l’équipe nationale de recherche en sciences humaines et sociales</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -202,8 +209,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">NSC Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles du Conseil national de la sécurité</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -212,8 +219,8 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">RDM National Training Expert Group Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Nouvelles du groupe d’experts national sur la formation en GDR</summary>
+          <p>Conférencier: <strong>...</strong></p>
         </details>
       </div>
     </div>
@@ -227,11 +234,12 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Introduction to Alliance RDM for the DRI Community</summary>
-          <p>RDM Session</p>
+          <summary class="h4">Présentation de la GDR de l’Alliance pour la communauté de l’IRN</summary>
+          <p>Séance sur la GDR</p>
           <p><small>
-            A series of short talks outlining the Alliance RDM team
-            and roles, the kinds of work done, and connections to DRI.
+            Une série de courtes discussions présentera les rôles
+            dans la GDR de l’Alliance, les diverses tâches effectuées et
+            les liens avec l’infrastructure de recherche numérique (IRN).
           </small></p>
         </details>
       </div>
@@ -241,18 +249,22 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">NSC Presents: Security, Software, and the Supply Chain</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <summary class="h4">Présentation du Conseil national de la sécurité : sécurité, logiciels et chaîne d’approvisionnement</summary>
+          <p>Conférencier: <strong>...</strong></p>
           <p><small>
-            Are our users' apps spying on them?
-            Have the dev's keys been compromised?
-            Is this package malware?
-            TikTok bans and unfiltered hot takes have recently reignited
-            debates about how to assert software security and guard against
-            supply chain attacks. National Security Council members unpack
-            some current issues, prepare you to field tough questions from
-            your managers, and offer some concrete advice about what can
-            be done in a distributed, federated environment.
+            Est-ce que les utilisatrices et utilisateurs de
+            nos applications se font espionner par celles-ci?
+            Est-ce que les clés des développeurs ont été compromises?
+            Est-ce que ce progiciel contient un maliciel?
+            Les restrictions de TikTok et les opinions
+            provocatrices sans filtre ont récemment ranimé le
+            débat sur la protection des logiciels et les mesures
+            contre les attaques sur la chaîne d’approvisionnement.
+            Les membres du Conseil national de la sécurité
+            analyseront des enjeux d’actualité, vous prépareront à
+            répondre aux questions difficiles de vos gestionnaires
+            et vous offriront des conseils pratiques sur
+            quoi faire dans un environnement réparti fédéré.
           </small></p>
         </details>
       </div>
@@ -262,21 +274,23 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">DRI Reporting</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <summary class="h4">Rapports sur l’IRN</summary>
+          <p>Conférencier: <strong>...</strong></p>
           <p><small>
-            We often produce reports, and sometimes do investigations
-            whose results could be preserved. Back in the day, many
-            academic departments would regularly publish "tech reports"
-            - centrally promulgated, but open to a wide range of content.
-            These didn't replace normal journals, and
-            usually weren't a place to publish theses.
-            But maybe when a research group releases some new
-            software, it might take the form of a tech report.
-            Perhaps an annual state-of-the-department report.
-            Studies or surveys that don't necessarily
-            fit the academic stance of normal journals.
-            I think we could do this as well.
+            Nous produisons souvent des rapports et menons parfois des
+            enquêtes dont les résultats vaudraient la peine d’être préservés.
+            À l’époque, nombre de départements universitaires
+            publiaient régulièrement des rapports techniques, ayant
+            une même source, mais portant sur une foule de sujets.
+            Ces rapports ne remplaçaient pas les revues scientifiques,
+            et ne servaient habituellement pas à publier des thèses.
+            Mais parfois, lorsqu’un groupe de recherche lance un nouveau
+            logiciel, celui-ci peut être accompagné d’un rapport technique.
+            Un rapport annuel de pointe d’un département pourrait
+            être sous forme de rapport technique, tout comme les
+            études ou les sondages qui ne conviennent pas nécessairement
+            au format d’une revue scientifique universitaire.
+            Je pense que c’est quelque chose que nous pourrions aussi faire.
           </small></p>
         </details>
       </div>
@@ -286,11 +300,12 @@ Merci à toutes et à tous pour vos idées de séances!
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Serverless platforms: State of the Art</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <summary class="h4">Plateformes sans serveur : technologie de pointe</summary>
+          <p>Conférencier: <strong>...</strong></p>
           <p><small>
-            The talk presents a brief introduction to serveless computing and
-            the current state of the art of opensource serverless platforms.
+            La discussion présente brièvement l’informatique
+            sans serveur et l’état actuel des plateformes
+            de pointe sans serveur en code source libre.
           </small></p>
         </details>
       </div>

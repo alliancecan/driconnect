@@ -96,12 +96,7 @@ Thank you everyone for all your session ideas!
     <div class="row my-3">
       <div class="col-2 text-center">9:15 AM<br />(15 min.)</div>
       <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
-      <div class="col">
-        <details>
-          <summary class="h4">Welcome Address from the CEO</summary>
-          <p>Speaker: <strong>George Ross</strong></p>
-        </details>
-      </div>
+      <div class="col"><h4>Welcome Address from George Ross</h4></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">9:30 AM<br />(45 min.)</div>
@@ -114,17 +109,25 @@ Thank you everyone for all your session ideas!
             Chair, Alliance Researcher Council; University of Victoria
           </p>
           <p><small>
-            In 2021 the Researcher Council provided a list of priorities in a
-            number of critical areas that were used as input to the Strategic
-            Plans of the Alliance. Recently, the Researcher Council was been
+            In 2021 the Researcher Council provided a list of
+            priorities in a number of critical areas that were
+            used as input to the Strategic Plans of the Alliance.
+          </small></p>
+          <p><small>
+            Recently, the Researcher Council has been
             reviewing the priorities and identifying gaps in our list.
-            We are finalizing an addendum to our initial document that focuses
-            specifically on cloud computing (both community and commercial
-            clouds) that is based on the original input from the community,
-            a cloud working group, a cloud survey working group and the output
-            of the survey. We review the priorities and give the Researcher
-            Council perspective on the implementation of our priorities and
-            activities to provide input in other areas, such as research software.
+          </small></p>
+          <p><small>
+            We are finalizing an addendum to our initial document
+            that focuses specifically on cloud computing (both
+            community and commercial clouds) that is based on the
+            original input from the community, a cloud working group,
+            a cloud survey working group and the output of the survey.
+          </small></p>
+          <p><small>
+            We review the priorities and give the Researcher Council
+            perspective on the implementation of our priorities and activities
+            to provide input in other areas, such as research software.
           </small></p>
         </details>
       </div>
