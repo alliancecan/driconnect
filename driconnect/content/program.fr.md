@@ -3,34 +3,35 @@ slug: "programme"
 title: "Rencontre printanière sur l'infrastructure de recherche numérique"
 lang_code: "fr"
 ---
+
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 30 mai au 1er juin 2023"
     header="Programme"
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-Merci à toutes et à tous pour vos idées de séances!
 {{< /paige/hero >}}
-
-<p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit" role="button" aria-disabled="true">
-    Cliquez ici pour l'aperçu du programme
-  </a>
-</p>
 
 # Salles
 
 * **Centre de données de SFU** (jour 0) - Campus de l’Université Simon-Fraser
-* ***Classroom*** (jour 2) - [QAI](/fr/assister/#emplacement) -
-  salle nommée "Classroom"
-* ***Flex space*** (jours 1-3) - [QAI](/fr/assister/#emplacement) -
-  espace principal pour les déjeuners, dîners et pauses
-* **SRYC 5240** (jours 1-3) -
-  [Campus SFU à Surrey](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
-* **SRYC 5280** (jours 1-3) -
-  [Campus SFU à Surrey](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
+* Quantum Algorithms Institute ([QAI](/fr/assister/#emplacement)) :
+  * ***Classroom*** (jour 2) - salle nommée "QAI Classroom"
+  * ***Flex space*** (jours 1-3) -
+    espace principal pour les déjeuners, dîners et pauses
+* Campus SFU à Surrey :
+  * **SRYC 2600** (jour 2) -
+    [2600 Prospera Credit Union Theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=20)
+  * **SRYC 5240** (jours 1-3) -
+    [5240 Classroom](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
+  * **SRYC 5280** (jours 1-3) -
+    [5280 Lecture theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
 
 # Programme détaillé
+
+Merci à toutes et à tous pour vos idées de séances!
+[Cliquez ici](https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit)
+pour l'aperçu original du programme.
 
 <button class="btn text-primary" onclick="expandAll(this)">
   <strong>Cliquez ici</strong> pour développer toutes les sections ci-dessous,

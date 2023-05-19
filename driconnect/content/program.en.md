@@ -10,27 +10,28 @@ lang_code: "en"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-Thank you everyone for all your session ideas!
 {{< /paige/hero >}}
-
-<p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit" role="button" aria-disabled="true">
-    Click here for the Program Preview
-  </a>
-</p>
 
 # Rooms
 
 * **Datacenter at SFU** (day 0) - Simon-Fraser University Campus
-* ***Classroom*** (day 2) - [QAI](/attend/#location) - room named "Classroom"
-* ***Flex space*** (days 1-3) -
-  [QAI](/attend/#location) - main space for breakfasts, lunches and breaks
-* **SRYC 5240** (days 1-3) -
-  [SFU Surrey Campus](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
-* **SRYC 5280** (days 1-3) -
-  [SFU Surrey Campus](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
+* Quantum Algorithms Institute ([QAI](/attend/#location)):
+  * ***Classroom*** (day 2) - room named "QAI Classroom"
+  * ***Flex space*** (days 1-3) -
+    main space for breakfasts, lunches and breaks
+* SFU Surrey Campus:
+  * **SRYC 2600** (day 2) -
+    [2600 Prospera Credit Union Theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=20)
+  * **SRYC 5240** (days 1-3) -
+    [5240 Classroom](https://its.surrey.sfu.ca/rooms/room2.php?rid=289)
+  * **SRYC 5280** (days 1-3) -
+    [5280 Lecture theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=292)
 
 # Detailed Program
+
+Thank you everyone for all your session ideas!
+[Click here](https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit)
+for the original program preview.
 
 <button class="btn text-primary" onclick="expandAll(this)">
   <strong>Click here</strong> to expand all sections below
