@@ -238,9 +238,9 @@ pour l'aperçu original du programme.
           <summary class="h4">Présentation de la GDR de l’Alliance pour la communauté de l’IRN</summary>
           <p>Séance sur la GDR</p>
           <p><small>
-            Une série de courtes discussions présentera les rôles
-            dans la GDR de l’Alliance, les diverses tâches effectuées et
-            les liens avec l’infrastructure de recherche numérique (IRN).
+            Une série de courts exposés présentera les rôles dans la
+            GDR de l’Alliance, les diverses tâches effectuées et les
+            liens avec l’infrastructure de recherche numérique (IRN).
           </small></p>
         </details>
       </div>
@@ -304,7 +304,7 @@ pour l'aperçu original du programme.
           <summary class="h4">Plateformes sans serveur : technologie de pointe</summary>
           <p>Conférencier: <strong>...</strong></p>
           <p><small>
-            La discussion présente brièvement l’informatique
+            Cette séance présente brièvement l’informatique
             sans serveur et l’état actuel des plateformes
             de pointe sans serveur en code source libre.
           </small></p>
@@ -334,29 +334,31 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">What’s Digital About the Humanities?</summary>
+          <summary class="h4">Comment coexistent le numérique et les sciences humaines?</summary>
           <p>
-            Keynote speaker: <strong>Dr. Laura Estill</strong>
-            (Virtually delivered)
+            Conférencière d’honneur : <strong>Laura Estill, Ph. D.</strong>
+            (En virtuel)
           </p>
           <p><small>
-            Even the most staid humanities researchers use
-            digital resources - and the array of digital tools
-            that humanists use to undertake research is as varied
-            as the wide-range of humanities inquiry itself.
-            In this talk, I offer some examples of how humanities research
-            is necessarily digital today, drawing on my area of study,
-            Shakespeare.
-            I’ll discuss digital editions and digital projects
-            about Shakespeare, showing how they affect the kinds
-            of research questions we are able to ask.
-            I’ll conclude by introducing a small digital project I co-edit
-            - DEx: A Database of Dramatic Extracts - to show how a single
-            digital project can address multiple research problems.
-            Ultimately, scholarship that relies only on analog sources
-            will be necessarily incomplete and inaccurate.
-            Digital is not just how we undertake the most basic research today;
-            it’s how we do better research altogether.
+            Même les chercheuses et chercheurs en sciences humaines les plus
+            conformistes utilisent des ressources numériques, et la panoplie
+            d’outils numériques que les spécialistes des sciences humaines
+            emploient pour la recherche est aussi variée que le sujet étudié.
+            Cette séance donne des exemples de la nécessité du numérique
+            dans la recherche en sciences humaines aujourd’hui, qui
+            s’inspirent du domaine d’étude de la conférencière : Shakespeare.
+            Celle-ci discutera des éditions numériques et des projets
+            numériques sur Shakespeare, et de leur effet sur les
+            types de questions de recherche que l’on peut se poser.
+            Elle terminera par la présentation d’un petit projet qu’elle
+            codirige – DEx, une base de données d’extraits de pièces
+            de théâtre – pour démontrer comment un seul projet peut
+            donner une solution à de multiples problèmes de recherche.
+            Au bout du compte, les travaux d’érudition qui ne s’appuient que
+            sur des sources physiques seront forcément incomplets et inexacts.
+            Le numérique n’est pas seulement un outil pour toute
+            recherche de base aujourd’hui, c’est une solution
+            pour améliorer la recherche dans son ensemble.
           </small></p>
         </details>
       </div>
@@ -371,11 +373,13 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Explorations in Cloud</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Exploration des possibilités infonuagiques</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            Overview of the cloud technology landscape, plus a dive into
-            commerical and community cloud pilots being run at UVic and UBC.
+            Obtenez un aperçu du paysage technologique infonuagique,
+            et découvrez les projets pilotes de nuages commercial et
+            communautaire qui se déroulent à l’Université de Victoria
+            (UVic) et à l’Université de la Colombie-Britannique (UBC).
           </small></p>
         </details>
       </div>
@@ -385,17 +389,15 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">The Tri-Agency Research Data Management (RDM) Policy, two years in</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">La politique des trois organismes sur la gestion des données de recherche (GDR), après deux ans</summary>
+          <p>Présentation des trois organismes</p>
           <p><small>
-            In this presentation, representatives of the agencies
-            will provide an update on each of the three pillars
-            of the Tri-Agency Research Data Management (RDM) Policy --
-            1) institutional strategies;
-            2) data management plans;
-            3) data deposit.
-            While this policy focuses on RDM,
-            this session will be of interest to a broad audience.
+            Lors de cette présentation, des porte-paroles des organismes
+            feront le point sur les trois piliers de leur politique
+            de GDR, soit les stratégies institutionnelles, le
+            plan de gestion des données et le dépôt de données.
+            La politique porte seulement sur la GDR, mais
+            la séance pourrait intéresser un large public.
           </small></p>
         </details>
       </div>
@@ -405,17 +407,17 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">From GenAP to the UseGalaxy.ca initiative</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">De GenAP à l’initiative UseGalaxy.ca</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            This presentation will introduce the UseGalaxy.ca initiative
-            that will succeed and gradually replace GenAP.ca.
-            GenAP is a platform that has been in operation since 2015
-            and has helped hundreds of Canadian researchers and
-            students from the Medicine and Life sciences communities.
-            It has been supported over the years in various
-            ways by Calcul Québec, Calcul Canada (Alliance),
-            Genome Canada, Canarie and the CFI (Cyberinfrastructures).
+            Cette présentation portera sur l’initiative UseGalaxy.ca
+            qui remplacera graduellement GenAP.ca et lui succédera.
+            GenAP est une plateforme qui, depuis 2015, aide des centaines
+            de chercheuses et chercheurs et d’étudiantes et étudiants des
+            communautés de la médecine et des sciences de la vie au Canada.
+            Au fil des années, la plateforme a reçu un appui de Calcul Québec,
+            de Calcul Canada (Alliance), de Génome Canada, de CANARIE
+            et de la FCI (cyberinfrastructure) sous diverses formes.
           </small></p>
         </details>
       </div>
@@ -430,18 +432,18 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>Classroom</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">Introduction to OpenSearch Workshop</summary>
-          <p>Important notes:</p>
+          <summary class="h4">Atelier d’introduction à OpenSearch</summary>
+          <p>Notes importantes :</p>
           <ul>
-            <li>This is an in-person session, in English only;</li>
-            <li>Participants must bring their own laptop;</li>
-            <li>Attendance is limited.</li>
+            <li>Atelier en personne et en anglais seulement;</li>
+            <li>Les participantes et participants doivent apporter leur ordinateur;</li>
+            <li>Limite de 30 personnes.</li>
           </ul>
           <p>
-            Due to limited availability,
+            Étant donné le nombre limité de places disponibles,
             <a href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8">
-              <strong>please only sign up</strong></a>
-            if you are certain you will attend.</p>
+              <strong>veuillez vous inscrire uniquement</strong></a>
+            si vous allez vraiment y assister.</p>
         </details>
       </div>
     </div>
@@ -450,19 +452,21 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">RDM Network of Experts</summary>
-          <p>Expert Group Lightning Talks hosted by Chairs</p>
+          <summary class="h4">Réseau d’experts de la GDR</summary>
+          <p>
+            Discussions éclair des groupes d’experts
+            animées par les présidentes et présidents
+          </p>
           <p><small>
-            The Alliance RDM Network of Experts (NoE) is a Canada-wide
-            collaboration of RDM and RDM-aligned professionals that
-            continues to play an integral role in the Canadian RDM ecosystem.
-            This session includes updates from a selection of
-            NoE Expert Group Chairs:
-            Research Intelligence EG;
-            Data Management Planning EG;
-            Discovery & Metadata EG;
-            Curation EG;
-            National Training EG.
+            Le réseau d’experts de la GDR de l’Alliance est un effort
+            collaboratif de professionnelles et professionnels en GDR
+            et en sujets connexes de partout au Canada, qui continue
+            de jouer un rôle essentiel dans l’écosystème de GDR du pays.
+            La séance inclut des nouvelles de présidentes et présidents
+            du réseau, soit des groupes d’experts sur la recherche
+            et l’intelligence, sur la planification de la gestion
+            des données, sur la découverte et les métadonnées, sur
+            la curation, et sur la formation à l'échelle nationale.
           </small></p>
         </details>
       </div>
@@ -472,17 +476,18 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">The Research Data Alliance (RDA): Enriching RDM in Canada, the Americas, and Globally</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">La Research Data Alliance (RDA) : enrichir la GDR au Canada, en Amérique et dans le monde</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            The RDA celebrated their 10th anniversary in
-            March of this year, and by all metrics this
-            global RDM community has been a great success.
-            This session will highlight opportunities to enrich
-            the RDM landscape in Canada by getting involved with RDA in Canada,
-            RDA of the Americas, and RDA International, as well as how
-            RDA is intersecting with ARC and Research Software communities.
-            The session would be of interest to a broad audience.
+            La RDA a célébré son 10e anniversaire en mars cette
+            année, et sous tous ses angles, cette communauté
+            mondiale de GDR est des plus fructueuses.
+            La séance présentera des occasions d’enrichir le paysage
+            de la GDR au Canada en collaborant avec les alliances
+            du Canada, de l’Amérique et du monde, ainsi que les
+            façons dont la RDA recoupe les communautés du calcul
+            informatique de pointe et des logiciels de recherche.
+            La séance pourrait intéresser un large public.
           </small></p>
         </details>
       </div>
@@ -492,19 +497,20 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">The Impact of Canadian DRI</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Les effets de l’IRN canadienne</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            The Alliance and other DRI funders are interested
-            in the question of the impact of their investments,
-            but this can be a very challenging issue to get good data on.
-            A recent and diverse group called the Analysis of Canadian Research
-            Publications WG has been formed to determine how we can use
-            research publications and other outputs to understand DRI impacts.
-            The session will describe the multistakeholder community
-            that is involved, the approaches (including the use of AI),
-            and the questions that are being asked to drive the discussion.
-            The session would be of interest to a broad audience.
+            L’Alliance et les autres fondateurs de l’IRN s’intéressent
+            aux effets de leurs investissements, mais il peut être
+            très difficile de recueillir des données sur la question.
+            Un nouveau groupe de travail diversifié sur l’analyse
+            des publications de recherche du Canada a été formé pour
+            étudier l’utilisation des publications et autres résultats
+            de recherche pour comprendre les effets de l’IRN.
+            La séance présentera la communauté multiacteur participante,
+            les approches (dont l’utilisation de l’intelligence
+            artificielle), et les questions qui alimentent la discussion.
+            La séance pourrait intéresser un large public.
           </small></p>
         </details>
       </div>
@@ -519,14 +525,16 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Alliance Data Champions Pilot Project</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Projet pilote sur les champions de données de l’Alliance</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            This session provides an overview of the Alliance Data Champions
-            Pilot project, which provided funding to 18 groups across Canada
-            to help them lead the culture shift towards good RDM practices.
-            The talk will include the purpose of the pilot, highlights
-            of specific projects and initiatives, as well as next steps.
+            La séance présente le projet pilote sur les champions de
+            données de l’Alliance, qui a fourni du financement à 18
+            groupes canadiens pour les aider à promouvoir un changement
+            culturel encourageant les bonnes pratiques de GDR.
+            La discussion couvrira l’objectif du projet
+            pilote, les faits saillants tirés de projets
+            et d’initiatives, et les prochaines étapes.
           </small></p>
         </details>
       </div>
@@ -536,22 +544,25 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5240</a></div>
       <div class="col">
         <details>
-          <summary class="h4">McMaster’s Digital Research Commons Pilot: Building a more connected, capable, and researcher-focused approach to digital research support</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Bâtir une approche de soutien de la recherche numérique mieux connectée, améliorée et axée sur les chercheuses et chercheurs</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            The Digital Research Commons Pilot (DRCP) is a new joint
-            three-year initiative at McMaster by the library,
-            the research office, and university IT.
-            It aspires to improve access to digital systems, services,
-            software, and training for researchers across the institution
-            using a more connected and researcher-focused approach.
-            The DRCP aims to build into and around existing digital support
-            for researchers so that researchers can easily find
-            and use the services, systems, training,
-            and resources they need to succeed in their research;
-            and service providers and support units can collaborate
-            to identify support gaps and develop complementary
-            and shared services that meet diverse needs across campus.
+            Le projet <em>Digital Research Commons Pilot</em>
+            (DRCP) est une nouvelle initiative triennale commune
+            lancée par la bibliothèque, le bureau de recherche
+            et le service des TI de l’Université McMaster.
+            Le projet vise à accroître l’accès aux systèmes et services
+            numériques, aux logiciels et à la formation connexe pour
+            les chercheuses et chercheurs de l’établissement, par
+            une approche axée sur ces derniers et mieux connectée.
+            Le DRCP devrait renforcer et bonifier les mesures de soutien
+            numérique existantes pour que les chercheuses et chercheurs
+            puissent facilement trouver et utiliser les services,
+            les systèmes, la formation et les ressources dont
+            ils ont besoin pour mener à bien leurs recherches.
+            Les prestataires de services et les équipes de soutien pourront
+            collaborer afin de déceler les lacunes et élaborer des services
+            complémentaires partagés répondant à divers besoins sur le campus.
           </small></p>
         </details>
       </div>
@@ -561,8 +572,8 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center">TBD</div>
       <div class="col">
         <details>
-          <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
-          <p>Speaker: <strong>Patrick Maliha</strong> (In-person Only)</p>
+          <summary class="h4">Présentation spéciale humoristique d’un fournisseur</summary>
+          <p>Conférencier : <strong>Patrick Maliha</strong> (En personne seulement)</p>
         </details>
       </div>
     </div>
