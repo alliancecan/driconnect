@@ -18,14 +18,20 @@ research software professionals.
 
 <p class="text-center">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
-    &gt;&gt;&gt; Register Here &lt;&lt;&lt;
+    Register to the conference here - Now <em>Virtual</em> tickets only
+  </a>
+</p>
+
+<p class="text-center">
+  <a class="btn btn-success btn-lg" href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8" role="button" aria-disabled="true">
+    Register to the <em>Introduction to OpenSearch</em> workshop - In-person only
   </a>
 </p>
 
 # Quick links
 
 * [**Program**](/program/)
-  * [Code of conduct](/code_of_conduct/)
+  * [Code of conduct](/etiquette/)
   * [Social Events](/program/#social-events)
 * [Location](/attend/#location)
   * [Commute from Vancouver](/attend/#commute-from-vancouver)

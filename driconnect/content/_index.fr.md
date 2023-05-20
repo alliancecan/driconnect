@@ -19,14 +19,20 @@ et des logiciels de recherche.
 
 <p class="text-center">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
-    &gt;&gt;&gt; Cliquez ici pour vous inscrire &lt;&lt;&lt;
+    Inscription à la conférence - Maintenant des billets <em>À distance</em> seulement
+  </a>
+</p>
+
+<p class="text-center">
+  <a class="btn btn-success btn-lg" href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8" role="button" aria-disabled="true">
+    Inscription à l'atelier <em>Introduction to OpenSearch</em> - En personne seulement
   </a>
 </p>
 
 # Liens rapides
 
 * [**Programme**](/fr/programme/)
-  * [Code de conduite](/fr/code_de_conduite/)
+  * [Code de conduite](/fr/etiquette/)
   * [Activités sociales](/fr/programme/#activités-sociales)
 * [Emplacement](/fr/assister/#emplacement)
   * [Pour se rendre à partir de Vancouver](/fr/assister/#pour-se-rendre-à-partir-de-vancouver)
