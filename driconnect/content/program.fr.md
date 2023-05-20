@@ -337,7 +337,7 @@ pour l'aperçu original du programme.
           <summary class="h4">Comment coexistent le numérique et les sciences humaines?</summary>
           <p>
             Conférencière d’honneur : <strong>Laura Estill, Ph. D.</strong>
-            (En virtuel)
+            (en virtuel)
           </p>
           <p><small>
             Même les chercheuses et chercheurs en sciences humaines les plus
@@ -602,10 +602,10 @@ pour l'aperçu original du programme.
         <details>
           <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
           <p>
-            Keynote speaker: <strong>Patrick Schmitz</strong>
-            (Virtually delivered)
+            Conférencier d’honneur : <strong>Patrick Schmitz</strong>
+            (en virtuel)
           </p>
-          <p><small>More details soon...</small></p>
+          <p><small>Plus de détails à venir...</small></p>
         </details>
       </div>
     </div>
@@ -619,14 +619,15 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Latest Trends in GPU hardware</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <summary class="h4">Dernières tendances des GPU</summary>
+          <p>Conférenciers : <strong>TBD</strong></p>
           <p><small>
-            We are about to have a system refresh,
-            with hardware likely being purchased in early 2024.
-            This session would discuss the latest trends in GPU hardware,
-            with particular focus on what will be available for purchase
-            in that time frame.
+            Une refonte de certaines infrastructures de calcul
+            haute performance est imminente; le matériel
+            sera probablement acheté au début de 2024.
+            La séance portera sur les dernières tendances du
+            matériel de processeurs graphiques (GPU), notamment
+            sur ce qui sera disponible au moment de l’acquisition.
           </small></p>
         </details>
       </div>
@@ -636,19 +637,20 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">ACENET Training: A collaborative success</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Formation ACENET : une réussite collaborative</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            Join us for this brief review of ACENET's training
-            journey as we’ve tried to solve some common challenges.
-            Our small, but geographically dispersed Atlantic Canadian
-            research community, training needs across many disciplines,
-            and a small team of research consultants to respond to
-            those needs combine to create a challenging environment,
-            particularly when faced with growing demand.
-            Over the past number of years, we’ve strategically
-            found some ways to address these challenges,
-            and the results have been dramatic.
+            Ce résumé présente le parcours de formation d’ACENET
+            et les problèmes courants qu’il a fallu régler.
+            Plusieurs facteurs – communauté de recherche du Canada atlantique
+            relativement petite et dispersée sur le plan géographique,
+            besoins de formation dans nombre de disciplines, équipe limitée
+            de consultantes et consultants de recherche pouvant répondre
+            à ces besoins – se combinent en un environnement difficile,
+            surtout dans le contexte d’une demande grandissante.
+            Ces dernières années, nous avons trouvé des
+            moyens stratégiques de surmonter ces problèmes,
+            et les résultats ont été impressionnants.
           </small></p>
         </details>
       </div>
@@ -658,32 +660,33 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">The instruments for advanced research computing are here, but are researchers ready?</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Les instruments de calcul informatique de pointe sont là, mais est-ce que les chercheuses et chercheurs sont prêts?</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            The current times are exciting: we are witnessing a
-            growth of computing power while the open source
-            community is vigorously building impressive machine
-            learning and scientific programming tools.
+            C’est une période exaltante : nous sommes témoins de la croissance
+            de la puissance informatique et du travail de création acharné,
+            par la communauté du logiciel ouvert, d’outils impressionnants
+            d’apprentissage machine et de programmation scientifique.
           </small></p>
           <p><small>
-            This boom of hardware and software assets
-            cannot however translate into research if graduate
-            students aren't able to take advantage of it.
-            Curricula often lack training pertinent
-            to the use of such resources.
-            Worse yet, in many fields faculties and PIs
-            don't have the necessary background to help
-            their students with high-performance programming.
-            The training team at Simon Fraser University
-            Research Computing Group aims to fill this gap
-            in the West on behalf of the Alliance and
-            all Western Canadian universities.
+            Cet essor du matériel et des logiciels ne peut toutefois
+            pas se traduire en recherches si la population étudiante
+            des cycles supérieurs est incapable d’en profiter.
+            Les programmes de formation manquent souvent de renseignements
+            pertinents sur l’utilisation de ces ressources.
+            Pire encore, dans certains domaines, les facultés et
+            les chercheuses principales et chercheurs principaux
+            n’ont pas l’expérience nécessaire pour offrir de
+            l’aide en programmation de haute performance.
+            L’équipe de formation du groupe sur le calcul informatique
+            de pointe de l’Université Simon-Fraser veut combler
+            cette lacune dans l’Ouest, au nom de l’Alliance
+            et de toutes les universités de l’Ouest canadien.
           </small></p>
           <p><small>
-            This talk will present an overview of the training we provide,
-            from introductory skill sets for researchers new to ARC
-            and HPC to advanced topics in parallel programming.
+            La séance présentera les formations offertes, sur des sujets
+            allant des compétences de base pour les chercheuses et chercheurs
+            novices en CIP et CHP à la programmation parallèle avancée.
           </small></p>
         </details>
       </div>
@@ -693,24 +696,26 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Introduction to C++ Parallel Algorithms</summary>
-          <p>Speaker: <strong>Paul Preney</strong></p>
+          <summary class="h4">Introduction aux algorithmes parallèles C++</summary>
+          <p>Conférencier : <strong>Paul Preney</strong> (en virtuel)</p>
           <p><small>
-            This short, approximately 30 minute + 15 minutes for questions,
-            staff-to-staff presentation will present how one can easily
-            write efficient multithreaded C++ code using C++ parallel
-            algorithms (including with multidimensional arrays) and
-            exploit the use of such on CPU cores and on NVIDIA GPUs.
+            Cette courte séance d’environ 30 minutes (suivie d’une période
+            de questions de 15 minutes) entre membres du personnel expliquera
+            comment écrire facilement du code multifil C++ efficace à l’aide
+            d’algorithmes parallèles C++ (y compris avec des tableaux de
+            données multidimensionnels) et comment l’exploiter avec des cœurs
+            de processeur et des processeurs graphiques NVIDIA.
           </small></p>
           <p><small>
-            As this is a short presentation, should one wish to learn more
-            in the near future consider interacting with the presenter
-            directly (e.g., Slack or email), requesting the presentation
-            slides and code, and/or attending the Compute Ontario 2023
-            Summer School course "Modern C++ Parallel Programming".
-            The accelerators working group (#accelerators-discuss
-            in Slack) may also host some presentations on this
-            and other items in the fall of 2023 as well.
+            Comme il s’agit d’une séance de courte durée, les gens qui
+            souhaitent en savoir davantage dans un avenir rapproché
+            devraient communiquer directement avec le conférencier (sur
+            Slack ou par courriel) pour demander les diapositives et le
+            code présenté, ou participer au cours d’été 2023 <em>Modern
+            C++ Parallel Programming</em> de Compute Ontario.
+            Il se peut que le groupe de travail sur les accélérateurs
+            (#accelerators-discuss sur Slack) organise des
+            présentations sur ce sujet et d’autres à l’automne 2023.
           </small></p>
         </details>
       </div>
@@ -720,8 +725,8 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">Access Limited Data Discovery Working Group</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Groupe de travail sur la découverte des données à accès limité</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
             The ability to find and access restricted data for
             research remains a challenge for researchers,
@@ -747,10 +752,10 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Vault and SSH with short lived certs</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Vault et SSH avec certificats à court terme</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            More details soon...
+            Plus de détails à venir...
           </small></p>
         </details>
       </div>
@@ -760,16 +765,17 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">Next Steps - Learning from a community-led survey of Canadian Dataverse administrators</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">Prochaines étapes – Ce qu’on peut apprendre du sondage communautaire des administratrices et administrateurs de Dataverse du Canada</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            This presentation will discuss the survey of Canadian Dataverse
-            administrators, including what was learned about institutional
-            context, demographics, service models and collection policies,
-            experiences using the Dataverse software, and perceptions of
-            the emerging national community of Dataverse administrators.
-            Presenters will engage our DRI colleagues in
-            discussion and for potential collaborations.
+            La présentation portera sur le sondage des administratrices et
+            administrateurs de Dataverse du Canada, notamment sur ce qui a été
+            appris sur le contexte des établissements, les caractéristiques
+            sociodémographiques, les modèles de service et les politiques
+            des collections, les expériences d’utilisation de Dataverse
+            et les perceptions de la communauté émergente au pays.
+            Elle mobilisera aussi nos collègues de l’IRN pour
+            un dialogue et pour des collaborations potentielles.
           </small></p>
         </details>
       </div>
@@ -779,14 +785,15 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles"><strong>SRYC 5240</strong></a></div>
       <div class="col">
         <details>
-          <summary class="h4">PaaS: Collecting puzzle pieces</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <summary class="h4">PaaS : rassembler les « pièces du casse-tête »</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            This series of lightning talks showcases several
-            Platform as a Service (PaaS) projects "Puzzle pieces"
-            currently underway in the Alliance ecosystem.
-            Some of them are side projects or pilots, but each has something
-            unique to bring to the discussion of the larger vision of PaaS.
+            Cette série de discussions éclair présentera plusieurs projets
+            de <em>Platform as a Service</em> (PaaS), soit les « pièces
+            du casse-tête », en cours dans l’écosystème de l’Alliance.
+            Certains sont des projets parallèles ou des projets
+            pilotes, mais chacun contribue de façon unique à
+            la conversation sur les PaaS dans leur ensemble.
           </small></p>
         </details>
       </div>
@@ -801,8 +808,8 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Inclusion, Diversity, Equity & Accessibility Actionable Ideas Session</summary>
-          <p>This is a panel session.</p>
+          <summary class="h4">Séance sur les mesures concrètes d’équité, de diversité, d’inclusion et d’accessibilité</summary>
+          <p>Table ronde.</p>
         </details>
       </div>
     </div>
@@ -811,8 +818,8 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Closing Remarks</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <summary class="h4">Mot de la fin</summary>
+          <p>Conférencier : <strong>TBD</strong></p>
           <p><small>La rencontre printanière sur l'IRN se termine à 15h.</small></p>
         </details>
       </div>
