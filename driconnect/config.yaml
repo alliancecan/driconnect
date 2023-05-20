@@ -27,8 +27,8 @@ languages:
       - name: "Attend"
         url: "/attend/"
         weight: 3
-      - name: "Code of Conduct"
-        url: "/code_of_conduct/"
+      - name: "Conference Etiquette"
+        url: "/etiquette/"
         weight: 4
       - name: "=> Français / Accueil"
         url: "/fr/"
@@ -47,8 +47,8 @@ languages:
       - name: "Y assister"
         url: "/fr/assister/"
         weight: 3
-      - name: "Code de conduite"
-        url: "/fr/code_de_conduite/"
+      - name: "Règles de bienséance"
+        url: "/fr/etiquette/"
         weight: 4
       - name: "=> English / Home"
         url: "/"

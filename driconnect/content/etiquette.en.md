@@ -1,6 +1,6 @@
 ---
-slug: "code_of_conduct"
-title: "Code of conduct"
+slug: "etiquette"
+title: "Conference Etiquette"
 lang_code: "en"
 ---
 

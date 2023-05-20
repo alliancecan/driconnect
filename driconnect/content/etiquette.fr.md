@@ -1,6 +1,6 @@
 ---
-slug: "code_de_conduite"
-title: "Code de conduite"
+slug: "etiquette"
+title: "Règles de bienséance pour la rencontre"
 lang_code: "fr"
 ---
 
