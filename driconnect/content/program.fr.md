@@ -384,7 +384,12 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Exploration des possibilités infonuagiques</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférenciers :
+            <strong>Ken Bigelow</strong>,
+            <strong>Jacob Boschee</strong>,
+            <strong>Ryan McRonald</strong> et
+            <strong>Jeff Albert</strong>
+          </p>
           <p><small>
             Obtenez un aperçu du paysage technologique infonuagique,
             et découvrez les projets pilotes de nuages commercial et
@@ -400,7 +405,11 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">La politique des trois organismes sur la gestion des données de recherche (GDR), après deux ans</summary>
-          <p>Présentation des trois organismes</p>
+          <p>Conférenciers :
+            <strong>Alexander Thistlewood</strong>,
+            <strong>Dominique Roche</strong> et
+            <strong>Melanie McNeil</strong>
+          </p>
           <p><small>
             Lors de cette présentation, des porte-paroles des organismes
             feront le point sur les trois piliers de leur politique
@@ -418,7 +427,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">De GenAP à l’initiative UseGalaxy.ca</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier : <strong>Carol Gauthier</strong></p>
           <p><small>
             Cette présentation portera sur l’initiative UseGalaxy.ca
             qui remplacera graduellement GenAP.ca et lui succédera.
@@ -487,7 +496,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">La Research Data Alliance (RDA) : enrichir la GDR au Canada, en Amérique et dans le monde</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier : <strong>Mark Leggott</strong></p>
           <p><small>
             La RDA a célébré son 10e anniversaire en mars cette
             année, et sous tous ses angles, cette communauté
@@ -508,7 +517,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Les effets de l’IRN canadienne</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier : <strong>Mark Leggott</strong></p>
           <p><small>
             L’Alliance et les autres fondateurs de l’IRN s’intéressent
             aux effets de leurs investissements, mais il peut être
@@ -536,7 +545,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Projet pilote sur les champions de données de l’Alliance</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencière et conférencier : <strong>Jen Pecoskie</strong> et <strong>Nick Rochlin</strong></p>
           <p><small>
             La séance présente le projet pilote sur les champions de
             données de l’Alliance, qui a fourni du financement à 18
@@ -555,7 +564,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Bâtir une approche de soutien de la recherche numérique mieux connectée, améliorée et axée sur les chercheuses et chercheurs</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier et conférencière : <strong>Isaac Pratt</strong> et <strong>Angela Di Nello</strong></p>
           <p><small>
             Le projet <em>Digital Research Commons Pilot</em>
             (DRCP) est une nouvelle initiative triennale commune

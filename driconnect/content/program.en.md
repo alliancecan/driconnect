@@ -370,7 +370,12 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Explorations in Cloud</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers:
+            <strong>Ken Bigelow</strong>,
+            <strong>Jacob Boschee</strong>,
+            <strong>Ryan McRonald</strong> and
+            <strong>Jeff Albert</strong>
+          </p>
           <p><small>
             Overview of the cloud technology landscape, plus a dive into
             commerical and community cloud pilots being run at UVic and UBC.
@@ -384,7 +389,11 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">The Tri-Agency Research Data Management (RDM) Policy, two years in</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers:
+            <strong>Alexander Thistlewood</strong>,
+            <strong>Dominique Roche</strong> and
+            <strong>Melanie McNeil</strong>
+          </p>
           <p><small>
             In this presentation, representatives of the agencies
             will provide an update on each of the three pillars
@@ -404,7 +413,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">From GenAP to the UseGalaxy.ca initiative</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Carol Gauthier</strong></p>
           <p><small>
             This presentation will introduce the UseGalaxy.ca initiative
             that will succeed and gradually replace GenAP.ca.
@@ -471,7 +480,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">The Research Data Alliance (RDA): Enriching RDM in Canada, the Americas, and Globally</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Mark Leggott</strong></p>
           <p><small>
             The RDA celebrated their 10th anniversary in
             March of this year, and by all metrics this
@@ -491,7 +500,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">The Impact of Canadian DRI</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Mark Leggott</strong></p>
           <p><small>
             The Alliance and other DRI funders are interested
             in the question of the impact of their investments,
@@ -518,7 +527,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Alliance Data Champions Pilot Project</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers: <strong>Jen Pecoskie</strong> and <strong>Nick Rochlin</strong></p>
           <p><small>
             This session provides an overview of the Alliance Data Champions
             Pilot project, which provided funding to 18 groups across Canada
@@ -535,7 +544,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">McMaster’s Digital Research Commons Pilot: Building a more connected, capable, and researcher-focused approach to digital research support</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers: <strong>Isaac Pratt</strong> and <strong>Angela Di Nello</strong></p>
           <p><small>
             The Digital Research Commons Pilot (DRCP) is a new joint
             three-year initiative at McMaster by the library,
