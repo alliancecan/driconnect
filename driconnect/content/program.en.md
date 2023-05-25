@@ -582,7 +582,51 @@ for the original program preview.
             Keynote speaker: <strong>Patrick Schmitz</strong>
             (Virtually delivered)
           </p>
-          <p><small>More details soon...</small></p>
+          <p><small>
+            Across science, engineering, social sciences, and the
+            humanities, every university depends upon research
+            computing and data (RCD) professionals and infrastructure.
+            The rapid evolution and diversification of RCD infrastructure,
+            services, and support poses significant challenges to academic
+            institutions as they try to effectively assess and plan for
+            the growing needs of researchers. Many institutions would also
+            like to assess their capabilities in comparison to peers.
+            This talk will describe our experience with the Research Computing
+            and Data Capabilities Model, an assessment tool developed by
+            the Campus Research Computing Consortium (CaRCC) with support
+            from the RCD Nexus, an NSF CI Center of Excellence Pilot.
+            The model allows an organization to self-evaluate across a range
+            of RCD services, and provides structured input to guide strategic
+            planning, leveraging a defined and shared community vocabulary
+            and enabling benchmarking relative to peer institutions.
+            We’ll share our most recent findings from the Community Dataset
+            which aggregates contributed assessment data to provide
+            insights into the current state of support for RCD across
+            the community, and describe how sub-communities and cohorts
+            are using the model and the data to explore shared gaps
+            and challenges as a basis for collaboration on shared
+            solutions and strategies to advance RCD support.
+          </small></p>
+          <p><small>
+            <strong>Biography:</strong> Patrick Schmitz
+            is Founder and Principal Consultant at
+            <a href="https://sempercogito.com/">Semper Cogito</a>,
+            providing strategic technology consulting in academic Research IT.
+            Schmitz is an active contributor to a number
+            of CaRCC working groups, co-chairs the
+            <a href="https://carcc.org/rcdcm/">Research Computing and Data Capabilities Model</a>
+            and <a href="https://carcc.org/career-arcs/">RCD Career Arcs</a>
+            working groups, and is co-PI for the
+            <a href="https://rcd-nexus.org/">RCD Nexus</a>,
+            an NSF CI Center of Excellence Pilot.
+            Prior to this, he spent 12 years at UC Berkeley as Associate
+            Director of Research IT for Architecture and Strategy,
+            providing IT strategy and solutions in support of campus
+            research; and Director of Berkeley Research Computing.
+            In addition to his experience in academia, he was a
+            researcher at Microsoft Research, Yahoo! Research, and CWI
+            in Amsterdam, and co-founded a series of tech startups.
+          </small></p>
         </details>
       </div>
     </div>
