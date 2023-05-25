@@ -167,7 +167,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Cloud National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Jeff Albert</strong></p>
         </details>
       </div>
     </div>
@@ -177,7 +177,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Globus National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Sergiy Stepanenko</strong></p>
         </details>
       </div>
     </div>
@@ -187,7 +187,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Data Analytics National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>James Desjardins</strong></p>
         </details>
       </div>
     </div>
@@ -197,7 +197,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">HSS National Team Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Megan Lobay</strong></p>
         </details>
       </div>
     </div>
@@ -207,7 +207,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">NSC Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Masood Akhtar</strong></p>
         </details>
       </div>
     </div>
@@ -217,7 +217,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">RDM National Training Expert Group Update</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers: <strong>Nick Rochlin</strong> and <strong>Jennifer Abel</strong></p>
         </details>
       </div>
     </div>
@@ -232,7 +232,17 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Introduction to Alliance RDM for the DRI Community</summary>
-          <p>RDM Session</p>
+          <p>RDM Session presented by:</p>
+          <ul>
+            <li><strong>Neha Milan</strong>, FRDR Product Lead</li>
+            <li><strong>Mark Goodwin</strong>, Product Lead, Discovery Services</li>
+            <li><strong>Erin Clary</strong>, Curation Coordinator</li>
+            <li><strong>Y.G. Rancourt</strong>, Preservation Coordinator</li>
+            <li><strong>Lina Harper</strong>, Data Curation Officer (Borealis liaison)</li>
+            <li><strong>Victoria Smith</strong>, Policy, Privacy, and Sensitive Data Coordinator</li>
+            <li><strong>Shiloh Williams</strong>, Product Lead, Data Management Planning</li>
+            <li><strong>Elizabeth Lartey</strong>, Research Intelligence and Assessment Coordinator</li>
+          </ul>
           <p><small>
             A series of short talks outlining the Alliance RDM team
             and roles, the kinds of work done, and connections to DRI.
@@ -246,7 +256,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">NSC Presents: Security, Software, and the Supply Chain</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Robbie MacGregor</strong></p>
           <p><small>
             Are our users' apps spying on them?
             Have the dev's keys been compromised?
@@ -267,7 +277,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">DRI Reporting</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Mark Hahn</strong></p>
           <p><small>
             We often produce reports, and sometimes do investigations
             whose results could be preserved. Back in the day, many
@@ -291,7 +301,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Serverless platforms: State of the Art</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Mohamed Elsakhawy</strong></p>
           <p><small>
             The talk presents a brief introduction to serveless computing and
             the current state of the art of opensource serverless platforms.

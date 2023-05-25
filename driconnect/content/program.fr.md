@@ -171,7 +171,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles de l’équipe nationale d’infonuagique</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Jeff Albert</strong></p>
         </details>
       </div>
     </div>
@@ -181,7 +181,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles de l’équipe nationale Globus</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Sergiy Stepanenko</strong></p>
         </details>
       </div>
     </div>
@@ -191,7 +191,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles de l’équipe nationale d’analyse de données</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>James Desjardins</strong></p>
         </details>
       </div>
     </div>
@@ -201,7 +201,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles de l’équipe nationale de recherche en sciences humaines et sociales</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencière : <strong>Megan Lobay</strong></p>
         </details>
       </div>
     </div>
@@ -211,7 +211,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles du Conseil national de la sécurité</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Masood Akhtar</strong></p>
         </details>
       </div>
     </div>
@@ -221,7 +221,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Nouvelles du groupe d’experts national sur la formation en GDR</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier et conférencière : <strong>Nick Rochlin</strong> et <strong>Jennifer Abel</strong></p>
         </details>
       </div>
     </div>
@@ -236,7 +236,17 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Présentation de la GDR de l’Alliance pour la communauté de l’IRN</summary>
-          <p>Séance sur la GDR</p>
+          <p>Séance sur la GDR présentée par :</p>
+          <ul>
+            <li><strong>Neha Milan</strong>, cheffe de produit, DFDR</li>
+            <li><strong>Mark Goodwin</strong>, chef de produit, services de découverte</li>
+            <li><strong>Erin Clary</strong>, coordonatrice à la curation</li>
+            <li><strong>Y.G. Rancourt</strong>, coordonatrice à la préservation</li>
+            <li><strong>Lina Harper</strong>, officière à la curation des données (lien avec Borealis)</li>
+            <li><strong>Victoria Smith</strong>, coordonatrice des politiques, de la confidentialité et des données sensibles</li>
+            <li><strong>Shiloh Williams</strong>, cheffe de produit, planification de la gestion des données</li>
+            <li><strong>Elizabeth Lartey</strong>, coordonatrice à l'intelligence et l'évaluation de la recherche</li>
+          </ul>
           <p><small>
             Une série de courts exposés présentera les rôles dans la
             GDR de l’Alliance, les diverses tâches effectuées et les
@@ -251,7 +261,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Présentation du Conseil national de la sécurité : sécurité, logiciels et chaîne d’approvisionnement</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Robbie MacGregor</strong></p>
           <p><small>
             Est-ce que les utilisatrices et utilisateurs de
             nos applications se font espionner par celles-ci?
@@ -276,7 +286,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Rapports sur l’IRN</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Mark Hahn</strong></p>
           <p><small>
             Nous produisons souvent des rapports et menons parfois des
             enquêtes dont les résultats vaudraient la peine d’être préservés.
@@ -302,7 +312,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Plateformes sans serveur : technologie de pointe</summary>
-          <p>Conférencier: <strong>...</strong></p>
+          <p>Conférencier : <strong>Mohamed Elsakhawy</strong></p>
           <p><small>
             Cette séance présente brièvement l’informatique
             sans serveur et l’état actuel des plateformes
