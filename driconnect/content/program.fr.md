@@ -600,12 +600,70 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
+          <summary class="h4">Comprendre le point de vue de votre communauté sur l'état actuel du soutien de l'IRN</summary>
           <p>
             Conférencier d’honneur : <strong>Patrick Schmitz</strong>
             (en virtuel)
           </p>
-          <p><small>Plus de détails à venir...</small></p>
+          <p><small>
+            Que ce soit en science, en génie ou en sciences
+            humaines et sociales, toutes les universités
+            dépendent des professionnels et de l’infrastructure
+            en calcul informatique et en données de recherche.
+            L’évolution et la diversification rapides de l’infrastructure,
+            des services et du soutien dans ce domaine posent des défis
+            considérables pour les établissements d’enseignement qui essaient
+            d’évaluer efficacement les besoins croissants des chercheuses et
+            chercheurs et de planifier en conséquence.
+            Bien des établissements aimeraient aussi comparer
+            leurs capacités à celles de leurs homologues.
+            Cette présentation portera sur notre expérience avec le modèle
+            de capacités en calcul informatique et données de recherche,
+            un outil d’évaluation créé par le Campus Research Computing
+            Consortium (CaRCC) avec l’aide du RCD Nexus, un projet
+            pilote de centre d’excellence en cyberinfrastructure
+            de la National Science Foundation (NSF).
+            Grâce à ce modèle, une organisation peut s’évaluer pour toute
+            une gamme de services liés au calcul informatique et aux données
+            de recherche, puis obtenir des recommandations structurées
+            pour orienter sa planification stratégique en s’appuyant sur un
+            vocabulaire défini et commun et en se comparant à ses semblables.
+            Nous présenterons nos plus récentes observations tirées de
+            l’ensemble de données commun, qui regroupe les données d’évaluation
+            recueillies pour dresser un portrait du soutien actuel au calcul
+            informatique et aux données de recherches dans le milieu;
+            nous décrirons également la manière dont les sous-communautés
+            et cohortes utilisent le modèle et les données pour explorer
+            les lacunes et les difficultés communes et ainsi mettre
+            au point ensemble des solutions et des stratégies
+            collectives afin de faire progresser ce soutien.
+          </small></p>
+          <p><small>
+            <strong>Biographie :</strong> Patrick Schmitz
+            est le fondateur et conseiller principal de
+            <a href="https://sempercogito.com/">Semper Cogito</a>,
+            un cabinet de consultation stratégique en technologies
+            pour le milieu de la recherche universitaire.
+            M. Schmitz contribue activement à différents groupes
+            de travail du CaRCC; il copréside le groupe sur le
+            <a href="https://carcc.org/rcdcm/">modèle de capacités en calcul
+            informatique et données de recherche</a> et celui sur les
+            <a href="https://carcc.org/career-arcs/">cheminements
+            de carrière dans le domaine</a>.
+            Il est aussi cochercheur principal pour le
+            <a href="http://rcd-nexus.org/">RCD Nexus</a>, un projet
+            pilote de centre d’excellence en cyberinfrastructure de la NSF.
+            Il a auparavant travaillé 12 ans à l’Université de
+            Californie à Berkeley, à titre de directeur associé des
+            technologies de recherche pour l’architecture et la
+            stratégie, fournissant des stratégies et des solutions
+            informatiques pour la recherche sur le campus, et
+            en tant que directeur de Berkeley Research Computing.
+            En plus de son expérience dans le milieu universitaire,
+            il a été chercheur chez Microsoft Research, Yahoo!
+            Research et au CWI à Amsterdam et a également
+            cofondé une série d’entreprises technologiques.
+          </small></p>
         </details>
       </div>
     </div>
@@ -728,21 +786,23 @@ pour l'aperçu original du programme.
           <summary class="h4">Groupe de travail sur la découverte des données à accès limité</summary>
           <p>Conférencier : <strong>TBD</strong></p>
           <p><small>
-            The ability to find and access restricted data for
-            research remains a challenge for researchers,
-            and is especially true in a Canadian context.
-            To address the low adoption of metadata standards,
-            a national team of data discovery and sharing experts
-            reviewed and extracted metadata elements from each
-            restricted health data source to identify commonalities
-            in how they describe their data for discovery, and what
-            information they require if a data access request is made.
+            Il demeure difficile pour les chercheuses et chercheurs,
+            particulièrement au Canada, de trouver et de consulter
+            des données à accès restreint pour la recherche.
+            Afin de favoriser la normalisation des métadonnées, une équipe
+            canadienne de spécialistes de la découverte et du partage
+            des données a analysé et extrait des métadonnées de chaque
+            source à accès restreint dans le domaine de la santé.
+            L’objectif était de relever les points communs dans la
+            rédaction des descriptions pour faciliter la découverte
+            et dans les renseignements exigés en cas de demande d’accès.
           </small></p>
           <p><small>
-            This session will share the evaluation result, recommend
-            strategies for the future adoption and harmonization of metadata
-            for restricted data in Canada, and engage attendees in a
-            discussion of how to best address this issue on a national scale.
+            Cette séance servira à présenter le résultat de cette analyse,
+            à recommander des stratégies pour l’adoption et l’harmonisation
+            futures des métadonnées pour les données à accès restreint
+            au Canada, et à discuter avec les participants des meilleurs
+            moyens de s’attaquer à cette question à l’échelle nationale.
           </small></p>
         </details>
       </div>
