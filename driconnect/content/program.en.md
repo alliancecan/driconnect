@@ -565,7 +565,7 @@ for the original program preview.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
@@ -660,7 +660,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Latest Trends in GPU hardware</summary>
-          <p>Speakers: <strong>TBD</strong></p>
+          <p>Speakers: <strong>Pawel Pomorski</strong> &amp; Friends</p>
           <p><small>
             We are about to have a system refresh,
             with hardware likely being purchased in early 2024.
@@ -677,7 +677,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">ACENET Training: A collaborative success</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers: <strong>Grace Fishbein</strong> and <strong>Ross Dickson</strong></p>
           <p><small>
             Join us for this brief review of ACENET's training
             journey as we’ve tried to solve some common challenges.
@@ -699,7 +699,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">The instruments for advanced research computing are here, but are researchers ready?</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Marie-Hélène Burle</strong></p>
           <p><small>
             The current times are exciting: we are witnessing a
             growth of computing power while the open source
@@ -761,7 +761,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Access Limited Data Discovery Working Group</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Kevin Read</strong></p>
           <p><small>
             The ability to find and access restricted data for
             research remains a challenge for researchers,
@@ -788,7 +788,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Vault and SSH with short lived certs</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speaker: <strong>Joseph Chen</strong></p>
           <p><small>
             More details soon...
           </small></p>
@@ -801,7 +801,10 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Next Steps - Learning from a community-led survey of Canadian Dataverse administrators</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers:
+            <strong>Danica Evering</strong> (McMaster University) and
+            <strong>Lina Marie Harper</strong> (Digital Research Alliance of Canada)</strong>
+          </p>
           <p><small>
             This presentation will discuss the survey of Canadian Dataverse
             administrators, including what was learned about institutional
@@ -820,7 +823,14 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">PaaS: Collecting puzzle pieces</summary>
-          <p>Speaker: <strong>TBD</strong></p>
+          <p>Speakers:
+            <strong>Aurélien Perronneau</strong>,
+            <strong>Drew Leske</strong>,
+            <strong>Erming Pei</strong>,
+            <strong>Félix-Antoine Fortin</strong>,
+            <strong>Jeff Albert</strong> and
+            <strong>Lydia Vermeyden</strong>
+          </p>
           <p><small>
             This series of lightning talks showcases several
             Platform as a Service (PaaS) projects "Puzzle pieces"
@@ -852,8 +862,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Closing Remarks</summary>
-          <p>Speakers: <strong>TBD</strong></p>
-          <p><small>Spring DRI Connect is done at 3:00 PM</small></p>
+          <p>Spring DRI Connect is done at 3:00 PM</p>
         </details>
       </div>
     </div>
@@ -874,7 +883,7 @@ for the original program preview.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">6:00 PM - 9:00 PM</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center">Civic Hotel</div>
       <div class="col">
         <h4>Team Dinner</h4>
         <p>More details soon...</p>

@@ -588,7 +588,7 @@ pour l'aperçu original du programme.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h15<br />(60 min.)</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
           <summary class="h4">Présentation spéciale humoristique d’un fournisseur</summary>
@@ -697,7 +697,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Dernières tendances des GPU</summary>
-          <p>Conférenciers : <strong>TBD</strong></p>
+          <p>Conférenciers : <strong>Pawel Pomorski</strong> et quelques collègues</p>
           <p><small>
             Une refonte de certaines infrastructures de calcul
             haute performance est imminente; le matériel
@@ -715,7 +715,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Formation ACENET : une réussite collaborative</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencière et conférencier : <strong>Grace Fishbein</strong> et <strong>Ross Dickson</strong></p>
           <p><small>
             Ce résumé présente le parcours de formation d’ACENET
             et les problèmes courants qu’il a fallu régler.
@@ -738,7 +738,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Les instruments de calcul informatique de pointe sont là, mais est-ce que les chercheuses et chercheurs sont prêts?</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencière : <strong>Marie-Hélène Burle</strong></p>
           <p><small>
             C’est une période exaltante : nous sommes témoins de la croissance
             de la puissance informatique et du travail de création acharné,
@@ -803,7 +803,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Groupe de travail sur la découverte des données à accès limité</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier : <strong>Kevin Read</strong></p>
           <p><small>
             Il demeure difficile pour les chercheuses et chercheurs,
             particulièrement au Canada, de trouver et de consulter
@@ -832,7 +832,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Vault et SSH avec certificats à court terme</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencier : <strong>Joseph Chen</strong></p>
           <p><small>
             Plus de détails à venir...
           </small></p>
@@ -845,7 +845,10 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Prochaines étapes – Ce qu’on peut apprendre du sondage communautaire des administratrices et administrateurs de Dataverse du Canada</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférencières :
+            <strong>Danica Evering</strong> (Université McMaster) et
+            <strong>Lina Marie Harper</strong> (Alliance de recherche numérique du Canada)</strong>
+          </p>
           <p><small>
             La présentation portera sur le sondage des administratrices et
             administrateurs de Dataverse du Canada, notamment sur ce qui a été
@@ -865,7 +868,14 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">PaaS : rassembler les « pièces du casse-tête »</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
+          <p>Conférenciers :
+            <strong>Aurélien Perronneau</strong>,
+            <strong>Drew Leske</strong>,
+            <strong>Erming Pei</strong>,
+            <strong>Félix-Antoine Fortin</strong>,
+            <strong>Jeff Albert</strong> and
+            <strong>Lydia Vermeyden</strong>
+          </p>
           <p><small>
             Cette série de discussions éclair présentera plusieurs projets
             de <em>Platform as a Service</em> (PaaS), soit les « pièces
@@ -898,8 +908,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Mot de la fin</summary>
-          <p>Conférencier : <strong>TBD</strong></p>
-          <p><small>La rencontre printanière sur l'IRN se termine à 15h.</small></p>
+          <p>La rencontre printanière sur l'IRN se termine à 15h.</p>
         </details>
       </div>
     </div>
@@ -920,7 +929,7 @@ pour l'aperçu original du programme.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">18h à 21h</div>
-      <div class="col-2 text-center">TBD</div>
+      <div class="col-2 text-center">Civic Hotel</div>
       <div class="col">
         <h4>Souper d'équipe</h4>
         <p>Plus de détails à venir...</p>
