@@ -803,7 +803,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Groupe de travail sur la découverte des données à accès limité</summary>
-          <p>Conférencier : <strong>Kevin Read</strong></p>
+          <p>Conférencier et conférencière : <strong>Kevin Read</strong> et <strong>Kelly Stathis</strong></p>
           <p><small>
             Il demeure difficile pour les chercheuses et chercheurs,
             particulièrement au Canada, de trouver et de consulter

@@ -761,7 +761,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">Access Limited Data Discovery Working Group</summary>
-          <p>Speaker: <strong>Kevin Read</strong></p>
+          <p>Speakers: <strong>Kevin Read</strong> and <strong>Kelly Stathis</strong></p>
           <p><small>
             The ability to find and access restricted data for
             research remains a challenge for researchers,
