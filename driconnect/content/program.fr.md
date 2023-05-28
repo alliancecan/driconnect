@@ -588,7 +588,7 @@ pour l'aperçu original du programme.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">16h15<br />(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center"><a href="#salles"><strong>SRYC 2600</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Présentation spéciale humoristique d’un fournisseur</summary>

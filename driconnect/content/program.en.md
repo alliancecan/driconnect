@@ -565,7 +565,7 @@ for the original program preview.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">4:15 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center"><a href="#rooms"><strong>SRYC 2600</strong></a></div>
       <div class="col">
         <details>
           <summary class="h4">Vendor-Presented Comedy Special Speaker</summary>
