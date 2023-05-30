@@ -276,7 +276,7 @@ for the original program preview.
       <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">DRI Reporting</summary>
+          <summary class="h4">DRAC Reporting</summary>
           <p>Speaker: <strong>Mark Hahn</strong></p>
           <p><small>
             We often produce reports, and sometimes do investigations
