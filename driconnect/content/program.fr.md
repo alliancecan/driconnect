@@ -241,7 +241,7 @@ pour l'aperçu original du programme.
             <li><strong>Neha Milan</strong>, cheffe de produit, DFDR</li>
             <li><strong>Mark Goodwin</strong>, chef de produit, services de découverte</li>
             <li><strong>Erin Clary</strong>, coordonatrice à la curation</li>
-            <li><strong>Y.G. Rancourt</strong>, coordonatrice à la préservation</li>
+            <li><strong>Y.G. Rancourt</strong>, responsable de la coordination de la préservation</li>
             <li><strong>Lina Harper</strong>, officière à la curation des données (lien avec Borealis)</li>
             <li><strong>Victoria Smith</strong>, coordonatrice des politiques, de la confidentialité et des données sensibles</li>
             <li><strong>Shiloh Williams</strong>, cheffe de produit, planification de la gestion des données</li>
