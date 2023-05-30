@@ -30,7 +30,18 @@ Click on this button to access the Eventbrite page:
 [**Quantum Algorithms Institute**](https://quantumalgorithms.ca/) (QAI),
 13450 102 Avenue, Suite 295, Surrey, B.C.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4139.394764458798!2d-122.85142438968151!3d49.18812994808747!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d9d4987d011b%3A0xbf9ed826a2e27fc!2sQuantum%20Algorithms%20Institute!5e0!3m2!1sfr!2sca!4v1680728352700!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="/Map-Surrey.jpg">
+  <img alt="Map of Surrey" src="/Map-Surrey.jpg" style="width:100%; max-width:600px;" />
+</a>
+
+When entering the Central City Mall, the access to the QAI is at your left:
+
+<a href="/Central-City-Mall.jpg">
+  <img alt="Central City Mall plan" src="/Central-City-Mall.jpg" style="width:100%; max-width:600px;" />
+</a>
+<a href="/Innovation-Plaza.jpg">
+  <img alt="Innovation Plaza" src="/Innovation-Plaza.jpg" style="width:50%; max-width:300px;" />
+</a>
 
 ## Commute from Vancouver
 
@@ -43,8 +54,7 @@ tips on getting from the Vancouver airport to the QAI.
 
 # Accommodations
 
-[**Civic Hotel - Reservation link**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
-(see also [civichotel.ca](https://civichotel.ca/)),
+[**Civic Hotel**](https://civichotel.ca/),
 13475 Central Avenue, Surrey, B.C.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9564.838223780587!2d-122.85612885584797!3d49.1885585663603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d9d358d76255%3A0x1b4a79bf22c7b38a!2sCivic%20Hotel%2C%20Autograph%20Collection!5e0!3m2!1sfr!2sca!4v1680728432707!5m2!1sfr!2sca" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

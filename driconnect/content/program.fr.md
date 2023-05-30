@@ -15,11 +15,11 @@ lang_code: "fr"
 # Salles
 
 * **Centre de données de SFU** (jour 0) - Campus de l’Université Simon-Fraser
-* Quantum Algorithms Institute ([QAI](/fr/assister/#emplacement)) :
+* Quantum Algorithms Institute (voir [emplacement du QAI](/fr/assister/#emplacement)) :
   * ***Classroom*** (jour 2) - salle nommée "QAI Classroom"
   * ***Flex space*** (jours 1-3) -
     espace principal pour les déjeuners, dîners et pauses
-* Campus SFU à Surrey :
+* Campus SFU à Surrey (voir [emplacement de SFU](/fr/assister/#emplacement)) :
   * **SRYC 2600** (jour 2) -
     [2600 Prospera Credit Union Theatre](https://its.surrey.sfu.ca/rooms/room2.php?rid=20)
   * **SRYC 5240** (jours 1-3) -
