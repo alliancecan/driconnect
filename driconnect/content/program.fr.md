@@ -619,7 +619,7 @@ pour l'aperçu original du programme.
       <div class="col-2 text-center"><a href="#salles">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Comprendre le point de vue de votre communauté sur l'état actuel du soutien de l'IRN</summary>
+          <summary class="h4">Comment performons-nous? Un modèle de capacités en calcul informatique et données de recherche</summary>
           <p>
             Conférencier d’honneur : <strong>Patrick Schmitz</strong>
             (en virtuel)

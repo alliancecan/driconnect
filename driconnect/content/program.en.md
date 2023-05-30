@@ -596,7 +596,7 @@ for the original program preview.
       <div class="col-2 text-center"><a href="#rooms">SRYC 5280</a></div>
       <div class="col">
         <details>
-          <summary class="h4">Understanding your community's view on the current status of DRI support</summary>
+          <summary class="h4">How Do We Measure Up? A Capabilities Model and Community Dataset for Research Computing and Data</summary>
           <p>
             Keynote speaker: <strong>Patrick Schmitz</strong>
             (Virtually delivered)
