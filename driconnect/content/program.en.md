@@ -883,10 +883,9 @@ for the original program preview.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">6:00 PM - 9:00 PM</div>
-      <div class="col-2 text-center">Civic Hotel</div>
+      <div class="col-2 text-center">Ballroom - Civic Hotel</div>
       <div class="col">
         <h4>Team Dinner</h4>
-        <p>More details soon...</p>
       </div>
     </div>
   </div>  <!-- Container as a table -->

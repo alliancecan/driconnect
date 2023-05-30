@@ -929,10 +929,9 @@ pour l'aperçu original du programme.
     </div>
     <div class="row my-3">
       <div class="col-2 text-center">18h à 21h</div>
-      <div class="col-2 text-center">Civic Hotel</div>
+      <div class="col-2 text-center">Ballroom - Civic Hotel</div>
       <div class="col">
         <h4>Souper d'équipe</h4>
-        <p>Plus de détails à venir...</p>
       </div>
     </div>
   </div>  <!-- Container as a table -->
