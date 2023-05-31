@@ -29,10 +29,6 @@ lang_code: "fr"
 
 # Programme détaillé
 
-Merci à toutes et à tous pour vos idées de séances!
-[Cliquez ici](https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit)
-pour l'aperçu original du programme.
-
 <button class="btn text-primary" onclick="expandAll(this)">
   <strong>Cliquez ici</strong> pour développer toutes les sections ci-dessous,
   de même que toutes les descriptions des séances.
@@ -715,7 +711,7 @@ pour l'aperçu original du programme.
       <div class="col">
         <details>
           <summary class="h4">Formation ACENET : une réussite collaborative</summary>
-          <p>Conférencière et conférencier : <strong>Grace Fishbein</strong> et <strong>Ross Dickson</strong></p>
+          <p>Conférencière : <strong>Grace Fishbein</strong></p>
           <p><small>
             Ce résumé présente le parcours de formation d’ACENET
             et les problèmes courants qu’il a fallu régler.

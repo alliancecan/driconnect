@@ -29,10 +29,6 @@ lang_code: "en"
 
 # Detailed Program
 
-Thank you everyone for all your session ideas!
-[Click here](https://docs.google.com/spreadsheets/d/1pn_7ZCkrT88eSiHsjBhwtkSd2PhZ8rfzviGw2Vi6Soo/edit)
-for the original program preview.
-
 <button class="btn text-primary" onclick="expandAll(this)">
   <strong>Click here</strong> to expand all sections below
   and all session descriptions.
@@ -677,7 +673,7 @@ for the original program preview.
       <div class="col">
         <details>
           <summary class="h4">ACENET Training: A collaborative success</summary>
-          <p>Speakers: <strong>Grace Fishbein</strong> and <strong>Ross Dickson</strong></p>
+          <p>Speaker: <strong>Grace Fishbein</strong></p>
           <p><small>
             Join us for this brief review of ACENET's training
             journey as we’ve tried to solve some common challenges.
