@@ -15,9 +15,9 @@ lang_code: "en"
 
 # Registration
 
-Click on this button to access the Eventbrite page:
+Closed.
 
-<p class="text-center">
+<p class="text-center" style="display: none;">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
     &gt;&gt;&gt; Register Here &lt;&lt;&lt;
   </a>
@@ -33,15 +33,17 @@ Click on this button to access the Eventbrite page:
 <a href="/Map-Surrey.jpg">
   <img alt="Map of Surrey" src="/Map-Surrey.jpg" style="width:100%; max-width:600px;" />
 </a>
-
+<p><br />
 When entering the Central City Mall, the access to the QAI is at your left:
-
+</p>
 <a href="/Central-City-Mall.jpg">
   <img alt="Central City Mall plan" src="/Central-City-Mall.jpg" style="width:100%; max-width:600px;" />
 </a>
 <a href="/Innovation-Plaza.jpg">
   <img alt="Innovation Plaza" src="/Innovation-Plaza.jpg" style="width:50%; max-width:300px;" />
 </a>
+
+<hr />
 
 ## Commute from Vancouver
 
@@ -61,8 +63,7 @@ tips on getting from the Vancouver airport to the QAI.
 
 We have secured a hotel room block at the Civic Hotel (Marriott)
 just steps away from the [QAI](#location).
-Guests have **until 11:59 p.m. PST on May 8** to book through
-[**THIS LINK**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
+Guests have **until 11:59 p.m. PST on May 8**
 to benefit from a preferred rate.
 There are a finite number of rooms in this block, so
 we encourage you to book at your earliest convenience.

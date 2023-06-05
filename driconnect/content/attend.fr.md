@@ -15,9 +15,9 @@ lang_code: "fr"
 
 # Inscription
 
-Pour accéder à la page Eventbrite :
+Fin des inscriptions.
 
-<p class="text-center">
+<p class="text-center" style="display: none;">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
     &gt;&gt;&gt; Cliquez ici pour vous inscrire &lt;&lt;&lt;
   </a>
@@ -33,15 +33,17 @@ Pour accéder à la page Eventbrite :
 <a href="/Map-Surrey.jpg">
   <img alt="Map of Surrey" src="/Map-Surrey.jpg" style="width:100%; max-width:600px;" />
 </a>
-
+<p><br />
 En entrant dans le centre d'achat, l'accès au QAI est à votre gauche :
-
+</p>
 <a href="/Central-City-Mall.jpg">
   <img alt="Central City Mall plan" src="/Central-City-Mall.jpg" style="width:100%; max-width:600px;" />
 </a>
 <a href="/Innovation-Plaza.jpg">
   <img alt="Innovation Plaza" src="/Innovation-Plaza.jpg" style="width:50%; max-width:300px;" />
 </a>
+
+<hr />
 
 ## Pour se rendre à partir de Vancouver
 
@@ -61,9 +63,8 @@ des conseils sur la façon de vous rendre au QAI à partir de l’aéroport de V
 
 Nous avons réservé un certain nombre de chambres au Civic Hotel (Marriott),
 qui est situé à quelques pas du [QAI](#emplacement).
-Les personnes invitées ont **jusqu’au 8 mai, à 23h59 (heure du Pacifique)**, pour réserver en cliquant sur
-[**CE LIEN**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679502293533&key=GRP&app=resvlink)
-afin de profiter d’un tarif préférentiel.
+Les personnes invitées ont **jusqu’au 8 mai, à 23h59 (heure du Pacifique)**,
+pour profiter d’un tarif préférentiel.
 Puisque le nombre de chambres réservées est limité,
 nous vous encourageons à réserver la vôtre dès que possible.
 

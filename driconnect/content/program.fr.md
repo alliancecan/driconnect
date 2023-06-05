@@ -58,7 +58,6 @@ lang_code: "fr"
           </p>
           <ul>
             <li>Les visites se feront en petits groupes</li>
-            <li>Plus de détails à venir...</li>
           </ul>
         </details>
       </div>
@@ -829,9 +828,6 @@ lang_code: "fr"
         <details>
           <summary class="h4">Vault et SSH avec certificats à court terme</summary>
           <p>Conférencier : <strong>Joseph Chen</strong></p>
-          <p><small>
-            Plus de détails à venir...
-          </small></p>
         </details>
       </div>
     </div>

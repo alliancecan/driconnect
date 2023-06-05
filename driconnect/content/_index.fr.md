@@ -17,13 +17,13 @@ de la gestion des données de recherche
 et des logiciels de recherche.
 {{< /paige/hero >}}
 
-<p class="text-center">
+<p class="text-center" style="display: none;">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
     Inscription à la conférence - Maintenant des billets <em>À distance</em> seulement
   </a>
 </p>
 
-<p class="text-center">
+<p class="text-center" style="display: none;">
   <a class="btn btn-success btn-lg" href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8" role="button" aria-disabled="true">
     Inscription à l'atelier <em>Introduction to OpenSearch</em> - En personne seulement
   </a>

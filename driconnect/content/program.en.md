@@ -58,7 +58,6 @@ lang_code: "en"
           </p>
           <ul>
             <li>Visits will be done in small groups</li>
-            <li>More details will be published soon...</li>
           </ul>
         </details>
       </div>
@@ -785,9 +784,6 @@ lang_code: "en"
         <details>
           <summary class="h4">Vault and SSH with short lived certs</summary>
           <p>Speaker: <strong>Joseph Chen</strong></p>
-          <p><small>
-            More details soon...
-          </small></p>
         </details>
       </div>
     </div>
