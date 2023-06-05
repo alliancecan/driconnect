@@ -14,7 +14,8 @@ lang_code: "en"
 
 # Rooms
 
-* **Datacenter at SFU** (day 0) - Simon-Fraser University Campus
+* **Datacenter at SFU** (day 0) -
+  [Simon-Fraser University, Burnaby Campus](https://www.sfu.ca/campuses/burnaby.html)
 * Quantum Algorithms Institute (see [QAI location](/attend/#location)):
   * ***Classroom*** (day 2) - room named "QAI Classroom"
   * ***Flex space*** (days 1-3) -

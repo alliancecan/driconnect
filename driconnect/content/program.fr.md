@@ -14,7 +14,8 @@ lang_code: "fr"
 
 # Salles
 
-* **Centre de données de SFU** (jour 0) - Campus de l’Université Simon-Fraser
+* **Centre de données de SFU** (jour 0) -
+  [Campus Burnaby de l’Université Simon-Fraser](https://www.sfu.ca/campuses/burnaby.html)
 * Quantum Algorithms Institute (voir [emplacement du QAI](/fr/assister/#emplacement)) :
   * ***Classroom*** (jour 2) - salle nommée "QAI Classroom"
   * ***Flex space*** (jours 1-3) -
