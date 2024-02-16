@@ -14,10 +14,12 @@ every commit to main triggers the CI run.
 
 Here's the simplest example of using CLI git:
 
+```
 git clone gitlab@git.computecanada.ca:hahn/test-site.git
 cd test-site
 edit driconnect/content/program.en.md
 git commit -a -m "my update"
 git push
+```
 
 If desired, we can introduce a "prod" tag, and have non-prod changes show up on a different URL.
