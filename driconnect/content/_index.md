@@ -37,3 +37,4 @@ research software professionals.
   * [Commute from Vancouver](/attend/#commute-from-vancouver)
     (SkyTrain)
 * [Accommodations](/attend/#accommodations) (hotel)
+Adding a new message here
