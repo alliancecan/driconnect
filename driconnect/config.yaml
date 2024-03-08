@@ -21,36 +21,4 @@ languages:
       - name: "Home"
         url: "/"
         weight: 1
-      - name: "Program"
-        url: "/program/"
-        weight: 2
-      - name: "Attend"
-        url: "/attend/"
-        weight: 3
-      - name: "Conference Etiquette"
-        url: "/etiquette/"
-        weight: 4
-      - name: "=> Français / Accueil"
-        url: "/fr/"
-        weight: 99
     weight: 10
-  fr:
-    languageName: "Français"
-    menu:
-      main:
-      - name: "Accueil"
-        url: "/fr/"
-        weight: 1
-      - name: "Programme"
-        url: "/fr/programme/"
-        weight: 2
-      - name: "Y assister"
-        url: "/fr/assister/"
-        weight: 3
-      - name: "Règles de bienséance"
-        url: "/fr/etiquette/"
-        weight: 4
-      - name: "=> English / Home"
-        url: "/"
-        weight: 99
-    weight: 20
