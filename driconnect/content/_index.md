@@ -1,11 +1,11 @@
 ---
-title: "2024 DRI CONNECT: TOWARDS INTEGRATED SOLUTIONS FOR DIGITAL RESEARCH "
+title: "2024 DRI Connect"
 lang_code: "en"
 ---
 
 {{< paige/hero
     alt="Spring DRI Connect, May 27 - May 28, 2024"
-    header="Let's get together!"
+    header="TOWARDS INTEGRATED SOLUTIONS FOR DIGITAL RESEARCH"
     image="2024 DRI Connect homepage EN.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
