@@ -14,11 +14,14 @@ Join us for the 2024 DRI Connect in Halifax, Nova Scotia, on May 27 and 28, 2024
 Note: This is a hybrid event, and in-person spaces are limited. We encourage you to register early to secure your spot. 
 {{< /paige/hero >}}
 
-<p class="text-center" style="display: none;">
+<p class="text-center">
   <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/" role="button" aria-disabled="false">
     Register today!
   </a>
 </p>
+
+# Attendees
+All Canadian DRI providers working for and with the Alliance are invited to attend this event (in person or virtually).
 
 # Dates
 May 27 and 28, 2024. 
@@ -29,3 +32,6 @@ In person attendance: Halifax Convention Centre, 1650 Argyle Street, Halifax, No
 Virtual attendance: Connection details are forthcoming. 
 
 # Quick links
+- Program
+- Registration
+- Location

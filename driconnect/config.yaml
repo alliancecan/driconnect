@@ -1,5 +1,5 @@
 baseurl: "https://driconnectdemo.alliancecan.ca/"
-copyright: "© 2023 Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
+copyright: "© 2024 Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
 enablerobotstxt: false
 
 markup:
@@ -21,4 +21,36 @@ languages:
       - name: "Home"
         url: "/"
         weight: 1
+      - name: "Program"
+        url: "/program/"
+        weight: 2
+      - name: "Registration"
+        url: "/registration/"
+        weight: 3
+      - name: "Location"
+        url: "/location/"
+        weight: 4
+      - name: "=> Français / Accueil"
+        url: "/fr/"
+        weight: 99
     weight: 10
+  fr:
+    languageName: "Français"
+    menu:
+      main:
+      - name: "Accueil"
+        url: "/fr/"
+        weight: 1
+      - name: "Programme"
+        url: "/fr/programme/"
+        weight: 2
+      - name: "Inscription"
+        url: "/fr/inscription/"
+        weight: 3
+      - name: "Lieu"
+        url: "/fr/lieu/"
+        weight: 4
+      - name: "=> English / Home"
+        url: "/"
+        weight: 99
+    weight: 20
