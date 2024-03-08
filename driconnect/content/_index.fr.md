@@ -34,3 +34,4 @@ Participation virtuelle : Les détails de connexion seront communiqués plus tar
 
 * [**Programme**](/fr/programme/)
 * [**Inscription**](https://www.eventbrite.ca/)
+* [**Lieu**]()

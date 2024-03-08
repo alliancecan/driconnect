@@ -34,18 +34,28 @@ We have reserved blocks at two hotels, both a short walking distance to the Hali
 
 This hotel is in the heart of Halifax, next to the famed Citadel Hill and the vibrant and historical downtown. The nightly rate is 229$. 
 
-Location: 
-1583 Brunswick St. Halifax, NS B3J 3P5 
+Location:  
+1583 Brunswick St. Halifax, NS B3J 3P5  
 1.800.565.1263  
 
 Click here to book your stay [link]. 
 
 **Prince George Hotel**
 
-Less than two minutes from the Halifax Convention Centre, The Prince George is a boutique-style hotel with great charm. The nightly rate is 249$. 
+Less than two minutes from the Halifax Convention Centre, The Prince George is a boutique-style hotel with great charm. The nightly rate is 249$.
 
-Location: 
-1725 Market St. Halifax, NS B3J 3N9 
+Location:  
+1725 Market St. Halifax, NS B3J 3N9  
 1.800.565.1567  
 
 Click here to book your stay [link]. 
+
+Should the blocks above sell out, please find additional accommodation recommendations close to the Halifax Convention Centre:
+* Sutton Place Hotel Halifax  
+  New hotel in the Nova Centre, the same building as the Halifax Convention Centre 
+* The Lord Nelson  
+  Though the Lord Nelson is a further walk from the Convention Centre, it is in a wonderful location next to the Halifax Public Gardens and Citadel Hill 
+* Barrington Hotel 
+  In a very central location close to the Convention Centre 
+* Halifax Marriott Harbourfront Hotel  
+  Located on the Halifax waterfront and beside the historic Lower Deck pub  
