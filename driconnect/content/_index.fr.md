@@ -29,8 +29,3 @@ Les 27 et 28 mai 2024.
 En personne : Halifax Convention Centre, 1650 Argyle Street, Halifax, Nouvelle-Écosse. 
 
 Participation virtuelle : Les détails de connexion seront communiqués plus tard. 
-# Liens rapides
-
-* [**Programme**](/fr/programme/)
-* [**Inscription**](https://www.eventbrite.ca/)
-* [**Lieu**]()

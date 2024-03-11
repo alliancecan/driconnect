@@ -29,8 +29,3 @@ May 27 and 28, 2024.
 In person attendance: Halifax Convention Centre, 1650 Argyle Street, Halifax, Nova Scotia. 
 
 Virtual attendance: Connection details are forthcoming. 
-
-# Quick links
-- Program
-- Registration
-- Location
