@@ -15,13 +15,13 @@ Remarque : L’événement se déroulera en mode hybride, et le nombre de places
 {{< /paige/hero >}}
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/" role="button" aria-disabled="true">
+  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/landing" role="button" aria-disabled="true">
     Inscrivez-vous dès maintenant!
   </a>
 </p>
 
 # À qui s’adresse l’événement? 
-Tous les prestataires de services de l’IRN canadiens travaillant pour ou avec l’Alliance sont invités à assister à y assister (en personne ou virtuellement). 
+Toutes les professionnelles et tous les professionnels de l’IRN canadiens travaillant pour ou avec l’Alliance sont invités à assister à y assister (en personne ou virtuellement). 
 
 # Dates 
 Les 27 et 28 mai 2024. 

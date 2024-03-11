@@ -37,7 +37,7 @@ Adresse:
 1583 Brunswick St. Halifax, N.-É. B3J 3P5  
 1.800.565.1263
 
-Cliquez ici pour effectuer la réservation [link]. 
+Cliquez ici pour effectuer la réservation [https://reservations.travelclick.com/13605?groupID=4213995]. 
 
 **Prince George Hotel**
 

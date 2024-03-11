@@ -15,13 +15,13 @@ Note: This is a hybrid event, and in-person spaces are limited. We encourage you
 {{< /paige/hero >}}
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/" role="button" aria-disabled="false">
+  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/landing" role="button" aria-disabled="false">
     Register today!
   </a>
 </p>
 
 # Attendees
-All Canadian DRI providers working for and with the Alliance are invited to attend this event (in person or virtually).
+All Canadian DRI professionals working for and with the Alliance are invited to attend this event (in person or virtually).
 
 # Dates
 May 27 and 28, 2024. 
