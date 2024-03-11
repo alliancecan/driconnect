@@ -4,9 +4,7 @@ title: "Registraton"
 lang_code: "en"
 ---
 
-# Registration
-
-To register for this year’s DRI Connect either in person or virtually, please register at the following link: [https://events.myconferencesuite.com/DRIConnect/reg/landing] 
+To register for this year’s DRI Connect either in person or virtually, please register at the following link: https://events.myconferencesuite.com/DRIConnect/reg/landing
 
 A reminder that in-person spaces are limited. Register today to secure your spot! 
 

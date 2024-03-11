@@ -1,10 +1,9 @@
 ---
-title: "Rencontre printanière sur l'infrastructure de recherche numérique"
 lang_code: "fr"
 ---
 
 {{< paige/hero
-    alt="Rencontre printanière sur l'IRN, Du 30 mai au 1er juin 2023"
+    alt="Rencontre printanière sur l'IRN, Du 27-28 mai 2024"
     header="Rassemblons-nous!"
     image="../2024 DRI Connect homepage FR.png"
     imageclass="rounded-4 shadow"

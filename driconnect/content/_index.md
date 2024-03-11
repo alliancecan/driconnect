@@ -1,5 +1,4 @@
 ---
-title: "2024 DRI Connect"
 lang_code: "en"
 ---
 
