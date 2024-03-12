@@ -1,39 +1,31 @@
 ---
-title: "Spring Digital Research Infrastructure Connect"
 lang_code: "en"
 ---
 
 {{< paige/hero
-    alt="Spring DRI Connect, May 30 - June 1, 2023"
-    header="Let's get together!"
-    image="header_en.png"
+    alt="Spring DRI Connect, May 27 - May 28, 2024"
+    header="TOWARDS INTEGRATED SOLUTIONS FOR DIGITAL RESEARCH"
+    image="2024 DRI Connect homepage EN.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-We look forward to your in-person or virtual participation in this event
-designed for networking, community-building and knowledge-sharing across
-advanced research computing,
-research data management and
-research software professionals.
+Join us for the 2024 DRI Connect in Halifax, Nova Scotia, on May 27 and 28, 2024. This event is designed for networking, exploring, and knowledge-sharing among advanced research computing, research data management and research software professionals working for and with the Digital Research Alliance of Canada (Alliance).  
+
+Note: This is a hybrid event, and in-person spaces are limited. We encourage you to register early to secure your spot. 
 {{< /paige/hero >}}
 
-<p class="text-center" style="display: none;">
-  <a class="btn btn-primary btn-lg" href="https://www.eventbrite.ca/e/spring-dri-connect-rencontre-printaniere-sur-lirn-tickets-600841572317" role="button" aria-disabled="true">
-    Register to the conference here - Now <em>Virtual</em> tickets only
+<p class="text-center">
+  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/form/edit" role="button" aria-disabled="false" target="_blank">
+    Register today!
   </a>
 </p>
 
-<p class="text-center" style="display: none;">
-  <a class="btn btn-success btn-lg" href="https://docs.google.com/spreadsheets/d/1didmfwyFCCwQY2Q4BLHAhr1PwNjP2uqLtA-gqs57vS8" role="button" aria-disabled="true">
-    Register to the <em>Introduction to OpenSearch</em> workshop - In-person only
-  </a>
-</p>
+# Attendees
+All Canadian DRI professionals working for and with the Alliance are invited to attend this event (in person or virtually).
 
-# Quick links
+# Dates
+May 27 and 28, 2024. 
 
-* [**Program**](/program/)
-  * [Code of conduct](/etiquette/)
-  * [Social Events](/program/#social-events)
-* [Location](/attend/#location)
-  * [Commute from Vancouver](/attend/#commute-from-vancouver)
-    (SkyTrain)
-* [Accommodations](/attend/#accommodations) (hotel)
+# Location
+In person attendance: Halifax Convention Centre, 1650 Argyle Street, Halifax, Nova Scotia. 
+
+Virtual attendance: Connection details are forthcoming. 
