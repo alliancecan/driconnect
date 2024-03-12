@@ -14,7 +14,7 @@ Remarque : L’événement se déroulera en mode hybride, et le nombre de places
 {{< /paige/hero >}}
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/landing" role="button" aria-disabled="true">
+  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/form/edit" role="button" aria-disabled="true" target="_blank">
     Inscrivez-vous dès maintenant!
   </a>
 </p>

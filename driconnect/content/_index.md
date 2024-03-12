@@ -14,7 +14,7 @@ Note: This is a hybrid event, and in-person spaces are limited. We encourage you
 {{< /paige/hero >}}
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/landing" role="button" aria-disabled="false">
+  <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/form/edit" role="button" aria-disabled="false" target="_blank">
     Register today!
   </a>
 </p>
