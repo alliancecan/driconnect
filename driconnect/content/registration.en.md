@@ -1,6 +1,6 @@
 ---
 slug: "registration"
-title: "Registraton"
+title: "Registration"
 lang_code: "en"
 ---
 
