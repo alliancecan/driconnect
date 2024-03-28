@@ -99,7 +99,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">10:30 AM - 11:00 AM</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h4>Break</h4>
+        <h4 class="text-muted">Break</h4>
       </div>
     </div>
     <div class="row">
@@ -138,7 +138,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">3:00 PM - 3:30 PM</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h4>Break</h4>
+        <h4 class="text-muted">Break</h4>
       </div>
     </div>
     <div class="row">
@@ -163,9 +163,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">5:30 PM - 6:00 PM</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
-        <details>
-          <summary class="h4 text-muted">No Programming</summary>
-        </details>
+        <h4>No Programming</h4>
       </div>
     </div>
     <div class="row">
@@ -173,7 +171,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4 text-muted">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
+          <summary class="h4">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
           <ul>
             <li>Everyone welcome</li>
             <li>Food & drink provided</li>
@@ -216,7 +214,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">10:30 AM - 11:00 AM</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h4>Break</h4>
+        <h4 class="text-muted">Break</h4>
       </div>
     </div>
     <div class="row">
@@ -255,7 +253,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">3:00 PM - 3:30 PM</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h4>Break</h4>
+        <h4 class="text-muted">Break</h4>
       </div>
     </div>
     <div class="row">
@@ -270,10 +268,12 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row">
       <div class="col-2">4:30 PM - 5:30 PM</div>
       <div class="col-2 text-center">TBC</div>
-      <details>
-        <summary class="h4">Closing</summary>
-        Mark Leggott (Digital Research Alliance of Canada)
-      </details>
+      <div class="col">
+        <details>
+          <summary class="h4">Closing</summary>
+          Mark Leggott (Digital Research Alliance of Canada)
+        </details>
+      </div>
     </div>
     <div class="row">
       <div class="col-2">5:00 PM</div>
