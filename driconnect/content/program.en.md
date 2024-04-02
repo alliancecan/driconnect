@@ -168,7 +168,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">5:30 PM - 6:00 PM</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
-        <h4>No Programming</h4>
+        <h4 class="text-muted">No Programming</h4>
       </div>
     </div>
     <div class="row">
