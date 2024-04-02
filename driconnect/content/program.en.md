@@ -22,16 +22,16 @@ Watch this space for more program updates! The finalized program will be publish
 
 We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024! More information to come.
 
-# Program at a Glance
+# Program
 
-<!--<button class="btn text-primary" onclick="expandAll(this)">
+<button class="btn text-primary" onclick="expandAll(this)">
   <strong>Click here</strong> to expand all sections below
   and all session descriptions.
 </button>
 
-<hr />-->
+<hr />
 
-## Day 0
+## Day 0 - Pre-conference
 
 <details>
   <summary class="h3">Sunday, May 26 <small class="text-muted">(click to expand)</small></summary>
@@ -39,7 +39,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Location</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
     </div>
     <div class="row">
       <div class="col-2">6:00 PM - 10:00 PM</div>
@@ -57,7 +57,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   </div>
 </details>
 
-## Day 1
+## Day 1-2 - Conference
 
 <details>
   <summary class="h3">
@@ -67,7 +67,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
     </div>
     <div class="row">
       <div class="col-2">8:00 AM - 9:00 AM</div>
@@ -187,8 +187,6 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   </div>
 </details>
 
-## Day 2
-
 <details>
   <summary class="h3">
     Tuesday, May 28 <small class="text-muted">(click to expand)</small>
@@ -197,7 +195,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
     </div>
     <div class="row">
       <div class="col-2">8:00 AM - 9:00 AM</div>
@@ -293,3 +291,36 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
   </div>
 </details>
+
+<script>
+  function expandAll(text_button) {
+    let all_details = document.getElementsByTagName("details");
+    for (let details of all_details) {
+      details.setAttribute("open", "")
+    }
+    text_button.onclick = function() { collapseAll(text_button); }
+  }
+  function collapseAll(text_button) {
+    let all_details = document.getElementsByTagName("details");
+    for (let details of all_details) {
+      details.removeAttribute("open")
+    }
+    text_button.onclick = function() { expandAll(text_button); }
+  }
+  function expand(header) {
+    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    for (let details of all_details) {
+      details.setAttribute("open", "")
+    }
+    header.text = "click here to close all"
+    header.onclick = function() { collapse(header); }
+  }
+  function collapse(header) {
+    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    for (let details of all_details) {
+      details.removeAttribute("open")
+    }
+    header.text = "click here to expand all"
+    header.onclick = function() { expand(header); }
+  }
+</script>
