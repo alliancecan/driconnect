@@ -92,6 +92,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -108,6 +109,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -131,6 +133,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">3 Parallel Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -147,6 +150,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">3 Parallel Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -156,6 +160,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -207,6 +212,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -223,6 +229,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -246,6 +253,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">3 Parallel Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
@@ -262,6 +270,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col">
         <details>
           <summary class="h4">Sessions</summary>
+          Details TBC
         </details>
       </div>
     </div>
