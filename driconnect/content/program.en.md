@@ -44,8 +44,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">
         6:00 PM
-        <span class="d-inline d-sm-none"><br />↓<br /></span>
-        <span class="d-none d-sm-inline"> - </span>
+        <span class="d-inline d-lg-none"><br />↓<br /></span>
+        <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
       <div class="col-2 text-center">TBC</div>
@@ -181,8 +181,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">
         6:00 PM
-        <span class="d-inline d-sm-none"><br />↓<br /></span>
-        <span class="d-none d-sm-inline"> - </span>
+        <span class="d-inline d-lg-none"><br />↓<br /></span>
+        <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
       <div class="col-2 text-center">TBC</div>
