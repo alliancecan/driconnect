@@ -1,6 +1,6 @@
 ---
 slug: "program"
-title: "Towards Integrated Solutions for Digital Research "
+title: "Spring Digital Research Infrastructure Connect"
 lang_code: "en"
 ---
 
@@ -12,11 +12,11 @@ lang_code: "en"
     stretch=true >}}
 {{< /paige/hero >}}
 
-# Towards Integrated Solutions for Digital Research
+# Spring Digital Research Infrastructure Connect
 
 The theme of the conference “Towards Integrated Solutions for Digital Research” was born out of a desire to craft a program that keeps collaboration at its core and offers content that highlights innovative approaches and solutions to breaking down silos and promoting synergy. Ultimately, our hope is that DRI Connect will contribute to a shared vision that leverages the full potential of digital research infrastructure (DRI) in Canada.
 
-Watch this space for more program updates! The finalized program will be published in April. 
+Watch this space for more program updates! The finalized program will be published in April.
 
 # DRI Connect Dinner and ACENET Celebration
 
@@ -31,18 +31,18 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 
 <hr />
 
-## Day 0 - Pre-conference
+## Day 0 - Preconference
 
 <details>
   <summary class="h3">Sunday, May 26 <small class="text-muted">(click to expand)</small></summary>
   <div class="container">
-    <div class="row">
+    <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Location</div>
-      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
-    <div class="row">
-      <div class="col-2">6:00 PM - 10:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-nowrap">6:00 PM<br />↓<br />9:30 PM</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -57,6 +57,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   </div>
 </details>
 
+<hr />
+
 ## Day 1-2 - Conference
 
 <details>
@@ -64,20 +66,20 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     Monday, May 27 <small class="text-muted">(click to expand)</small>
   </summary>
   <div class="container">
-    <div class="row">
+    <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
     </div>
-    <div class="row">
-      <div class="col-2">8:00 AM - 9:00 AM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <h4>Registration & Breakfast</h4>
+      <div class="col text-center">
+        <h5>Registration & Breakfast</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">9:00 AM - 9:30 AM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">9:00 AM<br />(30 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -86,8 +88,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">9:30 AM - 10:30 AM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">9:30 AM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -96,15 +98,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">10:30 AM - 11:00 AM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4 class="text-muted">Break</h4>
+      <div class="col text-center">
+        <h5>Break</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">11:00 AM - 12:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">11:00 AM<br />(90 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -113,22 +115,22 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">12:30 PM - 1:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4>Lunch</h4>
+      <div class="col text-center">
+        <h5>Lunch</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">1:30 PM - 2:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <h4>Keynote</h4>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">2:00 PM - 3:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">2:00 PM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -137,15 +139,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">3:00 PM - 3:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4 class="text-muted">Break</h4>
+      <div class="col text-center">
+        <h5>Break</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">3:30 PM - 4:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">3:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -154,8 +156,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">4:30 PM - 5:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">4:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -165,14 +167,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row">
-      <div class="col-2">5:30 PM - 6:00 PM</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <h4 class="text-muted">No Programming</h4>
+      <div class="col-2 text-center text-nowrap">5:30 PM<br />(30 min.)</div>
+      <div class="col-2 text-center"></div>
+      <div class="col text-center">
+        <h5>No Programming</h5>
       </div>
     </div>
     <div class="row">
-      <div class="col-2">6:00 PM - 9:00 PM</div>
+      <div class="col-2 text-center text-nowrap">6:00 PM<br/>↓<br/>9:30 PM</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -192,37 +194,20 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     Tuesday, May 28 <small class="text-muted">(click to expand)</small>
   </summary>
   <div class="container">
-    <div class="row">
+    <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
     </div>
-    <div class="row">
-      <div class="col-2">8:00 AM - 9:00 AM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <h4>Breakfast</h4>
+      <div class="col text-center">
+        <h5>Breakfast</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">9:00 AM - 10:30 AM</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Sessions</summary>
-          Details TBC
-        </details>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-2">10:30 AM - 11:00 AM</div>
-      <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4 class="text-muted">Break</h4>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-2">11:00 AM - 12:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">9:00 AM<br />(90 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -231,22 +216,39 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">12:30 PM - 1:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4>Lunch</h4>
+      <div class="col text-center">
+        <h5>Break</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">1:30 PM - 2:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">11:00 AM<br />(90 min.)</div>
+      <div class="col-2 text-center">TBC</div>
+      <div class="col">
+        <details>
+          <summary class="h4">Sessions</summary>
+          Details TBC
+        </details>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
+      <div class="col-2 text-center"></div>
+      <div class="col text-center">
+        <h5>Lunch</h5>
+      </div>
+    </div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <h4>Keynote</h4>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">2:00 PM - 3:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">2:00 PM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -255,15 +257,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">3:00 PM - 3:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4 class="text-muted">Break</h4>
+      <div class="col text-cente">
+        <h5>Break</h5>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">3:30 PM - 4:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">3:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -272,8 +274,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">4:30 PM - 5:30 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">4:30 PM<br />(30 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -282,15 +284,16 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row">
-      <div class="col-2">5:00 PM</div>
+    <div class="row my-3">
+      <div class="col-2 text-center text-nowrap">5:00 PM</div>
       <div class="col-2 text-center"></div>
-      <div class="col">
-        <h4 class="text-muted">Event Ends</h4>
+      <div class="col text-center">
+        <h5>Event Ends</h5>
       </div>
     </div>
   </div>
 </details>
+<hr />
 
 <script>
   function expandAll(text_button) {
