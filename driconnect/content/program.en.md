@@ -270,7 +270,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-cente">
+      <div class="col text-center">
         <h5>Break</h5>
       </div>
     </div>
