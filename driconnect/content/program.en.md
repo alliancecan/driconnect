@@ -42,7 +42,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-nowrap">6:00 PM<br />↓<br />9:30 PM</div>
+      <div class="col-2 text-center text-nowrap">6:00 PM<br />↓<br />9:30 PM</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -293,7 +293,6 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
   </div>
 </details>
-<hr />
 
 <script>
   function expandAll(text_button) {
