@@ -190,8 +190,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <details>
           <summary class="h4">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
           <ul>
-            <li>Everyone welcome</li>
-            <li>Food & drink provided</li>
+            <li>Everyone welcome, registration needed</li>
+            <li>Food provided</li>
           </ul>
         </details>
       </div>
