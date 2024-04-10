@@ -14,11 +14,11 @@ lang_code: "fr"
 
 # Vers des solutions intégrées pour la recherche numérique
 
-Le thème de la conférence « Vers des solutions intégrées pour la recherche numérique » est né d’un désir d'élaborer un programme centré sur la collaboration et offrant du contenu qui met l'emphase sur des approches et des solutions novatrices afin d'éliminer les silos et de promouvoir la synergie.  En fin de compte, nous espérons que cette rencontre sur l'IRN favorisera une vision commune permettant d'exploiter le plein potentiel de l'infrastructure de recherche numérique (IRN) au Canada.
+Le thème de la conférence « Vers des solutions intégrées pour la recherche numérique » est né d'un désir d'élaborer un programme centré sur la collaboration et offrant du contenu qui met l'emphase sur des approches et des solutions novatrices afin d'éliminer les silos et de promouvoir la synergie.  En fin de compte, nous espérons que cette rencontre sur l'IRN favorisera une vision commune permettant d'exploiter le plein potentiel de l'infrastructure de recherche numérique (IRN) au Canada.
 
 Surveillez cette page pour les mises à jour du programme dont la version finale sera publiée en avril.
 
-# Soirée de la rencontre sur l’IRN et célébration d’ACENET
+# Soirée de la rencontre sur l'IRN et célébration d'ACENET
 
 Nous nous réjouissons d'offrir aux participantes et participants de la rencontre sur l'IRN pour un dîner de célébration le 27 mai 2024 ! Plus d'informations à venir.
 
@@ -71,7 +71,7 @@ Nous nous réjouissons d'offrir aux participantes et participants de la rencontr
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Heure</div>
       <div class="col-2 bg-primary text-white">Salle</div>
-      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">Cliquez pour tout afficher</a>)</div>
+      <div class="col bg-primary text-white">Description (<a class="text-underline" onclick="expand(this)">Cliquez pour tout afficher</a>)</div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00<br/>(60 min)</div>
@@ -321,7 +321,7 @@ Nous nous réjouissons d'offrir aux participantes et participants de la rencontr
     for (let details of all_details) {
       details.setAttribute("open", "")
     }
-    header.text = "Cliquez ici pour tout fermer"
+    header.text = "Cliquez pour tout fermer";
     header.onclick = function() { collapse(header); }
   }
   function collapse(header) {
@@ -329,7 +329,7 @@ Nous nous réjouissons d'offrir aux participantes et participants de la rencontr
     for (let details of all_details) {
       details.removeAttribute("open")
     }
-    header.text = "Cliquez ici pour tout afficher"
+    header.text = "Cliquez pour tout afficher";
     header.onclick = function() { expand(header); }
   }
 </script>
