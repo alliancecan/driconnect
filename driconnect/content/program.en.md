@@ -142,7 +142,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3">
+    <div class="row my-3" style="background-color: #1f2922">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -160,7 +160,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3">
+    <div class="row my-3"  style="background-color: #1f2829">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -173,7 +173,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3">
+    <div class="row my-3" style="background-color: #1f2129">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -354,7 +354,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:30 AM<br />(15 min.)</div>
+      <div class="col-2 text-center text-nowrap">9:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
@@ -376,146 +376,152 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <h5>Break</h5>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
-      <div class="col-2 text-center text-nowrap">11:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
-          <p>
-            Félix-Antoine Fortin, Director of Software Development, Calcul Québec
-          </p>
-          <p>
-            During TECC 2018, Félix-Antoine presented the idea of using the cloud to create a Slurm cluster with
-            Terraform. Join Félix-Antoine as he shares the evolution of Magic Castle over the past 6 years, its current
-            state and the road ahead. Everyone will benefit from attending: from people who have no idea what Magic
-            Castle is to experts.
-          </p>
-        </details>
+    <div style="background-color: #1f2922">
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">11:00 AM<br />(30 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
+            <p>
+              Félix-Antoine Fortin, Director of Software Development, Calcul Québec
+            </p>
+            <p>
+              During TECC 2018, Félix-Antoine presented the idea of using the cloud to create a Slurm cluster with
+              Terraform. Join Félix-Antoine as he shares the evolution of Magic Castle over the past 6 years, its current
+              state and the road ahead. Everyone will benefit from attending: from people who have no idea what Magic
+              Castle is to experts.
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">11:30 AM<br />(15 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
+            <p>
+              Étienne Dubeau, Calcul Québec
+            </p>
+            <p>
+              Like a canary in a coal mine, Magic Castle users have been alerting cloud administrators of potential
+              performance issues. A small group of developers came up with a solution — Project Magic Castle Speed —
+              designed to detect qualitative performance issues on the community cloud before they get reported by users.
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
+            <p>
+              Maxime Boissonneault, Calcul Québec
+            </p>
+            <p>
+              Join Maxime as he describes how the Research Support National Team (RSNT) dealt with advanced use cases,
+              including how they used Magic Castle to replace a build node with a full-fledged cluster in the cloud (with
+              Slurm, MFA and JupyterHub).
+            </p>
+          </details>
+        </div>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
-      <div class="col-2 text-center text-nowrap">11:30 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
-          <p>
-            Étienne Dubeau, Calcul Québec
-          </p>
-          <p>
-            Like a canary in a coal mine, Magic Castle users have been alerting cloud administrators of potential
-            performance issues. A small group of developers came up with a solution — Project Magic Castle Speed —
-            designed to detect qualitative performance issues on the community cloud before they get reported by users.
-          </p>
-        </details>
+    <div style="background-color: #1f2829">
+      <div class="row my-3" >
+        <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 2: Security Operations Data Collection</summary>
+            <p>
+              Darcy Hodgson, Senior Systems Analyst (Cybersecurity) and Zolboo Erdenebaatar, Cybersecurity Data Analyst
+              Digital Research Alliance of Canada
+            </p>
+            <p>
+              Join Darcy and Zolboo as they discuss how we get data from endpoints to the opensearch clusters, and most
+              importantly, what we do with the data from there. With a focus on security operations architecture and data
+              flows, this talk will also include information about the work being done to find threats using machine
+              learning.
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3" style="background-color: #1f2829">
+        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 2: Network Observability at 100Gbs</summary>
+            <p>
+              Ryan McRonald, University of Victoria (Arbutus site)
+            </p>
+            <p>
+              Why monitor network traffic? Why is monitoring difficult at 100 Gbs? How do we capture network data? What do
+              we do with all that data? What is next for network observability? Join Ryan for all the answers to these
+              questions and more.
+            </p>
+          </details>
+        </div>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
-      <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
-          <p>
-            Maxime Boissonneault, Calcul Québec
-          </p>
-          <p>
-            Join Maxime as he describes how the Research Support National Team (RSNT) dealt with advanced use cases,
-            including how they used Magic Castle to replace a build node with a full-fledged cluster in the cloud (with
-            Slurm, MFA and JupyterHub).
-          </p>
-        </details>
+    <div style="background-color: #1f2129">
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">11:00 AM<br />(15 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 3: Overview of the World Data System</summary>
+            <p>
+              Reyna Jenkyns, Associate Director, World Data System
+            </p>
+            <p>
+              Join Reyna as she provides a brief overview of World Data System (WDS), data repository certifications and
+              attributes. WDS is an affiliate member of the International Science Council and is hosted by Ocean Networks
+              Canada at the University of Victoria.
+            </p>
+          </details>
+        </div>
       </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2829">
-      <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 2: Security Operations Data Collection</summary>
-          <p>
-            Darcy Hodgson, Senior Systems Analyst (Cybersecurity) and Zolboo Erdenebaatar, Cybersecurity Data Analyst
-            Digital Research Alliance of Canada
-          </p>
-          <p>
-            Join Darcy and Zolboo as they discuss how we get data from endpoints to the opensearch clusters, and most
-            importantly, what we do with the data from there. With a focus on security operations architecture and data
-            flows, this talk will also include information about the work being done to find threats using machine
-            learning.
-          </p>
-        </details>
+      <div class="row my-3" style="background-color: #1f2129">
+        <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?</summary>
+            <p>
+              John Aspler, Canadian Research Knowledge Network (CRKN)
+            </p>
+            <p>
+              As digital research infrastructure matures in Canada, PIDs have become an increasingly important component.
+              Join John as he explains how PIDs can enable software systems to effectively exchange information, making
+              them more interoperable. John will also unpack how PIDs hold the promise of significant cost and time
+              savings for scholars and institutions, and at the same time, require significant investment and uptake.
+            </p>
+          </details>
+        </div>
       </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2829">
-      <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 2: Network Observability at 100Gbs</summary>
-          <p>
-            Ryan McRonald, University of Victoria (Arbutus site)
-          </p>
-          <p>
-            Why monitor network traffic? Why is monitoring difficult at 100 Gbs? How do we capture network data? What do
-            we do with all that data? What is next for network observability? Join Ryan for all the answers to these
-            questions and more.
-          </p>
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2129">
-      <div class="col-2 text-center text-nowrap">11:00 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 3: Overview of the World Data System</summary>
-          <p>
-            Reyna Jenkyns, Associate Director, World Data System
-          </p>
-          <p>
-            Join Reyna as she provides a brief overview of World Data System (WDS), data repository certifications and
-            attributes. WDS is an affiliate member of the International Science Council and is hosted by Ocean Networks
-            Canada at the University of Victoria.
-          </p>
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2129">
-      <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?</summary>
-          <p>
-            John Aspler, Canadian Research Knowledge Network (CRKN)
-          </p>
-          <p>
-            As digital research infrastructure matures in Canada, PIDs have become an increasingly important component.
-            Join John as he explains how PIDs can enable software systems to effectively exchange information, making
-            them more interoperable. John will also unpack how PIDs hold the promise of significant cost and time
-            savings for scholars and institutions, and at the same time, require significant investment and uptake.
-          </p>
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2129">
-      <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 3: At the Intersection of RDM and Generative AI</summary>
-          <p>
-            Alisa Rod, Research Data Management Specialist, McGill University<br />
-            Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
-          </p>
-          <p>
-            As digital research infrastructure matures in Canada, PIDs have become an increasingly important component.
-            Join John as he explains how PIDs can enable software systems to effectively exchange information, making
-            them more interoperable. John will also unpack how PIDs hold the promise of significant cost and time
-            savings for scholars and institutions, and at the same time, require significant investment and uptake.
-          </p>
-        </details>
+      <div class="row my-3" style="background-color: #1f2129">
+        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 3: At the Intersection of RDM and Generative AI</summary>
+            <p>
+              Alisa Rod, Research Data Management Specialist, McGill University<br />
+              Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
+            </p>
+            <p>
+              As digital research infrastructure matures in Canada, PIDs have become an increasingly important component.
+              Join John as he explains how PIDs can enable software systems to effectively exchange information, making
+              them more interoperable. John will also unpack how PIDs hold the promise of significant cost and time
+              savings for scholars and institutions, and at the same time, require significant investment and uptake.
+            </p>
+          </details>
+        </div>
       </div>
     </div>
     <div class="row my-3">
@@ -547,105 +553,111 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
-      <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 1: Horizon EU Funds</summary>
-          <p>Speaker TBC</p>
-          <p>
-            Horizon EU funds are now available to Canadians. What does this mean for data infrastructures to support
-            funding requirements for awardees, and what types of funds are there for us to receive funds for our work?
-          </p>
-        </details>
+    <div style="background-color: #1f2922">
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 1: Horizon EU Funds</summary>
+            <p>Speaker TBC</p>
+            <p>
+              Horizon EU funds are now available to Canadians. What does this mean for data infrastructures to support
+              funding requirements for awardees, and what types of funds are there for us to receive funds for our work?
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:15 PM<br />(45 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 1: Documentation Best Practices</summary>
+            <p>Kaitlin Newson and Meghan Landry, ACENET</p>
+            <p>
+              Join Kaitlin and Meghan as they cover best practices, writing for novice and non-technical users,
+              formatting, and accessibility. They’ll draw from Alliance docs examples and provide a session with general
+              appeal to anyone interested in improving their technical writing skills: in Alliance docs, RDM platforms,
+              software, & cybersecurity.
+            </p>
+          </details>
+        </div>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
-      <div class="col-2 text-center text-nowrap">2:15 PM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 1: Documentation Best Practices</summary>
-          <p>Kaitlin Newson and Meghan Landry, ACENET</p>
-          <p>
-            Join Kaitlin and Meghan as they cover best practices, writing for novice and non-technical users,
-            formatting, and accessibility. They’ll draw from Alliance docs examples and provide a session with general
-            appeal to anyone interested in improving their technical writing skills: in Alliance docs, RDM platforms,
-            software, & cybersecurity.
-          </p>
-        </details>
+    <div style="background-color: #1f2829">
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 2: Update on the UseGalaxy Canada Project</summary>
+            <p>Carol Gauthier, Université de Sherbrooke</p>
+            <p>
+              Join Carol for a brief update on UseGalaxy Canada (usegalaxy.ca): the platform, its status and usage, and
+              the roadmap ahead.
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:15 PM<br />(30 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 2: Hitchhiker’s Guide to Research Software</summary>
+            <p>Félix-Antoine Fortin, Director of Software Development, Calcul Québec</p>
+            <p>
+              Come explore the universe of research software with Félix-Antoine! You’ll learn about the range of people
+              building software (from researchers building their own data analytics pipelines to software engineers
+              building main systems), discover best practices in the community, and realize that yes indeed, the answer to
+              everything is 42.
+            </p>
+          </details>
+        </div>
+      </div>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:45 PM<br />(15 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 2: All for One, and One for All</summary>
+            <p>Lucas Nogueira, AI & Machine Learning Analyst, Calcul Québec and McGill University</p>
+            <p>
+              In this short, engaging talk Lucas describes how Calcul Québec provides additional self-serve options,
+              education on efficient coding, and cluster-specific documentation for users of their cloud compute services
+              for AI modelling. The result? Everyone’s use and management of the services improves.
+            </p>
+          </details>
+        </div>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2829">
-      <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 2: Update on the UseGalaxy Canada Project</summary>
-          <p>Carol Gauthier, Université de Sherbrooke</p>
-          <p>
-            Join Carol for a brief update on UseGalaxy Canada (usegalaxy.ca): the platform, its status and usage, and
-            the roadmap ahead.
-          </p>
-        </details>
+    <div style="background-color: #1f2129">
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:00 PM<br />(30 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 3: Session TBC</summary>
+            Details TBC
+          </details>
+        </div>
       </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2829">
-      <div class="col-2 text-center text-nowrap">2:15 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 2: Hitchhiker’s Guide to Research Software</summary>
-          <p>Félix-Antoine Fortin, Director of Software Development, Calcul Québec</p>
-          <p>
-            Come explore the universe of research software with Félix-Antoine! You’ll learn about the range of people
-            building software (from researchers building their own data analytics pipelines to software engineers
-            building main systems), discover best practices in the community, and realize that yes indeed, the answer to
-            everything is 42.
-          </p>
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2829">
-      <div class="col-2 text-center text-nowrap">2:45 PM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 2: All for One, and One for All</summary>
-          <p>Lucas Nogueira, AI & Machine Learning Analyst, Calcul Québec and McGill University</p>
-          <p>
-            In this short, engaging talk Lucas describes how Calcul Québec provides additional self-serve options,
-            education on efficient coding, and cluster-specific documentation for users of their cloud compute services
-            for AI modelling. The result? Everyone’s use and management of the services improves.
-          </p>
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2129">
-      <div class="col-2 text-center text-nowrap">2:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 3: Session TBC</summary>
-          Details TBC
-        </details>
-      </div>
-    </div>
-    <div class="row my-3" style="background-color: #1f2129">
-      <div class="col-2 text-center text-nowrap">2:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
-      <div class="col">
-        <details>
-          <summary class="h4">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
-          <p>
-            Roman Baranowski, University of British Columbia
-          </p>
-          <p>
-            Join Roman as he details the process of transitioning from OpenPBS to Slurm and offers a comparative view of
-            the two schedulers.
-          </p>
-        </details>
+      <div class="row my-3">
+        <div class="col-2 text-center text-nowrap">2:30 PM<br />(30 min.)</div>
+        <div class="col-2 text-center">TBC</div>
+        <div class="col">
+          <details>
+            <summary class="h4">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
+            <p>
+              Roman Baranowski, University of British Columbia
+            </p>
+            <p>
+              Join Roman as he details the process of transitioning from OpenPBS to Slurm and offers a comparative view of
+              the two schedulers.
+            </p>
+          </details>
+        </div>
       </div>
     </div>
     <div class="row my-3">
