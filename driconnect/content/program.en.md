@@ -27,7 +27,10 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 
 # Program
 
-<button class="btn text-primary" onclick="expandAll(this)">
+<a target="_blank" class="btn btn-link d-print-none" href="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=2&ctz=America/Halifax&bgcolor=%23d2ad29&mode=AGENDA&showNav=0&showDate=0&showCalendars=0&showTabs=0&showPrint=0&src=Y19iODhiMWY3MDlmYmIxZDQ2ZDEzZDE5NGE4MWI5MTk2MTNiN2JkMGFkZTY1NjMxMGEzZTkxOTJiYTBhNzIzZTAwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688">View program in Google Calendar</a>
+<a target="_blank" class="btn btn-primary d-print-none" href="https://calendar.google.com/calendar/u/0/r?cid=c_b88b1f709fbb1d46d13d194a81b919613b7bd0ade656310a3e9192ba0a723e00@group.calendar.google.com">Add to Google Calendar</a>
+<br />
+<button class="btn btn-link d-print-none" onclick="expandAll(this)">
   <strong>Click here</strong> to expand all sections below
   and all session descriptions.
 </button>
@@ -142,7 +145,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2922">
+    <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -160,7 +163,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3"  style="background-color: #1f2829">
+    <div class="row my-3" style="background-color: rgba(0,255,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -173,7 +176,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div class="row my-3" style="background-color: #1f2129">
+    <div class="row my-3" style="background-color: rgba(127,255,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
@@ -376,7 +379,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <h5>Break</h5>
       </div>
     </div>
-    <div style="background-color: #1f2922">
+    <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(30 min.)</div>
         <div class="col-2 text-center">TBC</div>
@@ -430,8 +433,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
     </div>
-    <div style="background-color: #1f2829">
-      <div class="row my-3" >
+    <div style="background-color: rgba(0,255,255,0.1)">
+      <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
         <div class="col-2 text-center">TBC</div>
         <div class="col">
@@ -450,7 +453,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           </details>
         </div>
       </div>
-      <div class="row my-3" style="background-color: #1f2829">
+      <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
         <div class="col-2 text-center">TBC</div>
         <div class="col">
@@ -468,7 +471,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
     </div>
-    <div style="background-color: #1f2129">
+    <div style="background-color: rgba(127,255,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(15 min.)</div>
         <div class="col-2 text-center">TBC</div>
@@ -486,7 +489,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           </details>
         </div>
       </div>
-      <div class="row my-3" style="background-color: #1f2129">
+      <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
         <div class="col-2 text-center">TBC</div>
         <div class="col">
@@ -504,7 +507,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           </details>
         </div>
       </div>
-      <div class="row my-3" style="background-color: #1f2129">
+      <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
         <div class="col-2 text-center">TBC</div>
         <div class="col">
@@ -553,7 +556,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </details>
       </div>
     </div>
-    <div style="background-color: #1f2922">
+    <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
         <div class="col-2 text-center">TBC</div>
@@ -585,7 +588,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
     </div>
-    <div style="background-color: #1f2829">
+    <div style="background-color: rgba(0,255,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
         <div class="col-2 text-center">TBC</div>
@@ -632,7 +635,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
     </div>
-    <div style="background-color: #1f2129">
+    <div style="background-color: rgba(127,255,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(30 min.)</div>
         <div class="col-2 text-center">TBC</div>
@@ -696,7 +699,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Closing</summary>
+          <summary class="h4">Closing Remarks</summary>
           <p>
             Mark Leggott, Director National & International Relations, Digital Research Alliance of Canada
           </p>
