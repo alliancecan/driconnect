@@ -27,7 +27,6 @@ le 27 mai 2024 ! Plus d'informations à venir.
 
 ### Programme
 
-Vous pouvez consulter le programme ou vous y abonner avec Google Calendar.
 <div class="d-print-none">
   <p>
     Vous pouvez <a target="_blank" href="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=2&ctz=America/Halifax&bgcolor=%23d2ad29&mode=AGENDA&showNav=0&showDate=0&showCalendars=0&showTabs=0&showPrint=0&src=Y19iODhiMWY3MDlmYmIxZDQ2ZDEzZDE5NGE4MWI5MTk2MTNiN2JkMGFkZTY1NjMxMGEzZTkxOTJiYTBhNzIzZTAwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688">consulter le programme</a> ou <a target="_blank" href="https://calendar.google.com/calendar/u/0/r?cid=c_b88b1f709fbb1d46d13d194a81b919613b7bd0ade656310a3e9192ba0a723e00@group.calendar.google.com">vous y abonner</a> avec Google Calendar.
