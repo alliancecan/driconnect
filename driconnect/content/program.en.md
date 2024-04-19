@@ -30,7 +30,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     You may <a target="_blank" href="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=2&ctz=America/Halifax&bgcolor=%23d2ad29&mode=AGENDA&showNav=0&showDate=0&showCalendars=0&showTabs=0&showPrint=0&src=Y19iODhiMWY3MDlmYmIxZDQ2ZDEzZDE5NGE4MWI5MTk2MTNiN2JkMGFkZTY1NjMxMGEzZTkxOTJiYTBhNzIzZTAwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688">view the program</a> or <a target="_blank" href="https://calendar.google.com/calendar/u/0/r?cid=c_b88b1f709fbb1d46d13d194a81b919613b7bd0ade656310a3e9192ba0a723e00@group.calendar.google.com">subscribe to it</a> with Google Calendar.
   </p>
   <br />
-  <button class="btn btn-link d-print-none ps-0" onclick="expandAll(this)">
+  <button class="btn btn-link ps-0" onclick="expandAll(this)">
     <strong>Click here</strong> to expand all sections below and all session descriptions.
   </button>
 </div>
@@ -40,7 +40,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 #### Day 0 - Preconference
 
 <details>
-  <summary class="h5">Sunday, May 26 <small class="text-muted">(click to expand)</small></summary>
+  <summary class="h5">Sunday, May 26<small class="text-muted d-print-none"> (click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
@@ -80,7 +80,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a onclick="expand(this)">click here to expand all</a>)</span></div>
+      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline" onclick="expand(this)">click here to expand all</a>)</span></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
@@ -168,10 +168,17 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h6">Stream 2: Data Management Plans</summary>
+          <summary class="h6">Stream 2: At the Intersection of RDM and Generative AI</summary>
           <p>
-            James Doiron, Research Data Management Strategies Director, University of Alberta Library Co-chair,
-            Alliance Data Management Planning Expert Group (DMPEG)
+            Alisa Rod, Research Data Management Specialist, McGill University<br />
+            Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
+          </p>
+          <p>
+            Can AI tools be used to write Data Management Plans, summarize funder
+            requirements, or suggest file naming conventions and folder structures? Join
+            Alisa and Sandy as they explore this topic, including how AI tools can be used to
+            write conference abstracts, assist with data analysis, create data description
+            documentation, and summarize metadata.
           </p>
         </details>
       </div>
@@ -265,7 +272,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">5:00 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6>No Programming</h6>
+        <h6 class="fst-italic">No Programming</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -291,13 +298,13 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 
 <details>
   <summary class="h5">
-    Tuesday, May 28 <small class="text-muted">(click to expand)</small>
+    Tuesday, May 28<small class="text-muted d-print-none"> (click to expand)</small>
   </summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
+      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline" onclick="expand(this)">click here to expand all</a>)</span></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
@@ -454,12 +461,12 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h6">Stream 2: Network Observability at 100Gbs</summary>
+            <summary class="h6">Stream 2: Network Observability at 100 Gb/s</summary>
             <p>
               Ryan McRonald, University of Victoria (Arbutus site)
             </p>
             <p>
-              Why monitor network traffic? Why is monitoring difficult at 100 Gbs? How do we capture network data? What do
+              Why monitor network traffic? Why is monitoring difficult at 100 Gb/s? How do we capture network data? What do
               we do with all that data? What is next for network observability? Join Ryan for all the answers to these
               questions and more.
             </p>
@@ -490,7 +497,9 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h6">Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?</summary>
+            <summary class="h6">
+              Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?
+            </summary>
             <p>
               John Aspler, Canadian Research Knowledge Network (CRKN)
             </p>
@@ -508,20 +517,12 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h6">Stream 3: At the Intersection of RDM and Generative AI</summary>
+            <summary class="h6">Stream 3: Data Management Plans</summary>
             <p>
-              Alisa Rod, Research Data Management Specialist, McGill University<br />
-              Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
-            </p>
-            <p>
-              Can AI tools be used to write Data Management Plans, summarize funder
-              requirements, or suggest file naming conventions and folder structures? Join
-              Alisa and Sandy as they explore this topic, including how AI tools can be used to
-              write conference abstracts, assist with data analysis, create data description
-              documentation, and summarize metadata.
+              James Doiron, Research Data Management Strategies Director, University of Alberta Library Co-chair,
+              Alliance Data Management Planning Expert Group (DMPEG)
             </p>
           </details>
-        </div>
       </div>
     </div>
     <div class="row my-3">
@@ -622,10 +623,12 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col">
           <details>
             <summary class="h6">Stream 2: All for One, and One for All</summary>
-            <p>Lucas Nogueira, AI & Machine Learning Analyst, Calcul Québec and McGill University</p>
+            <p>
+              Lucas Nogueira, AI & Machine Learning Analyst, Calcul Québec and McGill University
+            </p>
             <p>
               In this short, engaging talk Lucas describes how Calcul Québec provides additional self-serve options,
-              education on efficient coding, and cluster-specific documentation for users of their cloud compute services
+              education on efficient coding, and HPC cluster-specific documentation for users of their services
               for AI modelling. The result? Everyone’s use and management of the services improves.
             </p>
           </details>
@@ -638,8 +641,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h6">Stream 3: Session TBC</summary>
-            Details TBC
+            <summary class="h6">Stream 3: Domain Specific Sub-clouds within the Alliance Cloud</summary>
+            <p>
+              JJ Kavelaars and John Ouellette, National Research Council of Canada
+            </p>
+            <p>
+              CANFAR provides a domain specific cloud within the Alliance cloud infrastructure. What other domain
+              specific clouds are operating within the Alliance?  What common processes are they using? Do these clouds
+              burst and share capacity?  Join JJ and John as they explore these questions and more.
+            </p>
           </details>
         </div>
       </div>
@@ -675,6 +685,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           <summary class="h6">Future Vision of DRI</summary>
           <p>
             Felipe Pérez-Jvostov, Senior Analyst (Community Engagement & Planning) Digital Research Alliance of Canada
+          </p>
+          <p>
+            The Alliance is in the midst of submitting its vision for the future of DRI  to Innovation, Science and
+            Economic Development Canada (ISED) as part of its 5-year mandate renewal. This vision is data-centric,
+            recognizing that data is not merely a byproduct of research but a national asset, and its value must be
+            maximized for knowledge creation as well as economic and social impact. While challenging, this is an
+            exciting opportunity for Canada to be a leader in the knowledge economy and leverage its expansive history
+            of research excellence.
           </p>
         </details>
       </div>
