@@ -31,12 +31,18 @@ le 27 mai 2024 ! Plus d'informations à venir.
   <p>
     Vous pouvez <a target="_blank" href="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=2&ctz=America/Halifax&bgcolor=%23d2ad29&mode=AGENDA&showNav=0&showDate=0&showCalendars=0&showTabs=0&showPrint=0&src=Y19iODhiMWY3MDlmYmIxZDQ2ZDEzZDE5NGE4MWI5MTk2MTNiN2JkMGFkZTY1NjMxMGEzZTkxOTJiYTBhNzIzZTAwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688">consulter le programme</a> ou <a target="_blank" href="https://calendar.google.com/calendar/u/0/r?cid=c_b88b1f709fbb1d46d13d194a81b919613b7bd0ade656310a3e9192ba0a723e00@group.calendar.google.com">vous y abonner</a> avec Google Calendar.
   </p>
-  <br />
   <button class="btn btn-link ps-0" onclick="expandAll(this)">
     <strong>Cliquez ici</strong> pour afficher toutes les sections ci-dessous, de même que toutes les descriptions de séances.
   </button>
 </div>
-
+<div class="alert alert-info d-flex align-items-center" role="alert">
+  <svg class="bi flex-shrink-0 me-2" role="img" aria-label="Info:">
+    <use xlink:href="#info-fill"/>
+  </svg>
+  <div>
+    Toutes les heures ci-dessous sont indiquées en heure avancée de l’Atlantique (UTC-3).
+  </div>
+</div>
 <hr />
 
 #### Jour 0 - Préconférence
@@ -778,3 +784,9 @@ le 27 mai 2024 ! Plus d'informations à venir.
     header.onclick = function() { expand(header); }
   }
 </script>
+
+<svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="info-fill" viewBox="0 0 16 16">
+    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
+  </symbol>
+</svg>
