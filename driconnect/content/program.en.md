@@ -514,10 +514,11 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
               Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
             </p>
             <p>
-              As digital research infrastructure matures in Canada, PIDs have become an increasingly important component.
-              Join John as he explains how PIDs can enable software systems to effectively exchange information, making
-              them more interoperable. John will also unpack how PIDs hold the promise of significant cost and time
-              savings for scholars and institutions, and at the same time, require significant investment and uptake.
+              Can AI tools be used to write Data Management Plans, summarize funder
+              requirements, or suggest file naming conventions and folder structures? Join
+              Alisa and Sandy as they explore this topic, including how AI tools can be used to
+              write conference abstracts, assist with data analysis, create data description
+              documentation, and summarize metadata.
             </p>
           </details>
         </div>
