@@ -86,7 +86,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
-        <h6 class="font-italic">Registration & Breakfast</h6>
+        <h6 class="fst-italic">Registration & Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -127,7 +127,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h4 class="font-italic">Break</h4>
+        <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -197,7 +197,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6 class="font-italic">Lunch</h6>
+        <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -243,7 +243,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h5 class="font-italic">Break</h5>
+        <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -303,7 +303,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
       <div class="col">
-        <h6 class="font-italic">Breakfast</h6>
+        <h6 class="fst-italic">Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -372,7 +372,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6 class="font-italic">Break</h6>
+        <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div style="background-color: rgba(0,255,127,0.1)">
@@ -528,7 +528,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6 class="font-italic">Lunch</h6>
+        <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -664,7 +664,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6 class="font-italic">Break</h6>
+        <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -719,7 +719,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center text-nowrap">5:00 PM</div>
       <div class="col-2 text-center"></div>
       <div class="col">
-        <h6 class="font-italic">Event Ends</h6>
+        <h6 class="fst-italic">Event Ends</h6>
       </div>
     </div>
   </div>
