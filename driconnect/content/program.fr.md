@@ -763,7 +763,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
     text_button.onclick = function() { expandAll(text_button); }
   }
   function expand(header) {
-    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    let all_details = header.parentNode.parentNode.parentNode.parentNode.getElementsByTagName("details")
     for (let details of all_details) {
       details.setAttribute("open", "")
     }
@@ -771,7 +771,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
     header.onclick = function() { collapse(header); }
   }
   function collapse(header) {
-    let all_details = header.parentNode.parentNode.parentNode.getElementsByTagName("details")
+    let all_details = header.parentNode.parentNode.parentNode.parentNode.getElementsByTagName("details")
     for (let details of all_details) {
       details.removeAttribute("open")
     }
