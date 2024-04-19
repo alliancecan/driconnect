@@ -523,6 +523,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
               Alliance Data Management Planning Expert Group (DMPEG)
             </p>
           </details>
+        </div>
       </div>
     </div>
     <div class="row my-3">

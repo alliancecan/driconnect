@@ -535,6 +535,7 @@ Vous pouvez consulter le programme ou vous y abonner avec Google Calendar.
               l'Alberta, Coprésident du groupe d'experts sur la planification de la gestion des données (GEPGD) de l'Alliance
             </p>
           </details>
+        </div>
       </div>
     </div>
     <div class="row my-3">
