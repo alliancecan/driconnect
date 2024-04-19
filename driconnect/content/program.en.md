@@ -12,18 +12,18 @@ lang_code: "en"
     stretch=true >}}
 {{< /paige/hero >}}
 
-# Spring Digital Research Infrastructure Connect
+### Spring Digital Research Infrastructure Connect
 
 The theme of the conference “Towards Integrated Solutions for Digital Research” was born out of a desire to craft a
 program that keeps collaboration at its core and offers content that highlights innovative approaches and solutions to
 breaking down silos and promoting synergy. Ultimately, our hope is that DRI Connect will contribute to a shared vision
 that leverages the full potential of digital research infrastructure (DRI) in Canada.
 
-# DRI Connect Dinner and ACENET Celebration
+#### DRI Connect Dinner and ACENET Celebration
 
 We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024! More information to come.
 
-# Program
+### Program
 
 <div class="d-print-none">
   <p>
@@ -37,10 +37,10 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 
 <hr />
 
-## Day 0 - Preconference
+#### Day 0 - Preconference
 
 <details>
-  <summary class="h3">Sunday, May 26 <small class="text-muted">(click to expand)</small></summary>
+  <summary class="h5">Sunday, May 26 <small class="text-muted">(click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
@@ -57,7 +57,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">"No Host" Gathering</summary>
+          <summary class="h6">"No Host" Gathering</summary>
           <ul>
             <li>Everyone welcome</li>
             <li>Folks responsible for own food and drink</li>
@@ -70,23 +70,23 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 
 <hr />
 
-## Day 1-2 - Conference
+#### Day 1-2 - Conference
 
 <details>
-  <summary class="h3">
-    Monday, May 27 <small class="text-muted">(click to expand)</small>
+  <summary class="h5">
+    Monday, May 27 <small class="text-muted d-print-none">(click to expand)</small>
   </summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">click here to expand all</a>)</div>
+      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a onclick="expand(this)">click here to expand all</a>)</span></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
-      <div class="col text-center">
-        <h5>Registration & Breakfast</h5>
+      <div class="col">
+        <h6 class="font-italic">Registration & Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -94,7 +94,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Welcome Remarks</summary>
+          <summary class="h6">Welcome Remarks</summary>
           <p>
             George Ross (CEO, Digital Research Alliance of Canada)
           </p>
@@ -112,7 +112,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Updates from Alliance RDM Network of Experts</summary>
+          <summary class="h6">Updates from Alliance RDM Network of Experts</summary>
           <p>
             Moderator Lee Wilson, Director Research Data Management, Digital Research Alliance of Canada
           </p>
@@ -126,8 +126,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Break</h5>
+      <div class="col">
+        <h4 class="font-italic">Break</h4>
       </div>
     </div>
     <div class="row my-3">
@@ -135,7 +135,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Proposed Digital Research Infrastructure Operational Organization Model</summary>
+          <summary class="h6">Proposed Digital Research Infrastructure Operational Organization Model</summary>
           <p>
             Brock Kahanyshyn, VP, Operations and Security, Digital Research Alliance of Canada
           </p>
@@ -150,7 +150,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
+          <summary class="h6">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
           <p>
             John Morton, Director of Technology, SHARCNET<br />
             Nathan Wielenga, Senior Middleware Developer, Digital Research Alliance of Canada<br />
@@ -168,7 +168,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Stream 2: Data Management Plans</summary>
+          <summary class="h6">Stream 2: Data Management Plans</summary>
           <p>
             James Doiron, Research Data Management Strategies Director, University of Alberta Library Co-chair,
             Alliance Data Management Planning Expert Group (DMPEG)
@@ -181,7 +181,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Stream 3: Seeking Balance within Canada’s Largest Research Cloud Environment</summary>
+          <summary class="h6">Stream 3: Seeking Balance within Canada’s Largest Research Cloud Environment</summary>
           <p>
             Jeff Albert, Manager and Architect of ARC Infrastructure, University of Victoria<br />
             Veronica Augustin, Research Project Manager, University of Victoria
@@ -196,8 +196,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Lunch</h5>
+      <div class="col">
+        <h6 class="font-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -205,7 +205,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Keynote</summary>
+          <summary class="h6">Keynote</summary>
           <p>
             Dr. John Archibald, Archibald Laboratory for Genome Biology at Dalhousie University
           </p>
@@ -228,7 +228,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Updates from ARC National Teams</summary>
+          <summary class="h6">Updates from ARC National Teams</summary>
           <p>
             Moderator Patrick Mann, Director Operations, Digital Research Alliance of Canada
           </p>
@@ -242,8 +242,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Break</h5>
+      <div class="col">
+        <h5 class="font-italic">Break</h5>
       </div>
     </div>
     <div class="row my-3">
@@ -251,7 +251,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Collaboration Workshop</summary>
+          <summary class="h6">Collaboration Workshop</summary>
           <p>
             This workshop has been built around our conference theme “Towards Integrated Solutions for Digital
             Research.” We hope to come out of this collaboration session with a better understanding across the pillars
@@ -264,8 +264,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">5:00 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>No Programming</h5>
+      <div class="col">
+        <h6>No Programming</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -278,7 +278,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
+          <summary class="h6">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
           <ul>
             <li>Everyone welcome, registration needed</li>
             <li>Food provided</li>
@@ -290,7 +290,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
 </details>
 
 <details>
-  <summary class="h3">
+  <summary class="h5">
     Tuesday, May 28 <small class="text-muted">(click to expand)</small>
   </summary>
   <div class="container">
@@ -302,8 +302,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
       <div class="col-2 text-center">TBC</div>
-      <div class="col text-center">
-        <h5>Breakfast</h5>
+      <div class="col">
+        <h6 class="font-italic">Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -311,7 +311,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Introducing CQORC: Calcul Québec's One Ring Coordinator</summary>
+          <summary class="h6">Introducing CQORC: Calcul Québec's One Ring Coordinator</summary>
           <p>
             Maxime Boissonneault, Calcul Québec<br />
             Charles Coulombe, Calcul Québec
@@ -329,7 +329,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">The National ARC Training Coordination Council</summary>
+          <summary class="h6">The National ARC Training Coordination Council</summary>
           <p>
             Ramses Van zon, Chair, National ARC Training Coordination Council
           </p>
@@ -345,7 +345,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">The Search for ACENET’s Training Portal</summary>
+          <summary class="h6">The Search for ACENET’s Training Portal</summary>
           <p>
             Grace Fishbein, ACENET
           </p>
@@ -361,7 +361,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Panel: Training across DRI</summary>
+          <summary class="h6">Panel: Training across DRI</summary>
           <p>
             Moderator Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada
           </p>
@@ -371,8 +371,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Break</h5>
+      <div class="col">
+        <h6 class="font-italic">Break</h6>
       </div>
     </div>
     <div style="background-color: rgba(0,255,127,0.1)">
@@ -381,7 +381,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
+            <summary class="h6">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
             <p>
               Félix-Antoine Fortin, Director of Software Development, Calcul Québec
             </p>
@@ -399,7 +399,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
+            <summary class="h6">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
             <p>
               Étienne Dubeau, Calcul Québec
             </p>
@@ -416,7 +416,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
+            <summary class="h6">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
             <p>
               Maxime Boissonneault, Calcul Québec
             </p>
@@ -435,7 +435,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 2: Security Operations Data Collection</summary>
+            <summary class="h6">Stream 2: Security Operations Data Collection</summary>
             <p>
               Darcy Hodgson, Senior Systems Analyst (Cybersecurity) and Zolboo Erdenebaatar, Cybersecurity Data Analyst
               Digital Research Alliance of Canada
@@ -454,7 +454,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 2: Network Observability at 100Gbs</summary>
+            <summary class="h6">Stream 2: Network Observability at 100Gbs</summary>
             <p>
               Ryan McRonald, University of Victoria (Arbutus site)
             </p>
@@ -473,7 +473,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 3: Overview of the World Data System</summary>
+            <summary class="h6">Stream 3: Overview of the World Data System</summary>
             <p>
               Reyna Jenkyns, Associate Director, World Data System
             </p>
@@ -490,7 +490,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?</summary>
+            <summary class="h6">Stream 3: Persistent IDentifiers (PIDs) - What are they and why do they matter?</summary>
             <p>
               John Aspler, Canadian Research Knowledge Network (CRKN)
             </p>
@@ -508,7 +508,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 3: At the Intersection of RDM and Generative AI</summary>
+            <summary class="h6">Stream 3: At the Intersection of RDM and Generative AI</summary>
             <p>
               Alisa Rod, Research Data Management Specialist, McGill University<br />
               Sandy Hervieux, Head Librarian (Nahum Gelber Law Library), McGill University
@@ -527,8 +527,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Lunch</h5>
+      <div class="col">
+        <h6 class="font-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -536,7 +536,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Keynote</summary>
+          <summary class="h6">Keynote</summary>
           <p>
             Dr. Laurence Perreault Levasseur<br />
             Canada Research Chair in Computational Cosmology and Artificial Intelligence
@@ -559,7 +559,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 1: Horizon EU Funds</summary>
+            <summary class="h6">Stream 1: Horizon EU Funds</summary>
             <p>Speaker TBC</p>
             <p>
               Horizon EU funds are now available to Canadians. What does this mean for data infrastructures to support
@@ -573,7 +573,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 1: Documentation Best Practices</summary>
+            <summary class="h6">Stream 1: Documentation Best Practices</summary>
             <p>Kaitlin Newson and Meghan Landry, ACENET</p>
             <p>
               Join Kaitlin and Meghan as they cover best practices, writing for novice and non-technical users,
@@ -591,7 +591,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 2: Update on the UseGalaxy Canada Project</summary>
+            <summary class="h6">Stream 2: Update on the UseGalaxy Canada Project</summary>
             <p>Carol Gauthier, Université de Sherbrooke</p>
             <p>
               Join Carol for a brief update on UseGalaxy Canada (usegalaxy.ca): the platform, its status and usage, and
@@ -605,7 +605,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 2: Hitchhiker’s Guide to Research Software</summary>
+            <summary class="h6">Stream 2: Hitchhiker’s Guide to Research Software</summary>
             <p>Félix-Antoine Fortin, Director of Software Development, Calcul Québec</p>
             <p>
               Come explore the universe of research software with Félix-Antoine! You’ll learn about the range of people
@@ -621,7 +621,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 2: All for One, and One for All</summary>
+            <summary class="h6">Stream 2: All for One, and One for All</summary>
             <p>Lucas Nogueira, AI & Machine Learning Analyst, Calcul Québec and McGill University</p>
             <p>
               In this short, engaging talk Lucas describes how Calcul Québec provides additional self-serve options,
@@ -638,7 +638,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 3: Session TBC</summary>
+            <summary class="h6">Stream 3: Session TBC</summary>
             Details TBC
           </details>
         </div>
@@ -648,7 +648,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col-2 text-center">TBC</div>
         <div class="col">
           <details>
-            <summary class="h4">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
+            <summary class="h6">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
             <p>
               Roman Baranowski, University of British Columbia
             </p>
@@ -663,8 +663,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Break</h5>
+      <div class="col">
+        <h6 class="font-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
@@ -672,7 +672,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Future Vision of DRI</summary>
+          <summary class="h6">Future Vision of DRI</summary>
           <p>
             Felipe Pérez-Jvostov, Senior Analyst (Community Engagement & Planning) Digital Research Alliance of Canada
           </p>
@@ -684,7 +684,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Approaches to Sensitive Data across the DRI Landscape</summary>
+          <summary class="h6">Approaches to Sensitive Data across the DRI Landscape</summary>
           <p>
             Victoria Smith, Data Governance & Ethics Lead, Digital Research Alliance of Canada
           </p>
@@ -696,7 +696,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2 text-center">TBC</div>
       <div class="col">
         <details>
-          <summary class="h4">Closing Remarks</summary>
+          <summary class="h6">Closing Remarks</summary>
           <p>
             Mark Leggott, Director National & International Relations, Digital Research Alliance of Canada
           </p>
@@ -718,8 +718,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">5:00 PM</div>
       <div class="col-2 text-center"></div>
-      <div class="col text-center">
-        <h5>Event Ends</h5>
+      <div class="col">
+        <h6 class="font-italic">Event Ends</h6>
       </div>
     </div>
   </div>
