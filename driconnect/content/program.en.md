@@ -365,10 +365,6 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           <p>
             Moderator Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada
           </p>
-          <p>
-            Grace shares the lessons learned from a multi-year search for ACENET’s training portal. From determining
-            needs to landing on the project they now have, with some detours along the way.
-          </p>
         </details>
       </div>
     </div>
