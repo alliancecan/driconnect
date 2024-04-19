@@ -158,7 +158,6 @@ le 27 mai 2024 ! Plus d'informations à venir.
         <details>
           <summary class="h6">Volet 1 : Introduction au calcul de haute performance (CHP), aux grappes et à l'ordonnancement</summary>
           <p>
-            John Morton, directeur de la technologie, SHARCNET<br />
             Nathan Wielenga, développeur principal, Alliance de recherche numérique du Canada</br>
             Kamil Marcinkowski, Université de l'Alberta
           </p>

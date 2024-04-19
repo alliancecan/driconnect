@@ -154,7 +154,6 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <details>
           <summary class="h6">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
           <p>
-            John Morton, Director of Technology, SHARCNET<br />
             Nathan Wielenga, Senior Middleware Developer, Digital Research Alliance of Canada<br />
             Kamil Marcinkowski, University of Alberta
           </p>
