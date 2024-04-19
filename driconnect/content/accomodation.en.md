@@ -2,6 +2,7 @@
 slug: "accommodations"
 title: "Accommodations"
 lang_code: "en"
+translationKey: "accommodation"
 ---
 We have reserved blocks at two hotels, both a short walking distance to the Halifax Convention Centre. Please use the links below for a preferred rate.  
 

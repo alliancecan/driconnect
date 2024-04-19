@@ -2,6 +2,7 @@
 slug: "hebergement"
 title: "Hébergement"
 lang_code: "fr"
+translationKey: "accommodation"
 ---
 
 Nous avons réservé des chambres dans deux hôtels, tous deux situés à courte distance de marche du Halifax Convention Centre. Veuillez utiliser les liens ci-dessous pour obtenir un tarif préférentiel. 
