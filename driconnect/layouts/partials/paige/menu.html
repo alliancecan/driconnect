@@ -40,7 +40,7 @@
         {{ end }}
         {{ if $page.IsTranslated }}
             {{ range $i, $e := .Translations }}
-                {{ if $i }}, {{ end }}<a href="{{ .Permalink }}" class="nav-link btn">{{ $e.Language.LanguageName }}</a>
+                {{ if $i }}, {{ end }}<a href="{{ .RelPermalink }}" class="nav-link btn">{{ $e.Language.LanguageName }}</a>
             {{ end}}
         {{ end }}
         </div>
