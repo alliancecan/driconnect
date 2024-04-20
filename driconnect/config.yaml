@@ -33,9 +33,6 @@ languages:
       - name: "Location"
         url: "/location/"
         weight: 5
-      - name: "=> Français / Accueil"
-        url: "/fr/"
-        weight: 99
     weight: 10
   fr:
     languageName: "Français"
@@ -56,7 +53,4 @@ languages:
       - name: "Lieu"
         url: "/fr/lieu/"
         weight: 5
-      - name: "=> English / Home"
-        url: "/"
-        weight: 99
     weight: 20

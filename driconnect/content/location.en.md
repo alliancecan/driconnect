@@ -2,6 +2,7 @@
 slug: "location"
 title: "Location"
 lang_code: "en"
+translationKey: "location"
 ---
 
 This year’s DRI Connect will be held in Halifax, Nova Scotia from May 27-28, 2024, at the Halifax Convention Centre (1650 Argyle Street, Halifax, Nova Scotia). 
