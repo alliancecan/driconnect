@@ -1,5 +1,6 @@
 ---
 lang_code: "en"
+translationKey: "home"
 ---
 
 {{< paige/hero

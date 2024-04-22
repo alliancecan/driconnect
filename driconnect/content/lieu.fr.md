@@ -2,6 +2,7 @@
 slug: "lieu"
 title: "Lieu"
 lang_code: "fr"
+translationKey: "location"
 ---
 
 Cette année, la rencontre sur l’IRN se tiendra à Halifax, en Nouvelle-Écosse, les 27 et 28 mai 2024, au Halifax Convention Centre (1650 Argyle Street, Halifax, Nouvelle-Écosse). 

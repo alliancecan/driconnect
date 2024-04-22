@@ -2,6 +2,7 @@
 slug: "inscription"
 title: "Inscription"
 lang_code: "fr"
+translationKey: "registration"
 ---
 
 Pour vous inscrire à la rencontre sur l’IRN de cette année, et y assister en personne ou virtuellement, veuillez cliquer sur le lien suivant: https://events.myconferencesuite.com/DRIConnect/reg/landing
