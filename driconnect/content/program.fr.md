@@ -23,8 +23,7 @@ numérique (IRN) au Canada.
 
 #### Soirée de la rencontre sur l'IRN et célébration d'ACENET
 
-Nous nous réjouissons d'offrir aux participantes et participants de la rencontre sur l'IRN pour un dîner de célébration
-le 27 mai 2024 ! Plus d'informations à venir.
+Un souper de célébration sera offert aux participantes et participants de la rencontre sur l’IRN le 27 mai 2024. Plus d’informations à venir.
 
 ### Programme
 
@@ -37,7 +36,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
   </button>
 </div>
 <div class="alert alert-info" role="alert">
-  Toutes les heures ci-dessous sont indiquées en heure avancée de l’Atlantique (UTC-3).
+  Le programme est en heure de l'Atlantique (UTC-3).
 </div>
 <hr />
 
@@ -84,7 +83,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Heure</div>
       <div class="col-2 bg-primary text-white">Salle</div>
-      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline" onclick="expand(this)">Cliquez pour tout afficher</a>)</span></div>
+      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline text-white" onclick="expand(this)">Cliquez pour tout afficher</a>)</span></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00<br/>(60 min)</div>
@@ -159,7 +158,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
         <details>
           <summary class="h6">Volet 1 : Introduction au calcul de haute performance (CHP), aux grappes et à l'ordonnancement</summary>
           <p>
-            Nathan Wielenga, développeur principal, Alliance de recherche numérique du Canada</br>
+            Nathan Wielenga, développeur principal d'intergiciels, Alliance de recherche numérique du Canada</br>
             Kamil Marcinkowski, Université de l'Alberta
           </p>
           <p>
@@ -218,7 +217,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
       <div class="col-2 text-center">à venir</div>
       <div class="col">
         <details>
-          <summary class="h6">Discours</summary>
+          <summary class="h6">Séance principale</summary>
           <p>
             John Archibald, Ph. D., Archibald Laboratory for Genome Biology, Université Dalhousie
           </p>
@@ -311,7 +310,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
     <div class="row mt-2">
       <div class="col-2 bg-primary text-white">Heure</div>
       <div class="col-2 bg-primary text-white">Salle</div>
-      <div class="col bg-primary text-white">Description (<a onclick="expand(this)">Cliquez pour tout afficher</a>)</div>
+      <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline text-white" onclick="expand(this)">Cliquez pour tout afficher</a>)</span></div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00<br />(60 min)</div>
@@ -550,7 +549,7 @@ le 27 mai 2024 ! Plus d'informations à venir.
       <div class="col-2 text-center">à venir</div>
       <div class="col">
         <details>
-          <summary class="h6">Discours</summary>
+          <summary class="h6">Séance principale</summary>
           <p>
             Laurence Perreault-Levasseur, Ph. D<br />
             Chaire de recherche du Canada en cosmologie informatique et intelligence artificielle
@@ -655,11 +654,17 @@ le 27 mai 2024 ! Plus d'informations à venir.
         <div class="col-2 text-center">à venir</div>
         <div class="col">
           <details>
-            <summary class="h6">Volet 3 : séance à déterminer</summary>
+            <summary class="h6">Volet 3 : sous-connexions infonuagiques spécifiques au domaine au sein de l’infrastructure infonuagique de l'Alliance</summary>
             <p>
-              Details à venir
+              JJ Kavelaars et John Ouellette, Conseil national de recherches du Canada
             </p>
-            <!-- pending translation -->
+            <p>
+            CANFAR fournit un service infonuagique spécifique au domaine au sein de l'infrastructure en infonuagique de
+            l'Alliance. Quels sont les autres services infonuagiques spécifiques au domaine qui opèrent au sein de
+            l’infrastructure infonuagique de l'Alliance? De quels processus communs se servent-ils ? Y a-t-il éclatement
+            de ces services infonuagiques et leurs capacités sont-elles partagées? Joignez-vous à JJ et John pour
+            examiner ces questions et bien d’autres.
+            </p>
           </details>
         </div>
       </div>
@@ -692,11 +697,19 @@ le 27 mai 2024 ! Plus d'informations à venir.
       <div class="col-2 text-center">à venir</div>
       <div class="col">
         <details>
-          <summary class="h6">Vision d'avenir de l'IRN</summary>
+          <summary class="h6">Vision future de l'IRN</summary>
           <p>
-            Felipe Pérez-Jvostov, analyste principal, engagement communautaire et planification, Alliance de recherche numérique du Canada
+            Felipe Pérez-Jvostov, analyste principal (mobilisation communautaire et planification) Alliance de recherche numérique du Canada
           </p>
-          <!-- pending translation -->
+          <p>
+          L'Alliance est sur le point de soumettre sa vision de l'avenir de l’IRN à Innovation, Sciences et
+          Développement économique Canada (ISDE) dans le cadre du renouvellement de son mandat quinquennal. Cette vision
+           est centrée sur les données, et elle s’articule autour de la reconnaissance selon laquelle les données sont
+           bien plus qu’un sous-produit de la recherche mais un actif national dont la leur valeur doit être maximisée
+           pour la création de connaissances et d'impact économique et social. C’est un énorme défi, certes, mais il
+           s'agit d'une occasion passionnante pour le Canada de se positionner comme chef de file dans l'économie de la
+           connaissance et de tirer parti de sa longue histoire d'excellence en matière de recherche.
+          </p>
         </details>
       </div>
     </div>
