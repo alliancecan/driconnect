@@ -523,12 +523,12 @@ Un souper de célébration sera offert aux participantes et participants de la r
           </details>
         </div>
       </div>
-      <div class="row my-3" style="background-color: rgba(0,127,255,0.1)">
+      <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
         <div class="col-2 text-center">à venir</div>
         <div class="col">
           <details>
-            <summary class="h6">Volet 2 : Plans de gestion des données</summary>
+            <summary class="h6">Volet 3 : Plans de gestion des données</summary>
             <p>
               James Doiron, directeur de la stratégie de gestion des données de recherche, bibliothèque de l'Université de
               l'Alberta, Coprésident du groupe d'experts sur la planification de la gestion des données (GEPGD) de l'Alliance
