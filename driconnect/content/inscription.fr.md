@@ -5,9 +5,9 @@ lang_code: "fr"
 translationKey: "registration"
 ---
 
-Pour vous inscrire à la rencontre sur l’IRN de cette année, et y assister en personne ou virtuellement, veuillez cliquer sur le lien suivant: https://events.myconferencesuite.com/DRIConnect/reg/landing
-
-À titre de rappel, le nombre de places pour assister en personne à la rencontre sont limitées. Veuillez vous inscrire dès aujourd'hui pour réserver votre place. 
+Les inscriptions pour participer en personne sont complètes. Toutefois, la participation virtuelle reste ouverte.
+Veuillez cliquez sur le lien suivant pour vous inscrire:
+https://events.myconferencesuite.com/DRIConnect/reg/landing
 
 # Coût 
 
