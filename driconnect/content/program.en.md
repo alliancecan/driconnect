@@ -87,14 +87,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Registration & Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Welcome Remarks</summary>
@@ -112,7 +112,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:30 AM<br />(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Updates from Alliance RDM Network of Experts</summary>
@@ -128,29 +128,34 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Proposed Digital Research Infrastructure Operational Organization Model</summary>
+          <summary class="h6">Future Vision of DRI</summary>
           <p>
-            Brock Kahanyshyn, VP, Operations and Security, Digital Research Alliance of Canada
+            Felipe Pérez-Jvostov, Senior Analyst (Community Engagement & Planning) Digital Research Alliance of Canada
           </p>
           <p>
-            What’s next? And how do we get there? Join Brock as he outlines the roadmap for DRI operations.
+            The Alliance is in the midst of submitting its vision for the future of DRI to Innovation, Science and
+            Economic Development Canada (ISED) as part of its 5-year mandate renewal. This vision is data-centric,
+            recognizing that data is not merely a byproduct of research but a national asset, and its value must be
+            maximized for knowledge creation as well as economic and social impact. While challenging, this is an
+            exciting opportunity for Canada to be a leader in the knowledge economy and leverage its expansive history
+            of research excellence.
           </p>
         </details>
       </div>
     </div>
     <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">101</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
@@ -167,7 +172,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3" style="background-color: rgba(0,127,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">102</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 2: At the Intersection of RDM and Generative AI</summary>
@@ -187,7 +192,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3" style="background-color: rgba(255,127,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">103</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 3: Seeking Balance within Canada’s Largest Research Cloud Environment</summary>
@@ -204,14 +209,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Keynote</summary>
@@ -234,7 +239,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">2:00 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Updates from ARC National Teams</summary>
@@ -250,14 +255,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:30 PM<br />(90 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Collaboration Workshop</summary>
@@ -310,14 +315,14 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:00 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Introducing CQORC: Calcul Québec's One Ring Coordinator</summary>
@@ -335,7 +340,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:15 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">The National ARC Training Coordination Council</summary>
@@ -351,10 +356,10 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:30 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">The Search for ACENET’s Training Portal</summary>
+          <summary class="h6">The Search for ACENET's Training Portal</summary>
           <p>
             Grace Fishbein, ACENET
           </p>
@@ -367,7 +372,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Panel: Training across DRI</summary>
@@ -379,7 +384,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
@@ -387,7 +392,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(30 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
@@ -405,7 +410,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:30 AM<br />(15 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
@@ -422,7 +427,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
@@ -441,7 +446,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Security Operations Data Collection</summary>
@@ -460,7 +465,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Network Observability at 100 Gb/s</summary>
@@ -479,7 +484,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00 AM<br />(15 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Overview of the World Data System</summary>
@@ -496,7 +501,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">
@@ -516,13 +521,27 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
-            <summary class="h6">Stream 3: Data Management Plans</summary>
+            <summary class="h6">Stream 3: Supporting Research with Data Management Plans & DMP Assistant!</summary>
             <p>
               James Doiron, Research Data Management Strategies Director, University of Alberta Library Co-chair,
-              Alliance Data Management Planning Expert Group (DMPEG)
+              Alliance Data Management Planning Expert Group (DMPEG)<br />
+              Luc Letarte, CIPP-C, CC, Sensitive Research Specialist, Advanced Research Computing,
+              University of British Columbia
+            </p>
+            <p>
+              This session will provide participants with information, guidance, and resources for supporting research
+              through the development and implementation of data management plans (DMPs). Topics covered include the
+              importance and benefits of DMPs, how they intersect with and support cybersecurity, and evolving
+              requirements relating to the Tri-Agency research data management (RDM) policy. Specific focus will be
+              given to the Digital Research Alliance of Canada DMP Assistant platform that is hosted nationally at the
+              University of Alberta Library, along with a new DMP template developed by the Alliance’s DMP Expert Group
+              (DMPEG). This new template is targeted specifically to support researchers in meeting DMP requirements at
+              the funding opportunity application stage. Additional information relating to an accompanying assessment
+              rubric that is currently in development will be shared. Time will be reserved for questions and
+              discussion.
             </p>
           </details>
         </div>
@@ -530,17 +549,17 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Keynote</summary>
+          <summary class="h6">Keynote: Entering a New, Data-Driven Era for Precision Cosmology: Is Machine Learning Going to Transform Our Understanding of the Universe?</summary>
           <p>
             Dr. Laurence Perreault Levasseur<br />
             Canada Research Chair in Computational Cosmology and Artificial Intelligence
@@ -560,7 +579,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Horizon EU Funds</summary>
@@ -574,7 +593,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:15 PM<br />(45 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Documentation Best Practices</summary>
@@ -592,7 +611,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Update on the UseGalaxy Canada Project</summary>
@@ -606,7 +625,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:15 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Hitchhiker’s Guide to Research Software</summary>
@@ -622,7 +641,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:45 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: All for One, and One for All</summary>
@@ -641,7 +660,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:00 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Domain Specific Sub-clouds within the Alliance Cloud</summary>
@@ -658,7 +677,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">2:30 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">TBC</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
@@ -675,34 +694,29 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">3:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Future Vision of DRI</summary>
+          <summary class="h6">Proposed Digital Research Infrastructure Operational Organization Model</summary>
           <p>
-            Felipe Pérez-Jvostov, Senior Analyst (Community Engagement & Planning) Digital Research Alliance of Canada
+            Brock Kahanyshyn, VP, Operations and Security, Digital Research Alliance of Canada
           </p>
           <p>
-            The Alliance is in the midst of submitting its vision for the future of DRI  to Innovation, Science and
-            Economic Development Canada (ISED) as part of its 5-year mandate renewal. This vision is data-centric,
-            recognizing that data is not merely a byproduct of research but a national asset, and its value must be
-            maximized for knowledge creation as well as economic and social impact. While challenging, this is an
-            exciting opportunity for Canada to be a leader in the knowledge economy and leverage its expansive history
-            of research excellence.
+            What’s next? And how do we get there? Join Brock as he outlines the roadmap for DRI operations.
           </p>
         </details>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">4:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Approaches to Sensitive Data across the DRI Landscape</summary>
@@ -714,7 +728,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">4:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Closing Remarks</summary>
