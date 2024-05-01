@@ -87,14 +87,14 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00<br/>(60 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Inscription et déjeuner</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:00<br />(30 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Mot de bienvenue</summary>
@@ -113,7 +113,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:30<br />(60 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Nouvelles du réseau d'experts de la GDR de l'Alliance</summary>
@@ -130,30 +130,35 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30<br />(30 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">11:00<br />(45 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Proposition de modèle d'organisation opérationnelle de l'infrastructure de recherche numérique</summary>
+          <summary class="h6">Vision future de l'IRN</summary>
           <p>
-            Brock Kahanyshyn, vice-président, Opérations et sécurité, Alliance de recherche numérique du Canada
+            Felipe Pérez-Jvostov, analyste principal (mobilisation communautaire et planification) Alliance de recherche numérique du Canada
           </p>
           <p>
-            Quelles sont les prochaines étapes? Et comment y parvenir? Joignez-vous à Brock pour la présentation d'une
-            feuille de route sur les activités d'IRN.
+          L'Alliance est sur le point de soumettre sa vision de l'avenir de l’IRN à Innovation, Sciences et
+          Développement économique Canada (ISDE) dans le cadre du renouvellement de son mandat quinquennal. Cette vision
+           est centrée sur les données, et elle s’articule autour de la reconnaissance selon laquelle les données sont
+           bien plus qu’un sous-produit de la recherche mais un actif national dont la leur valeur doit être maximisée
+           pour la création de connaissances et d'impact économique et social. C’est un énorme défi, certes, mais il
+           s'agit d'une occasion passionnante pour le Canada de se positionner comme chef de file dans l'économie de la
+           connaissance et de tirer parti de sa longue histoire d'excellence en matière de recherche.
           </p>
         </details>
       </div>
     </div>
     <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
       <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">101</div>
       <div class="col">
         <details>
           <summary class="h6">Volet 1 : Introduction au calcul de haute performance (CHP), aux grappes et à l'ordonnancement</summary>
@@ -169,7 +174,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3" style="background-color: rgba(0,127,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">102</div>
       <div class="col">
         <details>
           <summary class="h6">Volet 2 : Au croisement de la GDR et de l'IA générative</summary>
@@ -189,7 +194,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3" style="background-color: rgba(255,127,255,0.1)">
       <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">103</div>
       <div class="col">
         <details>
           <summary class="h6">Volet 3 : Recherche d'équilibre dans le plus vaste environnement de recherche infonuagique du Canada</summary>
@@ -207,14 +212,14 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">13:30<br />(30 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Séance principale</summary>
@@ -238,7 +243,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">14:00<br />(60 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Nouvelles des équipes nationales de CIP</summary>
@@ -254,14 +259,14 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">15:30<br />(90 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Atelier collaboratif</summary>
@@ -314,14 +319,14 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">8:00<br />(60 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Déjeuner</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:00<br />(15 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Présentation du CQORC (coordonnateur tout-en-un de Calcul Québec, ou <i>Calcul Québec's One Ring Coordinator</i>)</summary>
@@ -340,7 +345,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:15<br />(15 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Conseil national de coordination de la formation en CIP </summary>
@@ -355,7 +360,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:30<br />(15 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Recherche d'ACENET pour un portail de formation</summary>
@@ -372,7 +377,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">9:45<br />(45 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Panel : La formation à l'IRN</summary>
@@ -384,7 +389,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">10:30<br />(30 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -392,7 +397,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00<br />(30 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Six ans plus tard, la magie opère-t-elle toujours dans le château?</summary>
@@ -410,7 +415,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:30<br />(15 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Vitesse de Magic Castle : le canari dans la mine</summary>
@@ -428,7 +433,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Magic Castle : Exploration des cas d'usage non traditionnels</summary>
@@ -447,7 +452,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00<br />(45 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 2 : Collecte de données sur la sécurité des opérations</summary>
@@ -466,7 +471,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 2 : Capacité d'observation des réseaux à 100 Gb/s</summary>
@@ -486,7 +491,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:00<br />(15 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 3 : Aperçu du World Data System</summary>
@@ -503,7 +508,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:15<br />(30 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">
@@ -525,7 +530,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">11:45<br />(45 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 3 : Plans de gestion des données</summary>
@@ -533,20 +538,23 @@ Un souper de célébration sera offert aux participantes et participants de la r
               James Doiron, directeur de la stratégie de gestion des données de recherche, bibliothèque de l'Université de
               l'Alberta, Coprésident du groupe d'experts sur la planification de la gestion des données (GEPGD) de l'Alliance
             </p>
+            <p>
+              <!-- pending translation -->
+            </p>
           </details>
         </div>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">13:30<br />(30 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Séance principale</summary>
@@ -570,7 +578,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:00<br />(15 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Fonds d'Horizon Europe</summary>
@@ -585,7 +593,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:15<br />(45 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">101</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Pratiques exemplaires en matière de documentation</summary>
@@ -604,7 +612,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:00<br />(15 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 2 : Le point sur le projet UseGalaxy Canada</summary>
@@ -617,7 +625,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:15<br />(30 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 2 : Les logiciels de recherche : guide du voyageur</summary>
@@ -634,7 +642,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:45 PM<br />(15 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">102</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 2 : Tous pour un, un pour tous</summary>
@@ -651,7 +659,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:00 PM<br />(30 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 3 : sous-connexions infonuagiques spécifiques au domaine au sein de l’infrastructure infonuagique de l'Alliance</summary>
@@ -670,7 +678,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-2 text-center text-nowrap">14:30 PM<br />(30 min)</div>
-        <div class="col-2 text-center">à venir</div>
+        <div class="col-2 text-center">103</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 3 : Transition d'OpenPBS à SLURM… comparaisons des ordonnanceurs</summary>
@@ -687,35 +695,30 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-2 text-center">C3</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">15:30<br />(60 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center text-nowrap">15:30<br />(30 min)</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Vision future de l'IRN</summary>
+          <summary class="h6">Proposition de modèle d'organisation opérationnelle de l'infrastructure de recherche numérique</summary>
           <p>
-            Felipe Pérez-Jvostov, analyste principal (mobilisation communautaire et planification) Alliance de recherche numérique du Canada
+            Brock Kahanyshyn, vice-président, Opérations et sécurité, Alliance de recherche numérique du Canada
           </p>
           <p>
-          L'Alliance est sur le point de soumettre sa vision de l'avenir de l’IRN à Innovation, Sciences et
-          Développement économique Canada (ISDE) dans le cadre du renouvellement de son mandat quinquennal. Cette vision
-           est centrée sur les données, et elle s’articule autour de la reconnaissance selon laquelle les données sont
-           bien plus qu’un sous-produit de la recherche mais un actif national dont la leur valeur doit être maximisée
-           pour la création de connaissances et d'impact économique et social. C’est un énorme défi, certes, mais il
-           s'agit d'une occasion passionnante pour le Canada de se positionner comme chef de file dans l'économie de la
-           connaissance et de tirer parti de sa longue histoire d'excellence en matière de recherche.
+            Quelles sont les prochaines étapes? Et comment y parvenir? Joignez-vous à Brock pour la présentation d'une
+            feuille de route sur les activités d'IRN.
           </p>
         </details>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">16:00<br />(30 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Approches en matière de données sensibles dans le paysage de l'IRN </summary>
@@ -727,7 +730,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-2 text-center text-nowrap">16:30<br />(30 min)</div>
-      <div class="col-2 text-center">à venir</div>
+      <div class="col-2 text-center">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Mot de clôture</summary>
