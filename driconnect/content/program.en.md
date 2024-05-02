@@ -46,18 +46,18 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   <summary class="h5">Sunday, May 26<small class="text-muted d-print-none"> (click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-2 bg-primary text-white">Time</div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Location</div>
       <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         6:00 PM
         <span class="d-inline d-lg-none"><br />↓<br /></span>
         <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2 ">TBC</div>
       <div class="col">
         <details>
           <summary class="h6">"No Host" Gathering</summary>
@@ -81,20 +81,20 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   </summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-2 bg-primary text-white">Time</div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline" onclick="expand(this)">click here to expand all</a>)</span></div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">8:00 AM<br/>(60 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">8:00 AM<br/>(60 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Registration & Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:00 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:00 AM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Welcome Remarks</summary>
@@ -111,8 +111,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:30 AM<br />(60 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:30 AM<br />(60 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Updates from Alliance RDM Network of Experts</summary>
@@ -127,15 +127,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">10:30 AM<br />(30 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">11:00 AM<br />(45 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Future Vision of DRI</summary>
@@ -154,8 +154,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
-      <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">101</div>
+      <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+      <div class="col-2">101</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
@@ -171,8 +171,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3" style="background-color: rgba(0,127,255,0.1)">
-      <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">102</div>
+      <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+      <div class="col-2">102</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 2: At the Intersection of RDM and Generative AI</summary>
@@ -191,8 +191,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3" style="background-color: rgba(255,127,255,0.1)">
-      <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">103</div>
+      <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+      <div class="col-2">103</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 3: Seeking Balance within Canada’s Largest Research Cloud Environment</summary>
@@ -208,15 +208,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">12:30 PM<br />(60 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">1:30 PM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Keynote</summary>
@@ -238,8 +238,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">2:00 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">2:00 PM<br />(60 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Updates from ARC National Teams</summary>
@@ -254,15 +254,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">3:00 PM<br />(30 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">3:30 PM<br />(90 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">3:30 PM<br />(90 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Collaboration Workshop</summary>
@@ -276,20 +276,20 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">5:00 PM<br />(60 min.)</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-3 col-sm-2 text-nowrap">5:00 PM<br />(60 min.)</div>
+      <div class="col-2"></div>
       <div class="col">
         <h6 class="fst-italic">No Programming</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         6:00 PM
         <span class="d-inline d-lg-none"><br />↓<br /></span>
         <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
-      <div class="col-2 text-center">TBC</div>
+      <div class="col-2">TBC</div>
       <div class="col">
         <details>
           <summary class="h6">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
@@ -309,20 +309,20 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
   </summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-2 bg-primary text-white">Time</div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
       <div class="col bg-primary text-white">Description<span class="d-print-none"> (<a class="text-underline text-white" onclick="expand(this)">click here to expand all</a>)</span></div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">8:00 AM<br />(60 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">8:00 AM<br />(60 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Breakfast</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:00 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:00 AM<br />(15 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Introducing CQORC: Calcul Québec's One Ring Coordinator</summary>
@@ -339,8 +339,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:15 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:15 AM<br />(15 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">The National ARC Training Coordination Council</summary>
@@ -355,8 +355,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:30 AM<br />(15 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:30 AM<br />(15 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">The Search for ACENET's Training Portal</summary>
@@ -371,8 +371,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">9:45 AM<br />(45 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">9:45 AM<br />(45 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Panel: Training across DRI</summary>
@@ -383,16 +383,16 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">10:30 AM<br />(30 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">10:30 AM<br />(30 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:00 AM<br />(30 min.)</div>
-        <div class="col-2 text-center">101</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:00 AM<br />(30 min.)</div>
+        <div class="col-2">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
@@ -409,8 +409,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:30 AM<br />(15 min.)</div>
-        <div class="col-2 text-center">101</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:30 AM<br />(15 min.)</div>
+        <div class="col-2">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
@@ -426,8 +426,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">101</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
@@ -445,8 +445,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:00 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">102</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:00 AM<br />(45 min.)</div>
+        <div class="col-2">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Security Operations Data Collection</summary>
@@ -464,8 +464,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">102</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Network Observability at 100 Gb/s</summary>
@@ -483,8 +483,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:00 AM<br />(15 min.)</div>
-        <div class="col-2 text-center">103</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:00 AM<br />(15 min.)</div>
+        <div class="col-2">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Overview of the World Data System</summary>
@@ -500,8 +500,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:15 AM<br />(30 min.)</div>
-        <div class="col-2 text-center">103</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:15 AM<br />(30 min.)</div>
+        <div class="col-2">103</div>
         <div class="col">
           <details>
             <summary class="h6">
@@ -520,8 +520,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2 text-center">103</div>
+        <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
+        <div class="col-2">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Supporting Research with Data Management Plans & DMP Assistant!</summary>
@@ -548,15 +548,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">12:30 PM<br />(60 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">1:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">1:30 PM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Keynote: Entering a New, Data-Driven Era for Precision Cosmology: Is Machine Learning Going to Transform Our Understanding of the Universe?</summary>
@@ -578,8 +578,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">101</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:00 PM<br />(15 min.)</div>
+        <div class="col-2">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Horizon EU Funds</summary>
@@ -592,8 +592,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:15 PM<br />(45 min.)</div>
-        <div class="col-2 text-center">101</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:15 PM<br />(45 min.)</div>
+        <div class="col-2">101</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Documentation Best Practices</summary>
@@ -610,8 +610,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div style="background-color: rgba(0,127,255,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:00 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">102</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:00 PM<br />(15 min.)</div>
+        <div class="col-2">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Update on the UseGalaxy Canada Project</summary>
@@ -624,8 +624,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:15 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">102</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:15 PM<br />(30 min.)</div>
+        <div class="col-2">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: Hitchhiker’s Guide to Research Software</summary>
@@ -640,8 +640,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:45 PM<br />(15 min.)</div>
-        <div class="col-2 text-center">102</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:45 PM<br />(15 min.)</div>
+        <div class="col-2">102</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 2: All for One, and One for All</summary>
@@ -659,8 +659,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div style="background-color: rgba(255,127,255,0.1)">
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:00 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">103</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:00 PM<br />(30 min.)</div>
+        <div class="col-2">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Domain Specific Sub-clouds within the Alliance Cloud</summary>
@@ -676,8 +676,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         </div>
       </div>
       <div class="row my-3">
-        <div class="col-2 text-center text-nowrap">2:30 PM<br />(30 min.)</div>
-        <div class="col-2 text-center">103</div>
+        <div class="col-3 col-sm-2 text-nowrap">2:30 PM<br />(30 min.)</div>
+        <div class="col-2">103</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 3: Transition from OpenPBS to Slurm … Comparison of the Schedulers</summary>
@@ -693,15 +693,15 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C3</div>
+      <div class="col-3 col-sm-2 text-nowrap">3:00 PM<br />(30 min.)</div>
+      <div class="col-2">C3</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">3:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">3:30 PM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Proposed Digital Research Infrastructure Operational Organization Model</summary>
@@ -715,8 +715,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">4:00 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">4:00 PM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Approaches to Sensitive Data across the DRI Landscape</summary>
@@ -727,8 +727,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">4:30 PM<br />(30 min.)</div>
-      <div class="col-2 text-center">C4</div>
+      <div class="col-3 col-sm-2 text-nowrap">4:30 PM<br />(30 min.)</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Closing Remarks</summary>
@@ -751,8 +751,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-2 text-center text-nowrap">5:00 PM</div>
-      <div class="col-2 text-center"></div>
+      <div class="col-3 col-sm-2 text-nowrap">5:00 PM</div>
+      <div class="col-2"></div>
       <div class="col">
         <h6 class="fst-italic">Event Ends</h6>
       </div>
