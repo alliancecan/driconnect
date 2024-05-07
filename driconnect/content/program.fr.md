@@ -384,6 +384,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
           <p>
             Animatrice : Catherine Di Vita, coordonnatrice de la formation, Alliance de recherche numérique du Canada
           </p>
+          <p>
+            <!-- translation pending -->
+          </p>
         </details>
       </div>
     </div>

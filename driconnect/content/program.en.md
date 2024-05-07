@@ -265,7 +265,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Collaboration Workshop</summary>
+          <summary class="h6">Five Researchers Walk Into a Bar</summary>
           <p>
             This workshop has been built around our conference theme “Towards Integrated Solutions for Digital
             Research.” We hope to come out of this collaboration session with a better understanding across the pillars
@@ -377,7 +377,16 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <details>
           <summary class="h6">Panel: Training across DRI</summary>
           <p>
-            Moderator Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada
+            Moderator: Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada<br />
+            Panelists:<br />
+            Marie-Hélène Burle, Research Solutions Specialist at Simon Fraser University<br />
+            Nick Rochlin, RDM Specialist with University of British Columbia Advanced Research Computing<br />
+            Ryan McRonald, Arbutus Cybersecurity Analyst at the University of Victoria
+          </p>
+          <p>
+            Join Marie-Hélène, Nick, and Ryan as they discuss collaborative strategies and operational synergies in DRI
+            training. Together, they will uncover shared challenges, identify opportunities, and explore the possibility
+            of a unified approach to training.
           </p>
         </details>
       </div>
