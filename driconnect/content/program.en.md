@@ -267,7 +267,13 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <details>
           <summary class="h6">Five Researchers Walk Into a Bar</summary>
           <p>
-            Join us for an engaging, interactive session where we explore the realities of our researchers as they navigate across the DRI landscape. We’ll begin with a vignette: fictitious, archetypical researchers come together to discuss how they use the tools and the “pain points” they experience. Then we’ll work together in smaller groups to discuss researchers’ challenges (both in-person and online). Our hope? That we come out of this collaborative session with a better collective understanding of each pillar (RDM, ARC, RS and cybersecurity) and that this serves as the foundation to build a culture that can deliver integrated solutions for digital research.
+            Join us for an engaging, interactive session where we explore the realities of our researchers as they
+            navigate across the DRI landscape. We’ll begin with a vignette: fictitious, archetypical researchers come
+            together to discuss how they use the tools and the “pain points” they experience. Then we’ll work together
+            in smaller groups to discuss researchers’ challenges (both in-person and online). Our hope? That we come out
+            of this collaborative session with a better collective understanding of each pillar (RDM, ARC, RS and
+            cybersecurity) and that this serves as the foundation to build a culture that can deliver integrated
+            solutions for digital research.
           </p>
         </details>
       </div>
