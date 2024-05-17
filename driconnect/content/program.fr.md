@@ -158,7 +158,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
       <div class="col-3 col-sm-2 text-nowrap">11:45<br />(45 min)</div>
-      <div class="col-2">101</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Volet 1 : Introduction au calcul de haute performance (CHP), aux grappes et à l'ordonnancement</summary>
@@ -400,7 +400,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:00<br />(30 min)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Six ans plus tard, la magie opère-t-elle toujours dans le château?</summary>
@@ -418,7 +418,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:30<br />(15 min)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Vitesse de Magic Castle : le canari dans la mine</summary>
@@ -436,7 +436,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:45<br />(45 min)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Magic Castle : Exploration des cas d'usage non traditionnels</summary>
@@ -596,7 +596,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">14:00<br />(15 min)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Fonds d'Horizon Europe</summary>
@@ -611,7 +611,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">14:15<br />(45 min)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Pratiques exemplaires en matière de documentation</summary>
@@ -742,6 +742,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
           <summary class="h6">Approches en matière de données sensibles dans le paysage de l'IRN </summary>
           <p>
             Victoria Smith, responsable de la gouvernance et de l'éthique des données, Alliance de recherche numérique du Canada
+          </p>
+          <p>
+            <!-- pending translation -->
           </p>
         </details>
       </div>
