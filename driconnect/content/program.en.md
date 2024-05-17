@@ -155,7 +155,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3" style="background-color: rgba(0,255,127,0.1)">
       <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
-      <div class="col-2">101</div>
+      <div class="col-2">C4</div>
       <div class="col">
         <details>
           <summary class="h6">Stream 1: Intro to High Performance Computing (HPC), Clusters, and Scheduling</summary>
@@ -404,7 +404,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:00 AM<br />(30 min.)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Six Years Later, is the Castle Still Magic?</summary>
@@ -422,7 +422,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:30 AM<br />(15 min.)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle Speed: the Canary in the Mine</summary>
@@ -439,7 +439,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">11:45 AM<br />(45 min.)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Magic Castle: A Journey into Non-Traditional Use Cases</summary>
@@ -591,7 +591,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     <div style="background-color: rgba(0,255,127,0.1)">
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">2:00 PM<br />(15 min.)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Horizon EU Funds</summary>
@@ -605,7 +605,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       </div>
       <div class="row my-3">
         <div class="col-3 col-sm-2 text-nowrap">2:15 PM<br />(45 min.)</div>
-        <div class="col-2">101</div>
+        <div class="col-2">C4</div>
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Documentation Best Practices</summary>
@@ -734,6 +734,10 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
           <summary class="h6">Approaches to Sensitive Data across the DRI Landscape</summary>
           <p>
             Victoria Smith, Data Governance & Ethics Lead, Digital Research Alliance of Canada
+          </p>
+          <p>
+            Let’s explore challenges in supporting research involving sensitive data, and then let’s explore
+            potential solutions grounded in bringing DRI pillars together.
           </p>
         </details>
       </div>
