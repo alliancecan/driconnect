@@ -33,6 +33,9 @@ languages:
       - name: "Location"
         url: "/location/"
         weight: 5
+      - name: "Code of Conduct"
+        url: "/codeofconduct"
+        weight: 6
     weight: 10
   fr:
     languageName: "Français"
@@ -53,4 +56,7 @@ languages:
       - name: "Lieu"
         url: "/fr/lieu/"
         weight: 5
+      - name: "Code de conduite"
+        url: "/codeofconduct"
+        weight: 6
     weight: 20
