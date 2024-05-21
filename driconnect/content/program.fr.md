@@ -57,7 +57,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <span class="d-none d-lg-inline"> - </span>
         21:30
       </div>
-      <div class="col-2">à venir</div>
+      <div class="col-2">Pickford & Black, 1869 Upper Water Street</div>
       <div class="col">
         <details>
           <summary class="h6">Rassemblement informel</summary>
@@ -65,6 +65,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Tout le monde est bienvenu</li>
             <li>Les participants sont responsables de leur nourriture et de leur boisson</li>
           </ul>
+          <p>
+            <!-- pending translation -->
+          </p>
         </details>
       </div>
     </div>
@@ -212,7 +215,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
@@ -259,7 +262,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -293,7 +296,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <span class="d-none d-lg-inline"> - </span>
         21:30
       </div>
-      <div class="col-2">à venir</div>
+      <div class="col-2">Gahan House, 5239 Sackville Street</div>
       <div class="col">
         <details>
           <summary class="h6">Soirée de la rencontre sur l'IRN et célébration des 20 ans d'ACENET</summary>
@@ -392,7 +395,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">10:30<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -565,7 +568,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
@@ -600,7 +603,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Fonds d'Horizon Europe</summary>
-            <p>Conférencière ou conférencier à déterminer</p>
+            <p>
+              Jonathan England, OpenAIRE
+            </p>
             <p>
               La population canadienne est désormais admissible aux fonds d'Horizon Europe. Qu'est-ce que cela implique
               pour les infrastructures de données répondant aux critères de financement des boursières et boursiers, et
@@ -713,7 +718,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>

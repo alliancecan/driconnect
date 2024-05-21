@@ -57,7 +57,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
-      <div class="col-2 ">TBC</div>
+      <div class="col-2 ">Pickford & Black, 1869 Upper Water Street</div>
       <div class="col">
         <details>
           <summary class="h6">"No Host" Gathering</summary>
@@ -65,6 +65,9 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
             <li>Everyone welcome</li>
             <li>Folks responsible for own food and drink</li>
           </ul>
+          <p>
+            This casual get-together awaits you upon your arrival in Halifax and offers the opportunity to meet fellow attendees, catch up with people you haven’t seen for a while, and see colleagues in real life that you’ve only seen in small squares on a screen!
+          </p>
         </details>
       </div>
     </div>
@@ -209,7 +212,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
@@ -255,7 +258,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
@@ -292,14 +295,18 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <span class="d-none d-lg-inline"> - </span>
         9:30 PM
       </div>
-      <div class="col-2">TBC</div>
+      <div class="col-2">Gahan House, 5239 Sackville Street</div>
       <div class="col">
         <details>
-          <summary class="h6">DRI Connect Social & ACENET 20<sup>th</sup> Anniversary</summary>
+          <summary class="h6">DRI Social Connect</summary>
           <ul>
             <li>Everyone welcome, registration needed</li>
             <li>Food provided</li>
           </ul>
+          <p>
+            Join us at Gahan House for a dinner reception to celebrate ACENET’s 20th Anniversary. Enjoy an evening of
+            delicious food, great company, and special musical guests.
+          </p>
         </details>
       </div>
     </div>
@@ -396,7 +403,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">10:30 AM<br />(30 min.)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
@@ -561,7 +568,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30 PM<br />(60 min.)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Lunch</h6>
       </div>
@@ -595,7 +602,9 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <div class="col">
           <details>
             <summary class="h6">Stream 1: Horizon EU Funds</summary>
-            <p>Speaker TBC</p>
+            <p>
+              Jonathan England, OpenAIRE
+            </p>
             <p>
               Horizon EU funds are now available to Canadians. What does this mean for data infrastructures to support
               funding requirements for awardees, and what types of funds are there for us to receive funds for our work?
@@ -706,7 +715,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">3:00 PM<br />(30 min.)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Break</h6>
       </div>
