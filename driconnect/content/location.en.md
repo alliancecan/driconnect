@@ -19,7 +19,7 @@ schedules throughout the space and signage at meeting room entrances to direct y
 For those driving / commuting to DRI Connect, parking is available in the Nova Centre with entry on Grafton Street. In addition to the onsite paid Parkade there are several major paid Parkades within proximity of the Centre. Click here for more information on [Where to Park in Halifax](https://downtownhalifax.ca/parking).
 
 ## Venue Map
-![venue map](/map.png "Venue Map")
+<img src="map.png" class="w-100" alt="Venue Map" title="Venue Map" />
 
 ## Gathering with ACENET
 
