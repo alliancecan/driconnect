@@ -5,8 +5,7 @@ lang_code: "en"
 translationKey: "location"
 ---
 
-This year’s DRI Connect will be held in Halifax, Nova Scotia from May 27-28, 2024, at the Halifax Convention Centre ([1650 Argyle Street, Halifax, Nova Scotia](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7)).
-
+The Halifax Convention Centre is located at [1675 Argyle Street, Halifax](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7).
 Please ensure you arrive about 15 minutes before the start on Day 1 to ensure you have time to check-in at Registration
 and find a seat.
 
@@ -14,12 +13,11 @@ DRI Connect will take place on the Convention Hall Level. Most of our program wi
 Look for the digital screens casting program schedules throughout the space and signage at meeting room entrances to
 direct you.
 
+<img src="/map.png" class="w-100" alt="Venue Map" title="Venue Map" />
+
 ## Parking
 
 For those driving / commuting to DRI Connect, parking is available in the Nova Centre with entry on Grafton Street. In addition to the onsite paid Parkade there are several major paid Parkades within proximity of the Centre. Click here for more information on [Where to Park in Halifax](https://downtownhalifax.ca/parking).
-
-## Venue Map
-<img src="/map.png" class="w-100" alt="Venue Map" title="Venue Map" />
 
 ## Gathering with ACENET
 

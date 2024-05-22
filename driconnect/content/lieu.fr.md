@@ -5,9 +5,20 @@ lang_code: "fr"
 translationKey: "location"
 ---
 
-Cette année, la rencontre sur l’IRN se tiendra à Halifax, en Nouvelle-Écosse, les 27 et 28 mai 2024, au Halifax Convention Centre ([1650 Argyle Street, Halifax, Nouvelle-Écosse](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7)).
+Halifax Convention Centre est situé au [1675 Argyle Street, Halifax](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7).
+Nous vous prions de vous présenter au Centre environ 15 minutes avant le début de la 1re journée afin de disposer
+d’assez de temps pour vous inscrire et trouver une place.
 
-Pour plus d'informations sur l'hébergement, voir ci-dessous.
+La Conférence de la Rencontre sur l’IRN se déroulera au Convention Hall Level (niveau de la salle des congrès). La
+majeure partie de nos activités se dérouleront dans la salle des plénières/salle principale C4. Renseignez-vous au moyen
+des écrans numériques affichant les horaires du programme un peu partout dans l’espace de l’évènement, et orientez-vous
+à l’aide des panneaux se trouvant à l’entrée des salles de réunion.
+
+<img src="/map.png" class="w-100" alt="Venue Map" title="Venue Map" />
+
+## Stationnement
+
+Pour ceux et celles qui se rendront en voiture à la conférence, le stationnement est disponible dans le Nova Centre, dont l’entrée se trouve sur Grafton Street. En plus du stationnement payant sur place, plusieurs autres grandes aires de stationnement payant sont disponibles à proximité du Centre. Cliquez sur le lien [Où garer à Halifax](https://downtownhalifax.ca/parking) pour plus d’informations.
 
 ## Rassemblement convivial avec ACENET
 
