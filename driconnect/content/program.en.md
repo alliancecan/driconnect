@@ -371,7 +371,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
         <details>
           <summary class="h6">The Search for ACENET's Training Portal</summary>
           <p>
-            Grace Fishbein, ACENET
+            Grace Fishbein, Training Coordinator, ACENET
           </p>
           <p>
             Grace shares the lessons learned from a multi-year search for ACENET’s training portal. From determining
@@ -391,7 +391,8 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
             Panelists:<br />
             Marie-Hélène Burle, Research Solutions Specialist at Simon Fraser University<br />
             Nick Rochlin, RDM Specialist with University of British Columbia Advanced Research Computing<br />
-            Ryan McRonald, Arbutus Cybersecurity Analyst at the University of Victoria
+            Ryan McRonald, Arbutus Cybersecurity Analyst at the University of Victoria<br />
+            Grace Fishbein, Training Coordinator, ACENET
           </p>
           <p>
             Join Marie-Hélène, Nick, and Ryan as they discuss collaborative strategies and operational synergies in DRI

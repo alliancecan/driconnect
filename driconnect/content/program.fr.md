@@ -272,12 +272,18 @@ Un souper de célébration sera offert aux participantes et participants de la r
       <div class="col-2">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Atelier collaboratif</summary>
+          <summary class="h6">Cinq chercheurs entrent dans un bar</summary>
           <p>
-            Fondé sur le thème du congrès, Vers des solutions intégrées pour la recherche numérique, cet atelier vise à
-            faciliter la compréhension des piliers (GDR, CIP, LR et cybersécurité) et, surtout, des stratégies
-            novatrices qui contribuent à l'adoption d'une vision partagée exploitant le plein potentiel de l'IRN au
-            Canada.
+            Joignez-vous à nous pour une séance interactive et engageante au cours de laquelle nous explorerons les
+            réalités de nos chercheuses et chercheurs lorsqu’ils s’orientent dans le paysage de l’infrastructure de
+            recherche numérique (IRN). Nous débuterons par une vignette : des chercheuses et chercheurs fictifs, et
+            archétypiques se réuniront pour discuter de la manière dont ils utilisent les outils de l’IRN, ainsi que de
+            la conduite qu’ils réservent aux difficultés auxquelles ils font face. Nous travaillerons ensuite en petits
+            groupes pour discuter des défis que rencontrent les chercheuses et les chercheurs (en personne et en ligne).
+            Notre souhait ? Que nous sortions de cette séance collaborative ayant une meilleure compréhension collective
+            de chaque pilier (Gestion des données de recherche — GDR, Calcul informatique de pointe — CIP, Logiciels
+            de recherche — LR, et cybersécurité) et que cela serve de base à la construction d’une culture permettant
+            de proposer des solutions intégrées en matière de recherche numérique.
           </p>
         </details>
       </div>
@@ -304,6 +310,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Tout le monde est bienvenu, l'inscription est nécessaire</li>
             <li>Repas fourni</li>
           </ul>
+          <!-- pending translation -->
         </details>
       </div>
     </div>
@@ -368,7 +375,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <details>
           <summary class="h6">Recherche d'ACENET pour un portail de formation</summary>
           <p>
-            Grace Fishbein, ACENET
+            Grace Fishbein, Coordinatrice de formation, ACENET
           </p>
           <p>
             Grace Fishbein présentera les leçons tirées des années de recherche ayant mené à l'instauration du portail
@@ -385,10 +392,17 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <details>
           <summary class="h6">Panel : La formation à l'IRN</summary>
           <p>
-            Animatrice : Catherine Di Vita, coordonnatrice de la formation, Alliance de recherche numérique du Canada
+            Modératrice : Catherine Di Vita, coordonnatrice de la formation, Alliance de recherche numérique<br />
+            Panélistes :<br />
+            Marie-Hélène Burle, spécialiste des solutions de recherche à l’Université Simon Fraser<br />
+            Nick Rochlin, spécialiste GDR à l’Advanced Research Computing de l’Université de la Colombie-Britannique<br />
+            Ryan McRonald, analyste en cybersécurité Arbutus à l’Université de Victoria<br />
+            Grace Fishbein, Coordinatrice de formation, ACENET
           </p>
           <p>
-            <!-- translation pending -->
+            Joignez-vous à Marie-Hélène, Nick et Ryan pour discuter des stratégies de collaboration et des synergies
+            opérationnelles en matière de formation liée à l’IRN. Ensemble, ils s’attarderont sur des défis communs,
+            cernant des opportunités et explorant la possibilité d’une approche unifiée à la formation.
           </p>
         </details>
       </div>
@@ -749,7 +763,8 @@ Un souper de célébration sera offert aux participantes et participants de la r
             Victoria Smith, responsable de la gouvernance et de l'éthique des données, Alliance de recherche numérique du Canada
           </p>
           <p>
-            <!-- pending translation -->
+            Examinons les défis inhérents au soutien à la recherche impliquant des données sensibles, puis explorons-en
+            des solutions potentielles fondées sur le rapprochement des piliers de l’IRN.
           </p>
         </details>
       </div>

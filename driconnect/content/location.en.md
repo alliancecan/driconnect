@@ -10,9 +10,9 @@ This year’s DRI Connect will be held in Halifax, Nova Scotia from May 27-28, 2
 Please ensure you arrive about 15 minutes before the start on Day 1 to ensure you have time to check-in at Registration
 and find a seat.
 
-DRI Connect will take place on the Convention Hall Level, which is street level and offers easy access from Argyle
-Street. Most of our program will take place in Plenary/Main Room C4. Look for the digital screens casting program
-schedules throughout the space and signage at meeting room entrances to direct you.
+DRI Connect will take place on the Convention Hall Level. Most of our program will take place in Plenary/Main Room C4.
+Look for the digital screens casting program schedules throughout the space and signage at meeting room entrances to
+direct you.
 
 ## Parking
 
