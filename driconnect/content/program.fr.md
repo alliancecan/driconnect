@@ -57,7 +57,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <span class="d-none d-lg-inline"> - </span>
         21:30
       </div>
-      <div class="col-2">à venir</div>
+      <div class="col-2">Pickford & Black, 1869 Upper Water Street</div>
       <div class="col">
         <details>
           <summary class="h6">Rassemblement informel</summary>
@@ -65,6 +65,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Tout le monde est bienvenu</li>
             <li>Les participants sont responsables de leur nourriture et de leur boisson</li>
           </ul>
+          <p>
+            Cette rencontre décontractée vous attendra à votre arrivée à Halifax et vous donnera l’occasion de rencontrer d’autres participant(e)s et profiter de l’accueil chaleureux de la ville.
+          </p>
         </details>
       </div>
     </div>
@@ -212,7 +215,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
@@ -259,7 +262,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -269,12 +272,18 @@ Un souper de célébration sera offert aux participantes et participants de la r
       <div class="col-2">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Atelier collaboratif</summary>
+          <summary class="h6">Cinq chercheurs entrent dans un bar</summary>
           <p>
-            Fondé sur le thème du congrès, Vers des solutions intégrées pour la recherche numérique, cet atelier vise à
-            faciliter la compréhension des piliers (GDR, CIP, LR et cybersécurité) et, surtout, des stratégies
-            novatrices qui contribuent à l'adoption d'une vision partagée exploitant le plein potentiel de l'IRN au
-            Canada.
+            Joignez-vous à nous pour une séance interactive et engageante au cours de laquelle nous explorerons les
+            réalités de nos chercheuses et chercheurs lorsqu’ils s’orientent dans le paysage de l’infrastructure de
+            recherche numérique (IRN). Nous débuterons par une vignette : des chercheuses et chercheurs fictifs, et
+            archétypiques se réuniront pour discuter de la manière dont ils utilisent les outils de l’IRN, ainsi que de
+            la conduite qu’ils réservent aux difficultés auxquelles ils font face. Nous travaillerons ensuite en petits
+            groupes pour discuter des défis que rencontrent les chercheuses et les chercheurs (en personne et en ligne).
+            Notre souhait ? Que nous sortions de cette séance collaborative ayant une meilleure compréhension collective
+            de chaque pilier (Gestion des données de recherche — GDR, Calcul informatique de pointe — CIP, Logiciels
+            de recherche — LR, et cybersécurité) et que cela serve de base à la construction d’une culture permettant
+            de proposer des solutions intégrées en matière de recherche numérique.
           </p>
         </details>
       </div>
@@ -293,7 +302,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <span class="d-none d-lg-inline"> - </span>
         21:30
       </div>
-      <div class="col-2">à venir</div>
+      <div class="col-2">Gahan House, 5239 Sackville Street</div>
       <div class="col">
         <details>
           <summary class="h6">Soirée de la rencontre sur l'IRN et célébration des 20 ans d'ACENET</summary>
@@ -301,6 +310,10 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Tout le monde est bienvenu, l'inscription est nécessaire</li>
             <li>Repas fourni</li>
           </ul>
+          <p>
+            Joignez-vous à nous au Gahan House pour un dîner célébrant le 20e anniversaire d’ACENET. Profitez d’une
+            soirée où vous dégusterez des plats délicieux, serez en bonne compagnie et écouterez de la musique locale.
+          </p>
         </details>
       </div>
     </div>
@@ -365,7 +378,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <details>
           <summary class="h6">Recherche d'ACENET pour un portail de formation</summary>
           <p>
-            Grace Fishbein, ACENET
+            Grace Fishbein, Coordinatrice de formation, ACENET
           </p>
           <p>
             Grace Fishbein présentera les leçons tirées des années de recherche ayant mené à l'instauration du portail
@@ -382,17 +395,24 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <details>
           <summary class="h6">Panel : La formation à l'IRN</summary>
           <p>
-            Animatrice : Catherine Di Vita, coordonnatrice de la formation, Alliance de recherche numérique du Canada
+            Modératrice : Catherine Di Vita, coordonnatrice de la formation, Alliance de recherche numérique<br />
+            Panélistes :<br />
+            Marie-Hélène Burle, spécialiste des solutions de recherche à l’Université Simon Fraser<br />
+            Nick Rochlin, spécialiste GDR à l’Advanced Research Computing de l’Université de la Colombie-Britannique<br />
+            Ryan McRonald, analyste en cybersécurité Arbutus à l’Université de Victoria<br />
+            Grace Fishbein, Coordinatrice de formation, ACENET
           </p>
           <p>
-            <!-- translation pending -->
+            Joignez-vous à Marie-Hélène, Nick et Ryan pour discuter des stratégies de collaboration et des synergies
+            opérationnelles en matière de formation liée à l’IRN. Ensemble, ils s’attarderont sur des défis communs,
+            cernant des opportunités et explorant la possibilité d’une approche unifiée à la formation.
           </p>
         </details>
       </div>
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">10:30<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -565,7 +585,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">12:30<br />(60 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Dîner</h6>
       </div>
@@ -600,7 +620,9 @@ Un souper de célébration sera offert aux participantes et participants de la r
         <div class="col">
           <details>
             <summary class="h6">Volet 1 : Fonds d'Horizon Europe</summary>
-            <p>Conférencière ou conférencier à déterminer</p>
+            <p>
+              Jonathan England, OpenAIRE
+            </p>
             <p>
               La population canadienne est désormais admissible aux fonds d'Horizon Europe. Qu'est-ce que cela implique
               pour les infrastructures de données répondant aux critères de financement des boursières et boursiers, et
@@ -713,7 +735,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">15:00<br />(30 min)</div>
-      <div class="col-2">C3</div>
+      <div class="col-2">C5</div>
       <div class="col">
         <h6 class="fst-italic">Pause</h6>
       </div>
@@ -744,7 +766,8 @@ Un souper de célébration sera offert aux participantes et participants de la r
             Victoria Smith, responsable de la gouvernance et de l'éthique des données, Alliance de recherche numérique du Canada
           </p>
           <p>
-            <!-- pending translation -->
+            Examinons les défis inhérents au soutien à la recherche impliquant des données sensibles, puis explorons-en
+            des solutions potentielles fondées sur le rapprochement des piliers de l’IRN.
           </p>
         </details>
       </div>
