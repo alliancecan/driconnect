@@ -66,7 +66,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Les participants sont responsables de leur nourriture et de leur boisson</li>
           </ul>
           <p>
-            <!-- pending translation -->
+            Cette rencontre décontractée vous attendra à votre arrivée à Halifax et vous donnera l’occasion de rencontrer d’autres participant(e)s et profiter de l’accueil chaleureux de la ville.
           </p>
         </details>
       </div>
@@ -310,7 +310,10 @@ Un souper de célébration sera offert aux participantes et participants de la r
             <li>Tout le monde est bienvenu, l'inscription est nécessaire</li>
             <li>Repas fourni</li>
           </ul>
-          <!-- pending translation -->
+          <p>
+            Joignez-vous à nous au Gahan House pour un dîner célébrant le 20e anniversaire d’ACENET. Profitez d’une
+            soirée où vous dégusterez des plats délicieux, serez en bonne compagnie et écouterez de la musique locale.
+          </p>
         </details>
       </div>
     </div>
