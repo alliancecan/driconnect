@@ -403,7 +403,7 @@ Un souper de célébration sera offert aux participantes et participants de la r
             Grace Fishbein, Coordinatrice de formation, ACENET
           </p>
           <p>
-            Joignez-vous à Marie-Hélène, Nick et Ryan pour discuter des stratégies de collaboration et des synergies
+            Joignez-vous à Marie-Hélène, Nick, Ryan, et Grace pour discuter des stratégies de collaboration et des synergies
             opérationnelles en matière de formation liée à l’IRN. Ensemble, ils s’attarderont sur des défis communs,
             cernant des opportunités et explorant la possibilité d’une approche unifiée à la formation.
           </p>
