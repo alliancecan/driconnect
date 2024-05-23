@@ -23,7 +23,7 @@ numérique (IRN) au Canada.
 
 #### Soirée de la rencontre sur l'IRN et célébration d'ACENET
 
-Un souper de célébration sera offert aux participantes et participants de la rencontre sur l'IRN le 27 mai 2024. Plus d'informations à venir.
+Un souper de célébration sera offert aux participantes et participants de la rencontre sur l'IRN le 27 mai 2024.
 
 ### Programme
 

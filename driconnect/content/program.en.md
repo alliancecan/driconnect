@@ -22,7 +22,7 @@ that leverages the full potential of digital research infrastructure (DRI) in Ca
 
 #### DRI Connect Dinner and ACENET Celebration
 
-We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024! More information to come.
+We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024!
 
 ### Program
 

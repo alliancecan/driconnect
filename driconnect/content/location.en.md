@@ -22,11 +22,11 @@ For those driving / commuting to DRI Connect, parking is available in the Nova C
 ## Gathering with ACENET
 
 There will be an informal gathering the evening of Sunday, May 26, for locals and those just arriving in town. Make your
-travel plans accordingly and drop by to meet up with colleagues and friends, both old and new. Location to be announced.
+travel plans accordingly and drop by to meet up with colleagues and friends, both old and new.
 
 ## What to do in Halifax
 
-When not attending DRI Connect, there is plenty to see and do in Halifax!  
+When not attending DRI Connect, there is plenty to see and do in Halifax!
 
 Some suggestions include:
 
