@@ -7,8 +7,8 @@ translationKey: "registration"
 
 Les inscriptions pour participer en personne sont complètes. Toutefois, la participation virtuelle reste ouverte.
 Veuillez cliquez sur le lien suivant pour vous inscrire:
-https://events.myconferencesuite.com/DRIConnect/reg/landing
+<https://events.myconferencesuite.com/DRIConnect/reg/landing>
 
-# Coût 
+## Coût
 
-La participation à cet événement est gratuite. Cependant, tout frais lié aux vols, à l'hébergement, et aux repas, en dehors de ceux offerts dans le cadre de l’événement, seront à la charge de chaque participant.  
+La participation à cet événement est gratuite. Cependant, tout frais lié aux vols, à l'hébergement, et aux repas, en dehors de ceux offerts dans le cadre de l’événement, seront à la charge de chaque participant.

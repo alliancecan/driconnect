@@ -24,11 +24,11 @@ Pour ceux et celles qui se rendront en voiture à la conférence, le stationneme
 
 Une réunion informelle sera organisée le dimanche 26 mai en soirée pour les participantes et participants habitant dans
 la région ou qui arrivent en ville ce jour-là. Planifiez votre voyage en conséquence et venez rencontrer vos collègues
-et vos connaissances, anciens et nouveaux. Le lieu sera annoncé ultérieurement.
+et vos connaissances, anciens et nouveaux.
 
 ## Que faire à Halifax
 
-En marge de la rencontre sur l’IRN, il y aura beaucoup de choses à voir et à faire à Halifax !  
+En marge de la rencontre sur l’IRN, il y aura beaucoup de choses à voir et à faire à Halifax !
 
 En voici quelques suggestions :
 
