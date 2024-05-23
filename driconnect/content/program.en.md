@@ -395,7 +395,7 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
             Grace Fishbein, Training Coordinator, ACENET
           </p>
           <p>
-            Join Marie-Hélène, Nick, and Ryan as they discuss collaborative strategies and operational synergies in DRI
+            Join Marie-Hélène, Nick, Ryan, and Grace as they discuss collaborative strategies and operational synergies in DRI
             training. Together, they will uncover shared challenges, identify opportunities, and explore the possibility
             of a unified approach to training.
           </p>
