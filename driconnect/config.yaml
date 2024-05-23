@@ -24,8 +24,8 @@ languages:
       - name: "Program"
         url: "/program/"
         weight: 2
-      - name: "Registration"
-        url: "/registration/"
+      - name: "Attending"
+        url: "/attending/"
         weight: 3
       - name: "Accommodations"
         url: "/accommodations/"
@@ -47,8 +47,8 @@ languages:
       - name: "Programme"
         url: "/fr/programme/"
         weight: 2
-      - name: "Inscription"
-        url: "/fr/inscription/"
+      - name: "Information"
+        url: "/fr/information/"
         weight: 3
       - name: "Hébergement"
         url: "/fr/hebergement/"
@@ -57,6 +57,6 @@ languages:
         url: "/fr/lieu/"
         weight: 5
       - name: "Code de conduite"
-        url: "/codeofconduct"
+        url: "/fr/codedeconduite"
         weight: 6
     weight: 20

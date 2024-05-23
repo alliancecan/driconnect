@@ -23,7 +23,7 @@ numérique (IRN) au Canada.
 
 #### Soirée de la rencontre sur l'IRN et célébration d'ACENET
 
-Un souper de célébration sera offert aux participantes et participants de la rencontre sur l'IRN le 27 mai 2024. Plus d'informations à venir.
+Un souper de célébration sera offert aux participantes et participants de la rencontre sur l'IRN le 27 mai 2024.
 
 ### Programme
 
@@ -361,12 +361,12 @@ Un souper de célébration sera offert aux participantes et participants de la r
       <div class="col-2">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">Conseil national de coordination de la formation en CIP </summary>
+          <summary class="h6">Conseil national de coordination de la formation</summary>
           <p>
-            Ramses Van zon, président du Conseil national de coordination de la formation en CIP
+            Ramses Van zon, président du Conseil national de coordination de la formation
           </p>
           <p>
-            Venez découvrir cette entité nouvellement créée ainsi que sa mission, ses buts et notre positionnement, à l'échelle nationale, en matière de formation en CIP.
+            Venez découvrir cette entité nouvellement créée ainsi que sa mission, ses buts et notre positionnement, à l'échelle nationale, en matière de formation.
           </p>
         </details>
       </div>

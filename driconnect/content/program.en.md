@@ -22,7 +22,7 @@ that leverages the full potential of digital research infrastructure (DRI) in Ca
 
 #### DRI Connect Dinner and ACENET Celebration
 
-We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024! More information to come.
+We look forward to hosting DRI Connect guests for a celebratory dinner on May 27, 2024!
 
 ### Program
 
@@ -353,13 +353,13 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
       <div class="col-2">C4</div>
       <div class="col">
         <details>
-          <summary class="h6">The National ARC Training Coordination Council</summary>
+          <summary class="h6">The National Training Coordination Council</summary>
           <p>
-            Ramses Van zon, Chair, National ARC Training Coordination Council
+            Ramses Van zon, Chair, National Training Coordination Council
           </p>
           <p>
-            Learn all about the newly formed National ARC Training Coordination Council, including its purpose, goals
-            and where we stand nationally in ARC training.
+            Learn all about the newly formed National Training Coordination Council, including its purpose, goals
+            and where we stand nationally in training.
           </p>
         </details>
       </div>

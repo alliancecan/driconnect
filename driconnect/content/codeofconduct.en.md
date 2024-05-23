@@ -5,7 +5,7 @@ lang_code: "en"
 translationKey: "codeofconduct"
 ---
 
-_Adapted from code4lib’s Code of Conduct: http://bit.ly/coc4lib_
+_Adapted from code4lib’s Code of Conduct: <http://bit.ly/coc4lib>_
 
 Events are a wonderful opportunity to network, learn, and exchange ideas. By following these guidelines, we can all
 contribute to creating a positive and respectful environment where everyone can learn and connect effectively. Thank you
@@ -60,8 +60,8 @@ All conversations will be kept private and confidential.
 
 ## Community Support Volunteers
 
-Alex Thistlewood alex.thistlewood@ucalgary.ca
+Alex Thistlewood <alex.thistlewood@ucalgary.ca>
 
-Ines Hessler ines.hessler@ace-net.ca
+Ines Hessler <ines.hessler@ace-net.ca>
 
-Tessa Derksen tessa.derksen2@gmail.com
+Tessa Derksen <tessa.derksen2@gmail.com>
