@@ -57,6 +57,6 @@ languages:
         url: "/fr/lieu/"
         weight: 5
       - name: "Code de conduite"
-        url: "/codedeconduite"
+        url: "/fr/codedeconduite"
         weight: 6
     weight: 20
