@@ -73,5 +73,5 @@ easy identification.
 
 Coherent Solutions are our Event Planning team. Should you need any assistance throughout the conference, do not
 hesitate to reach out to Julie Begbie or Jacqui Haines who can be found at the Registration Table in the Convention Hall
-foyer or at the Event Table at the back of the Plenary / Main Room. <julie@coherent-solutions.ca> or
+foyer or at the Event Table at the back of the Plenary/Main Room. <julie@coherent-solutions.ca> or
 <jacqui@coherent-solutions.ca>.
