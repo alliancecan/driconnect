@@ -9,6 +9,7 @@ translationKey: "home"
     image="2024 DRI Connect homepage EN.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+<<<<<<< HEAD
 
 We are thrilled to announce that this year’s DRI Connect will take place in Montreal on May 27 and 28, 2025. 
 
@@ -38,3 +39,9 @@ In person attendance: Halifax Convention Centre, 1650 Argyle Street, Halifax, No
 Virtual attendance: Connection details are forthcoming. 
 
 */}}
+=======
+We are thrilled to announce that this year’s DRI Connect will take place in Montreal on May 27 and 28, 2025.
+
+Stay tuned for updates as we finalize the details! Information about the exact venue, program highlights, the call for abstracts, and registration will be available soon. Be sure to check back regularly for the latest news—we can’t wait to share what we have in store for you!
+{{< /paige/hero >}}
+>>>>>>> origin/spring2025-firstpass
