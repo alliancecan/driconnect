@@ -13,7 +13,7 @@ Nous sommes ravis d'annoncer que la rencontre de l’infrastructure de recherche
 Restez à l’affût pour les mises à jour alors que nous finalisons les détails ! Des informations sur le lieu, le programme, l'appel à soumission et les inscriptions seront disponibles bientôt. Assurez-vous de revenir régulièrement pour les dernières nouvelles—nous avons hâte de partager avec vous ce que nous vous réservons ! 
 {{< /paige/hero >}}
 
-{{/*
+<!--
 
 <p class="text-center">
   <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/form/edit" role="button" aria-disabled="true" target="_blank">
@@ -32,4 +32,4 @@ En personne : Halifax Convention Centre, 1650 Argyle Street, Halifax, Nouvelle-�
 
 Participation virtuelle : Les détails de connexion seront communiqués plus tard. 
 
-*/}}
+-->
