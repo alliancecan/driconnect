@@ -5,6 +5,10 @@ lang_code: "fr"
 translationKey: "location"
 ---
 
+La conférence se déroulera dans la ville pétillante de Montréal. Plus de détails à venir. 
+
+<!--
+
 Halifax Convention Centre est situé au [1675 Argyle Street, Halifax](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7).
 Nous vous prions de vous présenter au Centre environ 15 minutes avant le début de la 1re journée afin de disposer
 d’assez de temps pour vous inscrire et trouver une place.
@@ -40,3 +44,4 @@ En voici quelques suggestions :
 * Visiter les cafés et les boutiques des rues Agricola et Kaye, dans le quartier nord d'Halifax.
 
 Halifax regorge de choses à faire. Pour plus d'informations, visitez le site Web du tourisme local en [cliquant ici](https://www.novascotia.com/trip-ideas/stories/perfect-one-three-day-halifax-itinerary).
+-->
