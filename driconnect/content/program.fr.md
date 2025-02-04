@@ -11,7 +11,13 @@ translationKey: "program"
     image="../2024 DRI Connect homepage FR.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
+   Nous lancerons un appel à contributions au début du mois de février pour accueillir les propositions d’exposés, de séances, de présentations et d’ateliers. Restez à l’affût pour connaître les directives en matière de soumission et les formats. 
+ 
 {{< /paige/hero >}}
+
+
+<!--
 
 ### Vers des solutions intégrées pour la recherche numérique
 
@@ -839,3 +845,5 @@ Un souper de célébration sera offert aux participantes et participants de la r
     header.onclick = function() { expand(header); }
   }
 </script>
+
+-->
