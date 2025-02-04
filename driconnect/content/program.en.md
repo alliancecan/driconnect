@@ -12,7 +12,7 @@ translationKey: "program"
     imageclass="rounded-4 shadow"
     stretch=true >}}
 
-    We look forward to launching our call for contributions in early February, welcoming proposals for talks, posters, breakout sessions, and workshops. Stay tuned for detailed submission guidelines and session formats. 
+  We look forward to launching our call for contributions in early February, welcoming proposals for talks, posters, breakout sessions, and workshops. Stay tuned for detailed submission guidelines and session formats. 
 
 {{< /paige/hero >}}
 
