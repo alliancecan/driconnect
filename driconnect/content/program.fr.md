@@ -8,7 +8,7 @@ translationKey: "program"
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 27 mai au 28 mai 2024"
     header="Programme"
-    image="../2024 DRI Connect homepage FR.png"
+    image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
 
