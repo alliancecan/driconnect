@@ -8,10 +8,16 @@ translationKey: "program"
 {{< paige/hero
     alt="Spring DRI Connect, May 27 - May 28, 2024"
     header="Program"
-    image="2024 DRI Connect homepage EN.png"
+    image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
+  We look forward to launching our call for contributions in early February, welcoming proposals for talks, posters, breakout sessions, and workshops. Stay tuned for detailed submission guidelines and session formats.
+
 {{< /paige/hero >}}
+
+
+<!--
 
 ### Spring Digital Research Infrastructure Connect
 
@@ -818,3 +824,5 @@ We look forward to hosting DRI Connect guests for a celebratory dinner on May 27
     header.onclick = function() { expand(header); }
   }
 </script>
+
+-->

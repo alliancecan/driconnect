@@ -67,8 +67,12 @@ Toutes les conversations resteront privées et confidentielles.
 
 ## Bénévoles de soutien communautaire
 
+<!--
 Alex Thistlewood <alex.thistlewood@ucalgary.ca>
 
 Ines Hessler <ines.hessler@ace-net.ca>
 
 Tessa Derksen <tessa.derksen2@gmail.com>
+-->  
+
+Sophie Sakillarides sophie.sakillarides@alliancecan.ca   

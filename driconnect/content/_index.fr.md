@@ -6,13 +6,14 @@ translationKey: "home"
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 27-28 mai 2024"
     header="Rassemblons-nous!"
-    image="../2024 DRI Connect homepage FR.png"
+    image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-Joignez-vous à nous pour la rencontre sur l’IRN 2024 à Halifax, Nouvelle-Écosse, les 27 et 28 mai 2024. Cet événement servira de cadre au réseautage, à l'exploration et au partage de connaissances entre professionnelles et professionnels de l'informatique de recherche avancée, de la gestion des données de recherche et des logiciels de recherche travaillant pour et avec l'Alliance de recherche numérique du Canada (Alliance). 
-
-Remarque : L’événement se déroulera en mode hybride, et le nombre de places pour y assister en personne est limité. Nous vous encourageons à vous inscrire rapidement pour réserver votre place. 
+Nous sommes ravis d'annoncer que la rencontre de l’infrastructure de recherche numérique (IRN) de cette année aura lieu à Montréal les 27 et 28 mai 2025.
+Restez à l’affût pour les mises à jour alors que nous finalisons les détails ! Des informations sur le lieu, le programme, l'appel à soumission et les inscriptions seront disponibles bientôt. Assurez-vous de revenir régulièrement pour les dernières nouvelles—nous avons hâte de partager avec vous ce que nous vous réservons !
 {{< /paige/hero >}}
+
+<!--
 
 <p class="text-center">
   <a class="btn btn-primary btn-lg" href="https://events.myconferencesuite.com/DRIConnect/reg/form/edit" role="button" aria-disabled="true" target="_blank">
@@ -30,3 +31,5 @@ Les 27 et 28 mai 2024.
 En personne : Halifax Convention Centre, 1650 Argyle Street, Halifax, Nouvelle-Écosse. 
 
 Participation virtuelle : Les détails de connexion seront communiqués plus tard. 
+
+-->

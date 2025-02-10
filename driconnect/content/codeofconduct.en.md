@@ -60,8 +60,12 @@ All conversations will be kept private and confidential.
 
 ## Community Support Volunteers
 
+<!--
 Alex Thistlewood <alex.thistlewood@ucalgary.ca>
 
 Ines Hessler <ines.hessler@ace-net.ca>
 
 Tessa Derksen <tessa.derksen2@gmail.com>
+-->  
+
+Sophie Sakillarides sophie.sakillarides@alliancecan.ca   
