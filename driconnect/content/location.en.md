@@ -1,8 +1,8 @@
 ---
-slug: "Venue"
+slug: "location"
 title: "Venue"
 lang_code: "en"
-translationKey: "location"
+translationKey: "Venue"
 ---
 
 The Halifax Convention Centre is located at [1675 Argyle Street, Halifax](https://maps.app.goo.gl/QTG9JZWzJoicKHEF7).
