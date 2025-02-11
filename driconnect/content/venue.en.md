@@ -1,8 +1,8 @@
 ---
-slug: "location"
+slug: "venue"
 title: "Venue"
 lang_code: "en"
-translationKey: "location"
+translationKey: "venue"
 ---
 
 The conference will take place in the vibrant city of Montreal. More details to come soon.
