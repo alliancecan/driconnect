@@ -1,6 +1,6 @@
 ---
 slug: "location"
-title: "Location"
+title: "Venue"
 lang_code: "en"
 translationKey: "location"
 ---
