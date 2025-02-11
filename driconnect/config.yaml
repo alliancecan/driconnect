@@ -27,15 +27,15 @@ languages:
       - name: "Attending"
         url: "/attending/"
         weight: 3
-      - name: "Accommodations"
-        url: "/accommodations/"
-        weight: 4
+      #- name: "Accommodations"
+        #url: "/accommodations/"
+        #weight: 4
       - name: "Location"
         url: "/location/"
-        weight: 5
+        weight: 4
       - name: "Code of Conduct"
         url: "/codeofconduct"
-        weight: 6
+        weight: 5
     weight: 10
   fr:
     languageName: "Français"
@@ -50,13 +50,13 @@ languages:
       - name: "Information"
         url: "/fr/information/"
         weight: 3
-      - name: "Hébergement"
-        url: "/fr/hebergement/"
-        weight: 4
+      #- name: "Hébergement"
+        #url: "/fr/hebergement/"
+        #weight: 4
       - name: "Lieu"
         url: "/fr/lieu/"
-        weight: 5
+        weight: 4
       - name: "Code de conduite"
         url: "/fr/codedeconduite"
-        weight: 6
+        weight: 5
     weight: 20
