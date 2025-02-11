@@ -51,7 +51,7 @@ languages:
         url: "/fr/programme/"
         weight: 2
       - name: "Inscription"
-        url: "/inscription/"
+        url: "/fr/inscription/"
         weight: 3  
       #- name: "Information"
         #url: "/fr/information/"
