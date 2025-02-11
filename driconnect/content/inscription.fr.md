@@ -2,7 +2,7 @@
 slug: "inscription"
 title: "Inscription"
 lang_code: "fr"
-translationKey: "inscription"
+translationKey: "registration"
 ---
 
 Les inscriptions à la conférence seront ouvertes en février. Nous partagerons bientôt les détails sur le processus d'inscription. 
