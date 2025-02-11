@@ -1,5 +1,5 @@
 ---
-slug: "location"
+slug: "Venue"
 title: "Venue"
 lang_code: "en"
 translationKey: "location"
