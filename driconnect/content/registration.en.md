@@ -2,7 +2,7 @@
 slug: "registration"
 title: "Registration"
 lang_code: "en"
-translationKey: "inscription"
+translationKey: "registration"
 ---
 
 Registration for the conference will open in February. We encourage you to stay tuned for detailed information about the registration process. 
