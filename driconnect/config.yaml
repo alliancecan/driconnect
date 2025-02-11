@@ -30,8 +30,8 @@ languages:
       - name: "Accommodations"
         url: "/accommodations/"
         weight: 4
-      - name: "Venue"
-        url: "/venue/"
+      - name: "Location"
+        url: "/location/"
         weight: 5
       - name: "Code of Conduct"
         url: "/codeofconduct"
