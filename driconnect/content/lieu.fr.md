@@ -2,7 +2,7 @@
 slug: "lieu"
 title: "Lieu"
 lang_code: "fr"
-translationKey: "location"
+translationKey: "venue"
 ---
 
 La conférence se déroulera dans la ville pétillante de Montréal. Plus de détails à venir. 
