@@ -14,7 +14,7 @@ translationKey: "program"
 
   ### Call for abstracts and speaker suggestions now open! 
 
-  We are excited to announce that the Call for Abstracts and Speaker Suggestions for DRI Connect 2025 are now open! This is your opportunity to contribute to the program of this year’s event, which will take place on May 27 and 28, 2025, in Montreal, Quebec. 
+  We are excited to announce that the <strong> Call for Abstracts </strong> and Speaker Suggestions for DRI Connect 2025 are now open! This is your opportunity to contribute to the program of this year’s event, which will take place on May 27 and 28, 2025, in Montreal, Quebec. 
 
   Submit your innovative ideas for presentations, panels, workshops, or posters through the Call for Abstracts : https://forms.gle/Wtt7vYAnrCrbkFPU8  
 
