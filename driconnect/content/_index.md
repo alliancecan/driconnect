@@ -5,7 +5,7 @@ translationKey: "home"
 
 {{< paige/hero
     alt="Spring DRI Connect, May 27 - May 28, 2025"
-    header="TOWARDS INTEGRATED SOLUTIONS FOR DIGITAL RESEARCH"
+    header="PEOPLE, KNOWLEDGE, AND THE FUTURE OF CANADA’S DIGITAL RESEARCH"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}

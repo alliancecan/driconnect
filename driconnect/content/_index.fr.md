@@ -5,7 +5,7 @@ translationKey: "home"
 
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 27-28 mai 2024"
-    header="Rassemblons-nous!"
+    header="L’humain, le savoir et l’avenir de la recherche numérique au Canada."
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
