@@ -20,7 +20,7 @@ translationKey: "program"
 
   Or <strong> suggest inspiring speakers </strong>  who can bring valuable insights to the conference: https://forms.gle/vSCJjSVRbTQuX3Jy6  
 
-  The deadline to submit your suggestions is </strong> March 14, 2025 </strong> . Don’t miss this chance to shape the conversation at DRI Connect 2025! 
+  The deadline to submit your suggestions is <strong> March 14, 2025 </strong> . Don’t miss this chance to shape the conversation at DRI Connect 2025! 
 
 {{< /paige/hero >}}
 
