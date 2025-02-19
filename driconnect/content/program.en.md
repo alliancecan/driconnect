@@ -18,7 +18,7 @@ translationKey: "program"
 
   Submit your innovative ideas for presentations, panels, workshops, or posters through the <strong>Call for Abstracts</strong>  :  <a href="https://forms.gle/Wtt7vYAnrCrbkFPU8 " style="color: #fb3f00; text-decoration: none;">link</a>  
 
-  Or <strong>suggest inspiring speakers</strong>  who can bring valuable insights to the conference: https://forms.gle/vSCJjSVRbTQuX3Jy6  
+  Or <strong>suggest inspiring speakers</strong>  who can bring valuable insights to the conference: <https://forms.gle/vSCJjSVRbTQuX3Jy6>  
 
   The deadline to submit your suggestions is <strong>March 14, 2025</strong> . Don’t miss this chance to shape the conversation at DRI Connect 2025! 
 
