@@ -4,25 +4,26 @@ title: "Programme"
 lang_code: "fr"
 translationKey: "program"
 ---
-
+<!--
 {{< paige/hero
     alt="Rencontre printanière sur l'IRN, Du 27 mai au 28 mai 2024"
     header="Programme"
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-    
-   Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
-
-  C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
-
-  <strong>Soumettez vos idées</strong> de présentations, de panels, d'ateliers ou d'affiches par le biais du formulaire suivant: <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Soumettez vos idées</a> 
-
-  Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggérez des présentatrices ou présentateurs</a>   
-
-  La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
- 
 {{< /paige/hero >}}
+-->
+Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
+
+C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
+
+<strong>Soumettez vos idées</strong> de présentations, de panels, d'ateliers ou d'affiches par le biais du formulaire suivant: <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Soumettez vos idées</a> 
+
+Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggérez des présentatrices ou présentateurs</a>   
+
+La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
+ 
+
 
 
 <!--
