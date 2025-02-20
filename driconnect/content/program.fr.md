@@ -13,15 +13,16 @@ translationKey: "program"
     stretch=true >}}
 {{< /paige/hero >}}
 -->
-Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
 
-C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
+  Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong>pour la rencontre de l'IRN 2025 est maintenant ouvert !  
 
-<strong>Soumettez vos idées</strong> de présentations, de panels, d'ateliers ou d'affiches par le biais du formulaire suivant: <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Soumettez vos idées</a> 
+  C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
 
-Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggérez des présentatrices ou présentateurs</a>   
+  <strong>Soumettez vos idées</strong> de présentations, de panels, d'ateliers ou d'affiches par le biais du formulaire suivant: <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Soumettez vos idées</a> 
 
-La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
+  Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggérez des présentatrices ou présentateurs</a>   
+
+  La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
  
 
 

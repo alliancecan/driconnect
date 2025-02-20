@@ -13,15 +13,15 @@ translationKey: "program"
     stretch=true >}}
 {{< /paige/hero >}}
 -->
-### Call for abstracts and speaker suggestions now open! 
+  ### Call for abstracts and speaker suggestions now open! 
 
-We are excited to announce that the <strong>Call for Abstracts</strong> and <strong>Speaker Suggestions</strong>  for DRI Connect 2025 are now open! This is your opportunity to contribute to the program of this year’s event, which will take place on May 27 and 28, 2025, in Montreal, Quebec. 
+  We are excited to announce that the <strong>Call for Abstracts</strong> and <strong>Speaker Suggestions</strong>  for DRI Connect 2025 are now open! This is your opportunity to contribute to the program of this year’s event, which will take place on May 27 and 28, 2025, in Montreal, Quebec. 
 
-Submit your innovative ideas for presentations, panels, workshops, or posters through the <strong>Call for Abstracts</strong>  :  <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Submit ideas</a> 
+  Submit your innovative ideas for presentations, panels, workshops, or posters through the <strong>Call for Abstracts</strong>  :  <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">Submit ideas</a> 
 
-Or <strong>suggest inspiring speakers</strong>  who can bring valuable insights to the conference: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggest speakers</a> 
+  Or <strong>suggest inspiring speakers</strong>  who can bring valuable insights to the conference: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggest speakers</a> 
 
-The deadline to submit your suggestions is <strong>March 14, 2025</strong> . Don’t miss this chance to shape the conversation at DRI Connect 2025! 
+  The deadline to submit your suggestions is <strong>March 14, 2025</strong> . Don’t miss this chance to shape the conversation at DRI Connect 2025! 
 
 
 
