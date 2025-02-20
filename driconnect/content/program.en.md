@@ -6,14 +6,13 @@ translationKey: "program"
 ---
 
 {{< paige/hero
-    <!--
     alt="Spring DRI Connect, May 27 - May 28, 2024"
     header="Program"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
 
-    -->
+
   ### Call for abstracts and speaker suggestions now open! 
 
   We are excited to announce that the <strong>Call for Abstracts</strong> and <strong>Speaker Suggestions</strong>  for DRI Connect 2025 are now open! This is your opportunity to contribute to the program of this year’s event, which will take place on May 27 and 28, 2025, in Montreal, Quebec. 

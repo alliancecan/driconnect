@@ -6,14 +6,12 @@ translationKey: "program"
 ---
 
 {{< paige/hero
-    <!--
-
     alt="Rencontre printanière sur l'IRN, Du 27 mai au 28 mai 2024"
     header="Programme"
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-    -->
+    
    Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
 
   C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
