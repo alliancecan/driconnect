@@ -12,7 +12,15 @@ translationKey: "program"
     imageclass="rounded-4 shadow"
     stretch=true >}}
 
-   Nous lancerons un appel à contributions au début du mois de février pour accueillir les propositions d’exposés, de séances, de présentations et d’ateliers. Restez à l’affût pour connaître les directives en matière de soumission et les formats. 
+   Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
+
+  C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
+
+  <strong>Soumettez vos idées</strong> de présentations, de panels, d'ateliers ou d'affiches par le biais du formulaire suivant: <a href=https://forms.gle/Wtt7vYAnrCrbkFPU8 target="_blank">forms.gle/Wtt7vYAnrCrbkFPU8</a> 
+
+  Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">forms.gle/vSCJjSVRbTQuX3Jy6</a>   
+
+  La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
  
 {{< /paige/hero >}}
 
