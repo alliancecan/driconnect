@@ -13,7 +13,8 @@ Nous avons négocié un tarif spécial pour les participants de la rencontre sur
   * Tarif des chambres : 305 $/nuit 
   * Période de réservation : Disponible du 23 mai au 2 juin 2025 
   * Dernier jour pour réserver : Vendredi 25 avril 2025 
-Réservez votre chambre pour la rencontre sur l’IRN [ici](https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink)
+Réservez votre chambre pour la rencontre sur l’IRN <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">ici</a>
+
 
 Remarque : Si vous êtes un membre du personnel de l'Alliance, veuillez réserver votre séjour via la page d'inscription de la retraite du personnel pour combiner la rencontre sur l’IRN et la retraite du personnel en une seule réservation. 
 
