@@ -5,8 +5,30 @@ lang_code: "fr"
 translationKey: "registration"
 ---
 
-Les inscriptions à la conférence seront ouvertes en février. Nous partagerons bientôt les détails sur le processus d'inscription. 
+Inscrivez-vous dès aujourd'hui pour réserver votre place à la rencontre sur l’IRN de cette année qui se tiendra à l'Université Concordia à Montréal les 27 et 28 mai 2025. 
+L'événement de cette année est entièrement en présentiel et les places sont limitées. 
+Nous vous encourageons à vous inscrire rapidement pour éviter toute déception et garantir votre place. 
 
+ 
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">[INSCRIVEZ-VOUS MAINTENANT]</a>
+ 
+
+
+### Important à noter 
+
+Bien qu'il s'agisse d'un événement en présentiel, nous nous engageons à rendre le contenu accessible à tous. Lorsque les présentatrices et présentateurs le permettront, des enregistrements des sessions seront disponibles. Nous fournirons également un accès à distance au matériel et possiblement d'autres dispositifs d'accessibilité à mesure que nous développons le programme et planifions l’événement. 
+
+Veuillez vous assurer lors de votre inscription d'indiquer toute exigence d'accessibilité avant la date limite d'inscription afin que nous puissions tenir compte de tout besoin alimentaire, audiovisuel ou autre. 
+
+ 
+
+Ne manquez pas cette occasion de rencontrer vos collègues et des leaders dans le domaine de l’IRN. Inscrivez-vous dès aujourd'hui ! 
+
+Les inscriptions resteront ouvertes jusqu'au 20 mai 2025, ou jusqu'à ce que toutes les places soient réservées, selon la première éventualité. 
+
+Pour toute question relative à l'inscription, contactez-nous à alliance@coherent-solutions.ca 
+
+ 
 <!--
 Les inscriptions pour participer en personne sont complètes. Toutefois, la participation virtuelle reste ouverte.
 Veuillez cliquez sur le lien suivant pour vous inscrire:
