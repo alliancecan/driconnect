@@ -13,7 +13,7 @@ Nous avons négocié un tarif spécial pour les participants de la rencontre sur
   * Tarif des chambres : 305 $/nuit 
   * Période de réservation : Disponible du 23 mai au 2 juin 2025 
   * Dernier jour pour réserver : Vendredi 25 avril 2025 
-Réservez votre chambre pour la rencontre sur l’IRN <a href=https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink target="_blank">[ici].</a> 
+Réservez votre chambre pour la rencontre sur l’IRN <a href=https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink target="_blank">[ici]</a> 
 
 Remarque : Si vous êtes un membre du personnel de l'Alliance, veuillez réserver votre séjour via la page d'inscription de la retraite du personnel pour combiner la rencontre sur l’IRN et la retraite du personnel en une seule réservation. 
 
@@ -27,10 +27,10 @@ Si l'hôtel officiel est complet ou si vous préférez d'autres options, voici q
 ### Explorer Montréal 
 Montréal est une ville dynamique et bilingue, réputée pour son mélange unique de charme européen et d'énergie nord-américaine. Pendant la rencontre sur l’IRN 2025, prenez le temps de découvrir : 
 
-### Attractions locales 
-  * Vieux-Montréal : Quartier historique avec des rues pavées et une magnifique architecture 
-  * Parc du Mont-Royal : Conçu par Frederick Law Olmsted, offrant des vues panoramiques de la ville 
-  * Musée des beaux-arts de Montréal : Le plus ancien musée d'art du Canada avec une collection impressionnante 
+ ## Attractions locales 
+   * Vieux-Montréal : Quartier historique avec des rues pavées et une magnifique architecture 
+   * Parc du Mont-Royal : Conçu par Frederick Law Olmsted, offrant des vues panoramiques de la ville 
+   * Musée des beaux-arts de Montréal : Le plus ancien musée d'art du Canada avec une collection impressionnante 
 
 ### Gastronomie 
 La scène culinaire de Montréal est mondialement célèbre, offrant tout, de la cuisine française classique aux restaurants innovants de fusion. Ne manquez pas de goûter : 
@@ -42,7 +42,7 @@ La scène culinaire de Montréal est mondialement célèbre, offrant tout, de la
   * Métro : Propre, efficace et connectant les principales attractions 
   * BIXI : Service de vélos en libre-service avec plus de 9 000 vélos disponibles dans toute la ville 
   * À pied : Le centre-ville de Montréal est très praticable à pied 
-  
+
 Nous espérons que vous profiterez de votre séjour à Montréal et que vous tirerez le meilleur parti de votre participation à la rencontre sur l’IRN 2025 ! 
 
 <!--

@@ -16,7 +16,7 @@ We've arranged a special conference rate at the Montreal Marriott Chateau Champl
   * Room Rate: $305/night 
   * Booking Period: Available from May 23 to June 2, 2025 
   * Last Day to Book: Friday, April 25, 2025 
-<a href=https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink target="_blank">Book your room for DRI Connect here.</a>
+<a href=https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink target="_blank">Book your room for DRI Connect here</a>
 
 Note: If you are a staff member of the Alliance, please book your stay via the staff retreat registration page for both DRI Connect and the Staff Retreat at once.  
 
@@ -35,10 +35,10 @@ If the official hotel is fully booked or you prefer other options, here are some
 Montreal is a vibrant, bilingual city known for its unique blend of European charm and North American energy. While attending DRI Connect 2025, consider exploring: 
  
 
-### Local Attractions 
-  * Old Montreal (Vieux-Montréal) - Historic district with cobblestone streets and beautiful architecture 
-  * Mount Royal Park - Designed by Frederick Law Olmsted, offering panoramic views of the city 
-  * Montreal Museum of Fine Arts - Canada's oldest art museum with an impressive collection 
+   ## Local Attractions 
+   * Old Montreal (Vieux-Montréal) - Historic district with cobblestone streets and beautiful architecture 
+   * Mount Royal Park - Designed by Frederick Law Olmsted, offering panoramic views of the city 
+   * Montreal Museum of Fine Arts - Canada's oldest art museum with an impressive collection 
 
 ### Dining 
 Montreal's food scene is world-renowned, featuring everything from classic French cuisine to innovative fusion restaurants. Don't miss trying: 
