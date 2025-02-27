@@ -35,7 +35,7 @@ If the official hotel is fully booked or you prefer other options, here are some
 Montreal is a vibrant, bilingual city known for its unique blend of European charm and North American energy. While attending DRI Connect 2025, consider exploring: 
  
 
-* # Local Attractions 
+* #### Local Attractions 
    * Old Montreal (Vieux-Montréal) - Historic district with cobblestone streets and beautiful architecture 
    * Mount Royal Park - Designed by Frederick Law Olmsted, offering panoramic views of the city 
    * Montreal Museum of Fine Arts - Canada's oldest art museum with an impressive collection 
