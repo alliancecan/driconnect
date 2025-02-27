@@ -16,7 +16,7 @@ We've arranged a special conference rate at the Montreal Marriott Chateau Champl
   * Room Rate: $305/night 
   * Booking Period: Available from May 23 to June 2, 2025 
   * Last Day to Book: Friday, April 25, 2025 
-<a href=https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink target="_blank">Book your room for DRI Connect here</a>
+Book your room for DRI Connect [here](https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink)
 
 Note: If you are a staff member of the Alliance, please book your stay via the staff retreat registration page for both DRI Connect and the Staff Retreat at once.  
 
