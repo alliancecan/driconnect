@@ -23,8 +23,11 @@ Bien que nous ayons fourni les informations essentielles, certains détails supp
 Nous avons hâte de vous accueillir à Montréal pour un événement inoubliable ! 
 
 ### En savoir plus : 
+
 <a href=https://driconnect.alliancecan.ca/fr/lieu/ target="_blank">Hébergements et que faire à Montréal</a> 
+
 <a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">Comment s'inscrire</a> 
+
 <a href=https://driconnect.alliancecan.ca/fr/programme/ target="_blank">Mises à jour du programme</a> 
  
 <!--
