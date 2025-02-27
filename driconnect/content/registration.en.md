@@ -14,7 +14,7 @@ This year’s event is fully in-person and space is limited.
 We encourage you to register early to avoid disappointment and guarantee your spot at the conference. 
 
  
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">[REGISTER NOW]</a>
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">REGISTER NOW</a>
 
 
  

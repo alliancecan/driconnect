@@ -10,7 +10,7 @@ L'événement de cette année est entièrement en présentiel et les places sont
 Nous vous encourageons à vous inscrire rapidement pour éviter toute déception et garantir votre place. 
 
  
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">[INSCRIVEZ-VOUS MAINTENANT]</a>
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">INSCRIVEZ-VOUS MAINTENANT</a>
  
 
 
