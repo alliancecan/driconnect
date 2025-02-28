@@ -41,6 +41,7 @@ Montreal is a vibrant, bilingual city known for its unique blend of European cha
    * Montreal Museum of Fine Arts - Canada's oldest art museum with an impressive collection 
 
 
+
 * #### Dining 
   Montreal's food scene is world-renowned, featuring everything from classic French cuisine to innovative fusion restaurants. Don't miss trying: 
     * Authentic Montreal-style bagels 
@@ -52,6 +53,7 @@ Montreal is a vibrant, bilingual city known for its unique blend of European cha
    * Metro System - Clean, efficient, and connects major attractions 
    * BIXI Bike Sharing - Over 9,000 bikes available throughout the city 
    * Walking - Montreal's downtown core is highly walkable 
+
  
 We hope you enjoy your stay in Montreal and make the most of your time at DRI Connect 2025! 
  

@@ -28,10 +28,14 @@ Si l'hôtel officiel est complet ou si vous préférez d'autres options, voici q
 ### Explorer Montréal 
 Montréal est une ville dynamique et bilingue, réputée pour son mélange unique de charme européen et d'énergie nord-américaine. Pendant la rencontre sur l’IRN 2025, prenez le temps de découvrir : 
 
+
 * #### Attractions locales 
+
+
    * Vieux-Montréal : Quartier historique avec des rues pavées et une magnifique architecture 
    * Parc du Mont-Royal : Conçu par Frederick Law Olmsted, offrant des vues panoramiques de la ville 
    * Musée des beaux-arts de Montréal : Le plus ancien musée d'art du Canada avec une collection impressionnante 
+
 
 
 * #### Gastronomie 
@@ -45,6 +49,7 @@ Montréal est une ville dynamique et bilingue, réputée pour son mélange uniqu
    * Métro : Propre, efficace et connectant les principales attractions 
    * BIXI : Service de vélos en libre-service avec plus de 9 000 vélos disponibles dans toute la ville 
    * À pied : Le centre-ville de Montréal est très praticable à pied 
+
 
 Nous espérons que vous profiterez de votre séjour à Montréal et que vous tirerez le meilleur parti de votre participation à la rencontre sur l’IRN 2025 ! 
 

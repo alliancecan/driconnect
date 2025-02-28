@@ -5,7 +5,9 @@ lang_code: "en"
 translationKey: "registration"
 ---
 
+
 <strong>Registration is now open for DRI Connect 2025!</strong>
+
 
 Register today to secure your place at this year's event at Concordia University in Montreal on May 27-28, 2025.  
 
@@ -16,8 +18,6 @@ We encourage you to register early to avoid disappointment and guarantee your sp
  
 <a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank"><strong>REGISTER NOW</strong></a>
 
-
- 
 
 <strong> Important to note </strong>
 
