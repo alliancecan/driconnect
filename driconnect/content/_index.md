@@ -5,14 +5,31 @@ translationKey: "home"
 
 {{< paige/hero
     alt="Spring DRI Connect, May 27 - May 28, 2025"
-    header="PEOPLE, KNOWLEDGE, AND THE FUTURE OF CANADA’S DIGITAL RESEARCH"
+    header="People, knowledge, and the future of Canada’s digital research"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-We are thrilled to announce that this year’s DRI Connect will take place in Montreal on May 27 and 28, 2025.
 
-Stay tuned for updates as we finalize the details! Information about the exact venue, program highlights, the call for abstracts, and registration will be available soon. Be sure to check back regularly for the latest news—we can’t wait to share what we have in store for you!
 {{< /paige/hero >}}
+
+We are thrilled to announce that this year’s DRI Connect event will take place at Concordia University in Montreal on May 27 and 28, 2025. 
+
+Here you will find information about the venue, program, registration process, and accommodations. Please visit the respective pages for details to help plan your attendance. 
+
+While we've provided essential information, some additional details are still being finalized. We'll be continuously updating the website as new information becomes available, including additional speakers, social events, and networking opportunities. Be sure to check back regularly for the latest updates! 
+
+ 
+
+We can't wait to welcome you to Montreal for an unforgettable event! 
+
+
+### Learn more: 
+
+<a href=https://driconnect.alliancecan.ca/venue/ target="_blank">Accommodations and what to do in Montreal</a> 
+
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">How to register</a> 
+
+<a href=https://driconnect.alliancecan.ca/program/ target="_blank">Program updates</a> 
 
 <!--
 

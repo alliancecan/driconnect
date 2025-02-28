@@ -15,7 +15,7 @@ translationKey: "program"
 -->
 ### L'appel à soumissions et à suggestions de présentatrices et présentateurs est maintenant ouvert!
 
-Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre de l'IRN 2025 est maintenant ouvert !  
+Nous sommes heureux d'annoncer que <strong>l'appel à soumissions</strong> et à <strong>suggestions de présentatrices ou présentateurs</strong> pour la rencontre sur l'IRN 2025 est maintenant ouvert !  
 
 C'est l'occasion pour vous de contribuer au programme de l'événement de cette année, qui aura lieu les 27 et 28 mai 2025 à Montréal, au Québec. 
 
@@ -23,7 +23,7 @@ C'est l'occasion pour vous de contribuer au programme de l'événement de cette 
 
 Ou <strong>suggérez des présentatrices ou présentateurs</strong>: <a href=https://forms.gle/vSCJjSVRbTQuX3Jy6 target="_blank">Suggérez des présentatrices ou présentateurs</a>   
 
-La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre de l'IRN 2025 ! 
+La date limite pour soumettre vos suggestions est <strong>le 14 mars 2025</strong>. Ne manquez pas cette occasion de participer au développement du programme de la rencontre sur l'IRN 2025. 
 
  
 
