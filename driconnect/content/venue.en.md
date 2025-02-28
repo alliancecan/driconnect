@@ -5,7 +5,58 @@ lang_code: "en"
 translationKey: "venue"
 ---
 
-The conference will take place in the vibrant city of Montreal. More details to come soon.
+DRI Connect 2025 will be held at Concordia University in the heart of Montreal. Here’s everything you need to know about accommodations and what to do in the city. 
+
+ 
+
+### Official Hotel: Montreal Marriott Chateau Champlain 
+
+We've arranged a special conference rate at the Montreal Marriott Chateau Champlain for DRI Connect 2025 attendees. 
+
+  * Room Rate: $305/night 
+  * Booking Period: Available from May 23 to June 2, 2025 
+  * Last Day to Book: Friday, April 25, 2025 
+Book your room for DRI Connect <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">here</a>
+
+Note: If you are a staff member of the Alliance, please book your stay via the staff retreat registration page for both DRI Connect and the Staff Retreat at once.  
+
+ 
+
+### Other nearby hotels 
+
+If the official hotel is fully booked or you prefer other options, here are some other hotels in the area offering reasonable rates or you may wish to explore special rates your organization offers: 
+
+  * Holiday Inn Montreal Centreville Downtown 
+  * Novotel Montreal Centre 
+  * Renaissance Montreal Downtown 
+ 
+
+### Exploring Montreal 
+Montreal is a vibrant, bilingual city known for its unique blend of European charm and North American energy. While attending DRI Connect 2025, consider exploring: 
+ 
+
+* #### Local Attractions 
+   * Old Montreal (Vieux-Montréal) - Historic district with cobblestone streets and beautiful architecture 
+   * Mount Royal Park - Designed by Frederick Law Olmsted, offering panoramic views of the city 
+   * Montreal Museum of Fine Arts - Canada's oldest art museum with an impressive collection 
+
+
+
+* #### Dining 
+  Montreal's food scene is world-renowned, featuring everything from classic French cuisine to innovative fusion restaurants. Don't miss trying: 
+    * Authentic Montreal-style bagels 
+    * Iconic poutine 
+    * Smoked meat sandwiches 
+
+
+* #### Getting Around 
+   * Metro System - Clean, efficient, and connects major attractions 
+   * BIXI Bike Sharing - Over 9,000 bikes available throughout the city 
+   * Walking - Montreal's downtown core is highly walkable 
+
+ 
+We hope you enjoy your stay in Montreal and make the most of your time at DRI Connect 2025! 
+ 
 
 <!--
 

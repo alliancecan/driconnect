@@ -9,10 +9,27 @@ translationKey: "home"
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
-Nous sommes ravis d'annoncer que la rencontre de l’infrastructure de recherche numérique (IRN) de cette année aura lieu à Montréal les 27 et 28 mai 2025.
-Restez à l’affût pour les mises à jour alors que nous finalisons les détails ! Des informations sur le lieu, le programme, l'appel à soumission et les inscriptions seront disponibles bientôt. Assurez-vous de revenir régulièrement pour les dernières nouvelles—nous avons hâte de partager avec vous ce que nous vous réservons !
+
 {{< /paige/hero >}}
 
+
+Nous sommes ravis d'annoncer que la rencontre sur l'IRN de cette année aura lieu à l'Université Concordia à Montréal les 27 et 28 mai 2025. 
+
+Les inscriptions sont maintenant ouvertes ! 
+
+Les informations sur le lieu, le programme, le processus d'inscription et les hébergements sont disponibles sur notre site web. Veuillez consulter les sections respectives pour obtenir des détails qui vous aideront à planifier votre participation. 
+Bien que nous ayons fourni les informations essentielles, certains détails supplémentaires sont encore en cours de finalisation. Nous mettrons continuellement à jour le site web dès que de nouvelles informations seront disponibles, y compris des présentations supplémentaires, des événements sociaux et des opportunités de réseautage. Assurez-vous de consulter le site régulièrement pour les dernières mises à jour ! 
+
+Nous avons hâte de vous accueillir à Montréal pour un événement inoubliable ! 
+
+### En savoir plus : 
+
+<a href=https://driconnect.alliancecan.ca/fr/lieu/ target="_blank">Hébergements et que faire à Montréal</a> 
+
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">Comment s'inscrire</a> 
+
+<a href=https://driconnect.alliancecan.ca/fr/programme/ target="_blank">Mises à jour du programme</a> 
+ 
 <!--
 
 <p class="text-center">
