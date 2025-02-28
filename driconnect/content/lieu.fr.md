@@ -33,11 +33,13 @@ Montréal est une ville dynamique et bilingue, réputée pour son mélange uniqu
    * Parc du Mont-Royal : Conçu par Frederick Law Olmsted, offrant des vues panoramiques de la ville 
    * Musée des beaux-arts de Montréal : Le plus ancien musée d'art du Canada avec une collection impressionnante 
 
+
 * #### Gastronomie 
 La scène culinaire de Montréal est mondialement célèbre, offrant tout, de la cuisine française classique aux restaurants innovants de fusion. Ne manquez pas de goûter : 
    * Les authentiques bagels à la montréalaise 
    * La poutine emblématique 
    * Les sandwichs à la viande fumée 
+   
 
 * #### Se déplacer 
    * Métro : Propre, efficace et connectant les principales attractions 
