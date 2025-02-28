@@ -35,11 +35,11 @@ Montréal est une ville dynamique et bilingue, réputée pour son mélange uniqu
 
 
 * #### Gastronomie 
-La scène culinaire de Montréal est mondialement célèbre, offrant tout, de la cuisine française classique aux restaurants innovants de fusion. Ne manquez pas de goûter : 
-   * Les authentiques bagels à la montréalaise 
-   * La poutine emblématique 
-   * Les sandwichs à la viande fumée 
-   
+  La scène culinaire de Montréal est mondialement célèbre, offrant tout, de la cuisine française classique aux restaurants innovants de fusion. Ne manquez pas de goûter : 
+    * Les authentiques bagels à la montréalaise 
+    * La poutine emblématique 
+    * Les sandwichs à la viande fumée 
+
 
 * #### Se déplacer 
    * Métro : Propre, efficace et connectant les principales attractions 

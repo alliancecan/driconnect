@@ -42,11 +42,11 @@ Montreal is a vibrant, bilingual city known for its unique blend of European cha
 
 
 * #### Dining 
-Montreal's food scene is world-renowned, featuring everything from classic French cuisine to innovative fusion restaurants. Don't miss trying: 
-   * Authentic Montreal-style bagels 
-   * Iconic poutine 
-   * Smoked meat sandwiches 
-   
+  Montreal's food scene is world-renowned, featuring everything from classic French cuisine to innovative fusion restaurants. Don't miss trying: 
+    * Authentic Montreal-style bagels 
+    * Iconic poutine 
+    * Smoked meat sandwiches 
+
 
 * #### Getting Around 
    * Metro System - Clean, efficient, and connects major attractions 
