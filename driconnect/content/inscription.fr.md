@@ -8,13 +8,13 @@ translationKey: "registration"
 Inscrivez-vous dès aujourd'hui pour réserver votre place à la rencontre sur l’IRN de cette année qui se tiendra à l'Université Concordia à Montréal les 27 et 28 mai 2025. 
 L'événement de cette année est entièrement en présentiel et les places sont limitées. 
 Nous vous encourageons à vous inscrire rapidement pour éviter toute déception et garantir votre place. 
-
- 
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank">INSCRIVEZ-VOUS MAINTENANT</a>
  
 
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank"><strong>INSCRIVEZ-VOUS MAINTENANT</strong></a>
+ 
 
-### Important à noter 
+<strong>Important à noter</strong>
+
 
 Bien qu'il s'agisse d'un événement en présentiel, nous nous engageons à rendre le contenu accessible à tous. Lorsque les présentatrices et présentateurs le permettront, des enregistrements des sessions seront disponibles. Nous fournirons également un accès à distance au matériel et possiblement d'autres dispositifs d'accessibilité à mesure que nous développons le programme et planifions l’événement. 
 
