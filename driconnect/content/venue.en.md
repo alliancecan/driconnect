@@ -14,8 +14,9 @@ DRI Connect 2025 will be held at Concordia University in the heart of Montreal. 
 We've arranged a special conference rate at the Montreal Marriott Chateau Champlain for DRI Connect 2025 attendees. 
 
   * Room Rate: $305/night 
-  * Core Booking Period: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">(via link)</a>May 26 to May 30, 2025 
+  * Core Booking Period <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">(via link)</a>: May 26 to May 30, 2025 
   * Last Day to Book: Friday, April 25, 2025 
+  
 Book your room for DRI Connect <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">here</a>
 
 If your arrival or departure fall outside of these dates, the conference rate is available to you from May 23rd and until June 2nd , subject to availability. To book into these extended dates you will need to reserve by phone: 1-888-236-2427.
