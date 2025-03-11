@@ -13,7 +13,7 @@ translationKey: "home"
 {{< /paige/hero >}}
 
 
-Nous sommes ravis d'annoncer que la rencontre sur l'IRN de cette année aura lieu à l'Université Concordia à Montréal les 27 et 28 mai 2025. 
+Nous sommes ravis d’annoncer que la rencontre sur l’IRN de cette année aura lieu à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, à Montréal les 27 et 28 mai 2025.
 
 Les inscriptions sont maintenant ouvertes ! 
 
