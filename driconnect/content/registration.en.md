@@ -9,7 +9,8 @@ translationKey: "registration"
 <strong>Registration is now open for DRI Connect 2025!</strong>
 
 
-Register today to secure your place at this year's event at Concordia University in Montreal on May 27-28, 2025.  
+Register today to secure your place at this year’s event at Concordia University, in the John Molson Building, located at 1450 Guy Street, in Montreal on May 27-28, 2025.
+
 
 This year’s event is fully in-person and space is limited.  
 

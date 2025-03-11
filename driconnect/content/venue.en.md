@@ -5,7 +5,7 @@ lang_code: "en"
 translationKey: "venue"
 ---
 
-DRI Connect 2025 will be held at Concordia University in the heart of Montreal. Here’s everything you need to know about accommodations and what to do in the city. 
+DRI Connect 2025 will be held at Concordia University, in the John Molson Building, located at 1450 Guy Street, in the heart of Montreal. 
 
  
 
