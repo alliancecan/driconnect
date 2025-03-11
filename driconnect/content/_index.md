@@ -12,7 +12,7 @@ translationKey: "home"
 
 {{< /paige/hero >}}
 
-We are thrilled to announce that this year’s DRI Connect event will take place at Concordia University in Montreal on May 27 and 28, 2025. 
+We are thrilled to announce that this year’s DRI Connect event will take place at Concordia University, in the John Molson Building, located at 1450 Guy Street, in Montreal on May 27 and 28, 2025. 
 
 Here you will find information about the venue, program, registration process, and accommodations. Please visit the respective pages for details to help plan your attendance. 
 

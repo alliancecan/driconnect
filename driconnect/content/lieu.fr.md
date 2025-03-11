@@ -5,7 +5,7 @@ lang_code: "fr"
 translationKey: "venue"
 ---
 
-La rencontre sur l’IRN 2025 se tiendra à l'Université Concordia, au cœur de Montréal. Voici tout ce que vous devez savoir sur les hébergements et les activités à faire dans la ville. 
+La rencontre sur l’IRN 2025 se tiendra à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, au cœur de Montréal. 
 
 ### Hôtel officiel : Montreal Marriott Chateau Champlain 
 Nous avons négocié un tarif spécial pour les participants de la rencontre sur l’IRN 2025 au Montreal Marriott Chateau Champlain. 
