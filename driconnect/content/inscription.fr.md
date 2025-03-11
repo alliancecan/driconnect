@@ -8,7 +8,9 @@ translationKey: "registration"
 
 <strong>Inscrivez-vous dès aujourd’hui à la rencontre sur l’IRN 2025!</strong>
 
+
 Inscrivez-vous dès aujourd’hui pour réserver votre place à la rencontre sur l’IRN de cette année qui se tiendra à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, à Montréal les 27 et 28 mai 2025. 
+
 
 L'événement de cette année est entièrement en présentiel et les places sont limitées. 
 Nous vous encourageons à vous inscrire rapidement pour éviter toute déception et garantir votre place. 
