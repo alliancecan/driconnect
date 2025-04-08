@@ -165,8 +165,8 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-4 col-sm-2 text-nowrap">
         </div>
       <div class="col-3 "> </div>
-      <div class="col-2 ">    </div>
-      <div class="col "> Sessions details coming soon  </div>
+      <div class="col-2 ">  Sessions details coming soon   </div>
+      <div class="col ">  </div>
     </div>
     <div class="row my-7">
       <div class="col-4 col-sm-2 text-nowrap"> 12:15 pm (60 min) 
