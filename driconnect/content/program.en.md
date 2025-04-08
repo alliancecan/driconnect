@@ -42,6 +42,43 @@ If you have questions regarding the conference or the call for abstracts, please
   </div>
 </details>
 
+#### Day 1 - Conference
+
+<details>
+  <summary class="h5">Tuesday, May 27<small class="text-muted d-print-none"> (click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-3 bg-primary text-white">Room</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        8:00 am (60 min) 
+      </div>
+      <div class="col-3 ">Atrium   </div>
+      <div class="col-2 ">Registration   </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-4">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:00 am (30 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Opening Remarks   </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:30 am (60 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Keynote: Dr. Shapiro    </div>
+      <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
+    </div>
+  </div>
+</details>
 <!--
 
 ### Spring Digital Research Infrastructure Connect
