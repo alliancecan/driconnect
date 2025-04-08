@@ -37,7 +37,7 @@ If you have questions regarding the conference or the call for abstracts, please
       </div>
       <div class="col-3 ">École de technologie supérieure  </div>
       <div class="col-2 ">Magic Castle Workshop  </div>
-      <div class="col ">Form    </div>
+      <div class="col "><p>https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform  </p> </div>
     </div>
   </div>
 </details>
