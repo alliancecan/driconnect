@@ -25,23 +25,25 @@ Si vous avez des questions concernant la conférence ou l'appel à soumission, v
 #### Jour 0 – Pré Conference 
 
 <details>
-  <summary class="h5">Lundi le 26 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
+  <summary class="h5">Lundi le 26 mai<small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
-      <div class="col-3 bg-primary text-white">Lieu </div>
+      <div class="col-4 col-sm-2 bg-primary text-white">Heure</div>
+      <div class="col-3 bg-primary text-white">Lieu</div>
       <div class="col-2 bg-primary text-white">Description</div>
       <div class="col bg-primary text-white"></div>
     </div>
     <div class="row my-3">
       <div class="col-4 col-sm-2 text-nowrap">
-       13h30 (3 heures) 
+        13h30 (3 heures) 
+      </div>
       <div class="col-3 ">École de technologie supérieure  </div>
       <div class="col-2 ">Atelier Magic Castle   </div>
       <div class="col "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">formulaire d'inscription</a>   </div>
     </div>
   </div>
 </details>
+
 
 #### Jour 1 - Conference 
 
