@@ -25,7 +25,7 @@ Si vous avez des questions concernant la conférence ou l'appel à soumission, v
 #### Jour 0 – Pré Conference 
 
 <details>
-  <summary class="h5">Lundi le 26 mai <small class="text-muted d-print-none"> (Cliquez pour afficher</small></summary>
+  <summary class="h5">Lundi le 26 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
