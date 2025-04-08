@@ -61,7 +61,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Registration   </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-4" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-4" style="background-color: #FFEFD5">
       <div class="col-4 col-sm-2 text-nowrap">
         9:00 am (30 min) 
       </div>
@@ -77,7 +77,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Keynote: Dr. Shapiro    </div>
       <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
     </div>
-    <div class="row my-6" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-6" style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap">
         10:30 (30 min)  
       </div>
@@ -92,7 +92,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Sessions details coming soon     </div>
       <div class="col ">  </div>
     </div>
-    <div class="row my-8"style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-8"style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap"> 
         12 pm (60 min) 
       </div>
@@ -107,7 +107,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Sessions details coming soon     </div>
       <div class="col ">  </div>
     </div>
-    <div class="row my-10" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-10" style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap"> 
         4:30 pm 
       </div>
@@ -161,7 +161,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Break     </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-6" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-6" style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap">
         </div>
       <div class="col-3 "> </div>
@@ -175,7 +175,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Lunch      </div>
       <div class="col ">  </div>
     </div>
-    <div class="row my-8"style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-8"style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap"> 
        1:15 pm (45 min) 
       </div>
@@ -190,7 +190,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Alliance Fireside Chat     </div>
       <div class="col ">  </div>
     </div>
-    <div class="row my-10" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-10" style="background-color: #F5DEB3">
       <div class="col-4 col-sm-2 text-nowrap"> 
         2:45 pm (15 min)  
       </div>
