@@ -29,7 +29,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-3 bg-primary text-white">Location</div>
       <div class="col-2 bg-primary text-white">Description</div>
-      <div class="col bg-primary text-white"></div>
+      <div class="col bg-primary text-white">Testing</div>
     </div>
     <div class="row my-3">
       <div class="col-4 col-sm-2 text-nowrap">
@@ -37,7 +37,7 @@ If you have questions regarding the conference or the call for abstracts, please
       </div>
       <div class="col-3 ">École de technologie supérieure  </div>
       <div class="col-2 ">Magic Castle Workshop  </div>
-      <div class="col ">https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform    </div>
+      <div class="col ">Form    </div>
     </div>
   </div>
 </details>
