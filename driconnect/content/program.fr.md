@@ -4,23 +4,223 @@ title: "Programme"
 lang_code: "fr"
 translationKey: "program"
 ---
-<!--
 {{< paige/hero
-    alt="Rencontre printanière sur l'IRN, Du 27 mai au 28 mai 2024"
-    header="Programme"
+    alt="Rencontre printanière sur l'IRN, Du 27-28 mai 2024"
+    header="L’humain, le savoir et l’avenir de la recherche numérique au Canada."
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
 {{< /paige/hero >}}
--->
-### L’appel à soumissions et à suggestions de présentatrices et présentateurs est maintenant fermé !
 
 
-Merci à tous ceux qui ont soumis leurs idées et suggestions pour la rencontre sur l’IRN 2025. Nous sommes actuellement en train d'examiner toutes les soumissions et contacterons bientôt les présentatrices et présentateurs sélectionnés.
 
-Restez à l'affût pour les mises à jour sur le programme.
 
-Si vous avez des questions concernant la conférence ou l'appel à soumission, veuillez nous contacter à communications@alliancecan.ca.
+#### Jour 0 – Pré Conference 
+
+<details>
+  <summary class="h5">Lundi le 26 mai<small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Heure</div>
+      <div class="col-3 bg-primary text-white">Lieu</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        13h30 (3 heures) 
+      </div>
+      <div class="col-3 ">École de technologie supérieure  </div>
+      <div class="col-2 ">Atelier Magic Castle   </div>
+      <div class="col "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">formulaire d'inscription</a>   </div>
+    </div>
+  </div>
+</details>
+
+
+#### Jour 1 - Conference 
+
+
+<details>
+  <summary class="h5">Mardi le 27 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
+      <div class="col-3 bg-primary text-white">Salle </div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+       8h00 (60 min) 
+      </div>
+      <div class="col-3 ">Atrium   </div>
+      <div class="col-2 ">Inscription    </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-4" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9h00 (30 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Discours d’ouverture    </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9h30 (60 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Conférencier: Dr. Sidney Shapiro    </div>
+      <div class="col "> Le rôle de l’IA dans la recherche numérique, considérations éthiques dans l’adoption de l’IA ou prise de décision basée sur les données dans les environnements de recherche </div>
+    </div>
+    <div class="row my-6" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        10h30 (30 min)  
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Pause     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Détails des sessions à venir     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        12h (60 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Dîner      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Détails des sessions à venir     </div>
+      <div class="col ">  </div>
+    </div>
+     <div class="row my-10"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        14h15 (30 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Pause      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Détails des sessions à venir     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-12" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        16h30 
+      </div>
+      <div class="col-3 ">ÉTS  </div>
+      <div class="col-2 ">Visite des superordinateurs avec Calcul Québec       </div>
+      <div class="col "> Inscription pour les visites à venir.   </div>
+    </div>
+    <div class="row my-13">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        18h00 
+      </div>
+      <div class="col-3 ">À déterminer   </div>
+      <div class="col-2 ">Soirée de la rencontre sur l’IRN       </div>
+      <div class="col ">  </div>
+    </div>
+  </div>
+</details>
+
+
+#### Jour 2 - Conference
+
+<details>
+  <summary class="h5">Mercredi le 28 mai  <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
+      <div class="col-3 bg-primary text-white">Salle </div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9h  
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Conférencier: Dr. Guillaume Bourque     </div>
+      <div class="col ">Les sciences de la santé à l’ère numérique   </div>
+    </div>
+    <div class="row my-4" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Détails des sessions à venir     </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        10h30 (30 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Pause      </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-6" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">  Détails des sessions à venir    </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 12h15 (60 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Dîner   </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+       13h15 (45 min)  
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Mise à jour des projets et initiatives de l’Alliance    </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 14h (45 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Discussion avec l’Alliance      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-10" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        14h45 (15 min)  
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Mot de clôture de George Ross       </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        15h 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Réseautage et fin du programme      </div>
+      <div class="col ">  </div>
+    </div>
+  </div>
+</details>
 
  
 
