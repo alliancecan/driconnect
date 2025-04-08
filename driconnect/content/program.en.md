@@ -146,7 +146,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Dr. Guillaume Bourque    </div>
       <div class="col ">Health Sciences in the digital age  </div>
     </div>
-    <div class="row my-4" style="background-color: rgba(0,255,127,0.1)">
+    <div class="row my-4" style="background-color: rgba(255,229,204,0)">
       <div class="col-4 col-sm-2 text-nowrap"> 
       </div>
       <div class="col-3 "> </div>
