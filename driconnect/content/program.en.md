@@ -4,21 +4,17 @@ title: "Program"
 lang_code: "en"
 translationKey: "program"
 ---
-<!--
 {{< paige/hero
-    alt="Spring DRI Connect, May 27 - May 28, 2024"
-    header="Program"
+    alt="Spring DRI Connect, May 27 - May 28, 2025"
+    header="People, knowledge, and the future of Canada’s digital research"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
 {{< /paige/hero >}}
--->
 
-### Call for abstracts and speaker suggestions - now closed!
 
-Thank you to everyone who submitted their innovative ideas and speaker suggestions for DRI Connect 2025. We are now in the process of reviewing all submissions and will be contacting selected presenters and speakers soon.
-Stay tuned for updates about the program.
-If you have questions regarding the conference or the call for abstracts, please contact us at communications@alliancecan.ca.   
+
 
 #### Day 0 - Pre-conference
 

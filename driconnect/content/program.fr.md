@@ -4,23 +4,17 @@ title: "Programme"
 lang_code: "fr"
 translationKey: "program"
 ---
-<!--
 {{< paige/hero
-    alt="Rencontre printanière sur l'IRN, Du 27 mai au 28 mai 2024"
-    header="Programme"
+    alt="Rencontre printanière sur l'IRN, Du 27-28 mai 2024"
+    header="L’humain, le savoir et l’avenir de la recherche numérique au Canada."
     image="../header_fr.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
 {{< /paige/hero >}}
--->
-### L’appel à soumissions et à suggestions de présentatrices et présentateurs est maintenant fermé !
 
 
-Merci à tous ceux qui ont soumis leurs idées et suggestions pour la rencontre sur l’IRN 2025. Nous sommes actuellement en train d'examiner toutes les soumissions et contacterons bientôt les présentatrices et présentateurs sélectionnés.
 
-Restez à l'affût pour les mises à jour sur le programme.
-
-Si vous avez des questions concernant la conférence ou l'appel à soumission, veuillez nous contacter à communications@alliancecan.ca.
 
 #### Jour 0 – Pré Conference 
 
