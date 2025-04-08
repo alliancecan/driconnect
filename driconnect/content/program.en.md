@@ -77,6 +77,52 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Keynote: Dr. Shapiro    </div>
       <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
     </div>
+    <div class="row my-6">
+      <div class="col-4 col-sm-2 text-nowrap">
+        10:30 (30 min)  
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Break     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        12 pm (60 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Break      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-10">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        4:30 pm 
+      </div>
+      <div class="col-3 ">ÉTS  </div>
+      <div class="col-2 ">Visit of supercomputers with Calcul Québec      </div>
+      <div class="col "> Registration for visits to come.  </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        6 pm 
+      </div>
+      <div class="col-3 ">TBD   </div>
+      <div class="col-2 ">DRI Connect Dinner      </div>
+      <div class="col ">  </div>
+    </div>
   </div>
 </details>
 <!--
