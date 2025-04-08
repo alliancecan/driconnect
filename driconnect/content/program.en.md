@@ -97,7 +97,7 @@ If you have questions regarding the conference or the call for abstracts, please
         12 pm (60 min) 
       </div>
       <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Break      </div>
+      <div class="col-2 ">Lunch     </div>
       <div class="col ">  </div>
     </div>
     <div class="row my-9">
@@ -107,7 +107,22 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Sessions details coming soon     </div>
       <div class="col ">  </div>
     </div>
-    <div class="row my-10" style="background-color: #FFE4B5">
+    <div class="row my-10"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        2:15 pm (30 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Break      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-12" style="background-color: #FFE4B5">
       <div class="col-4 col-sm-2 text-nowrap"> 
         4:30 pm 
       </div>
@@ -115,7 +130,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Visit of supercomputers with Calcul Québec      </div>
       <div class="col "> Registration for visits to come.  </div>
     </div>
-    <div class="row my-11">
+    <div class="row my-13">
       <div class="col-4 col-sm-2 text-nowrap"> 
         6 pm 
       </div>
