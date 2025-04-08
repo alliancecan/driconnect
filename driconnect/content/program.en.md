@@ -125,6 +125,89 @@ If you have questions regarding the conference or the call for abstracts, please
     </div>
   </div>
 </details>
+
+
+#### Day 2 - Conference
+
+<details>
+  <summary class="h5">Wednesday, May 28 <small class="text-muted d-print-none"> (click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-3 bg-primary text-white">Room</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:00 am 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Dr. Guillaume Bourque    </div>
+      <div class="col ">Health Sciences in the digital age  </div>
+    </div>
+    <div class="row my-4" style="background-color: rgba(0,255,127,0.1)">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon    </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        10:30 am (30 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Break     </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-6" style="background-color: rgba(0,255,127,0.1)">
+      <div class="col-4 col-sm-2 text-nowrap">
+        </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">    </div>
+      <div class="col "> Sessions details coming soon  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 12:15 pm (60 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Lunch      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8"style="background-color: rgba(0,255,127,0.1)">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+       1:15 pm (45 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Alliance projects and initiatives updates   </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 2 pm (45 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Alliance Fireside Chat     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-10" style="background-color: rgba(0,255,127,0.1)">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        2:45 pm (15 min)  
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">George Ross Closing Remarks      </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        3 pm 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Networking and end of program      </div>
+      <div class="col ">  </div>
+    </div>
+  </div>
+</details>
 <!--
 
 ### Spring Digital Research Infrastructure Connect
