@@ -77,7 +77,7 @@ If you have questions regarding the conference or the call for abstracts, please
       <div class="col-2 ">Keynote: Dr. Shapiro    </div>
       <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
     </div>
-    <div class="row my-6" style="background-color: #F5DEB3">
+    <div class="row my-6" style="background-color: #FFE4B5">
       <div class="col-4 col-sm-2 text-nowrap">
         10:30 (30 min)  
       </div>
