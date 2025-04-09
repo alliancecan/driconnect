@@ -4,23 +4,224 @@ title: "Program"
 lang_code: "en"
 translationKey: "program"
 ---
-<!--
 {{< paige/hero
-    alt="Spring DRI Connect, May 27 - May 28, 2024"
-    header="Program"
+    alt="Spring DRI Connect, May 27 - May 28, 2025"
+    header="People, knowledge, and the future of Canada’s digital research"
     image="header_en.png"
     imageclass="rounded-4 shadow"
     stretch=true >}}
+
 {{< /paige/hero >}}
--->
-
-### Call for abstracts and speaker suggestions - now closed!
-
-Thank you to everyone who submitted their innovative ideas and speaker suggestions for DRI Connect 2025. We are now in the process of reviewing all submissions and will be contacting selected presenters and speakers soon.
-Stay tuned for updates about the program.
-If you have questions regarding the conference or the call for abstracts, please contact us at communications@alliancecan.ca.   
 
 
+
+#### Day 0 - Pre-conference
+
+<details>
+  <summary class="h5">Monday, May 26<small class="text-muted d-print-none"> (click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-3 bg-primary text-white">Location</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        1:30 pm (3 hours)
+      </div>
+      <div class="col-3 ">École de technologie supérieure  </div>
+      <div class="col-2 ">Magic Castle Workshop  </div>
+      <div class="col "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a>   </div>
+    </div>
+  </div>
+</details>
+
+<hr />
+
+#### Day 1 - Conference
+
+<details>
+  <summary class="h5">Tuesday, May 27<small class="text-muted d-print-none"> (click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-3 bg-primary text-white">Room</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        8:00 am (60 min) 
+      </div>
+      <div class="col-3 ">Atrium   </div>
+      <div class="col-2 ">Registration   </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-4" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:00 am (30 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Opening Remarks   </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:30 am (60 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Keynote: Dr. Shapiro    </div>
+      <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
+    </div>
+    <div class="row my-6" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        10:30 (30 min)  
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Break     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        12 pm (60 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Lunch     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-10"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        2:15 pm (30 min) 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Break      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-12" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        4:30 pm 
+      </div>
+      <div class="col-3 ">ÉTS  </div>
+      <div class="col-2 ">Visit of supercomputers with Calcul Québec      </div>
+      <div class="col "> Registration for visits to come.  </div>
+    </div>
+    <div class="row my-13">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        6 pm 
+      </div>
+      <div class="col-3 ">TBD   </div>
+      <div class="col-2 ">DRI Connect Dinner      </div>
+      <div class="col ">  </div>
+    </div>
+  </div>
+</details>
+
+<hr />
+
+
+#### Day 2 - Conference
+
+<details>
+  <summary class="h5">Wednesday, May 28 <small class="text-muted d-print-none"> (click to expand)</small></summary>
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-3 bg-primary text-white">Room</div>
+      <div class="col-2 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white"></div>
+    </div>
+    <div class="row my-3">
+      <div class="col-4 col-sm-2 text-nowrap">
+        9:00 am 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Dr. Guillaume Bourque    </div>
+      <div class="col ">Health Sciences in the digital age  </div>
+    </div>
+    <div class="row my-4" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Sessions details coming soon    </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
+      <div class="col-4 col-sm-2 text-nowrap"> 10:30 am (30 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Break     </div>
+      <div class="col ">  </div>
+    </div>
+    </div>
+    <div class="row my-6" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap">
+        </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">  Sessions details coming soon   </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-7">
+      <div class="col-4 col-sm-2 text-nowrap"> 12:15 pm (60 min) 
+      </div>
+      <div class="col-3 "> Atrium </div>
+      <div class="col-2 ">Lunch      </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-8"style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+       1:15 pm (45 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Alliance projects and initiatives updates   </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-9">
+      <div class="col-4 col-sm-2 text-nowrap"> 2 pm (45 min) 
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">Alliance Fireside Chat     </div>
+      <div class="col ">  </div>
+    </div>
+    <div class="row my-10" style="background-color: #FFE4B5">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        2:45 pm (15 min)  
+      </div>
+      <div class="col-3 "> </div>
+      <div class="col-2 ">George Ross Closing Remarks      </div>
+      <div class="col "> </div>
+    </div>
+    <div class="row my-11">
+      <div class="col-4 col-sm-2 text-nowrap"> 
+        3 pm 
+      </div>
+      <div class="col-3 ">Atrium  </div>
+      <div class="col-2 ">Networking and end of program      </div>
+      <div class="col ">  </div>
+    </div>
+  </div>
+</details>
 <!--
 
 ### Spring Digital Research Infrastructure Connect
