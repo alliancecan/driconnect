@@ -14,8 +14,6 @@ translationKey: "program"
 {{< /paige/hero >}}
 
 
-
-
 #### Jour 0 – Pré Conference 
 
 <details>
@@ -223,6 +221,7 @@ translationKey: "program"
     </div>
   </div>
 </details>
+
 
  
 

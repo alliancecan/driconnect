@@ -15,7 +15,6 @@ translationKey: "program"
 
 
 
-
 #### Day 0 - Pre-conference
 
 <details>
@@ -140,6 +139,7 @@ translationKey: "program"
 </details>
 
 <hr />
+
 
 #### Day 2 - Conference
 
