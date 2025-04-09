@@ -164,7 +164,7 @@ translationKey: "program"
       <div class="col-2 ">Sessions details coming soon    </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-6.1" >
+    <div class="row my-6.7" >
       <div class="col-4 col-sm-2 text-nowrap"> 10:30 am (30 min) 
       </div>
       <div class="col-3 "> Atrium </div>
