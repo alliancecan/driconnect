@@ -65,7 +65,7 @@ translationKey: "program"
       <div class="col-2 ">Opening Remarks   </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-5">
+    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
       <div class="col-4 col-sm-2 text-nowrap">
         9:30 am (60 min) 
       </div>
