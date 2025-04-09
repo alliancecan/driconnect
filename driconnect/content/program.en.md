@@ -38,6 +38,8 @@ translationKey: "program"
   </div>
 </details>
 
+<hr />
+
 #### Day 1 - Conference
 
 <details>
@@ -137,6 +139,7 @@ translationKey: "program"
   </div>
 </details>
 
+<hr />
 
 #### Day 2 - Conference
 
