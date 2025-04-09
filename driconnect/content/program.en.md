@@ -38,6 +38,8 @@ translationKey: "program"
   </div>
 </details>
 
+<hr />
+
 #### Day 1 - Conference
 
 <details>
@@ -65,7 +67,7 @@ translationKey: "program"
       <div class="col-2 ">Opening Remarks   </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-5">
+    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
       <div class="col-4 col-sm-2 text-nowrap">
         9:30 am (60 min) 
       </div>
@@ -137,6 +139,7 @@ translationKey: "program"
   </div>
 </details>
 
+<hr />
 
 #### Day 2 - Conference
 
@@ -164,13 +167,13 @@ translationKey: "program"
       <div class="col-2 ">Sessions details coming soon    </div>
       <div class="col "> </div>
     </div>
-    <div class="row my-5">
-      <div class="col-4 col-sm-2 text-nowrap">
-        10:30 am (30 min) 
+    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
+      <div class="col-4 col-sm-2 text-nowrap"> 10:30 am (30 min) 
       </div>
       <div class="col-3 "> Atrium </div>
       <div class="col-2 ">Break     </div>
-      <div class="col "> </div>
+      <div class="col ">  </div>
+    </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
       <div class="col-4 col-sm-2 text-nowrap">
