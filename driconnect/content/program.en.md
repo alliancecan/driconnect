@@ -165,12 +165,12 @@ translationKey: "program"
       <div class="col "> </div>
     </div>
     <div class="row my-5">
-      <div class="col-4 col-sm-2 text-nowrap">
-        10:30 am (30 min) 
+      <div class="col-4 col-sm-2 text-nowrap"> 12:15 pm (60 min) 
       </div>
       <div class="col-3 "> Atrium </div>
       <div class="col-2 ">Break     </div>
-      <div class="col "> </div>
+      <div class="col ">  </div>
+    </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
       <div class="col-4 col-sm-2 text-nowrap">
