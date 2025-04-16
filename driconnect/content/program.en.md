@@ -230,6 +230,82 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    <div class="row my-17" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 2: Supporting excellence 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <div class="row my-18" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:00 pm (30 min) 
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">An open-minded discussion about communication to the research community 
+            </summary>
+            <p>
+              Marie-Helene Burle, Research Solutions Specialist, Simon Fraser University  
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-19" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
+      </div>
+      <div class="col-2 "> MB 3.435  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Know Your Clients: Through the Traces of their Work 
+            </summary>
+            <p>
+              Mark Hahn, System Admin, Sharcnet-McMaster, Compute Ontario
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-20" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:45 pm (15 min)
+      </div>
+      <div class="col-2 ">MB 3.435   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Optimising Resource Utilisation in HPC: Tackling Waste in the Alliance Ecosystem </summary>
+          <p>
+            Moïra Dion, Analyst, Calcul Québec; Hélène Gingras, Analyst, Calcul Québec  
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-21" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        2:00 pm (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Monitoring GPU utilization and waste management best practices (Accelerator Working Group) 
+          </summary>
+          <p>
+            Nikolai Sergueev, HPC Analyst, Calcul Québec/Université de Montréa
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
   </div>
 </details>
 
