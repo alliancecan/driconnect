@@ -123,7 +123,7 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-9" style="background-color: #FFE4B5">
+    <div class="row my-9" >
     <div class="col-3 col-sm-2 text-nowrap" > 11:30 am (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
@@ -140,7 +140,7 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-10">
+    <div class="row my-10" style="background-color: #FFE4B5">
     <div class="col-3 col-sm-2 text-nowrap"> 11:45 am (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
@@ -157,7 +157,7 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-11"style="background-color: #FFE4B5">
+    <div class="row my-11">
       <div class="col-3 col-sm-2 text-nowrap"> 
         12 pm (60 min) 
       </div>
