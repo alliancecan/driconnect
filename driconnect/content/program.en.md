@@ -602,6 +602,98 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Break     </div>
     </div>
+    <div class="row my-7" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 1: Secure Foundations 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <div class="row my-8" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:00 am (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Sensitive Research Computing with SciNet4Health 
+            </summary>
+            <p>
+              Shawn Winnington-Ball, Manager, Information System Security, SciNet, University of Toronto; Yohai Meiron, Scientific Applications Analyst, SciNet, University of Toronto
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-9" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+      </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Secure Data for Health (SD4H), a secure Digital Research Cloud  
+            </summary>
+            <p>
+              Nathalie Aerens, SD4Health platform manager, McGill; Pierre-Olivier Quirion, SD4H tech Lead, McGill - CQ - SD4H 
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-10" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:30 am (15 min)  
+      </div>
+      <div class="col-2 ">BMO Amphitheatre  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Federated Identities for Scientific Platforms Using CILogon   </summary>
+          <p>
+            Darren Boss, Senior Research Computing Analyst, University of Victoria  
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-11" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:45 am (15 min)  
+      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">API Security 
+          </summary>
+          <p>
+            Ryan McRonald, Cybersecurity Manager, UVic / Arbutus Site 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-12" style="background-color: #dbeed5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12:00 pm (15 min)   
+      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Controlled Access Management (CAM) for Research Data Initiative 
+          </summary>
+          <p>
+            Victoria Smith, Data Governance & Ethics Lead, Digital Research Alliance of Canada 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
   </div>
 </details>
 <!--
