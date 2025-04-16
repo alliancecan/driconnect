@@ -555,7 +555,8 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="col-4 col-sm-2 text-nowrap" style="background-color: #FFE4B5"> 
+    <div class="row my-4" style="background-color: #FFE4B5">
+    <div class="col-4 col-sm-2 text-nowrap"> 
         10:00 am (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
@@ -574,6 +575,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    <div class="row my-5.8" >
       <div class="col-5.7 col-sm-2 text-nowrap" > <!--"row my-5" yields un expected spaces.-->
         10:15 am (15 min) 
       </div>
