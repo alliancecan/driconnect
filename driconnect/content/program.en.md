@@ -165,8 +165,8 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
-    <div class="row my-12">
-      <div class="col-3 col-sm-2 text-nowrap" style="background-color: #8cab98"> Stream 1: Advancing HPC
+    <div class="row my-12" style="background-color: #8cab98">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 1: Advancing HPC
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
