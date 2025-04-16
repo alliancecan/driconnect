@@ -34,7 +34,7 @@ translationKey: "program"
       <details>
           <summary class="h6">Magic Castle Workshop  </summary>
           <ul>
-            <li>E<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> </li>
+            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> </li>
           </ul>
         </details>
         </div>
@@ -50,95 +50,97 @@ translationKey: "program"
   <summary class="h5">Tuesday, May 27<small class="text-muted d-print-none"> (click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
-      <div class="col-3 bg-primary text-white">Room</div>
-      <div class="col-2 bg-primary text-white">Description</div>
-      <div class="col bg-primary text-white"></div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-2 bg-primary text-white">Room</div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
-      <div class="col-4 col-sm-2 text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         8:00 am (60 min) 
       </div>
-      <div class="col-3 ">Atrium   </div>
-      <div class="col-2 ">Registration   </div>
-      <div class="col "> </div>
+      <div class="col-2 ">Atrium   </div>
+      <div class="col ">Registration   </div>
     </div>
     <div class="row my-4" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         9:00 am (30 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Opening Remarks   </div>
-      <div class="col "> </div>
+      <div class="col-2 "> </div>
+      <div class="col ">Opening Remarks   </div>
     </div>
     <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
-      <div class="col-4 col-sm-2 text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         9:30 am (60 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Keynote: Dr. Shapiro    </div>
-      <div class="col "> AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments </div>
+      <div class="col-2 "> </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Keynote: Dr. Shapiro </summary>
+          <p>
+            AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments.
+          </p>
+         </details> 
+       </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         10:30 (30 min)  
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Break     </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Break     </div>
     </div>
     <div class="row my-7">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Sessions details coming soon     </div>
-      <div class="col ">  </div>
+      <div class="col-2 "> </div>
+      <div class="col ">Sessions details coming soon     </div>
     </div>
     <div class="row my-8"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
         12 pm (60 min) 
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Lunch     </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Lunch     </div>
     </div>
     <div class="row my-9">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Sessions details coming soon     </div>
-      <div class="col ">  </div>
+      <div class="col-2 "> </div>
+      <div class="col ">Sessions details coming soon     </div>
     </div>
     <div class="row my-10"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
         2:15 pm (30 min) 
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Break      </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Break      </div>
     </div>
     <div class="row my-11">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Sessions details coming soon     </div>
-      <div class="col ">  </div>
+      <div class="col-2 "> </div>
+      <div class="col ">Sessions details coming soon     </div>
     </div>
     <div class="row my-12" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
         4:30 pm 
       </div>
-      <div class="col-3 ">ÉTS  </div>
-      <div class="col-2 ">Visit of supercomputers with Calcul Québec      </div>
-      <div class="col "> Registration for visits to come.  </div>
+      <div class="col-2 ">ÉTS  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Visit of supercomputers with Calcul Québec </summary>
+          <p>
+           Registration for visits to come.
+          </p>
+        </details>   
+      </div>
     </div>
     <div class="row my-13">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 
         6 pm 
       </div>
-      <div class="col-3 ">TBD   </div>
-      <div class="col-2 ">DRI Connect Dinner      </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">TBD   </div>
+      <div class="col ">DRI Connect Dinner      </div>
     </div>
   </div>
 </details>
