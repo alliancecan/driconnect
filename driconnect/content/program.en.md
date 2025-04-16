@@ -65,19 +65,20 @@ translationKey: "program"
       <div class="col-3 col-sm-2 text-nowrap">
         9:00 am (30 min) 
       </div>
-      <div class="col-2 "> </div>
+      <div class="col-2 "> BMO Amphitheatre  </div>
       <div class="col ">Opening Remarks   </div>
     </div>
     <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap">
         9:30 am (60 min) 
       </div>
-      <div class="col-2 "> </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
       <div class="col ">
         <details>
-          <summary class="h6">Keynote: Dr. Shapiro </summary>
+          <summary class="h6">Keynote - AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments 
+          </summary>
           <p>
-            AI’s role in digital research, ethical considerations in AI adoption, or data-driven decision-making in research environments.
+            Dr. Sidney Shapiro, Business Analytics Professor and AI Researcher at the University of Lethbridge
           </p>
          </details> 
        </div>
@@ -90,38 +91,99 @@ translationKey: "program"
       <div class="col ">Break     </div>
     </div>
     <div class="row my-7">
-      <div class="col-3 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 11:00 am (15 min) 
       </div>
-      <div class="col-2 "> </div>
-      <div class="col ">Sessions details coming soon     </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Strengthening Global Training and Skills Development Partnerships: The ARDC-Alliance Staff Exchange Initiative  
+          </summary>
+          <p>
+            Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Kathryn Unsworth, Manager, Skilled Workforce Development, Australian Research Data Commons
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+         </details> 
+      </div>
+      <div class="row my-8">
+      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min) 
+      </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Optimizing Training Reporting in Canada's Digital Research Infrastructure ecosystem: An ACENET led Pilot Project  
+          </summary>
+          <p>
+            Ines Hessler, CTO, ACENET 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+         </details> 
+      </div>
     </div>
-    <div class="row my-8"style="background-color: #FFE4B5">
+    <div class="row my-9">
+    <div class="col-3 col-sm-2 text-nowrap"> 11:30 am (15 min) 
+      </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">User Certification: Let's do it!
+          </summary>
+          <p>
+            Sergey Mashchenko, High Performance Computing Technical Consultant, SHARCNET 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+         </details> 
+      </div>
+    </div>
+    <div class="row my-10">
+    <div class="col-3 col-sm-2 text-nowrap"> 11:45 am (15 min) 
+      </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">URedefining Training Discovery: An Introduction to the New Training Portal 
+          </summary>
+          <p>
+            Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Ramses van Zon, HPC Systems Analyst, SciNet/ Chair, National Training Coordination Council; Chris Want, Programmer/Analyst, University of Alberta 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+         </details> 
+      </div>
+    </div>
+    <div class="row my-11"style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         12 pm (60 min) 
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
-    <div class="row my-9">
+    <div class="row my-12">
       <div class="col-3 col-sm-2 text-nowrap"> 
       </div>
       <div class="col-2 "> </div>
       <div class="col ">Sessions details coming soon     </div>
     </div>
-    <div class="row my-10"style="background-color: #FFE4B5">
+    <div class="row my-13"style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:15 pm (30 min) 
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Break      </div>
     </div>
-    <div class="row my-11">
+    <div class="row my-14">
       <div class="col-3 col-sm-2 text-nowrap"> 
       </div>
       <div class="col-2 "> </div>
       <div class="col ">Sessions details coming soon     </div>
     </div>
-    <div class="row my-12" style="background-color: #FFE4B5">
+    <div class="row my-15" style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         4:30 pm 
       </div>
@@ -135,7 +197,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-13">
+    <div class="row my-16">
       <div class="col-3 col-sm-2 text-nowrap"> 
         6 pm 
       </div>
