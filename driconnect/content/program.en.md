@@ -382,14 +382,14 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-27" style="background-color: #FFE4B5">
+    <div class="row my-27" >
       <div class="col-3 col-sm-2 text-nowrap">
         2:15 pm (30 min)  
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Break     </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-26" style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:45 pm (30 min) 
       </div>
@@ -406,6 +406,118 @@ translationKey: "program"
           </p>
         </details>   
       </div>
+    </div>
+    <div class="row my-27" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        3:15 pm (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">What Really Happens at FRDR? An Overview of Curation and Preservation Services    
+          </summary>
+          <p>
+            Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-28" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        3:30 pm (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Polar Data Search and Mobilization Pathways    
+          </summary>
+          <p>
+            Chantelle Verhey, Lead Polar Semantics and Data Interoperability Research Associate, World Data System - International Technology office 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-29" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        3:45 pm (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Building an Inter-Institutional and Cross-Functional Research Data Management Community: From Strategy to Implementation     
+          </summary>
+          <p>
+            Anneliese Eber, Research Data Management Librarian, University of Waterloo; Jennifer Abel, Research Data Management Librarian, University of Calgary; Michael Steeleworthy, Research Data Management Librarian, Wilfrid Laurier University 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+     <div class="row my-30" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        4:00 pm (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Laying the Foundation: The Pilot National Research Data Management Jumpstart    
+          </summary>
+          <p>
+            Jennifer Abel, Research Data Management Librarian, University of Calgary 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+      <div class="row my-31" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        4:15 pm (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Has Magic? False: File Format Signature Development for Research Data Formats   
+          </summary>
+          <p>
+            Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+      <div class="row my-32" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        4:30 pm 
+      </div>
+      <div class="col-2 ">ÉTS    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Visit of supercomputers with Calcul Québec     
+          </summary>
+          <p>
+            a href="https://events.myconferencesuite.com/ETSTours/reg/landing/" target="_blank">Registration form</a> 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-33">
+      <div class="col-3 col-sm-2 text-nowrap">
+        6 pm 
+      </div>
+      <div class="col-2 ">TBD   </div>
+      <div class="col ">DRI Connect Dinner    </div>
     </div>
   </div>
 </details>
