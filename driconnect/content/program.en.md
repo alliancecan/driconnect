@@ -23,19 +23,19 @@ translationKey: "program"
     <div class="row mt-2">
       <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Location</div>
-      <div class="col-1 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         1:30 pm (3 hours)
       </div>
       <div class="col-2 ">École de technologie supérieure  </div>
-      <div class="col-1 ">
+      <div class="col ">
       <details>
           <summary class="h6">Magic Castle Workshop  </summary>
-          <p>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> 
-          </p>
+          <ul>
+            <li>E<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> </li>
+          </ul>
         </details>
         </div>
     </div>
