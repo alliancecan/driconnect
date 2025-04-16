@@ -533,7 +533,7 @@ translationKey: "program"
     <div class="row mt-2">
       <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
       <div class="col-2 bg-primary text-white">Room</div>
-      <div class="col-1 bg-primary text-white">Description</div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
       <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
