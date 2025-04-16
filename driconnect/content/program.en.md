@@ -166,44 +166,69 @@ translationKey: "program"
       <div class="col ">Lunch     </div>
     </div>
     <div class="row my-12">
-      <div class="col-3 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap" style="background-color: #8cab98"> Stream 1: Advancing HPC
       </div>
-      <div class="col-2 "> </div>
-      <div class="col ">Sessions details coming soon     </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
     </div>
-    <div class="row my-13"style="background-color: #FFE4B5">
+    <div class="row my-13" style="background-color: #8cab98">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        2:15 pm (30 min) 
+        1:00 pm (30 min) 
       </div>
-      <div class="col-2 ">Atrium  </div>
-      <div class="col ">Break      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">Roman Baranowski       </div>
     </div>
-    <div class="row my-14">
-      <div class="col-3 col-sm-2 text-nowrap"> 
+    <div class="row my-14" style="background-color: #8cab98">
+      <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
       </div>
-      <div class="col-2 "> </div>
-      <div class="col ">Sessions details coming soon     </div>
-    </div>
-    <div class="row my-15" style="background-color: #FFE4B5">
-      <div class="col-3 col-sm-2 text-nowrap"> 
-        4:30 pm 
-      </div>
-      <div class="col-2 ">ÉTS  </div>
+      <div class="col-2 "> BMO Amphitheatre </div>
       <div class="col ">
         <details>
-          <summary class="h6">Visit of supercomputers with Calcul Québec </summary>
+            <summary class="h6">Kubernetes as a Natural Evolution of HPC: Complementing, Not Competing 
+            </summary>
+            <p>
+              Shaun Bathgate, Senior Advanced Research Computing Systems Administrator, University of Victoria 
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-15" style="background-color: #8cab98">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:45 pm (15 min)
+      </div>
+      <div class="col-2 ">BMO Amphitheatre  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Beyond MPI And OpenMP: Teaching Parallel Programming in Modern Research Computing </summary>
           <p>
-           Registration for visits to come.
+            Alex Razoumov, Research Solutions Lead, Research Computing, Simon Fraser University 
+          </p>
+          <p>
+            Session details coming soon
           </p>
         </details>   
       </div>
     </div>
-    <div class="row my-16">
+    <div class="row my-16" style="background-color: #8cab98">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        6 pm 
+        2:00 pm (15 min) 
       </div>
-      <div class="col-2 ">TBD   </div>
-      <div class="col ">DRI Connect Dinner      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Research Computing and Data Storage at Scale: 10 Years, 140+ Webinars 
+          </summary>
+          <p>
+            Alex Razoumov, Research Solutions Lead, Research Computing, Simon Fraser University
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
     </div>
   </div>
 </details>
