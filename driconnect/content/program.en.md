@@ -694,6 +694,98 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    <div class="row my-13" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 2: Innovating systems 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <div class="row my-14" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:00 am (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">MonarQ Taking Flight
+            </summary>
+            <p>
+              Lydia Vermeyden, Director for the development of new research services, Calcul Québec
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-15" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+      </div>
+      <div class="col-2 "> MB 3.435  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">PennyLane-Calculquebec: Streamlining Quantum Algorithm Research on MonarQ 
+            </summary>
+            <p>
+              Samuel Richard & Felix-Gabriel Boucher-Luneau, Calcul Québec
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-16" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:30 am (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.435   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Streamlining Magic Castle clusters creation at Calcul Québec using Terraform cloud   </summary>
+          <p>
+            Maxime Boissonneault, Director, Research and teaching support, Calcul Québec 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-17" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:45 am (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">A Home Among the Clouds 
+          </summary>
+          <p>
+            Jeff Albert, Manager and Architect, Advanced Research Computing Infrastructure, University of Victoria
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-18" style="background-color: #eedbd5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12:00 pm (15 min)   
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">State of the Accelerators  
+          </summary>
+          <p>
+            Pawel Pomorski, HPC analyst, lead of Accelerators Working Group, Sharcnet 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
   </div>
 </details>
 <!--
