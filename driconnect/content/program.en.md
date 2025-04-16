@@ -106,7 +106,8 @@ translationKey: "program"
           </p>
         </details> 
       </div>
-      <div class="row my-8" style="background-color: #FFE4B5">
+    </div>
+    <div class="row my-8" style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap" > 11:15 am (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
@@ -124,38 +125,38 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-9" >
-    <div class="col-3 col-sm-2 text-nowrap" > 11:30 am (15 min) 
-      </div>
-      <div class="col-2 "> BMO Amphitheatre </div>
-      <div class="col ">
-        <details>
-          <summary class="h6">User Certification: Let's do it!
-          </summary>
-          <p>
-            Sergey Mashchenko, High Performance Computing Technical Consultant, SHARCNET 
-          </p>
-          <p>
-            Session details coming soon
-          </p>
-        </details> 
-      </div>
+      <div class="col-3 col-sm-2 text-nowrap" > 11:30 am (15 min) 
+        </div>
+        <div class="col-2 "> BMO Amphitheatre </div>
+        <div class="col ">
+          <details>
+            <summary class="h6">User Certification: Let's do it!
+            </summary>
+            <p>
+              Sergey Mashchenko, High Performance Computing Technical Consultant, SHARCNET 
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+        </div>
     </div>
     <div class="row my-10" style="background-color: #FFE4B5">
-    <div class="col-3 col-sm-2 text-nowrap"> 11:45 am (15 min) 
-      </div>
-      <div class="col-2 "> BMO Amphitheatre </div>
-      <div class="col ">
-        <details>
-          <summary class="h6">Redefining Training Discovery: An Introduction to the New Training Portal 
-          </summary>
-          <p>
-            Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Ramses van Zon, HPC Systems Analyst, SciNet/ Chair, National Training Coordination Council; Chris Want, Programmer/Analyst, University of Alberta 
-          </p>
-          <p>
-            Session details coming soon
-          </p>
-        </details> 
-      </div>
+      <div class="col-3 col-sm-2 text-nowrap"> 11:45 am (15 min) 
+        </div>
+        <div class="col-2 "> BMO Amphitheatre </div>
+        <div class="col ">
+          <details>
+            <summary class="h6">Redefining Training Discovery: An Introduction to the New Training Portal 
+            </summary>
+            <p>
+              Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Ramses van Zon, HPC Systems Analyst, SciNet/ Chair, National Training Coordination Council; Chris Want, Programmer/Analyst, University of Alberta 
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+        </div>
     </div>
     <div class="row my-11">
       <div class="col-3 col-sm-2 text-nowrap"> 
