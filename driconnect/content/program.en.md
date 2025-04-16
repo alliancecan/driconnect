@@ -536,73 +536,70 @@ translationKey: "program"
       <div class="col-2 bg-primary text-white">Description</div>
       <div class="col bg-primary text-white"></div>
     </div>
-    <div class="row my-3">
-      <div class="col-4 col-sm-2 text-nowrap">
-        9:00 am 
+      <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        9:00 am (60 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Dr. Guillaume Bourque    </div>
-      <div class="col ">Health Sciences in the digital age  </div>
-    </div>
-    <div class="row my-4" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Keynote - Health Sciences in the digital age 
+          </summary>
+          <p>
+            Dr. Guillaume Bourque, Professor in the Department of Human Genetics and Director of Bioinformatics at the McGill Genome Center. Board Director, Digital Research Alliance of Canada.
+          </p>
+          <p>
+            <p>
+            <a href="https://alliancecan.ca/en/about/board-directors/guillaume-bourque" target="_blank">Link to bio</a> 
+          </p>
+          </p>
+        </details>   
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Sessions details coming soon    </div>
-      <div class="col "> </div>
     </div>
-    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
-      <div class="col-4 col-sm-2 text-nowrap"> 10:30 am (30 min) 
+    <div class="col-4 col-sm-2 text-nowrap" style="background-color: #FFE4B5"> 
+        10:00 am (15 min) 
       </div>
-      <div class="col-3 "> Atrium </div>
-      <div class="col-2 ">Break     </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Humanities and Social Sciences Digital Research Infrastructure in Canada: Current State and Future Directions  
+          </summary>
+          <p>
+            Alyssa Arbuckle, Research Infrastructure Grants Officer; James MacGregor, Director, Research Infrastructure & Development
+          </p>
+          <p>
+            <p>
+            Session details coming soon 
+          </p>
+          </p>
+        </details>   
+      </div>
     </div>
+      <div class="col-5.7 col-sm-2 text-nowrap" > <!--"row my-5" yields un expected spaces.-->
+        10:15 am (15 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Qualitative supports and software for Humanities and Social Sciences (HSS) Researchers 
+          </summary>
+          <p>
+            Lina Harper, Humanities and Social Sciences Analyst, McGill; Jérémie Dion, Coordinator of the LibreQDA project and PhD candidate in STS at UQAM
+          </p>
+          <p>
+            <p>
+            Session details coming soon 
+          </p>
+          </p>
+        </details>   
+      </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
-        </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">  Sessions details coming soon   </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-7">
-      <div class="col-4 col-sm-2 text-nowrap"> 12:15 pm (60 min) 
+      <div class="col-3 col-sm-2 text-nowrap">
+        10:30 (30 min)  
       </div>
-      <div class="col-3 "> Atrium </div>
-      <div class="col-2 ">Lunch      </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-8"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-       1:15 pm (45 min) 
-      </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Alliance projects and initiatives updates   </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-9">
-      <div class="col-4 col-sm-2 text-nowrap"> 2 pm (45 min) 
-      </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Alliance Fireside Chat     </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-10" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        2:45 pm (15 min)  
-      </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">George Ross Closing Remarks      </div>
-      <div class="col "> </div>
-    </div>
-    <div class="row my-11">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        3 pm 
-      </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Networking and end of program      </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Break     </div>
     </div>
   </div>
 </details>
