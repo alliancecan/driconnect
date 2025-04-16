@@ -531,10 +531,9 @@ translationKey: "program"
   <summary class="h5">Wednesday, May 28 <small class="text-muted d-print-none"> (click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-4 col-sm-2 bg-primary text-white">Time</div>
-      <div class="col-3 bg-primary text-white">Room</div>
-      <div class="col-2 bg-primary text-white">Description</div>
-      <div class="col bg-primary text-white"></div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Time</div>
+      <div class="col-2 bg-primary text-white">Room</div>
+      <div class="col-1 bg-primary text-white">Description</div>
     </div>
       <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
