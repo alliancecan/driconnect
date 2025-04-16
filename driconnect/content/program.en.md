@@ -104,10 +104,10 @@ translationKey: "program"
           <p>
             Session details coming soon
           </p>
-         </details> 
+        </details> 
       </div>
-      <div class="row my-8">
-      <div class="col-3 col-sm-2 text-nowrap" style="background-color: #FFE4B5"> 11:15 am (15 min) 
+      <div class="row my-8" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap" > 11:15 am (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
       <div class="col ">
@@ -120,11 +120,11 @@ translationKey: "program"
           <p>
             Session details coming soon
           </p>
-         </details> 
+        </details> 
       </div>
     </div>
-    <div class="row my-9">
-    <div class="col-3 col-sm-2 text-nowrap" style="background-color: #FFE4B5"> 11:30 am (15 min) 
+    <div class="row my-9" style="background-color: #FFE4B5">
+    <div class="col-3 col-sm-2 text-nowrap" > 11:30 am (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
       <div class="col ">
@@ -137,7 +137,7 @@ translationKey: "program"
           <p>
             Session details coming soon
           </p>
-         </details> 
+        </details> 
       </div>
     </div>
     <div class="row my-10">
@@ -154,7 +154,7 @@ translationKey: "program"
           <p>
             Session details coming soon
           </p>
-         </details> 
+        </details> 
       </div>
     </div>
     <div class="row my-11"style="background-color: #FFE4B5">
