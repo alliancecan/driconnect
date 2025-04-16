@@ -165,20 +165,20 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
-    <div class="row my-12" style="background-color: #8cab98">
+    <div class="row my-12" style="background-color: #dbeed5">
       <div class="col-3 col-sm-2 text-nowrap" > Stream 1: Advancing HPC
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
-    <div class="row my-13" style="background-color: #8cab98">
+    <div class="row my-13" style="background-color: #dbeed5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre   </div>
       <div class="col ">Roman Baranowski       </div>
     </div>
-    <div class="row my-14" style="background-color: #8cab98">
+    <div class="row my-14" style="background-color: #dbeed5">
       <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
@@ -195,7 +195,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" style="background-color: #8cab98">
+    <div class="row my-15" style="background-color: #dbeed5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:45 pm (15 min)
       </div>
@@ -212,7 +212,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-16" style="background-color: #8cab98">
+    <div class="row my-16" style="background-color: #dbeed5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:00 pm (15 min) 
       </div>
@@ -375,6 +375,31 @@ translationKey: "program"
           </summary>
           <p>
             Danica Evering, Research Data Management Specialist, McMaster University and Richie Motorgeanu, Learning Resource Development Assistant, Sherman Centre for Digital Scholarship, McMaster University 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-27" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap">
+        2:15 pm (30 min)  
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Break     </div>
+    </div>
+    <div class="row my-26" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        2:45 pm (30 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Research Data Management Demystified: Your Questions, Our Answers!   
+          </summary>
+          <p>
+            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. RDM, Digital Research Alliance of Canada
           </p>
           <p>
             Session details coming soon
