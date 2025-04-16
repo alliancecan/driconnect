@@ -306,6 +306,82 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+        <div class="row my-22" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 3: Platforms for progress
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <div class="row my-23" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:00 pm (30 min) 
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">The Colibri Initiative: Towards Accessible Cloud Services 
+            </summary>
+            <p>
+              Sarah Cameron-Pesant, Advanced Research Computing Analyst - Humanities and Social Sciences Specialist, Calcul Québec / Université du Québec à Montréal; Lydia Vermeyden, Director for the development of new research services, Calcul Québec  
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-24" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
+      </div>
+      <div class="col-2 "> MB 3.445  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Does your DMP Template Needs a Refresh? A Cyber-Aware Approach to RDM 
+            </summary>
+            <p>
+              Luc Letarte, Research Cybersecurity and Compliance Specialist, UBC
+            </p>
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-25" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:45 pm (15 min)
+      </div>
+      <div class="col-2 ">MB 3.445   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">DMP Assistant: Stable Present, Evolving Future  </summary>
+          <p>
+            Marcus Closen, Product Lead, Data Management Planning, Digital Research Alliance of Canada 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-26" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        2:00 pm (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Adapting Open-Source: A Learning Opportunity for Research Support and Developers Alike  
+          </summary>
+          <p>
+            Danica Evering, Research Data Management Specialist, McMaster University and Richie Motorgeanu, Learning Resource Development Assistant, Sherman Centre for Digital Scholarship, McMaster University 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
   </div>
 </details>
 
