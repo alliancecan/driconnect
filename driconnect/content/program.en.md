@@ -33,9 +33,9 @@ translationKey: "program"
       <div class="col ">
       <details>
           <summary class="h6">Magic Castle Workshop  </summary>
-          <ul>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> </li>
-          </ul>
+          <p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a> 
+          </p>
         </details>
         </div>
     </div>
@@ -507,7 +507,7 @@ translationKey: "program"
           <summary class="h6">Visit of supercomputers with Calcul Québec     
           </summary>
           <p>
-            a href="https://events.myconferencesuite.com/ETSTours/reg/landing/" target="_blank">Registration form</a> 
+            <a href="https://events.myconferencesuite.com/ETSTours/reg/landing/" target="_blank">Registration form</a> 
           </p>
         </details>   
       </div>
