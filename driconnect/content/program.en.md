@@ -230,13 +230,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-17" style="background-color: #FFE4B5">
+    <div class="row my-17" >
       <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Supporting excellence</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
-    <div class="row my-18" style="background-color: #FFE4B5">
+    <div class="row my-18" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
       </div>
@@ -254,7 +254,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-19" style="background-color: #FFE4B5">
+    <div class="row my-19" >
       <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
       </div>
       <div class="col-2 "> MB 3.435  </div>
@@ -271,7 +271,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-20" style="background-color: #FFE4B5">
+    <div class="row my-20" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:45 pm (15 min)
       </div>
@@ -288,7 +288,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-21" style="background-color: #FFE4B5" >
+    <div class="row my-21"  >
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:00 pm (15 min) 
       </div>
