@@ -179,7 +179,7 @@ translationKey: "program"
         1:00 pm (30 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre   </div>
-      <div class="col ">Roman Baranowski       </div>
+      <div class="col ">TBD      </div>
     </div>
     <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
