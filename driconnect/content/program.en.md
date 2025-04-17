@@ -174,26 +174,23 @@ translationKey: "program"
     <details><!--start of Stream 1 details-->
       <summary class="h6"><strong> Stream 1: Advancing HPC</strong>  
           </summary> 
-    <div class="row my-13" >
+   <div class="row my-13" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        1:00 pm (30 min) 
+         1:00 pm (30 min)  
       </div>
-      <div class="col-2 ">BMO Amphitheatre   </div>
-      <div class="col ">
+      <div class="col-2 ">BMO Amphitheatre    </div>
       <div class="col ">
         <details>
             <summary class="h6">The Future of HPC in the age of AI (AI clusters vs HPC systems. Are we ready?)
             </summary>
             <p>
               Roman Baranowski, DRI Software Architect, ARC UBC
-            </p>
             <p>
               Session details coming soon
             </p>
-          </details>      
+          </details> 
       </div>
-    </div>
-    <div class="row my-14" >
+    </div>    <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 1:30 pm (15 min) 
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
