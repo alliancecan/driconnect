@@ -166,12 +166,12 @@ translationKey: "program"
       <div class="col ">Lunch     </div>
     </div>
     <div class="row my-12" >
-      <div class="col-3 col-sm-2 text-nowrap" > <summary class="h5">Stream 1: Advancing HPC<small class="text-muted d-print-none"> (click to expand)</small></summary></strong>
+      <div class="col-3 col-sm-2 text-nowrap" > <strong> Stream 1: Advancing HPC</strong>
       </div>
-      <div class="container">
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details><!--start of Stream 1 details-->
     <div class="row my-13" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
@@ -231,7 +231,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-  </div><!--end of Stream 1 container-->
+   </details><!--end of Stream 1 details-->
     <div class="row my-17" >
       <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Supporting excellence</strong>
       </div>
