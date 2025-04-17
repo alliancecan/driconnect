@@ -166,7 +166,7 @@ translationKey: "program"
       <div class="col ">Lunch     </div>
     </div>
     <div class="row my-12" style="background-color: #dbeed5">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 1: Advancing HPC
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 1: Advancing HPC</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -231,7 +231,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-17" style="background-color: #eedbd5">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 2: Supporting excellence 
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Supporting excellence</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -307,7 +307,7 @@ translationKey: "program"
       </div>
     </div>
         <div class="row my-22" style="background-color: #d5e8ee">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 3: Platforms for progress
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 3: Platforms for progress</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -603,7 +603,7 @@ translationKey: "program"
       <div class="col ">Break     </div>
     </div>
     <div class="row my-7" style="background-color: #dbeed5">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 1: Secure Foundations 
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 1: Secure Foundations</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -695,7 +695,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-13" style="background-color: #eedbd5">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 2: Innovating systems 
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Innovating systems</strong> 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -787,7 +787,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-19" style="background-color: #d5e8ee">
-      <div class="col-3 col-sm-2 text-nowrap" > Stream 3: Empowering research 
+      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 3: Empowering research </strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
