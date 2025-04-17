@@ -533,86 +533,419 @@ translationKey: "program"
 #### Jour 2 - Conference
 
 <details>
-  <summary class="h5">Mercredi le 28 mai  <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
+  <summary class="h5">Mercredi le 28 mai  <small class="text-muted d-print-none"> (click to expand)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
-      <div class="col-3 bg-primary text-white">Salle </div>
-      <div class="col-2 bg-primary text-white">Description</div>
-      <div class="col bg-primary text-white"></div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Heure </div>
+      <div class="col-2 bg-primary text-white">Salle </div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
-    <div class="row my-3">
-      <div class="col-4 col-sm-2 text-nowrap">
-        9h  
+      <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        9h00 (60 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Conférencier: Dr. Guillaume Bourque     </div>
-      <div class="col ">Les sciences de la santé à l’ère numérique   </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Conférence: Les sciences de la santé à l’ère numérique
+          </summary>
+          <p>
+            Dr. Guillaume Bourque, Professeur au Département de Génétique Humaine et Directeur de la Bioinformatique au Centre de Génomique de McGill. Membre du Conseil d’Administration de l’Alliance de Recherche Numérique du Canada.
+          </p>
+          <p>
+            <p>
+            <a href="https://alliancecan.ca/en/about/board-directors/guillaume-bourque" target="_blank">lien vers la bio</a> 
+          </p>
+          </p>
+        </details>   
+      </div>
     </div>
-    <div class="row my-4" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+    <div class="row my-4" >
+    <div class="col-3 col-sm-2 text-nowrap"> 
+        10h00 (15 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Détails des sessions à venir     </div>
-      <div class="col "> </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6"> Infrastructure de recherche numérique sur les sciences humaines et sociales au Canada : État actuel et orientations futures  
+          </summary>
+          <p>
+            Alyssa Arbuckle, Chargée des subventions liées à l’infrastructure de recherche, Réseau canadien de documentation pour la recherche; James MacGregor, Directeur, Infrastructure et développement de la recherche, Réseau canadien de documentation pour la recherche
+          </p>
+          <p>
+            <p>
+            Détails des sessions à venir
+          </p>
+          </p>
+        </details>   
+      </div>
     </div>
-    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
-      <div class="col-4 col-sm-2 text-nowrap">
-        10h30 (30 min) 
+    <div class="row my-5.8" ><!--"row my-5" yields un expected spaces.-->
+      <div class="col-3 col-sm-2 text-nowrap" > 
+        10h15 (15 min) 
       </div>
-      <div class="col-3 "> Atrium </div>
-      <div class="col-2 ">Pause      </div>
-      <div class="col "> </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Soutien et logiciels qualitatifs pour les chercheurs en sciences humaines et sociales (SHS) 
+          </summary>
+          <p>
+            Lina Harper, Analyste en sciences humaines et sociales, Université McGill; Jérémie Dion, Coordonnateur du projet LibreQDA et candidat au doctorat en STS à l’UQAM
+          </p>
+          <p>
+            <p>
+            Détails des sessions à venir 
+          </p>
+          </p>
+        </details>   
+      </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
-        </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">  Détails des sessions à venir    </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-7">
-      <div class="col-4 col-sm-2 text-nowrap"> 12h15 (60 min) 
+      <div class="col-3 col-sm-2 text-nowrap">
+        10h30 (30 min)  
       </div>
-      <div class="col-3 "> Atrium </div>
-      <div class="col-2 ">Dîner   </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Pause      </div>
     </div>
-    <div class="row my-8"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-       13h15 (45 min)  
+    <div class="row my-7" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h00 (75 min)
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Mise à jour des projets et initiatives de l’Alliance    </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
     </div>
-    <div class="row my-9">
-      <div class="col-4 col-sm-2 text-nowrap"> 14h (45 min) 
+    <details><!--start of Stream 1 details-->
+     <summary class="h6"><strong> Volet 1: Bases solides et sécurisées </strong>  
+          </summary> 
+    <div class="row my-8" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h00 (15 min)  
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Discussion avec l’Alliance      </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Calcul informatique sensible avec SciNet4Health 
+            </summary>
+            <p>
+              SShawn Winnington-Ball, Gestionnaire, Sécurité des systèmes d’information, SciNet, Université de Toronto; Yohai Meiron, analyste des applications scientifiques, SciNet, Université de Toronto 
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+      </div>
     </div>
-    <div class="row my-10" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        14h45 (15 min)  
+    <div class="row my-9" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)  
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Mot de clôture de George Ross       </div>
-      <div class="col "> </div>
+      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Données sécurisées pour la santé (SD4H), un nuage de recherche numérique sécurisé 
+            </summary>
+            <p>
+              Nathalie Aerens, Gestionnaire de plateforme SD4Health, Université McGill; Pierre-Olivier Quirion, Responsable de technologie SD4H, Université McGill – Calcul Québec - SD4H 
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+      </div>
     </div>
-    <div class="row my-11">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        15h 
+    <div class="row my-10" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h30 (15 min)   
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Réseautage et fin du programme      </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Identités fédérées pour plateformes scientifiques à l’aide de CILogon    </summary>
+          <p>
+            Darren Boss, Analyste principal en calcul informatique, Université de Victoria   
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-11" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h45 (15 min)  
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Sécurité API 
+          </summary>
+          <p>
+            Ryan McRonald, Gestionnaire de cybersécurité en matière de recherche, Site Arbutus/Université de Victoria 
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-12" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12h00 (15 min)   
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Initiative de gestion de l’accès contrôlé aux données de recherche (CAM) 
+          </summary>
+          <p>
+            Victoria Smith, Gestionnaire, Gouvernance et éthique des données, Alliance de recherche numérique du Canada 
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+  </details><!--end of Stream 1 details-->
+    <div class="row my-13" >
+      <div class="col-3 col-sm-2 text-nowrap" > 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <details><!--start of Stream 2 details-->
+     <summary class="h6"><strong> Volet 2 : Systèmes innovants </strong>  
+          </summary> 
+    <div class="row my-14" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h00 (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">MonarQ prend son envol
+            </summary>
+            <p>
+              Lydia Vermeyden, Directrice du développement des nouveaux services à la recherche, Calcul Québec
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-15" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+      </div>
+      <div class="col-2 "> MB 3.435  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">PennyLane-Calculqubec : Rationalisation de la recherche en algorithmes quantiques sur MonarQ 
+            </summary>
+            <p>
+              Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec; Felix-Gabriel Boucher-Luneau, Stagiaire, développement de logiciels, Calcul Québec
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-16" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h30 (15 min)   
+      </div>
+      <div class="col-2 ">MB 3.435   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Rationaliser la création de grappes Magic Castle chez calcul Québec à l’aide de Terraform Cloud   </summary>
+          <p>
+            Maxime Boissonneault, Directeur des services à la recherche et à l’enseignement, Calcul Québec
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-17" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h45 (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">A Home Among the Clouds (une maison dans les nuages) 
+          </summary>
+          <p>
+            Jeff Albert, Directeur et architecte, Infrastructure de calcul informatique de pointe, Université de Victoria
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-18" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12h00 (15 min)    
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">État des accélérateurs   
+          </summary>
+          <p>
+            Pawel Pomorski, Analyste CHP, chef du groupe de travail sur les accélérateurs, Sharcnet
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+  </details><!--end of Stream 2 details-->
+    <div class="row my-19" >
+      <div class="col-3 col-sm-2 text-nowrap" > 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <details>
+    <summary class="h6"><strong> Volet 3 : Renforcer la recherche  </strong>  
+          </summary> 
+    <div class="row my-20" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h00 (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Mise à jour de la plateforme UseGalaxy Canada 
+            </summary>
+            <p>
+              Carol Gauthier, Gestionnaire de projet/développeuse, Université de Sherbrooke / Calcul Québec 
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-21" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)   
+      </div>
+      <div class="col-2 "> MB 3.445   </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">CBRAIN, Plateforme de calcul décentralisée sur le Web destinée à la recherche collaborative
+            </summary>
+            <p>
+              Bryan Caron, Directeur, Exploitation et développement (CBRAIN et NeuroHub) et co-IP de NeuroHub, Université McGill
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-22" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h30 (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">OssecMon — Solution de surveillance et conformité pour environnements Linux avec eBPF    </summary>
+          <p>
+            Gabriel Lapointe, Analyste de la sécurité, Université McGill 
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-23" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11h45 (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.445     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Calcul de haute performance interactif avec Open OnDemand 
+          </summary>
+          <p>
+            Grigory Shamov, Coordonnateur, Calcul informatique de pointe (CIP), Université du Manitoba, Prairies DRI; James Willis, Analyste d'applications scientifiques, SciNet 
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-24" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+       12h00 (15 min)    
+      </div>
+      <div class="col-2 ">MB 3.445     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">De Bash Scripts à GitOps : Automatisation des déploiements de Kubernetes avec ArgoCD 
+          </summary>
+          <p>
+            Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    </details><!--end of Stream 3 details-->
+    <div class="row my-25" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12h15 (60 min) 
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Dîner      </div>
+    </div>
+    <div class="row my-26" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h15 (30 min)    
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Mise à jour des projets et initiatives de l’Alliance   
+          </summary>
+          <p>
+            Détails à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-27" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:45 pm (45 min)    
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Discussion avec l’Alliance  
+          </summary>
+          <p>
+            Détails à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-28" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        2:30 pm (30 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">Mot de clôture de George Ross       </div>
+    </div>
+    <div class="row my-29">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        3:00 pm
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Réseautage et fin du programme       </div>
     </div>
   </div>
 </details>
-
-
  
 
 <!--
