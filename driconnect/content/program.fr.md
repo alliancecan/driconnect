@@ -175,7 +175,7 @@ translationKey: "program"
         13h00 (30 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO   </div>
-      <div class="col ">Roman Baranowski       </div>
+      <div class="col ">À déterminer      </div>
     </div>
     <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
