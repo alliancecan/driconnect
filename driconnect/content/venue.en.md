@@ -11,7 +11,8 @@ DRI Connect 2025 will be held at Concordia University, in the John Molson Buildi
 
 ### Official Hotel: Montreal Marriott Chateau Champlain 
 
-We've arranged a special conference rate at the Montreal Marriott Chateau Champlain for DRI Connect 2025 attendees. 
+The official hotel for DRI Connect 2025 is the Montreal Marriott Chateau Champlain, where a special conference rate was arranged for attendees. However, please note that most dates are now sold out, which may explain why the preferred rate might no longer be available for the selected dates.
+ 
 
   * Room Rate: $305/night 
   * Core Booking Period <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">(via link)</a>: May 26 to May 30, 2025 
