@@ -40,100 +40,490 @@ translationKey: "program"
 
 #### Jour 1 - Conference 
 
-
 <details>
   <summary class="h5">Mardi le 27 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
   <div class="container">
     <div class="row mt-2">
-      <div class="col-4 col-sm-2 bg-primary text-white">Heure </div>
-      <div class="col-3 bg-primary text-white">Salle </div>
-      <div class="col-2 bg-primary text-white">Description</div>
-      <div class="col bg-primary text-white"></div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Heure </div>
+      <div class="col-2 bg-primary text-white">Salle </div>
+      <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
-      <div class="col-4 col-sm-2 text-nowrap">
-       8h00 (60 min) 
+      <div class="col-3 col-sm-2 text-nowrap">
+        8h00 (60 min) 
       </div>
-      <div class="col-3 ">Atrium   </div>
-      <div class="col-2 ">Inscription    </div>
-      <div class="col "> </div>
+      <div class="col-2 ">Atrium   </div>
+      <div class="col ">Inscription    </div>
     </div>
-    <div class="row my-4" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
+    <div class="row my-4" >
+      <div class="col-3 col-sm-2 text-nowrap">
         9h00 (30 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Discours d’ouverture    </div>
-      <div class="col "> </div>
+      <div class="col-2 "> Amphithéâtre BMO   </div>
+      <div class="col ">Discours d’ouverture    </div>
     </div>
     <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
-      <div class="col-4 col-sm-2 text-nowrap">
+      <div class="col-3 col-sm-2 text-nowrap">
         9h30 (60 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Conférencier: Dr. Sidney Shapiro    </div>
-      <div class="col "> Le rôle de l’IA dans la recherche numérique, considérations éthiques dans l’adoption de l’IA ou prise de décision basée sur les données dans les environnements de recherche </div>
+      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Conférence: Le rôle de l’IA dans la recherche numérique, considérations éthiques dans l’adoption de l’IA ou prise de décision basée sur les données dans les environnements de recherche 
+          </summary>
+          <p>
+            Dr. Sidney Shapiro
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+         </details> 
+       </div>
     </div>
     <div class="row my-6" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap">
-        10h30 (30 min)  
+      <div class="col-3 col-sm-2 text-nowrap">
+        10h30 (30 min) 
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Pause     </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Pause     </div>
     </div>
     <div class="row my-7">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+      <div class="col-3 col-sm-2 text-nowrap"> 11h00 (15 min)  
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Détails des sessions à venir     </div>
-      <div class="col ">  </div>
-    </div>
-    <div class="row my-8"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        12h (60 min) 
+      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">SRenforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
+          </summary>
+          <p>
+            Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada; Kathryn Unsworth, Manager, Skilled Workforce Development, Australian Research Data Commons 
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details> 
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Dîner      </div>
-      <div class="col ">  </div>
     </div>
-    <div class="row my-9">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+    <div class="row my-8" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h15 (15 min)  
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Détails des sessions à venir     </div>
-      <div class="col ">  </div>
-    </div>
-     <div class="row my-10"style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        14h15 (30 min) 
+      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Optimiser la présentation de rapports sur la formation dans l’écosystème de l’infrastructure de recherche numérique du Canada : un projet pilote mené par ACENET 
+          </summary>
+          <p>
+            Ines Hessler, Dirigeante principale de la Technologie, ACENET
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details> 
       </div>
-      <div class="col-3 ">Atrium  </div>
-      <div class="col-2 ">Pause      </div>
-      <div class="col ">  </div>
     </div>
-    <div class="row my-11">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+    <div class="row my-9" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h30 (15 min) 
+        </div>
+        <div class="col-2 "> Amphithéâtre BMO  </div>
+        <div class="col ">
+          <details>
+            <summary class="h6">Certification des utilisateurs : faisons-le !
+            </summary>
+            <p>
+              Sergey Mashchenko, Analyste CHP, SHARCNET
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+        </div>
+    </div>
+    <div class="row my-10" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h45 (15 min)  
+        </div>
+        <div class="col-2 "> Amphithéâtre BMO  </div>
+        <div class="col ">
+          <details>
+            <summary class="h6">Redéfinir la découverte de la formation : Présentation du nouveau portail de formation 
+            </summary>
+            <p>
+              Ramses van Zon, Analyste Systèmes HPC, SciNet/ Président, National Training Coordination Council; Chris Want, Programmenu/Analyste, University of Alberta; Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada
+            </p>
+            <p>
+              Détails des sessions à venir 
+            </p>
+          </details> 
+        </div>
+    </div>
+    <div class="row my-11" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12h00 (60 min) 
       </div>
-      <div class="col-3 "> </div>
-      <div class="col-2 ">Détails des sessions à venir     </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Dîner      </div>
     </div>
-    <div class="row my-12" style="background-color: #FFE4B5">
-      <div class="col-4 col-sm-2 text-nowrap"> 
-        16h30 
+    <div class="row my-12" >
+      <div class="col-3 col-sm-2 text-nowrap" > 13h00  (75min )
       </div>
-      <div class="col-3 ">ÉTS  </div>
-      <div class="col-2 ">Visite des superordinateurs avec Calcul Québec       </div>
-      <div class="col "> Inscription pour les visites à venir.   </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
     </div>
-    <div class="row my-13">
-      <div class="col-4 col-sm-2 text-nowrap"> 
+    <details><!--start of Stream 1 details-->
+      <summary class="h6"><strong> Volet 1 : Faire avancer le calcul haute performance </strong>  
+          </summary> 
+    <div class="row my-13" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h00 (30 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col ">Roman Baranowski       </div>
+    </div>
+    <div class="row my-14" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+      </div>
+      <div class="col-2 "> Amphithéâtre BMO </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Kubernetes, une évolution naturelle du CIP : Privilégier la complémentarité et non la concurrence 
+            </summary>
+            <p>
+              Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-15" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h45 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO  </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Au-delà de MPI et OpenMP : enseignement de la programmation parallèle en calcul informatique moderne </summary>
+          <p>
+            Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-16" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        14h00 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Calcul informatique et stockage de données à grande échelle : 10 ans, plus de 140 webinaires
+          </summary>
+          <p>
+            Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+   </details><!--end of Stream 1 details-->
+    <div class="row my-17" >
+      <div class="col-3 col-sm-2 text-nowrap" > 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <details><!--start of Stream 2 details-->
+     <summary class="h6"><strong> Volet 2 : Soutenir l’excellence </strong>  
+          </summary> 
+    <div class="row my-18" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h00 (30 min) 
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Une discussion ouverte sur la communication avec la communauté de recherche 
+            </summary>
+            <p>
+              Marie-Hélène Burle, Spécialiste en solutions de recherche, Université Simon Fraser
+            </p>
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-19" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+      </div>
+      <div class="col-2 "> MB 3.435  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Connaître vos clients par les traces de leurs œuvres  
+            </summary>
+            <p>
+              Mark Hahn, Administrateur de Système, Sharcnet-McMaster, Compute Ontario
+            </p>
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-20" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h45 (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.435   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Optimiser l’utilisation des ressources de calcul intensif : s’attaquer au gaspillage dans l’écosystème de l’Alliance </summary>
+          <p>
+            Moïra Dion, Analyste, Calcul Québec; Hélène Gingras, Analyste, Calcul Québec   
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-21"  >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        14h00 (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.435    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Surveiller l’utilisation du GPU et les meilleures pratiques en matière de gestion des gaspillages (groupe de travail sur les accélérateurs
+          </summary>
+          <p>
+            Nikolai Sergueev, Analyste CHP, Calcul Québec/Université de Montréal
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+   </details><!--end of Stream 2 details-->
+        <div class="row my-22" >
+      <div class="col-3 col-sm-2 text-nowrap" > 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <details><!--start of Stream 3 details-->
+     <summary class="h6"><strong> Volet 3 : Plateformes pour le progrès </strong>  
+          </summary> 
+    <div class="row my-23" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h00 (30 min)  
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">L’initiative Colibri : vers des services infonuagiques accessibles 
+            </summary>
+            <p>
+              Sarah Cameron-Pesant, Analyste en calcul informatique de pointe, spécialiste des sciences humaines et sociales, Calcul Québec / Université du Québec à Montréal; Lydia Vermeyden, Directrice du développement des nouveaux services, Calcul Québec
+            </p>
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-24" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+      </div>
+      <div class="col-2 "> MB 3.445  </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">Votre modèle de PGD a-t-il besoin d’être réactualisé ? Une approche cybersensible à la gestion des données de recherche 
+            </summary>
+            <p>
+              Luc Letarte, Spécialiste de la cybersécurité et de la conformité en matière de recherche, Université de la Colombie-Britannique
+            </p>
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-25" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        13h45 (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.445   </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Assistant PGD Un présent stable, un avenir évolutif </summary>
+          <p>
+            Marcus Closen, Responsable de produits, planification de la gestion des données, Alliance de recherche numérique du Canada
+          </p>
+          <p>
+            Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-26" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        14h00 (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Adaptation de logiciels ouverts — une occasion d’apprentissage pour les chercheurs et les développeurs  
+          </summary>
+          <p>
+            Danica Evering, Spécialiste de la gestion des données de recherche, McMaster; Richie Motorgeanu, assistant au développement des ressources d'apprentissage, Sherman Centre for Digital Scholarship, McMaster
+          </p>
+          <p>
+           Détails des sessions à venir
+          </p>
+        </details>   
+      </div>
+    </div>
+    </details><!--end of Stream 3 details-->
+    <div class="row my-27" style="background-color: #FFE4B5" >
+      <div class="col-3 col-sm-2 text-nowrap">
+        14h15 (30 min)  
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Pause     </div>
+    </div>
+    <div class="row my-26" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        14h45 (30 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Démystifier la gestion des données de recherche : vos questions, nos réponses !  
+          </summary>
+          <p>
+            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. GDR, Alliance de recherche numérique du Canada
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-27" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        15h15 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Comment le DFDR fonctionne-t-il réellement ? Aperçu des services de conservation et de préservation 
+          </summary>
+          <p>
+            Natalie Williams, Responsable, services de curation, Alliance de recherche numérique du Canada
+          </p>
+          <p>
+            Détails des sessions à venir 
+        </details>   
+      </div>
+    </div>
+    <div class="row my-28" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        15h30 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Polar Data Search and Mobilization Pathways (recherche de données polaires et voies de mobilisation)  
+          </summary>
+          <p>
+            Chantelle Verhey, Associée de recherche, World Data System – International Technology Office 
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-29" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        15h45 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Créer une communauté interinstitutionnelle et interfonctionnelle de gestion des données de recherche : de la stratégie à la mise en œuvre 
+          </summary>
+          <p>
+            Anneliese Eber, University of Waterloo; Jennifer Abel, University of Calgary; Michael Steeleworthy, Wilfrid Laurier University
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+     <div class="row my-30" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        16h00 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Jeter les bases : Projet pilote de gestion des données de recherche nationale (RDM Jumpstart)    
+          </summary>
+          <p>
+            Jennifer Abel, Bibliothécaire responsable de la gestion des données de recherche, Université de Calgary/Groupe national d’experts en formation
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+      <div class="row my-31" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        16h15 (15 min) 
+      </div>
+      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Est-ce magique ? Faux : Création de signatures électroniques pour les formats de fichiers de données de recherche   
+          </summary>
+          <p>
+            Amanda Tomé, coordonnatrice de la préservation, Alliance de recherche numérique du Canada
+          </p>
+          <p>
+            Détails des sessions à venir 
+          </p>
+        </details>   
+      </div>
+    </div>
+      <div class="row my-32" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        16h30  
+      </div>
+      <div class="col-2 ">ÉTS    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Visite des superordinateurs avec Calcul Québec      
+          </summary>
+          <p>
+            <a href="https://events.myconferencesuite.com/ETSTours/reg/landing/" target="_blank">formulaire d'inscription</a> 
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-33" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap">
         18h00 
       </div>
-      <div class="col-3 ">À déterminer   </div>
-      <div class="col-2 ">Soirée de la rencontre sur l’IRN       </div>
-      <div class="col ">  </div>
+      <div class="col-2 ">À déterminer    </div>
+      <div class="col ">Soirée de la rencontre sur l’IRN    </div>
     </div>
   </div>
 </details>
