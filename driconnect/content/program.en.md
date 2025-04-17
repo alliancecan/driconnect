@@ -393,6 +393,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    </details><!--end of Stream 3 details-->
     <div class="row my-27" style="background-color: #FFE4B5" >
       <div class="col-3 col-sm-2 text-nowrap">
         2:15 pm (30 min)  
@@ -530,7 +531,6 @@ translationKey: "program"
       <div class="col-2 ">TBD   </div>
       <div class="col ">DRI Connect Dinner    </div>
     </div>
-  </details><!--end of Stream 3 details-->
   </div>
 </details>
 
