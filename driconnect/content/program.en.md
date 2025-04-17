@@ -567,7 +567,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-4" style="background-color: #FFE4B5">
+    <div class="row my-4" >
     <div class="col-3 col-sm-2 text-nowrap"> 
         10:00 am (15 min) 
       </div>
@@ -614,13 +614,13 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Break     </div>
     </div>
-    <div class="row my-7" style="background-color: #dbeed5">
+    <div class="row my-7" >
       <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 1: Secure Foundations</strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
-    <div class="row my-8" style="background-color: #dbeed5">
+    <div class="row my-8" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
       </div>
@@ -637,7 +637,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-9" style="background-color: #dbeed5">
+    <div class="row my-9" >
       <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
       </div>
       <div class="col-2 "> BMO Amphitheatre </div>
@@ -653,7 +653,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-10" style="background-color: #dbeed5">
+    <div class="row my-10" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:30 am (15 min)  
       </div>
@@ -670,7 +670,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-11" style="background-color: #dbeed5">
+    <div class="row my-11" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:45 am (15 min)  
       </div>
@@ -688,7 +688,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-12" style="background-color: #dbeed5">
+    <div class="row my-12" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         12:00 pm (15 min)   
       </div>
@@ -706,13 +706,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-13" style="background-color: #eedbd5">
+    <div class="row my-13" >
       <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Innovating systems</strong> 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
-    <div class="row my-14" style="background-color: #eedbd5">
+    <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
       </div>
@@ -729,7 +729,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" style="background-color: #eedbd5">
+    <div class="row my-15" >
       <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
       </div>
       <div class="col-2 "> MB 3.435  </div>
@@ -745,7 +745,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-16" style="background-color: #eedbd5">
+    <div class="row my-16" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:30 am (15 min)  
       </div>
@@ -762,7 +762,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-17" style="background-color: #eedbd5">
+    <div class="row my-17" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:45 am (15 min)  
       </div>
@@ -780,7 +780,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-18" style="background-color: #eedbd5">
+    <div class="row my-18" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         12:00 pm (15 min)   
       </div>
@@ -798,13 +798,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-19" style="background-color: #d5e8ee">
+    <div class="row my-19" >
       <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 3: Empowering research </strong>
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
-    <div class="row my-20" style="background-color: #d5e8ee">
+    <div class="row my-20" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
       </div>
@@ -821,7 +821,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-21" style="background-color: #d5e8ee">
+    <div class="row my-21" >
       <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
       </div>
       <div class="col-2 "> MB 3.445   </div>
@@ -837,7 +837,7 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-22" style="background-color: #d5e8ee">
+    <div class="row my-22" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:30 am (15 min)  
       </div>
@@ -853,7 +853,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-23" style="background-color: #d5e8ee">
+    <div class="row my-23" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:45 am (15 min)  
       </div>
@@ -871,7 +871,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-24" style="background-color: #d5e8ee">
+    <div class="row my-24" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         12:00 pm (15 min)   
       </div>
@@ -889,14 +889,14 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-25">
+    <div class="row my-25" style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         12:15 pm (60 min)
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
-    <div class="row my-26" style="background-color: #FFE4B5">
+    <div class="row my-26" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:15 pm (30 min)   
       </div>
