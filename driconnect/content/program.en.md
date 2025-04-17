@@ -812,6 +812,7 @@ translationKey: "program"
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details>
     <summary class="h6"><strong> Stream 3: Empowering research </strong>  
           </summary> 
     <div class="row my-20" >
@@ -899,6 +900,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    </details><!--end of Stream 3 details-->
     <div class="row my-25" style="background-color: #FFE4B5">
       <div class="col-3 col-sm-2 text-nowrap"> 
         12:15 pm (60 min)
@@ -906,7 +908,6 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
-    </details><!--end of Stream 3 details-->
     <div class="row my-26" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:15 pm (30 min)   
