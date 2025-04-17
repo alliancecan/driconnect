@@ -166,7 +166,7 @@ translationKey: "program"
       <div class="col ">Lunch     </div>
     </div>
     <div class="row my-12" >
-      <div class="col-3 col-sm-2 text-nowrap" > 1pm (1hr 15min )
+      <div class="col-3 col-sm-2 text-nowrap" > 1pm (75min )
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -615,11 +615,14 @@ translationKey: "program"
       <div class="col ">Break     </div>
     </div>
     <div class="row my-7" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 1: Secure Foundations</strong>
+      <div class="col-3 col-sm-2 text-nowrap" > 11:00 am (75 min)
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details><!--start of Stream 1 details-->
+     <summary class="h6"><strong> Stream 1: Secure Foundations</strong>  
+          </summary> 
     <div class="row my-8" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
@@ -706,12 +709,16 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+  </details><!--end of Stream 1 details-->
     <div class="row my-13" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Innovating systems</strong> 
+      <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details><!--start of Stream 2 details-->
+     <summary class="h6"><strong> Stream 2: Innovating systems</strong>  
+          </summary> 
     <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
@@ -798,12 +805,15 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+  </details><!--end of Stream 2 details-->
     <div class="row my-19" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 3: Empowering research </strong>
+      <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <summary class="h6"><strong> Stream 3: Empowering research </strong>  
+          </summary> 
     <div class="row my-20" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         11:00 am (15 min) 
@@ -896,6 +906,7 @@ translationKey: "program"
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Lunch     </div>
     </div>
+    </details><!--end of Stream 3 details-->
     <div class="row my-26" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:15 pm (30 min)   
@@ -926,7 +937,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-28" style="background-color: #FFE4B5">
+    <div class="row my-28" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:30 pm (30 min) 
       </div>
