@@ -169,10 +169,11 @@ translationKey: "program"
       <div class="col-3 col-sm-2 text-nowrap" > 1pm (1hr 15min )
       </div>
       <div class="col-2 ">  </div>
-      <div class="col ">  Stream 1: Advancing HPC </div>
+      <div class="col ">   </div>
     </div>
     <details><!--start of Stream 1 details-->
-      <summary class="h5"><small class="text-muted d-print-none"> (click to expand)</small></summary>
+      <summary class="h6"><strong> Stream 1: Advancing HPC</strong>  
+          </summary> 
     <div class="row my-13" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
