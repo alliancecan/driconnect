@@ -175,7 +175,17 @@ translationKey: "program"
         13h00 (30 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO   </div>
-      <div class="col ">À déterminer      </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">L’avenir du CHP à l’âge de l’IA (grappes IA vs systèmes CHP). Sommes-nous prêts ?)
+            </summary>
+            <p>
+              Roman Baranowski, Architecte logiciel IRN, ARC UBC
+            <p>
+              Détails des sessions à venir
+            </p>
+          </details> 
+      </div>
     </div>
     <div class="row my-14" >
       <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
