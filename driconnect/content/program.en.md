@@ -235,11 +235,14 @@ translationKey: "program"
     </div>
    </details><!--end of Stream 1 details-->
     <div class="row my-17" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 2: Supporting excellence</strong>
+      <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details><!--start of Stream 2 details-->
+     <summary class="h6"><strong> Stream 2: Supporting excellence</strong>  
+          </summary> 
     <div class="row my-18" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
@@ -310,12 +313,16 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+   </details><!--end of Stream 2 details-->
         <div class="row my-22" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong>Stream 3: Platforms for progress</strong>
+      <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
+    <details><!--start of Stream 3 details-->
+     <summary class="h6"><strong> Stream 3: Platforms for progress</strong>  
+          </summary> 
     <div class="row my-23" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
@@ -523,6 +530,7 @@ translationKey: "program"
       <div class="col-2 ">TBD   </div>
       <div class="col ">DRI Connect Dinner    </div>
     </div>
+  </details><!--end of Stream 3 details-->
   </div>
 </details>
 
