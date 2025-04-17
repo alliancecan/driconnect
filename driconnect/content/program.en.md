@@ -556,7 +556,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-4" style="background-color: #FFE4B5">
-    <div class="col-4 col-sm-2 text-nowrap"> 
+    <div class="col-3 col-sm-2 text-nowrap"> 
         10:00 am (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
@@ -575,8 +575,8 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-5.8" >
-      <div class="col-5.7 col-sm-2 text-nowrap" > <!--"row my-5" yields un expected spaces.-->
+    <div class="row my-5.8" ><!--"row my-5" yields un expected spaces.-->
+      <div class="col-3 col-sm-2 text-nowrap" > 
         10:15 am (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
@@ -876,6 +876,57 @@ translationKey: "program"
           </p>
         </details>   
       </div>
+    </div>
+    <div class="row my-25">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12:15 pm (60 min)
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Lunch     </div>
+    </div>
+    <div class="row my-26" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:15 pm (30 min)   
+      </div>
+      <div class="col-2 ">BMO Amphitheatre     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Alliance projects and initiatives updates  
+          </summary>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-27" >
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        1:45 pm (45 min)    
+      </div>
+      <div class="col-2 ">BMO Amphitheatre    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Alliance Fireside Chat  
+          </summary>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-28" style="background-color: #FFE4B5">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        2:30 pm (30 min) 
+      </div>
+      <div class="col-2 ">BMO Amphitheatre   </div>
+      <div class="col ">George Ross Closing Remarks      </div>
+    </div>
+    <div class="row my-29">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        3:00 pm
+      </div>
+      <div class="col-2 ">Atrium  </div>
+      <div class="col ">Networking and end of program      </div>
     </div>
   </div>
 </details>
