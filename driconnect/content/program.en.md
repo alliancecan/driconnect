@@ -950,7 +950,7 @@ translationKey: "program"
         3:00 pm
       </div>
       <div class="col-2 ">Atrium  </div>
-      <div class="col ">Networking and end of program      </div>
+      <div class="col ">Networking and end of program      </div>    
     </div>
   </div>
 </details>
