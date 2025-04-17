@@ -786,6 +786,97 @@ translationKey: "program"
         </details>   
       </div>
     </div>
+    <div class="row my-19" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap" > Stream 3: Empowering research 
+      </div>
+      <div class="col-2 ">  </div>
+      <div class="col ">   </div>
+    </div>
+    <div class="row my-20" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:00 am (15 min) 
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">UseGalaxy Canada platform update 
+            </summary>
+            <p>
+              Carol Gauthier, Project Manager / Developper, Université de Sherbrooke / Calcul Québec
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-21" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+      </div>
+      <div class="col-2 "> MB 3.445   </div>
+      <div class="col ">
+        <details>
+            <summary class="h6">CBRAIN: A Web-based Distributed Computing Platform for Collaborative Research
+            </summary>
+            <p>
+              Bryan Caron, Director, Operations and Development (CBRAIN and NeuroHub) and Co-PI of NeuroHub, McGill University
+            <p>
+              Session details coming soon
+            </p>
+          </details> 
+      </div>
+    </div>
+    <div class="row my-22" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:30 am (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.445    </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">OSSecMon: High-Performance Linux Security Monitoring with eBPF   </summary>
+          <p>
+            Gabriel Lapointe, Security Analyst, McGill University 
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-23" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        11:45 am (15 min)  
+      </div>
+      <div class="col-2 ">MB 3.445     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">Interactive HPC Computing with Open OnDemand
+          </summary>
+          <p>
+            Grigory Shamov, Site Lead / HPC Specialist, University of Manitoba; James Willis, Scientific Applications Analyst, SciNet 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
+    <div class="row my-24" style="background-color: #d5e8ee">
+      <div class="col-3 col-sm-2 text-nowrap"> 
+        12:00 pm (15 min)   
+      </div>
+      <div class="col-2 ">MB 3.445     </div>
+      <div class="col ">
+        <details>
+          <summary class="h6">From Bash Scripts to GitOps: Automating Kubernetes Deployments with ArgoCD  
+          </summary>
+          <p>
+            Shaun Bathgate, Senior Advanced Research Computing Systems Administrator, University of Victoria 
+          </p>
+          <p>
+            Session details coming soon
+          </p>
+        </details>   
+      </div>
+    </div>
   </div>
 </details>
 <!--
