@@ -166,12 +166,14 @@ translationKey: "program"
       <div class="col ">Lunch     </div>
     </div>
     <div class="row my-12" >
-      <div class="col-3 col-sm-2 text-nowrap" > <strong> Stream 1: Advancing HPC</strong>
+      <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 1 details-->
+     <summary class="h6"><strong> Stream 1: Advancing HPC</strong>  
+          </summary> 
     <div class="row my-13" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:00 pm (30 min) 
