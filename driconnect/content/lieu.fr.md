@@ -5,10 +5,10 @@ lang_code: "fr"
 translationKey: "venue"
 ---
 
-La rencontre sur l’IRN 2025 se tiendra à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, au cœur de Montréal. 
+La rencontre sur l’IRN 2025 se tiendra à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, au cœur de Montréal.git 
 
 ### Hôtel officiel : Montreal Marriott Chateau Champlain 
-Nous avons négocié un tarif spécial pour les participants de la rencontre sur l’IRN 2025 au Montreal Marriott Chateau Champlain. 
+L'hôtel officiel pour DRI Connect 2025 est le Montreal Marriott Chateau Champlain, où un tarif spécial pour la conférence a été négocié pour les participants. Cependant, veuillez noter que la plupart des dates sont désormais complètes, ce qui pourrait expliquer pourquoi le tarif préférentiel n'est plus disponible pour les dates sélectionnées.
 
   * Tarif des chambres : 305 $/nuit 
   * Période principale de réservation <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">(via lien)</a>: du 26 mai au 30 mai 2025 
