@@ -8,17 +8,8 @@ translationKey: "venue"
 La rencontre sur l’IRN 2025 se tiendra à l’Université Concordia, dans l'édifice John Molson, situé au 1450 rue Guy, au cœur de Montréal.git 
 
 ### Hôtel officiel : Montreal Marriott Chateau Champlain 
-L'hôtel officiel pour DRI Connect 2025 est le Montreal Marriott Chateau Champlain, où un tarif spécial pour la conférence a été négocié pour les participants. Cependant, veuillez noter que la plupart des dates sont désormais complètes, ce qui pourrait expliquer pourquoi le tarif préférentiel n'est plus disponible pour les dates sélectionnées.
+L'hôtel officiel pour DRI Connect 2025 est le Montréal Marriott Chateau Champlain, où un tarif spécial pour la conférence avait été arrangé pour les participants. Veuillez noter que la date limite pour bénéficier du tarif préférentiel est maintenant dépassée.
 
-  * Tarif des chambres : 305 $/nuit 
-  * Période principale de réservation <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">(via lien)</a>: du 26 mai au 30 mai 2025 
-  * Dernier jour pour réserver : Vendredi 25 avril 2025 
-  
-Réservez votre chambre pour la rencontre sur l’IRN <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1738986767218&key=GRP&guestreslink2=true&app=resvlink" target="_blank">ici</a>
-
-Si votre arrivée ou votre départ tombe en dehors de ces dates, le tarif de la conférence est disponible du 23 mai au 2 juin, selon les disponibilités. Pour réserver lors de ces dates prolongées, vous devrez appeler le numéro suivant : 1-888-236-2427.
-
-Remarque : Si vous êtes un membre du personnel de l'Alliance, veuillez réserver votre séjour via la page d'inscription de la retraite du personnel pour combiner la rencontre sur l’IRN et la retraite du personnel en une seule réservation. 
 
 ### Autres hôtels à proximité 
 Si l'hôtel officiel est complet ou si vous préférez d'autres options, voici quelques hôtels dans la région offrant des tarifs raisonnables, ou vous pouvez explorer les tarifs spéciaux proposés par votre organisation : 
