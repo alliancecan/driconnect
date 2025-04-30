@@ -6,33 +6,32 @@ translationKey: "registration"
 ---
 
 
-<strong>Registration is now open for DRI Connect 2025!</strong>
+<strong>SOLD OUT: Registration is now closed for DRI Connect 2025</strong>
 
 
-Register today to secure your place at this year’s event at Concordia University, in the John Molson Building, located at 1450 Guy Street, in Montreal on May 27-28, 2025.
+Thank you for your interest in this year's event. Due to overwhelming demand, all available spaces have been filled for this in-person event.
 
+<strong>Wait List Now Available</strong>
 
-This year’s event is fully in-person and space is limited.  
+We have opened a wait list for those still interested in attending. If spaces become available, we will contact people on the wait list in the order they registered.
 
-We encourage you to register early to avoid disappointment and guarantee your spot at the conference. 
 
  
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/landing target="_blank"><strong>REGISTER NOW</strong></a>
+<a href=https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u target="_blank"><strong>JOIN WAIT LIST</strong></a>
 
+
+<strong>Already Registered But Can't Attend?</strong>
+
+If you're currently registered but can no longer attend, please cancel your registration to give someone on the wait list the opportunity to participate.
+
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning target="_blank"><strong>AMEND A CURRENT REGISTRATION</strong></a>
 
 <strong> Important to note </strong>
 
-While this is an in-person event, we’re committed to making the content accessible to everyone. Where permitted by presenters, session recordings will be available. We will also provide remote access to materials and other accessibility supports based upon the accessibility needs of participants as we develop the program and plan the event.  
+While this is an in-person event, we're committed to making the content accessible to everyone. Where permitted by presenters, session recordings will be available. We will also provide remote access to materials and other accessibility supports based upon the accessibility needs of participants as we develop the program and plan the event.
 
-Please ensure at registration that you note any accessibility requirements before the registration cut-off date so we may ensure any dietary, audio-visual, or other accessibility needs are accounted for. 
 
- 
-
-Don't miss this opportunity to connect with colleagues and leaders in digital research infrastructure. Register today! 
-
-Registration will remain open until May 20, 2025, or until all spaces are filled, whichever comes first. 
-
-For registration support, contact us at alliance@coherent-solutions.ca  
+For registration support or to join the wait list, contact us at alliance@coherent-solutions.ca
 
 <!--
 In Person Registration has been filled up. However, virtual attendance remains open.
