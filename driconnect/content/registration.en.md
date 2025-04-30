@@ -17,14 +17,14 @@ We have opened a wait list for those still interested in attending. If spaces be
 
 
  
-<a href=https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u target="_blank"><strong>JOIN WAIT LIST</strong></a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u" target="_blank"><strong>JOIN WAIT LIST</strong></a>
 
 
 <strong>Already Registered But Can't Attend?</strong>
 
 If you're currently registered but can no longer attend, please cancel your registration to give someone on the wait list the opportunity to participate.
 
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning target="_blank"><strong>AMEND A CURRENT REGISTRATION</strong></a>
+<a href="https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning" target="_blank"><strong>AMEND A CURRENT REGISTRATION</strong></a>
 
 <strong> Important to note </strong>
 

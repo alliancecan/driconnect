@@ -17,7 +17,7 @@ Nous avons ouvert une liste d'attente pour les personnes toujours intéressées 
  
 
 
-<a href=https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u target="_blank"><strong>REJOINDRE LA LISTE D'ATTENTE</strong></a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u" target="_blank"><strong>REJOINDRE LA LISTE D'ATTENTE</strong></a>
 
 
 <strong>Déjà inscrit(e) mais vous ne pouvez plus assister ?</strong>
@@ -25,7 +25,7 @@ Nous avons ouvert une liste d'attente pour les personnes toujours intéressées 
 Si vous êtes actuellement inscrit(e) mais ne pouvez plus participer, veuillez annuler votre inscription afin de donner l'opportunité à quelqu'un sur la liste d'attente de participer.
  
 
-<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning target="_blank"><strong>MODIFIER UNE INSCRIPTION EXISTANTE/strong></a>
+<a href=https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning target="_blank"><strong>MODIFIER UNE INSCRIPTION EXISTANTE</strong></a>
 
 <strong>Informations pour les conférenciers</strong>
 
