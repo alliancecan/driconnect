@@ -26,6 +26,11 @@ If you're currently registered but can no longer attend, please cancel your regi
 
 <a href="https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning" target="_blank"><strong>AMEND A CURRENT REGISTRATION</strong></a>
 
+<strong> Speaker Information</strong>
+
+If you are a speaker and did not register or would like to confirm you are on the registration list, please contact alliance@coherent-solutions.ca so we can provide confirmation of your ticket.
+
+
 <strong> Important to note </strong>
 
 While this is an in-person event, we're committed to making the content accessible to everyone. Where permitted by presenters, session recordings will be available. We will also provide remote access to materials and other accessibility supports based upon the accessibility needs of participants as we develop the program and plan the event.
