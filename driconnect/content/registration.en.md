@@ -8,16 +8,15 @@ translationKey: "registration"
 
 <strong>SOLD OUT: Registration is now closed for DRI Connect 2025</strong>
 
-
 Thank you for your interest in this year's event. Due to overwhelming demand, all available spaces have been filled for this in-person event.
+
 
 <strong>Wait List Now Available</strong>
 
 We have opened a wait list for those still interested in attending. If spaces become available, we will contact people on the wait list in the order they registered.
 
-
- 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7LFlSMtnBEeBxwJEpmxPVsMa876QPnVOoMgDGLFgl5pUNE00Nk5LVkc4MFVLRFJMSFROSjJXVTI5NS4u" target="_blank"><strong>JOIN WAIT LIST</strong></a>
+
 
 
 <strong>Already Registered But Can't Attend?</strong>
@@ -26,9 +25,12 @@ If you're currently registered but can no longer attend, please cancel your regi
 
 <a href="https://events.myconferencesuite.com/SpringDRIConnect2025/reg/returning" target="_blank"><strong>AMEND A CURRENT REGISTRATION</strong></a>
 
+
+
 <strong> Speaker Information</strong>
 
 If you are a speaker and did not register or would like to confirm you are on the registration list, please contact alliance@coherent-solutions.ca so we can provide confirmation of your ticket.
+
 
 
 <strong> Important to note </strong>
