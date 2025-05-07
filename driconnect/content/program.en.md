@@ -515,7 +515,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-33" style="background-color: #FFE4B5">
+    <div class="row my-33" >
       <div class="col-3 col-sm-2 text-nowrap">
         6 pm 
       </div>
