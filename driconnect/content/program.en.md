@@ -446,27 +446,9 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-28" >
-      <div class="col-3 col-sm-2 text-nowrap"> 
-        3:30 pm (15 min) 
-      </div>
-      <div class="col-2 ">BMO Amphitheatre    </div>
-      <div class="col ">
-        <details>
-          <summary class="h6">Polar Data Search and Mobilization Pathways    
-          </summary>
-          <p>
-            Chantelle Verhey, Lead Polar Semantics and Data Interoperability Research Associate, World Data System - International Technology office 
-          </p>
-          <p>
-            Session details coming soon
-          </p>
-        </details>   
-      </div>
-    </div>
     <div class="row my-29" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        3:45 pm (15 min) 
+        3:30 pm (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
       <div class="col ">
@@ -484,7 +466,7 @@ translationKey: "program"
     </div>
      <div class="row my-30" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        4:00 pm (15 min) 
+        3:45 pm (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
       <div class="col ">
@@ -502,7 +484,7 @@ translationKey: "program"
     </div>
       <div class="row my-31" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        4:15 pm (15 min) 
+        4:00 pm (15 min) 
       </div>
       <div class="col-2 ">BMO Amphitheatre    </div>
       <div class="col ">
@@ -537,7 +519,7 @@ translationKey: "program"
       <div class="col-3 col-sm-2 text-nowrap">
         6 pm 
       </div>
-      <div class="col-2 ">TBD   </div>
+      <div class="col-2 "> Wienstein & Gavino's 1434 Crescent St, Montreal, Quebec H3G 2B6    </div>
       <div class="col ">DRI Connect Dinner    </div>
     </div>
   </div>

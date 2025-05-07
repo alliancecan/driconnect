@@ -441,27 +441,9 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-28" >
-      <div class="col-3 col-sm-2 text-nowrap"> 
-        15h30 (15 min) 
-      </div>
-      <div class="col-2 ">Amphithéâtre BMO     </div>
-      <div class="col ">
-        <details>
-          <summary class="h6">Polar Data Search and Mobilization Pathways (recherche de données polaires et voies de mobilisation)  
-          </summary>
-          <p>
-            Chantelle Verhey, Associée de recherche, World Data System – International Technology Office 
-          </p>
-          <p>
-            Détails des sessions à venir 
-          </p>
-        </details>   
-      </div>
-    </div>
     <div class="row my-29" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h45 (15 min) 
+        15h30 (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO     </div>
       <div class="col ">
@@ -479,7 +461,7 @@ translationKey: "program"
     </div>
      <div class="row my-30" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        16h00 (15 min) 
+        15h45 (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO     </div>
       <div class="col ">
@@ -497,7 +479,7 @@ translationKey: "program"
     </div>
       <div class="row my-31" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        16h15 (15 min) 
+        16h00 (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -532,7 +514,7 @@ translationKey: "program"
       <div class="col-3 col-sm-2 text-nowrap">
         18h00 
       </div>
-      <div class="col-2 ">À déterminer    </div>
+      <div class="col-2 ">Wienstein & Gavino's 1434 Crescent St, Montreal, Quebec H3G 2B6  </div>
       <div class="col ">Soirée de la rencontre sur l’IRN    </div>
     </div>
   </div>
