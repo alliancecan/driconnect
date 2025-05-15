@@ -566,7 +566,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Détails des sessions à venir
+            Le Réseau canadien de documentation pour la recherche et Érudit ont récemment mené ensemble un sondage sur l’infrastructure de recherche numérique (IRN) des sciences humaines et sociales (SHS) au Canada. Cette présentation porte principalement sur les domaines de convergence de l’IRN des SHS, notamment l’intégration d’identifiants pérennes par le Comité consultatif canadien sur les identifiants pérennes, coordonnée entre autres par l’Alliance. 
           </p>
           </p>
         </details>   
@@ -586,7 +586,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Détails des sessions à venir 
+            Dans cette présentation sommaire de la recherche qualitative et des besoins des chercheuses et chercheurs en SHS, nous examinons les objectifs et les défis des méthodes qualitatives, les logiciels propriétaires, et terminerons par un aperçu de logiciel en code source libre. LibreQDA (en version bêta) est développé avec le soutien de Calcul Québec. 
           </p>
           </p>
         </details>   
@@ -620,7 +620,7 @@ translationKey: "program"
             <p>
               SShawn Winnington-Ball, Gestionnaire, Sécurité des systèmes d’information, SciNet, Université de Toronto; Yohai Meiron, analyste des applications scientifiques, SciNet, Université de Toronto 
             <p>
-              Détails des sessions à venir 
+              Nous présentons une enclave sécurisée de calcul informatique du consortium de calcul de haute performance SciNet. Surnommé S4H, cet environnement est déjà accessible aux groupes de l’Université de Toronto dans le cadre d’un projet pilote. L’objectif de S4H est de répondre aux besoins des chercheuses et chercheurs qui travaillent avec des données sensibles, ce que ne permet pas Niagara, la grappe mère de SciNet. Nous expliquerons comment les données de S4H sont cryptées au repos et comment l’accès a été renforcé. Nous discuterons des obstacles au cloisonnement des différents groupes de recherche sur un système partagé et nous examinerons différents éléments facilitants, dont les principaux mécanismes de gestion et de conteneurisation. Nous traiterons également de notre adoption du cadre de Certification du modèle de maturité de la cybersécurité (CMMC), de notre travail pour bien comprendre les complexités des groupes de contrôles de la norme NIST 800-171, de l’élaboration de plans d’action et de jalons pour les lacunes dans la conformité, et des examens internes et externes permettant de vérifier la conformité. 
             </p>
           </details> 
       </div>
@@ -635,8 +635,15 @@ translationKey: "program"
             </summary>
             <p>
               Nathalie Aerens, Gestionnaire de plateforme SD4Health, Université McGill; Pierre-Olivier Quirion, Responsable de technologie SD4H, Université McGill – Calcul Québec - SD4H 
+            </p>  
             <p>
-              Détails des sessions à venir 
+              L’avenir de la recherche numérique en santé et en génomique dépend de solides mesures de respect de la vie privée et de sécurité. La sécurité des données est toujours un enjeu important pour la recherche en génomique humaine, et comme l’IRN canadienne y est utilisée de plus en plus intensivement, une pression s’exerce à des degrés divers sur les membres de l’Alliance pour sécuriser l’infrastructure. 
+             </p>  
+            <p> 
+             La garantie d’une sécurité robuste pour les projets sur la santé humaine est maintenant à notre portée. De nouvelles exigences, comme la dernière politique sur le partage des données génomiques des NIH, ont obligé les groupes de recherche à revoir leurs priorités en la matière. En effet, pour de nombreux nouveaux projets de recherche, il n’est tout simplement plus possible de négliger comme avant les exigences relatives à la sécurité. 
+             </p>  
+            <p>
+             SD4H utilise une infrastructure infonuagique OpenStack gérée conjointement par le Centre canadien de génomique computationnelle (C3G) de l’Université McGill et Calcul Québec. Des services de calcul informatique de pointe, de gestion des données de recherche et de logiciels de recherche sont développés et déployés sur cette infrastructure afin d’assurer le respect de la vie privée et la sécurité à ses utilisatrices et utilisateurs. 
             </p>
           </details> 
       </div>
@@ -653,7 +660,7 @@ translationKey: "program"
             Darren Boss, Analyste principal en calcul informatique, Université de Victoria   
           </p>
           <p>
-            Détails des sessions à venir 
+            CILogon sert à simplifier l’accès aux plateformes à l’aide de la fédération d’identités d’eduGAIN. Il permet d’authentifier facilement les utilisatrices et utilisateurs et de partager des données d’identité enrichies pour plusieurs applications. CILogon est déjà utilisé sur des plateformes comme l’Assistant PGD et le projet pilote de connexion au nuage, et des intégrations à d’autres plateformes sont à l’étape de planification.  
           </p>
         </details>   
       </div>
@@ -671,7 +678,7 @@ translationKey: "program"
             Ryan McRonald, Gestionnaire de cybersécurité en matière de recherche, Site Arbutus/Université de Victoria 
           </p>
           <p>
-            Détails des sessions à venir 
+            Les API, pierre d’assise des applications modernes, permettent l’intégration et la communication entre les systèmes. Cependant, avec une grande connectivité viennent de grandes responsabilités. Cette présentation technique se penchera sur la sécurité des API, les risques associés aux API, les pratiques exemplaires de sécurisation des API et la mise en œuvre de mesures de sécurité en fonction des tâches afin d’assurer la sécurité des API infonuagiques de notre communauté. Joignez-vous à nous pour apprendre comment mieux protéger vos API contre les menaces courantes.  
           </p>
         </details>   
       </div>
@@ -689,7 +696,7 @@ translationKey: "program"
             Victoria Smith, Gestionnaire, Gouvernance et éthique des données, Alliance de recherche numérique du Canada 
           </p>
           <p>
-            Détails des sessions à venir 
+            Cette présentation offre un aperçu de l’Initiative de gestion de l’accès contrôlé aux données de recherche, notamment les constats de la première étape et les travaux en cours et prévus. L’application des principes de la science ouverte à la recherche sur des données sensibles ou à accès restreint présente différents défis. 
           </p>
         </details>   
       </div>
@@ -716,7 +723,7 @@ translationKey: "program"
             <p>
               Lydia Vermeyden, Directrice du développement des nouveaux services à la recherche, Calcul Québec
             <p>
-              Détails des sessions à venir 
+              Année internationale de la science et de la technologie quantiques, 2025 marque le 100e anniversaire de la première publication en mécanique quantique. Calcul Québec souligne l’occasion en lançant ses services quantiques sur MonarQ, son ordinateur quantique à 24 qubits. Mais qu’est-ce que le calcul quantique, et en quoi est-il différent des systèmes, logiciels et données classiques que nous connaissons bien? Est-il possible de connecter les systèmes quantique et classique? Nous discuterons de ces questions tout en vous racontant notre parcours extraordinaire jusqu’au lancement des services de calcul quantique chez Calcul Québec et en vous présentant l’incroyable équipe qui a mené à bien ce projet. Après tout, faciliter l’accès à la recherche de l’avenir ne dépend pas uniquement des technologies de pointe, mais également des personnes qui les mettent en œuvre.  
             </p>
           </details> 
       </div>
@@ -732,7 +739,7 @@ translationKey: "program"
             <p>
               Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec; Felix-Gabriel Boucher-Luneau, Stagiaire, développement de logiciels, Calcul Québec
             <p>
-              Détails des sessions à venir 
+              Découvrez les détails du renouvellement du nuage Arbutus, de ses intéressantes capacités et de la façon dont l’évolution rapide du paysage mondial a soudainement mis en lumière l’importance de l’autonomie technologique à tous les niveaux.  
             </p>
           </details> 
       </div>
@@ -766,7 +773,7 @@ translationKey: "program"
             Jeff Albert, Directeur et architecte, Infrastructure de calcul informatique de pointe, Université de Victoria
           </p>
           <p>
-            Détails des sessions à venir 
+            Découvrez les détails du renouvellement du nuage Arbutus, de ses intéressantes capacités et de la façon dont l’évolution rapide du paysage mondial a soudainement mis en lumière l’importance de l’autonomie technologique à tous les niveaux. 
           </p>
         </details>   
       </div>
@@ -784,7 +791,7 @@ translationKey: "program"
             Pawel Pomorski, Analyste CHP, chef du groupe de travail sur les accélérateurs, Sharcnet
           </p>
           <p>
-            Détails des sessions à venir 
+            L’Alliance a fait faire un bond générationnel aux capacités du matériel de son accélérateur en rendant accessibles des centaines de processeurs graphiques NVIDIA H100 et des unités de calcul accéléré MI300A. Cette séance portera sur l’incidence de ces changements et sur le nouveau matériel d’accélérateur que nous pouvons espérer au cours des prochaines années. 
           </p>
         </details>   
       </div>
@@ -811,7 +818,7 @@ translationKey: "program"
             <p>
               Carol Gauthier, Gestionnaire de projet/développeuse, Université de Sherbrooke / Calcul Québec 
             <p>
-              Détails des sessions à venir
+              Cette présentation portera sur la plateforme UseGalaxy.ca, le volet canadien de l’initiative internationale UseGalaxy, qui utilise la plateforme en code source libre Galaxy. Nous offrirons un aperçu de ses éléments, notamment l’intégration avec le projet pilote de connexion au nuage de l’Alliance, ainsi que des statistiques d’utilisation et la feuille de route. 
             </p>
           </details> 
       </div>
@@ -827,7 +834,7 @@ translationKey: "program"
             <p>
               Bryan Caron, Directeur, Exploitation et développement (CBRAIN et NeuroHub) et co-IP de NeuroHub, Université McGill
             <p>
-              Détails des sessions à venir
+              CBRAIN est une plateforme de recherche en code source libre qui permet aux scientifiques d’effectuer des analyses de données à grande échelle à l’aide d’outils de pointe sur une interface Web intuitive. Avec plus de 2 000 utilisatrices et utilisateurs de 193 établissements dans 59 pays, CBRAIN donne accès à des ressources distribuées de calcul et de données aux chercheuses et chercheurs en neuroinformatique, en génomique et autres domaines. 
             </p>
           </details> 
       </div>
@@ -843,7 +850,7 @@ translationKey: "program"
           <p>
             Gabriel Lapointe, Analyste de la sécurité, Université McGill 
           <p>
-            Détails des sessions à venir
+            Nous allons d’abord expliquer le contexte dans lequel OSSecMon a été créé (nous avions remarqué des manquements à certains niveaux concernant, entre autres, des principes de base de sécurité, comme la non-répudiation, ce qui nous a menés à développer une solution qui n’existait pas encore). Nous poursuivrons avec un survol de la technologie principale utilisée par le programme (eBPF) et nous expliquerons comment nous l’utilisons dans OSSecMon, puis nous ferons un survol des outils complémentaires utilisés comme inotify, yara et openscap. Nous terminerons en expliquant comment on peut utiliser OSSecMon pour se conformer à certaines normes du NIST, de l’ISO, etc. Le temps va probablement nous manquer, mais nous clôturerons la présentation par une période de questions. 
           </p>
         </details>   
       </div>
@@ -861,7 +868,7 @@ translationKey: "program"
             Grigory Shamov, Coordonnateur, Calcul informatique de pointe (CIP), Université du Manitoba, Prairies DRI; James Willis, Analyste d'applications scientifiques, SciNet 
           </p>
           <p>
-            Détails des sessions à venir
+            Lors de cette séance, nous vous présenterons Open OnDemand, une interface Web conçue pour offrir un accès facile aux ressources de calcul de haute performance (CHP). Les interfaces de terminal peuvent être difficiles à utiliser pour les utilisatrices et utilisateurs novices, ce qui crée une courbe d’apprentissage très abrupte. L’objectif de Open OnDemand est de rendre plus accessible le CHP en offrant une interface graphique intuitive qui simplifie les processus de soumission, de surveillance et de gestion des tâches. Nous explorerons les principales fonctionnalités de Open OnDemand, notamment l’accès en ligne, la gestion des tâches, la gestion des fichiers et le soutien pour des applications interactives comme Jupyter, Notebooks, RStudio et VS Code. De plus, nous ferons une démonstration du portail Open OnDemand avec SciNet et Grex et discuterons de leur déploiement et de cas d’utilisation. 
           </p>
         </details>   
       </div>
@@ -879,7 +886,7 @@ translationKey: "program"
             Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
           </p>
           <p>
-            Détails des sessions à venir
+            Cette séance présente GitOps en tant qu’approche structurée avec contrôle de versions pour la gestion de Kubernetes. En comparant les scripts impératifs aux flux de travaux d’Argo CD, les participantes et participants découvriront comment l’infrastructure déclarative, la synchronisation automatique et la gestion sécurisée des secrets simplifient les opérations et améliorent la stabilité dans les environnements de recherche à une ou plusieurs grappes. 
           </p>
         </details>   
       </div>
