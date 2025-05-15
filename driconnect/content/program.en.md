@@ -572,7 +572,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Session details coming soon 
+            Recently the Canadian Research Knowledge Network and Érudit collaborated to survey humanities and social sciences (HSS) digital research infrastructure (DRI) in Canada. This presentation focuses on areas of confluence in HSS DRI, including the integration of PIDs through the Canadian PID Advisory Committee, coordinated by the Alliance with others. 
           </p>
           </p>
         </details>   
@@ -592,7 +592,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Session details coming soon 
+            A high level, introductory overview of qualitative research and needs of HSS researchers. We look at the goals and challenges of qualitative methods, proprietary software, and conclude with a preview of open source software. LibreQDA (in beta) is being developed with the support of Calcul Quebec.  
           </p>
           </p>
         </details>   
@@ -626,7 +626,7 @@ translationKey: "program"
             <p>
               Shawn Winnington-Ball, Manager, Information System Security, SciNet, University of Toronto; Yohai Meiron, Scientific Applications Analyst, SciNet, University of Toronto
             <p>
-              Session details coming soon
+              We introduce a secure computing enclave at SciNet High-Performance Computing Consortium. Codenamed S4H, this environment is already available to groups at the University of Toronto as a pilot project. S4H aims to meet researchers’ needs for hosting and working with sensitive data, which SciNet’s main cluster, Niagara, does not accommodate. We’ll explain how S4H data are encrypted at rest and access is hardened, talk about the difficulties of providing isolation for different research groups on a shared system, and explore the different components that make it possible, such as key management and containerization mechanisms.  We will also focus on our adoption of the Cybersecurity Maturity Model Certification (CMMC) framework, describing our journey deciphering the complexities of the NIST 800-171 control set, crafting Plans of Action and Milestones for compliance gaps, and internal and external assessments to verify compliance. 
             </p>
           </details> 
       </div>
@@ -641,8 +641,15 @@ translationKey: "program"
             </summary>
             <p>
               Nathalie Aerens, SD4Health platform manager, McGill; Pierre-Olivier Quirion, SD4H tech Lead, McGill - CQ - SD4H 
+            </p>
             <p>
-              Session details coming soon
+              The future of Canada’s digital research in health and genomics is relying on robust privacy and security safeguards. Data security has always been a concern for human genomics research, and since its progressive but intensive usage of the Canadian DRI infrastructure, different levels of pressure have been put on us, Alliance members, to make our infrastructure secure. 
+            </p> 
+            <p> 
+              Achieving robust security for human health projects is no longer a distant goal. New requirements, like the recent update to the NIH Genomic Data Sharing Policy, have made it a priority for research groups previously less concerned with this aspect. The old approach of neglecting security demands is not viable for many new research projects. 
+             </p> 
+             <p>
+              SD4H is based on an OpenStack cloud infrastructure managed jointly by McGill's Canadian Center for Computational Genomics (C3G) and Calcul Québec. Advanced Research Computing, Research Data Management, and Research Software services are developed and deployed on this infrastructure, providing privacy and security for its users. 
             </p>
           </details> 
       </div>
@@ -659,7 +666,7 @@ translationKey: "program"
             Darren Boss, Senior Research Computing Analyst, University of Victoria  
           </p>
           <p>
-            Session details coming soon
+            CILogon is used to simplify access to platforms via the EduGain identity federation. It enables easy user authentication and sharing of enriched identity data across multiple applications. CILogon is already being used in platforms like DMP Assistant, and the Cloud Connect pilot with more platform integrations in the planning phase. 
           </p>
         </details>   
       </div>
@@ -677,7 +684,7 @@ translationKey: "program"
             Ryan McRonald, Cybersecurity Manager, UVic / Arbutus Site 
           </p>
           <p>
-            Session details coming soon
+            APIs are the backbone of modern applications enabling integration and communication between systems.  However, with great connectivity comes great responsibility.  This technical talk will delve into API security, exploring the risks exposed via APIs, the best practices for securing APIs, and how to implement API security measures based on work to secure our community cloud APIs.  Join us to learn how to fortify your APIs against common threats. 
           </p>
         </details>   
       </div>
@@ -695,7 +702,7 @@ translationKey: "program"
             Victoria Smith, Data Governance & Ethics Lead, Digital Research Alliance of Canada 
           </p>
           <p>
-            Session details coming soon
+            This presentation will provide a brief overview of the Controlled Access Management (CAM) for Research Data Initiative, including outputs from Phase 1, and current and planned work. Applying the principles of open science in the context of sensitive and restricted access research involve challenges on different levels. 
           </p>
         </details>   
       </div>
@@ -722,7 +729,7 @@ translationKey: "program"
             <p>
               Lydia Vermeyden, Director for the development of new research services, Calcul Québec
             <p>
-              Session details coming soon
+              2025 is the international year for quantum science and technology, marking 100 years since the first official publication of quantum mechanics. At Calcul Québec we are celebrating with the launch of our quantum services on MonarQ, our 24 qubit quantum computer. But what is quantum computing, and is it really that different from managing the classical systems, software and data that we know and love? What happens if classical and quantum systems are connected together? We will be discussing these questions while sharing our extraordinary journey of launching quantum computing services at Calcul Québec, and the amazing team that has made it possible. After all, successfully facilitating the research of tomorrow is not just about the latest technology, it's about the people that make it happen.  
             </p>
           </details> 
       </div>
@@ -738,7 +745,7 @@ translationKey: "program"
             <p>
               Samuel Richard & Felix-Gabriel Boucher-Luneau, Calcul Québec
             <p>
-              Session details coming soon
+              Come hear the details of the Arbutus Cloud renewal, the exciting capabilities it's bringing forward, and an exploration of how the rapidly-changing global landscape has put a sudden spotlight on technology autonomy at every level.
             </p>
           </details> 
       </div>
@@ -773,7 +780,7 @@ translationKey: "program"
             Jeff Albert, Manager and Architect, Advanced Research Computing Infrastructure, University of Victoria
           </p>
           <p>
-            Session details coming soon
+            Come hear the details of the Arbutus Cloud renewal, the exciting capabilities it's bringing forward, and an exploration of how the rapidly-changing global landscape has put a sudden spotlight on technology autonomy at every level. 
           </p>
         </details>   
       </div>
@@ -791,7 +798,7 @@ translationKey: "program"
             Pawel Pomorski, HPC analyst, lead of Accelerators Working Group, Sharcnet 
           </p>
           <p>
-            Session details coming soon
+            The Alliance has just experienced a generational jump in the capabilities of its accelerator hardware, with hundreds of NVIDIA H100 GPUs and some MI300A APUs newly available. This session will discuss the impact of these changes and what we might expect in new accelerator hardware in the coming years. 
           </p>
         </details>   
       </div>
@@ -818,7 +825,7 @@ translationKey: "program"
             <p>
               Carol Gauthier, Project Manager / Developper, Université de Sherbrooke / Calcul Québec
             <p>
-              Session details coming soon
+             This talk will present the platform UseGalaxy.ca, the Canadian branch of the international UseGalaxy initiative, based on the open source Galaxy platform. We will provide an overview of its components, including the integration with the Alliance Cloud Connect Pilot project, as well as usage statistics and roadmap. 
             </p>
           </details> 
       </div>
@@ -834,7 +841,7 @@ translationKey: "program"
             <p>
               Bryan Caron, Director, Operations and Development (CBRAIN and NeuroHub) and Co-PI of NeuroHub, McGill University
             <p>
-              Session details coming soon
+              CBRAIN is an open-source, research platform that enables scientists to perform large-scale data analyses using advanced scientific tools through an intuitive web interface. With over 2,000 users across 193 locations in 59 countries, CBRAIN connects researchers in neuroinformatics, genomics, and beyond to distributed computing and data resources. 
             </p>
           </details> 
       </div>
@@ -868,7 +875,7 @@ translationKey: "program"
             Grigory Shamov, Site Lead / HPC Specialist, University of Manitoba; James Willis, Scientific Applications Analyst, SciNet 
           </p>
           <p>
-            Session details coming soon
+            In this talk, we will introduce Open OnDemand, a web-based interface designed to provide easy access to High-Performance Computing (HPC) resources. Terminal-based interfaces can be challenging for new users with limited experience, resulting in a steep learning curve. Open OnDemand aims to make HPC more accessible by offering an intuitive graphical interface that simplifies the process of submitting, monitoring and managing jobs. We will explore the key features of Open OnDemand, including web-based access, job management, file management and support for interactive applications like Jupyter Notebooks, RStudio, and VS Code. Additionally, we will demonstrate the SciNet and Grex Open OnDemand portal and discuss their deployment and use cases. 
           </p>
         </details>   
       </div>
@@ -886,7 +893,7 @@ translationKey: "program"
             Shaun Bathgate, Senior Advanced Research Computing Systems Administrator, University of Victoria 
           </p>
           <p>
-            Session details coming soon
+            This session introduces GitOps as a structured, version-controlled approach to Kubernetes management. By comparing imperative scripts with ArgoCD-driven workflows, attendees will learn how declarative infrastructure, automated sync, and secure secret handling simplify operations and improve stability across single or multi-cluster research environments. 
           </p>
         </details>   
       </div>
