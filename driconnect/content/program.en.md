@@ -102,7 +102,7 @@ translationKey: "program"
             Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Kathryn Unsworth, Manager, Skilled Workforce Development, Australian Research Data Commons
           </p>
           <p>
-            Session details coming soon
+            This presentation explores the staff exchange between the Alliance and the Australian Research Data Commons. We’ll provide an overview of both organizations, share priorities and insights from the first exchange, highlight progress to date, and outline plans to deepen international collaboration in DRI training and workforce development in both jurisdictions. 
           </p>
         </details> 
       </div>
@@ -119,7 +119,7 @@ translationKey: "program"
             Ines Hessler, CTO, ACENET 
           </p>
           <p>
-            Session details coming soon
+            Over the past decade, training has become an increasingly important part of our mission, with demand continuing to grow. To enhance our offerings and better leverage the data we collect, we launched a pilot project aimed at streamlining and standardizing training data collection and reporting processes. Since we don’t yet have full confidence in which metrics will best meet the Alliance’s national reporting needs, this project also includes a collaborative component to align our approach with broader Federation expectations. 
           </p>
         </details> 
       </div>
@@ -136,7 +136,7 @@ translationKey: "program"
               Sergey Mashchenko, High Performance Computing Technical Consultant, SHARCNET 
             </p>
             <p>
-              Session details coming soon
+              In this presentation, we will discuss pros and cons of requiring users to go through a certification procedure. This can be a good way to force users to get some basic training, reducing a waste of the computing and staff resources. 
             </p>
           </details> 
         </div>
@@ -153,7 +153,7 @@ translationKey: "program"
               Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Ramses van Zon, HPC Systems Analyst, SciNet/ Chair, National Training Coordination Council; Chris Want, Programmer/Analyst, University of Alberta 
             </p>
             <p>
-              Session details coming soon
+              This presentation will cover the development of Explora, the National Training Discovery Portal, focusing on phase one: a centralized platform for the discovery of national DRI training events. We will demo Explora, discuss the need for wider access to training, development challenges, and invite community feedback to shape future versions. 
             </p>
           </details> 
         </div>
@@ -186,7 +186,7 @@ translationKey: "program"
             <p>
               Roman Baranowski, DRI Software Architect, ARC UBC
             <p>
-              Session details coming soon
+              In this talk /panel discussion I/we would like to talk/discuss about the architectural differences between AI and 'typical' HPC based workflows and try to address the challenges we are facing and find a path forward.  We as an Alliance Community have to be ready .... so let's talk.... 
             </p>
           </details> 
       </div>
@@ -202,7 +202,7 @@ translationKey: "program"
               Shaun Bathgate, Senior Advanced Research Computing Systems Administrator, University of Victoria 
             </p>
             <p>
-              Session details coming soon
+              Kubernetes supports interactive services, microservice architectures, and ephemeral workloads. This talk shows how it complements traditional HPC by expanding workload types and improving deployment flexibility, while preserving the strengths of HPC in batch scheduling and computational throughput across research institutions. 
             </p>
           </details> 
       </div>
@@ -219,7 +219,7 @@ translationKey: "program"
             Alex Razoumov, Research Solutions Lead, Research Computing, Simon Fraser University 
           </p>
           <p>
-            Session details coming soon
+            Since 2017, our parallel programming training has shifted from MPI/OpenMP to higher-level languages like Chapel, Julia, and Python. These courses cover parallelism across cores, nodes, and GPUs, offering scalable, easy-to-learn solutions for novice users -- without sacrificing the performance of traditional HPC frameworks. 
           </p>
         </details>   
       </div>
@@ -237,7 +237,7 @@ translationKey: "program"
             Alex Razoumov, Research Solutions Lead, Research Computing, Simon Fraser University
           </p>
           <p>
-            Session details coming soon
+            In our research computing webinars we have covered numerous tools that enhance simulation and data management workflows. This talk highlights four standout HPC+RDM tools: in-situ visualization, lossy 3D compression, distributed dataset storage with git-annex, and DAR (Disk ARchiver). 
           </p>
         </details>   
       </div>
@@ -265,7 +265,7 @@ translationKey: "program"
               Marie-Helene Burle, Research Solutions Specialist, Simon Fraser University  
             </p>
             <p>
-              Session details coming soon
+              The Alliance has two important audiences: stake holders and researchers. Stake holders because without money nothing can be done; researchers because without them what’s the point? While communication to stake holders is mature, communication to the research community is lacking. I invite you to a roundtable to discuss this. 
             </p>
           </details> 
       </div>
@@ -299,7 +299,7 @@ translationKey: "program"
             Moïra Dion, Analyst, Calcul Québec; Hélène Gingras, Analyst, Calcul Québec  
           </p>
           <p>
-            Session details coming soon
+            This talk explores resource waste in the Alliance ecosystem, focusing on Narval’s CPU, GPU, and memory inefficiencies. A three-month project identified 125 over-consumers, estimated waste costs at $88,605, and implemented improvements like educational resources and streamlined workflows to enhance resource utilization and user engagement. 
           </p>
         </details>   
       </div>
@@ -379,7 +379,7 @@ translationKey: "program"
             Marcus Closen, Product Lead, Data Management Planning, Digital Research Alliance of Canada 
           </p>
           <p>
-            Session details coming soon
+            DMP Assistant is the Canadian solution for data management planning. It provides a national, bi-lingual platform for Canadian researchers. This presentation considers the past, present, and future of DMP in the Canada and the potential of greater collaboration between platforms like DMP Assistant and other DRI assets in the space. 
           </p>
         </details>   
       </div>
@@ -397,7 +397,7 @@ translationKey: "program"
             Danica Evering, Research Data Management Specialist, McMaster University and Richie Motorgeanu, Learning Resource Development Assistant, Sherman Centre for Digital Scholarship, McMaster University 
           </p>
           <p>
-            Session details coming soon
+            More researchers than ever are accessing digital research infrastructure and services: Advanced Research Computing, Research Data Management, and Research Software Development. Using our newly developed README Creator tool as a case study, this interactive talk explores the challenges and benefits of adapting open-source software as a multidisciplinary team of research support staff and students. We’ll end with a group discussion about researcher needs which could be addressed through open-source tools, training, or documentation and how we can collaborate across pillars while providing hands-on learning opportunities for future professionals. 
           </p>
         </details>   
       </div>
@@ -423,7 +423,7 @@ translationKey: "program"
             Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. RDM, Digital Research Alliance of Canada
           </p>
           <p>
-            Session details coming soon
+            The AMA (Ask Me Anything) style interactive session about research data management (RDM) practices and services will facilitate discussion, dispel myths about RDM practices, and foster mutual understanding between colleagues. The goal is to create greater connection and understanding between the different functional areas of the DRI ecosystem, to identify avenues for collaboration between RDM and other areas, and to understand gaps in knowledge that need further investigation. 
           </p>
         </details>   
       </div>
@@ -441,7 +441,7 @@ translationKey: "program"
             Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada
           </p>
           <p>
-            Session details coming soon
+            Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data. 
           </p>
         </details>   
       </div>
@@ -459,7 +459,7 @@ translationKey: "program"
             Anneliese Eber, Research Data Management Librarian, University of Waterloo; Jennifer Abel, Research Data Management Librarian, University of Calgary; Michael Steeleworthy, Research Data Management Librarian, Wilfrid Laurier University 
           </p>
           <p>
-            Session details coming soon
+            During a nationwide workshop at the University of Waterloo, participants from libraries, research offices, and IT departments engaged in dynamic discussion sharing strategies and challenges to strengthen the digital research infrastructure community. This session will highlight key actionable recommendations from the workshop and foster discussion to continue this collaborative work. 
           </p>
         </details>   
       </div>
@@ -477,7 +477,7 @@ translationKey: "program"
             Jennifer Abel, Research Data Management Librarian, University of Calgary 
           </p>
           <p>
-            Session details coming soon
+            RDM Jumpstart is a free national program which introduces attendees to best practices in RDM using common tools to support research transparency and reproducibility. The pilot offering was held in May 2025. We will explore the motivations behind the program and how it works, as well as sharing preliminary feedback. 
           </p>
         </details>   
       </div>
@@ -495,7 +495,7 @@ translationKey: "program"
             Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
           </p>
           <p>
-            Session details coming soon
+            Understanding file formats is one of the first steps in determining preservation capabilities and risk to long-term access. However, digital preservation identification tools fail to identify many file formats associated with research data creating a barrier to an important initial step in the preservation process. This presentation will describe the ongoing work undertaken by the digital preservation team to develop file format signatures to help identify file formats found in the Federated Research Data Repository (FRDR). It also seeks to solicit feedback from the broader DRI community on other possible approaches to file format identification work.
           </p>
         </details>   
       </div>
