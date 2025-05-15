@@ -80,6 +80,18 @@ translationKey: "program"
           <p>
             Dr. Sidney Shapiro, Business Analytics Professor and AI Researcher at the University of Lethbridge
           </p>
+          <p>
+          Artificial intelligence (and more recently, Generative AI) is rapidly transforming research across disciplines in Canada—shaping how studies are designed, how data is analyzed, and how knowledge is produced. This evolution is bringing about fundamental changes to research workflows, methods, and infrastructure. At the same time, it raises critical questions about how public research institutions can engage with AI meaningfully and sustainably, particularly in the context of growing disparities in digital research capacity.
+          </p>
+          <p>
+          This keynote will examine the current and emerging role of AI in Canadian research, with a focus on infrastructure challenges and strategic considerations. While private industry has advanced rapidly in developing generative AI technologies using vast computational resources, academic institutions face structural limitations that affect their ability to keep pace. Limited access to high-performance computing, specialized engineering expertise, and integrated systems continues to restrict what public institutions can build, implement, or study. As generative AI becomes both a method for research and a subject of research itself, the question becomes: what infrastructure and strategy are needed to support this work in the academic context?
+         </p>
+         <p> 
+         The talk will highlight how AI is being used as a research tool to support discovery, enhance analysis, and enable new forms of scholarly communication. It will also address the increasing significance of generative AI as an object of research, with active inquiry taking place across domains such as ethics, linguistics, education, and computational science. This dual role presents a set of unique challenges for research planning, funding, and institutional coordination.
+         </p>
+         <p>
+         Key issues to be addressed include uneven access to advanced computing infrastructure, gaps in workforce readiness, and the growing need for national coordination around shared resources such as compute, data, and software. The session will also explore how institutional and policy frameworks can support responsible AI adoption, with attention to governance, training, and ethical oversight. The keynote will conclude by outlining strategic priorities for building sustainable AI capacity in Canada's research ecosystem. These priorities extend beyond technical infrastructure to include talent development, interdisciplinary collaboration, and investment models that reflect both the promise and the complexity of AI in research.
+          </p>
          </details> 
        </div>
     </div>
@@ -551,9 +563,10 @@ translationKey: "program"
             Dr. Guillaume Bourque, Professor in the Department of Human Genetics and Director of Bioinformatics at the McGill Genome Center. Board Director, Digital Research Alliance of Canada.
           </p>
           <p>
-            <p>
             <a href="https://alliancecan.ca/en/about/board-directors/guillaume-bourque" target="_blank">Link to bio</a> 
           </p>
+          <p>
+          High-throughput technologies are transforming biomedical research by enabling the detailed characterization of individual genomes and cellular molecular processes at unprecedented resolution. When paired with advances in machine learning and artificial intelligence, these technologies hold immense promise for driving innovation in health sciences and improving healthcare outcomes. However, realizing this potential requires overcoming significant challenges in data management, software infrastructure, and computational resources. Here, I will present key initiatives addressing some of these challenges. The Global Alliance for Genomics and Health (GA4GH)—a not-for-profit alliance of over 500 organizations—is developing technical standards, policy frameworks, and tools to promote the responsible, voluntary, and secure use of genomic and related health data worldwide. I will also present SecureData4Health, a secure cloud-based infrastructure designed to support the analysis and sharing of genomic and health data. It builds on existing capabilities in Ontario through HPC4Health and adds a new compute node in Québec to enhance national capacity. Finally, I will introduce the Pan-Canadian Genome Library (PCGL), a landmark initiative unifying Canada’s human genome sequencing effort. PCGL establishes a centralized, federated data management system aligned with international standards and respectful of jurisdictional and cultural constraints around human genetic data. It supports both retrospective and new projects, ensuring long-term archival, accessibility, and integration of genomic, clinical, and phenotypic data. Together, these efforts lay the foundation for a robust, secure, and collaborative ecosystem that will accelerate genomic research and improve health outcomes across Canada and beyond.
           </p>
         </details>   
       </div>

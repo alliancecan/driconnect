@@ -74,8 +74,17 @@ translationKey: "program"
           <p>
             Dr. Sidney Shapiro
           </p>
+           <p>
+         L’intelligence artificielle (IA) (et plus récemment l’IA générative) transforme rapidement la recherche dans toutes les disciplines au Canada — elle influence la façon de concevoir les études, d’analyser les données et de produire des connaissances. Cette évolution entraîne des changements fondamentaux dans les flux de travail, ainsi que dans les méthodes et l’infrastructure de la recherche. En revanche, elle soulève des questions essentielles sur la manière dont les instituts de recherche publics peuvent exploiter l’IA de manière significative et durable, surtout dans un contexte où les disparités en matière de capacité de recherche numérique sont de plus en plus marquées.
+          </p>
           <p>
-            Détails des sessions à venir
+          Ce discours-programme examinera le rôle actuel et émergent de l’IA dans la recherche canadienne, en mettant l’accent sur les défis en matière d’infrastructure et les considérations stratégiques. Les industries privées ont progressé rapidement dans le développement de technologies d’IA générative en utilisant de vastes ressources informatiques, cependant, les institutions académiques sont confrontées à des limites structurelles qui les empêchent de suivre ces évolutions. L’accès limité au calcul de haute performance, à l’expertise en ingénierie spécialisée et aux systèmes intégrés continue de restreindre ce que les institutions publiques peuvent construire, mettre en œuvre ou étudier. L’IA générative devenant à la fois une méthode de recherche et un sujet de recherche en soi, la question qui se pose est la suivante : quelle infrastructure et quelle stratégie sont nécessaires pour soutenir ce travail en milieu universitaire ?
+         </p>
+         <p> 
+         La conférence portera sur les utilisations de l’IA en tant qu’outil de recherche pour soutenir la découverte, améliorer l’analyse et favoriser l’émergence de nouvelles formes de communication scientifique. Elle se penchera également sur l’importance croissante de l’IA générative en tant qu’objet de recherche, alors que des investigations se déroulent activement dans des domaines tels que l’éthique, la linguistique, l’éducation et la science informatique. Ce caractère bifurqué de l’IA présente une série de défis uniques en matière de planification et de financement de la recherche, ainsi que de la coordination institutionnelle.
+         </p>
+         <p>
+         Parmi les questions clés à résoudre, citons l’accès inéquitable aux ressources de l’infrastructure de calcul informatique de pointe, les lacunes en matière de développement de la main-d’œuvre, et la nécessité croissante d’une coordination nationale autour des ressources partagées, telles que les ressources de calcul, les données et les logiciels. La séance se penchera également sur la manière dont les cadres et politiques et institutionnels peuvent favoriser l’adoption responsable de l’IA, en s’attardant particulièrement sur la gouvernance, la formation et la surveillance éthique. Nous clôturerons le discours-programme en soulignant les priorités stratégiques pour le développement d’une capacité d’IA durable dans l’écosystème de recherche du Canada — des priorités qui ne se limitent pas au seul enjeu d’infrastructure technique, mais auquel s’ajoutent le développement des compétences, la collaboration interdisciplinaire et la mise en place de modèles d’investissement qui reflètent à la fois les promesses et la complexité inhérentes à l’IA en matière de recherche.
           </p>
          </details> 
        </div>
@@ -545,10 +554,11 @@ translationKey: "program"
             Dr. Guillaume Bourque, Professeur au Département de Génétique Humaine et Directeur de la Bioinformatique au Centre de Génomique de McGill. Membre du Conseil d’Administration de l’Alliance de Recherche Numérique du Canada.
           </p>
           <p>
-            <p>
             <a href="https://alliancecan.ca/en/about/board-directors/guillaume-bourque" target="_blank">lien vers la bio</a> 
           </p>
-          </p>
+         <p>
+         Les technologies à haut débit sont en passe de transformer la recherche biomédicale en permettant la caractérisation détaillée des génomes individuels et des processus moléculaires cellulaires à une résolution jusque-là inégalée. Associées aux progrès de l’apprentissage machine et de l’intelligence artificielle, ces technologies sont extrêmement prometteuses pour ce qui est de leur capacité à dynamiser l’innovation dans les sciences de la santé et à améliorer les résultats en matière de soins de santé. Cependant, pour que ce potentiel se concrétise, il faut relever des défis importants en matière de gestion des données, d’infrastructure logicielle et de ressources informatiques. Je présenterai ici des initiatives clés visant à relever certains de ces défis. L’Alliance mondiale pour la génomique et la santé (GA4GH) — une alliance sans but lucratif regroupant plus de 500 organisations — élabore actuellement des normes techniques, des cadres politiques et des outils visant à promouvoir l’utilisation responsable, volontaire et sécurisée des données génomiques et des données de santé connexes à l’échelle mondiale. Je présenterai également SecureData4Health, une infrastructure infonuagique sécurisée conçue pour soutenir l’analyse et le partage des données génomiques et de santé. Celle-ci s’appuie sur des capacités existantes en Ontario par l’intermédiaire de HPC4 (High-Performance Computing for Healthcare ) et ajoute un nouveau nœud de calcul au Québec afin de renforcer la capacité nationale. Enfin, je présenterai la Bibliothèque pancanadienne de génomique (PCGL), une initiative historique qui unifie les efforts de séquençage du génome humain au Canada. La PCGL met en place un système de gestion des données centralisé et fédéré, conforme aux normes internationales et respectueux des exigences juridictionnelles et culturelles en matière de données génétiques humaines. Elle soutient aussi bien de nouveaux projets que des projets rétrospectifs, en garantissant l’archivage, l’accessibilité et l’intégration à long terme des données génomiques, cliniques et phénotypiques. Ensemble, ces efforts permettent de jeter les bases d’un écosystème solide, sécurisé et collaboratif devant favoriser l’accélération de la recherche en génomique et de meilleurs résultats en matière de santé au Canada et dans le monde.
+         </p>
         </details>   
       </div>
     </div>
