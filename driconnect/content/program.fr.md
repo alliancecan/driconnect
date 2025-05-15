@@ -93,13 +93,13 @@ translationKey: "program"
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
-          <summary class="h6">SRenforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
+          <summary class="h6">Renforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
           </summary>
           <p>
             Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada; Kathryn Unsworth, Manager, Skilled Workforce Development, Australian Research Data Commons 
           </p>
           <p>
-            Détails des sessions à venir
+            Cette présentation traite des échanges entre les employés de l’Alliance et de l’Australian Research Data Commons. Elle comprend un survol des deux organisations, les priorités et les constats du premier échange, les progrès effectués jusqu’à maintenant ainsi que les plans pour renforcer la collaboration internationale pour la formation et le développement de la main-d’œuvre en IRN dans les deux régions. 
           </p>
         </details> 
       </div>
@@ -116,7 +116,7 @@ translationKey: "program"
             Ines Hessler, Dirigeante principale de la Technologie, ACENET
           </p>
           <p>
-            Détails des sessions à venir
+            Au cours de la dernière décennie, la formation est devenue une partie de plus en plus importante de notre mission, et la demande continue de croître. Pour bonifier nos offres et mieux utiliser les données recueillies, nous avons lancé un projet pilote visant à simplifier et à normaliser les processus de collecte des données et de présentation de rapports. Comme nous ne savons pas encore avec certitude quels indicateurs répondront le mieux aux besoins de l’Alliance pour la présentation de rapports à l’échelle nationale, le projet comprend également un volet collaboratif pour harmoniser notre approche aux attentes de l’ensemble de la Fédération.
           </p>
         </details> 
       </div>
@@ -132,7 +132,7 @@ translationKey: "program"
             <p>
               Sergey Mashchenko, Analyste CHP, SHARCNET
             <p>
-              Détails des sessions à venir 
+              Dans cette présentation, nous discuterons des avantages et des inconvénients d’obliger les utilisateurs et utilisatrices à obtenir une certification. Ce peut être une bonne façon de leur donner une formation de base, ce qui réduit le gaspillage de personnel et de ressources de calcul. 
             </p>
           </details> 
         </div>
@@ -149,7 +149,7 @@ translationKey: "program"
               Ramses van Zon, Analyste Systèmes HPC, SciNet/ Président, National Training Coordination Council; Chris Want, Programmenu/Analyste, University of Alberta; Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada
             </p>
             <p>
-              Détails des sessions à venir 
+              Cette présentation abordera le développement du portail national Explora, particulièrement dans sa première phase : une plateforme centralisée pour la découverte d’événements nationaux de formation sur l’IRN. Nous ferons une démonstration d’Explora, discuterons de la nécessité d’un meilleur accès à la formation, présenterons les défis relatifs au développement et solliciterons les commentaires de la communauté pour façonner les versions ultérieures. 
             </p>
           </details> 
         </div>
@@ -182,7 +182,7 @@ translationKey: "program"
             <p>
               Roman Baranowski, Architecte logiciel IRN, ARC UBC
             <p>
-              Détails des sessions à venir
+              Lors de cette table ronde, nous discuterons des différences entre les processus utilisant l’IA et ceux du CHP typique et aborderons les défis à relever afin de tracer une voie à suivre. La communauté de l’Alliance doit être prête; lançons donc la discussion! 
             </p>
           </details> 
       </div>
@@ -198,7 +198,7 @@ translationKey: "program"
             <p>
               Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
             <p>
-              Détails des sessions à venir
+              Kubernetes prend en charge les services interactifs, les architectures de microservices et les tâches éphémères. Cette présentation montre comment il complète le CHP conventionnel en élargissant les types de tâches et en améliorant la flexibilité du déploiement, tout en conservant les avantages du CHP en matière d’ordonnancement en lots et de capacité de calcul pour les établissements de recherche. 
             </p>
           </details> 
       </div>
@@ -215,7 +215,7 @@ translationKey: "program"
             Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
           </p>
           <p>
-            Détails des sessions à venir
+            Depuis 2017, notre formation sur la programmation parallèle a évolué pour passer de MPI et OpenMP à des langages de haut niveau comme Chapel, Julia et Python. Ces cours portent sur le parallélisme sur les cœurs, les nœuds et les processeurs graphiques et offrent des solutions évolutives et faciles à apprendre pour les utilisatrices et utilisateurs novices, sans sacrifier la performance des cadres traditionnels de CHP. 
           </p>
         </details>   
       </div>
@@ -233,7 +233,7 @@ translationKey: "program"
             Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
           </p>
           <p>
-            Détails des sessions à venir
+            Nos webinaires sur le calcul informatique ont porté sur nombre d’outils qui optimisent les processus de simulation et de gestion des données. Cet exposé présente quatre outils de CHP et de GDR qui sortent du lot : la visualisation in-situ, la compression de données 3D avec perte, le stockage distribué de jeux de données avec git-annex et DAR (Disk ARchive). 
           </p>
         </details>   
       </div>
@@ -261,7 +261,7 @@ translationKey: "program"
               Marie-Hélène Burle, Spécialiste en solutions de recherche, Université Simon Fraser
             </p>
             <p>
-              Détails des sessions à venir
+              L’Alliance a deux publics importants : les parties prenantes et les chercheuses et chercheurs. Les premières fournissent le financement, et les seconds, l’expertise. Or, si la communication avec les parties prenantes se passe fort bien, on ne peut pas en dire autant des échanges avec la communauté de recherche. Je vous invite à une table ronde pour en discuter. 
             </p>
           </details> 
       </div>
@@ -295,7 +295,7 @@ translationKey: "program"
             Moïra Dion, Analyste, Calcul Québec; Hélène Gingras, Analyste, Calcul Québec   
           </p>
           <p>
-            Détails des sessions à venir
+            Cette présentation porte sur le gaspillage de ressources dans l’écosystème de l’Alliance, en particulier sur les inefficacités des CPU, des GPU et de la mémoire de Narval. Un projet de trois mois a répertorié 125 éléments trop gourmands, établi le coût du gaspillage à 88 605 $, et apporté des améliorations comme des ressources éducatives et des processus simplifiés pour optimiser l’utilisation des ressources et la mobilisation des utilisatrices et utilisateurs. 
           </p>
         </details>   
       </div>
@@ -375,7 +375,7 @@ translationKey: "program"
             Marcus Closen, Responsable de produits, planification de la gestion des données, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir
+            L’Assistant PGD, la solution canadienne de planification de la gestion des données, offre une plateforme nationale bilingue aux chercheuses et chercheurs du Canada. Cette présentation examine le passé, le présent et l’avenir des PGD au Canada et le potentiel de collaboration accrue entre des plateformes comme l’Assistant PGD et les autres ressources de l’IRN. 
           </p>
         </details>   
       </div>
@@ -393,7 +393,7 @@ translationKey: "program"
             Danica Evering, Spécialiste de la gestion des données de recherche, McMaster; Richie Motorgeanu, assistant au développement des ressources d'apprentissage, Sherman Centre for Digital Scholarship, McMaster
           </p>
           <p>
-           Détails des sessions à venir
+           Plus de chercheuses et chercheurs que jamais utilisent l’infrastructure de recherche numérique et les services de calcul informatique de pointe, de gestion des données de recherche et de développement de logiciels de recherche. En prenant pour exemple notre nouvel outil, README Creator, nous explorerons dans cette discussion interactive les défis et les avantages de l’adaptation de logiciels ouverts par une équipe multidisciplinaire de personnel de soutien à la recherche et d’étudiantes et étudiants. Nous terminerons avec une discussion de groupe sur les besoins des chercheuses et chercheurs, besoins auxquels nous pourrions répondre à l’aide d’outils ouverts, de formations ou de documents, ainsi que sur la façon de collaborer entre les piliers tout en offrant des occasions d’apprentissage pratique aux futurs professionnelles et professionnels. 
           </p>
         </details>   
       </div>
@@ -419,7 +419,7 @@ translationKey: "program"
             Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. GDR, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            La séance interactive de style AMA (Ask Me Anything : toutes les questions sont permises) sur les pratiques et les services de gestion des données de recherche (GDR) stimulera la discussion, dissipera les mythes sur les pratiques de GDR et favorisera la compréhension entre collègues. L’objectif est de renforcer les liens et d’améliorer la compréhension entre les différents domaines fonctionnels de l’écosystème de l’IRN afin de trouver des avenues de collaboration entre la GDR et les autres domaines et de cerner les lacunes en matière de connaissances qui méritent un examen plus approfondi. 
           </p>
         </details>   
       </div>
@@ -437,7 +437,7 @@ translationKey: "program"
             Natalie Williams, Responsable, services de curation, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            Des représentantes et représentants de l’équipe de service du DFDR discuteront des façons dont les activités de conservation et de préservation préviennent certains problèmes courants dans la réutilisation des données, ce qui prolonge la durée de vie utile des données de recherche. 
         </details>   
       </div>
     </div>
@@ -454,7 +454,7 @@ translationKey: "program"
             Anneliese Eber, University of Waterloo; Jennifer Abel, University of Calgary; Michael Steeleworthy, Wilfrid Laurier University
           </p>
           <p>
-            Détails des sessions à venir 
+            Au cours d’un atelier national à l’Université de Waterloo, des participantes et participants de bibliothèques, de bureaux de recherche et de services informatiques ont pris part à une discussion animée sur les stratégies de renforcement de la communauté de l’infrastructure de recherche numérique et les défis qui y sont associés. Cette séance présentera les principales recommandations concrètes de l’atelier et encouragera la discussion pour la poursuite de ces efforts collaboratifs.  
           </p>
         </details>   
       </div>
@@ -472,7 +472,7 @@ translationKey: "program"
             Jennifer Abel, Bibliothécaire responsable de la gestion des données de recherche, Université de Calgary/Groupe national d’experts en formation
           </p>
           <p>
-            Détails des sessions à venir 
+            RDM Jumpstart est un programme national gratuit qui explore les pratiques exemplaires de GDR et présente des outils courants qui favorisent la transparence et la reproductibilité de la recherche. L’édition pilote a eu lieu en mai 2025. Nous explorerons les motivations et le fonctionnement du programme ainsi que les premiers commentaires recueillis. 
           </p>
         </details>   
       </div>
@@ -490,7 +490,7 @@ translationKey: "program"
             Amanda Tomé, coordonnatrice de la préservation, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            Pour évaluer les capacités de préservation et les risques de l’accessibilité à long terme, il faut bien comprendre les formats de fichier. Or, les outils d’identification pour la préservation numérique échouent à reconnaître plusieurs formats de fichier associés aux données de recherche, ce qui entrave une importante étape initiale du processus de préservation. Cette présentation décrira les travaux de l’équipe de préservation numérique, qui développe des signatures de formats de fichier pour aider à l’identification des formats utilisés dans le Dépôt fédéré de données de recherche (DFDR). Nous souhaitons également recevoir des commentaires de l’ensemble de la communauté de l’IRN sur d’autres approches potentielles pour l’identification des formats de fichier. 
           </p>
         </details>   
       </div>
