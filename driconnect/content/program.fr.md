@@ -955,7 +955,7 @@ translationKey: "program"
     </div>
   </div>
 </details>
-
+<hr />
 Les descriptions détaillées sont disponibles <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">ici</a> dans la langue dans laquelle elles ont été soumises.
 
 <!--
