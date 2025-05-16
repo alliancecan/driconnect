@@ -966,6 +966,8 @@ translationKey: "program"
   </div>
 </details>
 
+The detailed descriptions are available <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">here</a>  in the language they were provided.
+
 <!--
 
 ### Spring Digital Research Infrastructure Connect
