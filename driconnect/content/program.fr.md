@@ -74,8 +74,17 @@ translationKey: "program"
           <p>
             Dr. Sidney Shapiro
           </p>
+           <p>
+         L’intelligence artificielle (IA) (et plus récemment l’IA générative) transforme rapidement la recherche dans toutes les disciplines au Canada — elle influence la façon de concevoir les études, d’analyser les données et de produire des connaissances. Cette évolution entraîne des changements fondamentaux dans les flux de travail, ainsi que dans les méthodes et l’infrastructure de la recherche. En revanche, elle soulève des questions essentielles sur la manière dont les instituts de recherche publics peuvent exploiter l’IA de manière significative et durable, surtout dans un contexte où les disparités en matière de capacité de recherche numérique sont de plus en plus marquées.
+          </p>
           <p>
-            Détails des sessions à venir
+          Ce discours-programme examinera le rôle actuel et émergent de l’IA dans la recherche canadienne, en mettant l’accent sur les défis en matière d’infrastructure et les considérations stratégiques. Les industries privées ont progressé rapidement dans le développement de technologies d’IA générative en utilisant de vastes ressources informatiques, cependant, les institutions académiques sont confrontées à des limites structurelles qui les empêchent de suivre ces évolutions. L’accès limité au calcul de haute performance, à l’expertise en ingénierie spécialisée et aux systèmes intégrés continue de restreindre ce que les institutions publiques peuvent construire, mettre en œuvre ou étudier. L’IA générative devenant à la fois une méthode de recherche et un sujet de recherche en soi, la question qui se pose est la suivante : quelle infrastructure et quelle stratégie sont nécessaires pour soutenir ce travail en milieu universitaire ?
+         </p>
+         <p> 
+         La conférence portera sur les utilisations de l’IA en tant qu’outil de recherche pour soutenir la découverte, améliorer l’analyse et favoriser l’émergence de nouvelles formes de communication scientifique. Elle se penchera également sur l’importance croissante de l’IA générative en tant qu’objet de recherche, alors que des investigations se déroulent activement dans des domaines tels que l’éthique, la linguistique, l’éducation et la science informatique. Ce caractère bifurqué de l’IA présente une série de défis uniques en matière de planification et de financement de la recherche, ainsi que de la coordination institutionnelle.
+         </p>
+         <p>
+         Parmi les questions clés à résoudre, citons l’accès inéquitable aux ressources de l’infrastructure de calcul informatique de pointe, les lacunes en matière de développement de la main-d’œuvre, et la nécessité croissante d’une coordination nationale autour des ressources partagées, telles que les ressources de calcul, les données et les logiciels. La séance se penchera également sur la manière dont les cadres et politiques et institutionnels peuvent favoriser l’adoption responsable de l’IA, en s’attardant particulièrement sur la gouvernance, la formation et la surveillance éthique. Nous clôturerons le discours-programme en soulignant les priorités stratégiques pour le développement d’une capacité d’IA durable dans l’écosystème de recherche du Canada — des priorités qui ne se limitent pas au seul enjeu d’infrastructure technique, mais auquel s’ajoutent le développement des compétences, la collaboration interdisciplinaire et la mise en place de modèles d’investissement qui reflètent à la fois les promesses et la complexité inhérentes à l’IA en matière de recherche.
           </p>
          </details> 
        </div>
@@ -93,13 +102,13 @@ translationKey: "program"
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
-          <summary class="h6">SRenforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
+          <summary class="h6">Renforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
           </summary>
           <p>
             Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada; Kathryn Unsworth, Manager, Skilled Workforce Development, Australian Research Data Commons 
           </p>
           <p>
-            Détails des sessions à venir
+            Cette présentation traite des échanges entre les employés de l’Alliance et de l’Australian Research Data Commons. Elle comprend un survol des deux organisations, les priorités et les constats du premier échange, les progrès effectués jusqu’à maintenant ainsi que les plans pour renforcer la collaboration internationale pour la formation et le développement de la main-d’œuvre en IRN dans les deux régions. 
           </p>
         </details> 
       </div>
@@ -116,7 +125,7 @@ translationKey: "program"
             Ines Hessler, Dirigeante principale de la Technologie, ACENET
           </p>
           <p>
-            Détails des sessions à venir
+            Au cours de la dernière décennie, la formation est devenue une partie de plus en plus importante de notre mission, et la demande continue de croître. Pour bonifier nos offres et mieux utiliser les données recueillies, nous avons lancé un projet pilote visant à simplifier et à normaliser les processus de collecte des données et de présentation de rapports. Comme nous ne savons pas encore avec certitude quels indicateurs répondront le mieux aux besoins de l’Alliance pour la présentation de rapports à l’échelle nationale, le projet comprend également un volet collaboratif pour harmoniser notre approche aux attentes de l’ensemble de la Fédération.
           </p>
         </details> 
       </div>
@@ -132,7 +141,7 @@ translationKey: "program"
             <p>
               Sergey Mashchenko, Analyste CHP, SHARCNET
             <p>
-              Détails des sessions à venir 
+              Dans cette présentation, nous discuterons des avantages et des inconvénients d’obliger les utilisateurs et utilisatrices à obtenir une certification. Ce peut être une bonne façon de leur donner une formation de base, ce qui réduit le gaspillage de personnel et de ressources de calcul. 
             </p>
           </details> 
         </div>
@@ -149,7 +158,7 @@ translationKey: "program"
               Ramses van Zon, Analyste Systèmes HPC, SciNet/ Président, National Training Coordination Council; Chris Want, Programmenu/Analyste, University of Alberta; Catherine Di Vita, Coordonnatrice de la formation, Alliance de recherche numérique du Canada
             </p>
             <p>
-              Détails des sessions à venir 
+              Cette présentation abordera le développement du portail national Explora, particulièrement dans sa première phase : une plateforme centralisée pour la découverte d’événements nationaux de formation sur l’IRN. Nous ferons une démonstration d’Explora, discuterons de la nécessité d’un meilleur accès à la formation, présenterons les défis relatifs au développement et solliciterons les commentaires de la communauté pour façonner les versions ultérieures. 
             </p>
           </details> 
         </div>
@@ -182,7 +191,7 @@ translationKey: "program"
             <p>
               Roman Baranowski, Architecte logiciel IRN, ARC UBC
             <p>
-              Détails des sessions à venir
+              Lors de cette table ronde, nous discuterons des différences entre les processus utilisant l’IA et ceux du CHP typique et aborderons les défis à relever afin de tracer une voie à suivre. La communauté de l’Alliance doit être prête; lançons donc la discussion! 
             </p>
           </details> 
       </div>
@@ -198,7 +207,7 @@ translationKey: "program"
             <p>
               Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
             <p>
-              Détails des sessions à venir
+              Kubernetes prend en charge les services interactifs, les architectures de microservices et les tâches éphémères. Cette présentation montre comment il complète le CHP conventionnel en élargissant les types de tâches et en améliorant la flexibilité du déploiement, tout en conservant les avantages du CHP en matière d’ordonnancement en lots et de capacité de calcul pour les établissements de recherche. 
             </p>
           </details> 
       </div>
@@ -215,7 +224,7 @@ translationKey: "program"
             Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
           </p>
           <p>
-            Détails des sessions à venir
+            Depuis 2017, notre formation sur la programmation parallèle a évolué pour passer de MPI et OpenMP à des langages de haut niveau comme Chapel, Julia et Python. Ces cours portent sur le parallélisme sur les cœurs, les nœuds et les processeurs graphiques et offrent des solutions évolutives et faciles à apprendre pour les utilisatrices et utilisateurs novices, sans sacrifier la performance des cadres traditionnels de CHP. 
           </p>
         </details>   
       </div>
@@ -233,7 +242,7 @@ translationKey: "program"
             Alex Razoumov, Responsable des solutions à la recherche, Université Simon-Fraser (SFU)
           </p>
           <p>
-            Détails des sessions à venir
+            Nos webinaires sur le calcul informatique ont porté sur nombre d’outils qui optimisent les processus de simulation et de gestion des données. Cet exposé présente quatre outils de CHP et de GDR qui sortent du lot : la visualisation in-situ, la compression de données 3D avec perte, le stockage distribué de jeux de données avec git-annex et DAR (Disk ARchive). 
           </p>
         </details>   
       </div>
@@ -261,7 +270,7 @@ translationKey: "program"
               Marie-Hélène Burle, Spécialiste en solutions de recherche, Université Simon Fraser
             </p>
             <p>
-              Détails des sessions à venir
+              L’Alliance a deux publics importants : les parties prenantes et les chercheuses et chercheurs. Les premières fournissent le financement, et les seconds, l’expertise. Or, si la communication avec les parties prenantes se passe fort bien, on ne peut pas en dire autant des échanges avec la communauté de recherche. Je vous invite à une table ronde pour en discuter. 
             </p>
           </details> 
       </div>
@@ -278,7 +287,7 @@ translationKey: "program"
               Mark Hahn, Administrateur de Système, Sharcnet-McMaster, Compute Ontario
             </p>
             <p>
-              Détails des sessions à venir
+              Comprendre les besoins des chercheurs est essentiel pour leur fournir l'infrastructure qui leur permet d'optimiser leurs contributions à leurs domaines de recherche respectifs. Lorsque les chercheurs utilisent les ressources du DRAC, ils laissent des traces de leurs besoins et de leurs réussites. Cela commence par les détails de leurs comptes d'utilisateur et de groupe, mais s'étend à leurs enregistrements de travail et à leurs résultats de recherche.  
             </p>
           </details> 
       </div>
@@ -295,7 +304,7 @@ translationKey: "program"
             Moïra Dion, Analyste, Calcul Québec; Hélène Gingras, Analyste, Calcul Québec   
           </p>
           <p>
-            Détails des sessions à venir
+            Cette présentation porte sur le gaspillage de ressources dans l’écosystème de l’Alliance, en particulier sur les inefficacités des CPU, des GPU et de la mémoire de Narval. Un projet de trois mois a répertorié 125 éléments trop gourmands, établi le coût du gaspillage à 88 605 $, et apporté des améliorations comme des ressources éducatives et des processus simplifiés pour optimiser l’utilisation des ressources et la mobilisation des utilisatrices et utilisateurs. 
           </p>
         </details>   
       </div>
@@ -313,7 +322,7 @@ translationKey: "program"
             Nikolai Sergueev, Analyste CHP, Calcul Québec/Université de Montréal
           </p>
           <p>
-            Détails des sessions à venir
+            <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Cliquez ici pour la description complète.</a> 
           </p>
         </details>   
       </div>
@@ -341,7 +350,7 @@ translationKey: "program"
               Sarah Cameron-Pesant, Analyste en calcul informatique de pointe, spécialiste des sciences humaines et sociales, Calcul Québec / Université du Québec à Montréal; Lydia Vermeyden, Directrice du développement des nouveaux services, Calcul Québec
             </p>
             <p>
-              Détails des sessions à venir
+              Un besoin important a été identifié dans la communauté de recherche pour des logiciels libres prêts-à-l’emploi qui facilitent la collaboration interinstitutionnelle. L’initiative Colibri est menée par Calcul Québec pour développer de nouveaux services infonuagiques plus accessibles pour les chercheur-ses qui n'ont pas les compétences techniques ou les ressources nécessaires à l'utilisation de nos services actuels. 
             </p>
           </details> 
       </div>
@@ -358,7 +367,7 @@ translationKey: "program"
               Luc Letarte, Spécialiste de la cybersécurité et de la conformité en matière de recherche, Université de la Colombie-Britannique
             </p>
             <p>
-              Détails des sessions à venir
+              Plans de gestion des données (PGD) : ils semblent simples, mais le sont-ils vraiment ? Comment gérer les complexités de la sécurité des données ? Comment concevoir un modèle universel pour répondre aux divers besoins de recherche tout en garantissant le respect des exigences ? À l'ère du numérique, les exigences relatives aux PGD ont évolué, avec une attention accrue portée à la cybersécurité, à la confidentialité et à la conformité. Dans cette présentation éclair, nous présenterons un résumé de nos mises à jour visant à moderniser le modèle UBCDMP, en mettant l'accent sur la sécurité des données et en répondant aux exigences croissantes des organismes de financement et des organismes de réglementation.  
             </p>
           </details> 
       </div>
@@ -375,7 +384,7 @@ translationKey: "program"
             Marcus Closen, Responsable de produits, planification de la gestion des données, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir
+            L’Assistant PGD, la solution canadienne de planification de la gestion des données, offre une plateforme nationale bilingue aux chercheuses et chercheurs du Canada. Cette présentation examine le passé, le présent et l’avenir des PGD au Canada et le potentiel de collaboration accrue entre des plateformes comme l’Assistant PGD et les autres ressources de l’IRN. 
           </p>
         </details>   
       </div>
@@ -393,7 +402,7 @@ translationKey: "program"
             Danica Evering, Spécialiste de la gestion des données de recherche, McMaster; Richie Motorgeanu, assistant au développement des ressources d'apprentissage, Sherman Centre for Digital Scholarship, McMaster
           </p>
           <p>
-           Détails des sessions à venir
+           Plus de chercheuses et chercheurs que jamais utilisent l’infrastructure de recherche numérique et les services de calcul informatique de pointe, de gestion des données de recherche et de développement de logiciels de recherche. En prenant pour exemple notre nouvel outil, README Creator, nous explorerons dans cette discussion interactive les défis et les avantages de l’adaptation de logiciels ouverts par une équipe multidisciplinaire de personnel de soutien à la recherche et d’étudiantes et étudiants. Nous terminerons avec une discussion de groupe sur les besoins des chercheuses et chercheurs, besoins auxquels nous pourrions répondre à l’aide d’outils ouverts, de formations ou de documents, ainsi que sur la façon de collaborer entre les piliers tout en offrant des occasions d’apprentissage pratique aux futurs professionnelles et professionnels. 
           </p>
         </details>   
       </div>
@@ -419,7 +428,7 @@ translationKey: "program"
             Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. GDR, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            La séance interactive de style AMA (Ask Me Anything : toutes les questions sont permises) sur les pratiques et les services de gestion des données de recherche (GDR) stimulera la discussion, dissipera les mythes sur les pratiques de GDR et favorisera la compréhension entre collègues. L’objectif est de renforcer les liens et d’améliorer la compréhension entre les différents domaines fonctionnels de l’écosystème de l’IRN afin de trouver des avenues de collaboration entre la GDR et les autres domaines et de cerner les lacunes en matière de connaissances qui méritent un examen plus approfondi. 
           </p>
         </details>   
       </div>
@@ -437,7 +446,7 @@ translationKey: "program"
             Natalie Williams, Responsable, services de curation, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            Des représentantes et représentants de l’équipe de service du DFDR discuteront des façons dont les activités de conservation et de préservation préviennent certains problèmes courants dans la réutilisation des données, ce qui prolonge la durée de vie utile des données de recherche. 
         </details>   
       </div>
     </div>
@@ -454,7 +463,7 @@ translationKey: "program"
             Anneliese Eber, University of Waterloo; Jennifer Abel, University of Calgary; Michael Steeleworthy, Wilfrid Laurier University
           </p>
           <p>
-            Détails des sessions à venir 
+            Au cours d’un atelier national à l’Université de Waterloo, des participantes et participants de bibliothèques, de bureaux de recherche et de services informatiques ont pris part à une discussion animée sur les stratégies de renforcement de la communauté de l’infrastructure de recherche numérique et les défis qui y sont associés. Cette séance présentera les principales recommandations concrètes de l’atelier et encouragera la discussion pour la poursuite de ces efforts collaboratifs.  
           </p>
         </details>   
       </div>
@@ -472,7 +481,7 @@ translationKey: "program"
             Jennifer Abel, Bibliothécaire responsable de la gestion des données de recherche, Université de Calgary/Groupe national d’experts en formation
           </p>
           <p>
-            Détails des sessions à venir 
+            RDM Jumpstart est un programme national gratuit qui explore les pratiques exemplaires de GDR et présente des outils courants qui favorisent la transparence et la reproductibilité de la recherche. L’édition pilote a eu lieu en mai 2025. Nous explorerons les motivations et le fonctionnement du programme ainsi que les premiers commentaires recueillis. 
           </p>
         </details>   
       </div>
@@ -490,7 +499,7 @@ translationKey: "program"
             Amanda Tomé, coordonnatrice de la préservation, Alliance de recherche numérique du Canada
           </p>
           <p>
-            Détails des sessions à venir 
+            Pour évaluer les capacités de préservation et les risques de l’accessibilité à long terme, il faut bien comprendre les formats de fichier. Or, les outils d’identification pour la préservation numérique échouent à reconnaître plusieurs formats de fichier associés aux données de recherche, ce qui entrave une importante étape initiale du processus de préservation. Cette présentation décrira les travaux de l’équipe de préservation numérique, qui développe des signatures de formats de fichier pour aider à l’identification des formats utilisés dans le Dépôt fédéré de données de recherche (DFDR). Nous souhaitons également recevoir des commentaires de l’ensemble de la communauté de l’IRN sur d’autres approches potentielles pour l’identification des formats de fichier. 
           </p>
         </details>   
       </div>
@@ -545,10 +554,11 @@ translationKey: "program"
             Dr. Guillaume Bourque, Professeur au Département de Génétique Humaine et Directeur de la Bioinformatique au Centre de Génomique de McGill. Membre du Conseil d’Administration de l’Alliance de Recherche Numérique du Canada.
           </p>
           <p>
-            <p>
             <a href="https://alliancecan.ca/en/about/board-directors/guillaume-bourque" target="_blank">lien vers la bio</a> 
           </p>
-          </p>
+         <p>
+         Les technologies à haut débit sont en passe de transformer la recherche biomédicale en permettant la caractérisation détaillée des génomes individuels et des processus moléculaires cellulaires à une résolution jusque-là inégalée. Associées aux progrès de l’apprentissage machine et de l’intelligence artificielle, ces technologies sont extrêmement prometteuses pour ce qui est de leur capacité à dynamiser l’innovation dans les sciences de la santé et à améliorer les résultats en matière de soins de santé. Cependant, pour que ce potentiel se concrétise, il faut relever des défis importants en matière de gestion des données, d’infrastructure logicielle et de ressources informatiques. Je présenterai ici des initiatives clés visant à relever certains de ces défis. L’Alliance mondiale pour la génomique et la santé (GA4GH) — une alliance sans but lucratif regroupant plus de 500 organisations — élabore actuellement des normes techniques, des cadres politiques et des outils visant à promouvoir l’utilisation responsable, volontaire et sécurisée des données génomiques et des données de santé connexes à l’échelle mondiale. Je présenterai également SecureData4Health, une infrastructure infonuagique sécurisée conçue pour soutenir l’analyse et le partage des données génomiques et de santé. Celle-ci s’appuie sur des capacités existantes en Ontario par l’intermédiaire de HPC4 (High-Performance Computing for Healthcare ) et ajoute un nouveau nœud de calcul au Québec afin de renforcer la capacité nationale. Enfin, je présenterai la Bibliothèque pancanadienne de génomique (PCGL), une initiative historique qui unifie les efforts de séquençage du génome humain au Canada. La PCGL met en place un système de gestion des données centralisé et fédéré, conforme aux normes internationales et respectueux des exigences juridictionnelles et culturelles en matière de données génétiques humaines. Elle soutient aussi bien de nouveaux projets que des projets rétrospectifs, en garantissant l’archivage, l’accessibilité et l’intégration à long terme des données génomiques, cliniques et phénotypiques. Ensemble, ces efforts permettent de jeter les bases d’un écosystème solide, sécurisé et collaboratif devant favoriser l’accélération de la recherche en génomique et de meilleurs résultats en matière de santé au Canada et dans le monde.
+         </p>
         </details>   
       </div>
     </div>
@@ -566,7 +576,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Détails des sessions à venir
+            Le Réseau canadien de documentation pour la recherche et Érudit ont récemment mené ensemble un sondage sur l’infrastructure de recherche numérique (IRN) des sciences humaines et sociales (SHS) au Canada. Cette présentation porte principalement sur les domaines de convergence de l’IRN des SHS, notamment l’intégration d’identifiants pérennes par le Comité consultatif canadien sur les identifiants pérennes, coordonnée entre autres par l’Alliance. 
           </p>
           </p>
         </details>   
@@ -586,7 +596,7 @@ translationKey: "program"
           </p>
           <p>
             <p>
-            Détails des sessions à venir 
+            Dans cette présentation sommaire de la recherche qualitative et des besoins des chercheuses et chercheurs en SHS, nous examinons les objectifs et les défis des méthodes qualitatives, les logiciels propriétaires, et terminerons par un aperçu de logiciel en code source libre. LibreQDA (en version bêta) est développé avec le soutien de Calcul Québec. 
           </p>
           </p>
         </details>   
@@ -620,7 +630,7 @@ translationKey: "program"
             <p>
               SShawn Winnington-Ball, Gestionnaire, Sécurité des systèmes d’information, SciNet, Université de Toronto; Yohai Meiron, analyste des applications scientifiques, SciNet, Université de Toronto 
             <p>
-              Détails des sessions à venir 
+              Nous présentons une enclave sécurisée de calcul informatique du consortium de calcul de haute performance SciNet. Surnommé S4H, cet environnement est déjà accessible aux groupes de l’Université de Toronto dans le cadre d’un projet pilote. L’objectif de S4H est de répondre aux besoins des chercheuses et chercheurs qui travaillent avec des données sensibles, ce que ne permet pas Niagara, la grappe mère de SciNet. Nous expliquerons comment les données de S4H sont cryptées au repos et comment l’accès a été renforcé. Nous discuterons des obstacles au cloisonnement des différents groupes de recherche sur un système partagé et nous examinerons différents éléments facilitants, dont les principaux mécanismes de gestion et de conteneurisation. Nous traiterons également de notre adoption du cadre de Certification du modèle de maturité de la cybersécurité (CMMC), de notre travail pour bien comprendre les complexités des groupes de contrôles de la norme NIST 800-171, de l’élaboration de plans d’action et de jalons pour les lacunes dans la conformité, et des examens internes et externes permettant de vérifier la conformité. 
             </p>
           </details> 
       </div>
@@ -635,8 +645,15 @@ translationKey: "program"
             </summary>
             <p>
               Nathalie Aerens, Gestionnaire de plateforme SD4Health, Université McGill; Pierre-Olivier Quirion, Responsable de technologie SD4H, Université McGill – Calcul Québec - SD4H 
+            </p>  
             <p>
-              Détails des sessions à venir 
+              L’avenir de la recherche numérique en santé et en génomique dépend de solides mesures de respect de la vie privée et de sécurité. La sécurité des données est toujours un enjeu important pour la recherche en génomique humaine, et comme l’IRN canadienne y est utilisée de plus en plus intensivement, une pression s’exerce à des degrés divers sur les membres de l’Alliance pour sécuriser l’infrastructure. 
+             </p>  
+            <p> 
+             La garantie d’une sécurité robuste pour les projets sur la santé humaine est maintenant à notre portée. De nouvelles exigences, comme la dernière politique sur le partage des données génomiques des NIH, ont obligé les groupes de recherche à revoir leurs priorités en la matière. En effet, pour de nombreux nouveaux projets de recherche, il n’est tout simplement plus possible de négliger comme avant les exigences relatives à la sécurité. 
+             </p>  
+            <p>
+             SD4H utilise une infrastructure infonuagique OpenStack gérée conjointement par le Centre canadien de génomique computationnelle (C3G) de l’Université McGill et Calcul Québec. Des services de calcul informatique de pointe, de gestion des données de recherche et de logiciels de recherche sont développés et déployés sur cette infrastructure afin d’assurer le respect de la vie privée et la sécurité à ses utilisatrices et utilisateurs. 
             </p>
           </details> 
       </div>
@@ -653,7 +670,7 @@ translationKey: "program"
             Darren Boss, Analyste principal en calcul informatique, Université de Victoria   
           </p>
           <p>
-            Détails des sessions à venir 
+            CILogon sert à simplifier l’accès aux plateformes à l’aide de la fédération d’identités d’eduGAIN. Il permet d’authentifier facilement les utilisatrices et utilisateurs et de partager des données d’identité enrichies pour plusieurs applications. CILogon est déjà utilisé sur des plateformes comme l’Assistant PGD et le projet pilote de connexion au nuage, et des intégrations à d’autres plateformes sont à l’étape de planification.  
           </p>
         </details>   
       </div>
@@ -671,7 +688,7 @@ translationKey: "program"
             Ryan McRonald, Gestionnaire de cybersécurité en matière de recherche, Site Arbutus/Université de Victoria 
           </p>
           <p>
-            Détails des sessions à venir 
+            Les API, pierre d’assise des applications modernes, permettent l’intégration et la communication entre les systèmes. Cependant, avec une grande connectivité viennent de grandes responsabilités. Cette présentation technique se penchera sur la sécurité des API, les risques associés aux API, les pratiques exemplaires de sécurisation des API et la mise en œuvre de mesures de sécurité en fonction des tâches afin d’assurer la sécurité des API infonuagiques de notre communauté. Joignez-vous à nous pour apprendre comment mieux protéger vos API contre les menaces courantes.  
           </p>
         </details>   
       </div>
@@ -689,7 +706,7 @@ translationKey: "program"
             Victoria Smith, Gestionnaire, Gouvernance et éthique des données, Alliance de recherche numérique du Canada 
           </p>
           <p>
-            Détails des sessions à venir 
+            Cette présentation offre un aperçu de l’Initiative de gestion de l’accès contrôlé aux données de recherche, notamment les constats de la première étape et les travaux en cours et prévus. L’application des principes de la science ouverte à la recherche sur des données sensibles ou à accès restreint présente différents défis. 
           </p>
         </details>   
       </div>
@@ -716,7 +733,7 @@ translationKey: "program"
             <p>
               Lydia Vermeyden, Directrice du développement des nouveaux services à la recherche, Calcul Québec
             <p>
-              Détails des sessions à venir 
+              Année internationale de la science et de la technologie quantiques, 2025 marque le 100e anniversaire de la première publication en mécanique quantique. Calcul Québec souligne l’occasion en lançant ses services quantiques sur MonarQ, son ordinateur quantique à 24 qubits. Mais qu’est-ce que le calcul quantique, et en quoi est-il différent des systèmes, logiciels et données classiques que nous connaissons bien? Est-il possible de connecter les systèmes quantique et classique? Nous discuterons de ces questions tout en vous racontant notre parcours extraordinaire jusqu’au lancement des services de calcul quantique chez Calcul Québec et en vous présentant l’incroyable équipe qui a mené à bien ce projet. Après tout, faciliter l’accès à la recherche de l’avenir ne dépend pas uniquement des technologies de pointe, mais également des personnes qui les mettent en œuvre.  
             </p>
           </details> 
       </div>
@@ -732,7 +749,7 @@ translationKey: "program"
             <p>
               Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec; Felix-Gabriel Boucher-Luneau, Stagiaire, développement de logiciels, Calcul Québec
             <p>
-              Détails des sessions à venir 
+              Découvrez les détails du renouvellement du nuage Arbutus, de ses intéressantes capacités et de la façon dont l’évolution rapide du paysage mondial a soudainement mis en lumière l’importance de l’autonomie technologique à tous les niveaux.  
             </p>
           </details> 
       </div>
@@ -748,7 +765,7 @@ translationKey: "program"
           <p>
             Maxime Boissonneault, Directeur des services à la recherche et à l’enseignement, Calcul Québec
           <p>
-            Détails des sessions à venir 
+            <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Cliquez ici pour la description complète.</a> 
           </p>
         </details>   
       </div>
@@ -766,7 +783,7 @@ translationKey: "program"
             Jeff Albert, Directeur et architecte, Infrastructure de calcul informatique de pointe, Université de Victoria
           </p>
           <p>
-            Détails des sessions à venir 
+            Découvrez les détails du renouvellement du nuage Arbutus, de ses intéressantes capacités et de la façon dont l’évolution rapide du paysage mondial a soudainement mis en lumière l’importance de l’autonomie technologique à tous les niveaux. 
           </p>
         </details>   
       </div>
@@ -784,7 +801,7 @@ translationKey: "program"
             Pawel Pomorski, Analyste CHP, chef du groupe de travail sur les accélérateurs, Sharcnet
           </p>
           <p>
-            Détails des sessions à venir 
+            L’Alliance a fait faire un bond générationnel aux capacités du matériel de son accélérateur en rendant accessibles des centaines de processeurs graphiques NVIDIA H100 et des unités de calcul accéléré MI300A. Cette séance portera sur l’incidence de ces changements et sur le nouveau matériel d’accélérateur que nous pouvons espérer au cours des prochaines années. 
           </p>
         </details>   
       </div>
@@ -811,7 +828,7 @@ translationKey: "program"
             <p>
               Carol Gauthier, Gestionnaire de projet/développeuse, Université de Sherbrooke / Calcul Québec 
             <p>
-              Détails des sessions à venir
+              Cette présentation portera sur la plateforme UseGalaxy.ca, le volet canadien de l’initiative internationale UseGalaxy, qui utilise la plateforme en code source libre Galaxy. Nous offrirons un aperçu de ses éléments, notamment l’intégration avec le projet pilote de connexion au nuage de l’Alliance, ainsi que des statistiques d’utilisation et la feuille de route. 
             </p>
           </details> 
       </div>
@@ -827,7 +844,7 @@ translationKey: "program"
             <p>
               Bryan Caron, Directeur, Exploitation et développement (CBRAIN et NeuroHub) et co-IP de NeuroHub, Université McGill
             <p>
-              Détails des sessions à venir
+              CBRAIN est une plateforme de recherche en code source libre qui permet aux scientifiques d’effectuer des analyses de données à grande échelle à l’aide d’outils de pointe sur une interface Web intuitive. Avec plus de 2 000 utilisatrices et utilisateurs de 193 établissements dans 59 pays, CBRAIN donne accès à des ressources distribuées de calcul et de données aux chercheuses et chercheurs en neuroinformatique, en génomique et autres domaines. 
             </p>
           </details> 
       </div>
@@ -843,7 +860,7 @@ translationKey: "program"
           <p>
             Gabriel Lapointe, Analyste de la sécurité, Université McGill 
           <p>
-            Détails des sessions à venir
+            Nous allons d’abord expliquer le contexte dans lequel OSSecMon a été créé (nous avions remarqué des manquements à certains niveaux concernant, entre autres, des principes de base de sécurité, comme la non-répudiation, ce qui nous a menés à développer une solution qui n’existait pas encore). Nous poursuivrons avec un survol de la technologie principale utilisée par le programme (eBPF) et nous expliquerons comment nous l’utilisons dans OSSecMon, puis nous ferons un survol des outils complémentaires utilisés comme inotify, yara et openscap. Nous terminerons en expliquant comment on peut utiliser OSSecMon pour se conformer à certaines normes du NIST, de l’ISO, etc. Le temps va probablement nous manquer, mais nous clôturerons la présentation par une période de questions. 
           </p>
         </details>   
       </div>
@@ -861,7 +878,7 @@ translationKey: "program"
             Grigory Shamov, Coordonnateur, Calcul informatique de pointe (CIP), Université du Manitoba, Prairies DRI; James Willis, Analyste d'applications scientifiques, SciNet 
           </p>
           <p>
-            Détails des sessions à venir
+            Lors de cette séance, nous vous présenterons Open OnDemand, une interface Web conçue pour offrir un accès facile aux ressources de calcul de haute performance (CHP). Les interfaces de terminal peuvent être difficiles à utiliser pour les utilisatrices et utilisateurs novices, ce qui crée une courbe d’apprentissage très abrupte. L’objectif de Open OnDemand est de rendre plus accessible le CHP en offrant une interface graphique intuitive qui simplifie les processus de soumission, de surveillance et de gestion des tâches. Nous explorerons les principales fonctionnalités de Open OnDemand, notamment l’accès en ligne, la gestion des tâches, la gestion des fichiers et le soutien pour des applications interactives comme Jupyter, Notebooks, RStudio et VS Code. De plus, nous ferons une démonstration du portail Open OnDemand avec SciNet et Grex et discuterons de leur déploiement et de cas d’utilisation. 
           </p>
         </details>   
       </div>
@@ -879,7 +896,7 @@ translationKey: "program"
             Shaun Bathgate, Administrateur principal des systèmes de calcul informatique de pointe, Université de Victoria
           </p>
           <p>
-            Détails des sessions à venir
+            Cette séance présente GitOps en tant qu’approche structurée avec contrôle de versions pour la gestion de Kubernetes. En comparant les scripts impératifs aux flux de travaux d’Argo CD, les participantes et participants découvriront comment l’infrastructure déclarative, la synchronisation automatique et la gestion sécurisée des secrets simplifient les opérations et améliorent la stabilité dans les environnements de recherche à une ou plusieurs grappes. 
           </p>
         </details>   
       </div>
@@ -938,7 +955,8 @@ translationKey: "program"
     </div>
   </div>
 </details>
- 
+<hr />
+Les descriptions détaillées sont disponibles <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">ici</a> dans la langue dans laquelle elles ont été soumises.
 
 <!--
 
