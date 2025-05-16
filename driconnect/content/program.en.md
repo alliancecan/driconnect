@@ -294,7 +294,7 @@ translationKey: "program"
               Mark Hahn, System Admin, Sharcnet-McMaster, Compute Ontario
             </p>
             <p>
-              Session details coming soon
+              Understanding the researchers’ needs is critical to providing the infrastructure that enable them to maximize their contributions to their respective research areas. When researchers use DRAC resources they leave traces about their needs and successes. This starts with their user and group account details but extends out into their job records and research outputs. What can we tell about the needs and successes of our researchers by aggregating data from the various information sources that we currently have (e.g. user profiles, allocations, job records, publications, support tickets, etc) and what else could we learn by implementing new data collections that would give us more fine grained access to other key properties of research production (e.g. storage use, software utilization, job performance metrics, training registrations and outcomes, etc). 
             </p>
           </details> 
       </div>
@@ -329,7 +329,7 @@ translationKey: "program"
             Nikolai Sergueev, HPC Analyst, Calcul Québec/Université de Montréa
           </p>
           <p>
-            Session details coming soon
+            <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Click here for the full description</a> 
           </p>
         </details>   
       </div>
@@ -357,7 +357,7 @@ translationKey: "program"
               Sarah Cameron-Pesant, Advanced Research Computing Analyst - Humanities and Social Sciences Specialist, Calcul Québec / Université du Québec à Montréal; Lydia Vermeyden, Director for the development of new research services, Calcul Québec  
             </p>
             <p>
-              Session details coming soon
+              A strong need has been identified in the research community for ready-to-use open-source software that facilitates inter-institutional collaboration. The Colibri initiative is led by Calcul Québec to develop new, more accessible cloud services for researchers who do not have the technical skills or resources to use our current services. 
             </p>
           </details> 
       </div>
@@ -374,7 +374,7 @@ translationKey: "program"
               Luc Letarte, Research Cybersecurity and Compliance Specialist, UBC
             </p>
             <p>
-              Session details coming soon
+              Data Management Plans (DMPs) – they seem simple, but are they? How can we navigate the complexities of data security? How can we design a one-size-fits-all template for diverse research needs while ensuring requirements are met? In today's digital age, the requirements for DMPs have evolved, with a heightened focus on cybersecurity, privacy, and compliance. In this lightning talk, we will present a summary of our updates to modernize the UBC DMP template with emphasize data security in mind, as well as meeting the increasing demands of funding agencies and regulatory bodies.  
             </p>
           </details> 
       </div>
@@ -391,7 +391,7 @@ translationKey: "program"
             Marcus Closen, Product Lead, Data Management Planning, Digital Research Alliance of Canada 
           </p>
           <p>
-            DMP Assistant is the Canadian solution for data management planning. It provides a national, bi-lingual platform for Canadian researchers. This presentation considers the past, present, and future of DMP in the Canada and the potential of greater collaboration between platforms like DMP Assistant and other DRI assets in the space. 
+            DMP Assistant is the Canadian solution for data management planning. It provides a national, bi-lingual platform for Canadian researchers. This presentation considers the past, present, and future of DMP in Canada and the potential of greater collaboration between platforms like DMP Assistant and other DRI assets in the space. 
           </p>
         </details>   
       </div>
@@ -775,7 +775,7 @@ translationKey: "program"
             Maxime Boissonneault, Director, Research and teaching support, Calcul Québec 
           </p>
           <p>
-            Session details coming soon
+             <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Click here for the full description</a> 
           </p>
         </details>   
       </div>
@@ -870,7 +870,7 @@ translationKey: "program"
           <p>
             Gabriel Lapointe, Security Analyst, McGill University 
           <p>
-            Session details coming soon
+            First, we will explain the context in which OSSecMon was created (We had noticed deficiencies at certain levels concerning, among other things, basic security principles, e.g., non-repudiation, and this led us to develop a solution that did not yet exist). Afterwards, we will briefly overview the main technology used by the program (eBPF) and explain how we use it in ossecmon, followed by a brief overview of complementary tools used such as inotify, yara, and openscap. We will conclude by explaining how OSSecMon can be used to comply with certain standards such as NIST, ISO, etc. We will probably run out of time, but everything will be followed by a question period. 
           </p>
         </details>   
       </div>

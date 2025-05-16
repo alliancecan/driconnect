@@ -287,7 +287,7 @@ translationKey: "program"
               Mark Hahn, Administrateur de Système, Sharcnet-McMaster, Compute Ontario
             </p>
             <p>
-              Détails des sessions à venir
+              Comprendre les besoins des chercheurs est essentiel pour leur fournir l'infrastructure qui leur permet d'optimiser leurs contributions à leurs domaines de recherche respectifs. Lorsque les chercheurs utilisent les ressources du DRAC, ils laissent des traces de leurs besoins et de leurs réussites. Cela commence par les détails de leurs comptes d'utilisateur et de groupe, mais s'étend à leurs enregistrements de travail et à leurs résultats de recherche.  
             </p>
           </details> 
       </div>
@@ -322,7 +322,7 @@ translationKey: "program"
             Nikolai Sergueev, Analyste CHP, Calcul Québec/Université de Montréal
           </p>
           <p>
-            Détails des sessions à venir
+            <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Cliquez ici pour la description complète.</a> 
           </p>
         </details>   
       </div>
@@ -350,7 +350,7 @@ translationKey: "program"
               Sarah Cameron-Pesant, Analyste en calcul informatique de pointe, spécialiste des sciences humaines et sociales, Calcul Québec / Université du Québec à Montréal; Lydia Vermeyden, Directrice du développement des nouveaux services, Calcul Québec
             </p>
             <p>
-              Détails des sessions à venir
+              Un besoin important a été identifié dans la communauté de recherche pour des logiciels libres prêts-à-l’emploi qui facilitent la collaboration interinstitutionnelle. L’initiative Colibri est menée par Calcul Québec pour développer de nouveaux services infonuagiques plus accessibles pour les chercheur-ses qui n'ont pas les compétences techniques ou les ressources nécessaires à l'utilisation de nos services actuels. 
             </p>
           </details> 
       </div>
@@ -367,7 +367,7 @@ translationKey: "program"
               Luc Letarte, Spécialiste de la cybersécurité et de la conformité en matière de recherche, Université de la Colombie-Britannique
             </p>
             <p>
-              Détails des sessions à venir
+              Plans de gestion des données (PGD) : ils semblent simples, mais le sont-ils vraiment ? Comment gérer les complexités de la sécurité des données ? Comment concevoir un modèle universel pour répondre aux divers besoins de recherche tout en garantissant le respect des exigences ? À l'ère du numérique, les exigences relatives aux PGD ont évolué, avec une attention accrue portée à la cybersécurité, à la confidentialité et à la conformité. Dans cette présentation éclair, nous présenterons un résumé de nos mises à jour visant à moderniser le modèle UBCDMP, en mettant l'accent sur la sécurité des données et en répondant aux exigences croissantes des organismes de financement et des organismes de réglementation.  
             </p>
           </details> 
       </div>
@@ -765,7 +765,7 @@ translationKey: "program"
           <p>
             Maxime Boissonneault, Directeur des services à la recherche et à l’enseignement, Calcul Québec
           <p>
-            Détails des sessions à venir 
+            <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Cliquez ici pour la description complète.</a> 
           </p>
         </details>   
       </div>
