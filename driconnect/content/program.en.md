@@ -453,7 +453,7 @@ translationKey: "program"
             Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada
           </p>
           <p>
-            Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data. 
+            Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data.
           </p>
         </details>   
       </div>
@@ -967,6 +967,7 @@ translationKey: "program"
 </details>
 <hr />
 The detailed descriptions are available <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">here</a>  in the language they were provided.
+
 
 <!--
 

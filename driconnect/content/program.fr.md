@@ -447,6 +447,7 @@ translationKey: "program"
           </p>
           <p>
             Des représentantes et représentants de l’équipe de service du DFDR discuteront des façons dont les activités de conservation et de préservation préviennent certains problèmes courants dans la réutilisation des données, ce qui prolonge la durée de vie utile des données de recherche. 
+        </p>
         </details>   
       </div>
     </div>
