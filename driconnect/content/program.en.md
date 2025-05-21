@@ -432,7 +432,7 @@ translationKey: "program"
           <summary class="h6">Research Data Management Demystified: Your Questions, Our Answers!   
           </summary>
           <p>
-            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson, Caroline Baril. RDM, Digital Research Alliance of Canada, Calcul Québec
+            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson, RDM, Digital Research Alliance of Canada, and Caroline Baril, Calcul Québec
           </p>
           <p>
             The AMA (Ask Me Anything) style interactive session about research data management (RDM) practices and services will facilitate discussion, dispel myths about RDM practices, and foster mutual understanding between colleagues. The goal is to create greater connection and understanding between the different functional areas of the DRI ecosystem, to identify avenues for collaboration between RDM and other areas, and to understand gaps in knowledge that need further investigation. 
@@ -450,7 +450,7 @@ translationKey: "program"
           <summary class="h6">What Really Happens at FRDR? An Overview of Curation and Preservation Services    
           </summary>
           <p>
-            Natalie Williams and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
+            Natalie Williams, Curation Officers Lead and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
           <p>
             Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data.
           </p>

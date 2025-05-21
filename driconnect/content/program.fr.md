@@ -425,7 +425,7 @@ translationKey: "program"
           <summary class="h6">Démystifier la gestion des données de recherche : vos questions, nos réponses !  
           </summary>
           <p>
-            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. GDR, Alliance de recherche numérique du Canada
+            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. GDR, Alliance de recherche numérique du Canada, Caroline Baril, Calcul Québec
           </p>
           <p>
             La séance interactive de style AMA (Ask Me Anything : toutes les questions sont permises) sur les pratiques et les services de gestion des données de recherche (GDR) stimulera la discussion, dissipera les mythes sur les pratiques de GDR et favorisera la compréhension entre collègues. L’objectif est de renforcer les liens et d’améliorer la compréhension entre les différents domaines fonctionnels de l’écosystème de l’IRN afin de trouver des avenues de collaboration entre la GDR et les autres domaines et de cerner les lacunes en matière de connaissances qui méritent un examen plus approfondi. 
@@ -443,7 +443,7 @@ translationKey: "program"
           <summary class="h6">Comment le DFDR fonctionne-t-il réellement ? Aperçu des services de conservation et de préservation 
           </summary>
           <p>
-         Natalie Williams and Amanda Tomé, Alliance de recherche numérique du Canada
+         Natalie Williams, Responsable, services de curation  and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
           </p>
           <p>
             Des représentantes et représentants de l’équipe de service du DFDR discuteront des façons dont les activités de conservation et de préservation préviennent certains problèmes courants dans la réutilisation des données, ce qui prolonge la durée de vie utile des données de recherche. 
