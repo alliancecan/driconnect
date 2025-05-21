@@ -145,7 +145,7 @@ translationKey: "program"
             <summary class="h6">User Certification: Let's do it!
             </summary>
             <p>
-              Sergey Mashchenko and Paul Preney, High Performance Computing Technical Consultant, University of Windsor
+              Sergey Mashchenko, High Performance Computing Technical Consultant at SHARCNET, and Paul Preney, High Performance Computing Technical Consultant at the University of Windsor 
             </p>
             <p>
               In this presentation, we will discuss pros and cons of requiring users to go through a certification procedure. This can be a good way to force users to get some basic training, reducing a waste of the computing and staff resources. 

@@ -139,7 +139,7 @@ translationKey: "program"
             <summary class="h6">Certification des utilisateurs : faisons-le !
             </summary>
             <p>
-              Sergey Mashchenko and Paul Preney, High Performance Computing Technical Consultant, University of Windsor
+              Sergey Mashchenko, High Performance Computing Technical Consultant at SHARCNET, and Paul Preney, High Performance Computing Technical Consultant at the University of Windsor 
             <p>
               Dans cette présentation, nous discuterons des avantages et des inconvénients d’obliger les utilisateurs et utilisatrices à obtenir une certification. Ce peut être une bonne façon de leur donner une formation de base, ce qui réduit le gaspillage de personnel et de ressources de calcul. 
             </p>
