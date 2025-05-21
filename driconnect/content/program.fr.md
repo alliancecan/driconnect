@@ -751,7 +751,7 @@ translationKey: "program"
               Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec
             <p>
               Calcul Québec a développé PennyLane-CalculQuébec, un plugin logiciel permettant des workflows hybrides quantique-classique sur MonarQ, l'ordinateur quantique canadien de 24 qubits conçu par Anyon Systems. Cette session présente les principales fonctionnalités du plugin et un aperçu de l'architecture, en concluant par les améliorations futures visant une intégration plus large avec l'infrastructure de recherche quantique en évolution au Canada. 
-            </p>
+             </p>
           </details> 
       </div>
     </div>
