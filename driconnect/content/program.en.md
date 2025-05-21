@@ -145,7 +145,7 @@ translationKey: "program"
             <summary class="h6">User Certification: Let's do it!
             </summary>
             <p>
-              Sergey Mashchenko, High Performance Computing Technical Consultant, SHARCNET 
+              Sergey Mashchenko and Paul Preney, High Performance Computing Technical Consultant, University of Windsor
             </p>
             <p>
               In this presentation, we will discuss pros and cons of requiring users to go through a certification procedure. This can be a good way to force users to get some basic training, reducing a waste of the computing and staff resources. 
@@ -159,7 +159,7 @@ translationKey: "program"
         <div class="col-2 "> BMO Amphitheatre </div>
         <div class="col ">
           <details>
-            <summary class="h6">Redefining Training Discovery: An Introduction to the New Training Portal 
+            <summary class="h6">Redefining Training Discovery: An Introduction to Explora, the New Training Portal 
             </summary>
             <p>
               Catherine Di Vita, Training Coordinator, Digital Research Alliance of Canada; Ramses van Zon, HPC Systems Analyst, SciNet/ Chair, National Training Coordination Council; Chris Want, Programmer/Analyst, University of Alberta 
@@ -326,7 +326,7 @@ translationKey: "program"
           <summary class="h6">Monitoring GPU utilization and waste management best practices (Accelerator Working Group) 
           </summary>
           <p>
-            Nikolai Sergueev, HPC Analyst, Calcul Québec/Université de Montréa
+            Nikolai Sergueev, HPC Analyst, Calcul Québec/Université de Montréal
           </p>
           <p>
             <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">Click here for the full description</a> 
@@ -432,7 +432,7 @@ translationKey: "program"
           <summary class="h6">Research Data Management Demystified: Your Questions, Our Answers!   
           </summary>
           <p>
-            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson. RDM, Digital Research Alliance of Canada
+            Amanda Tomé, Marcus Closen, Tristan Kuehn, Natalie Williams, Lee Wilson, Caroline Baril. RDM, Digital Research Alliance of Canada, Calcul Québec
           </p>
           <p>
             The AMA (Ask Me Anything) style interactive session about research data management (RDM) practices and services will facilitate discussion, dispel myths about RDM practices, and foster mutual understanding between colleagues. The goal is to create greater connection and understanding between the different functional areas of the DRI ecosystem, to identify avenues for collaboration between RDM and other areas, and to understand gaps in knowledge that need further investigation. 
@@ -450,8 +450,7 @@ translationKey: "program"
           <summary class="h6">What Really Happens at FRDR? An Overview of Curation and Preservation Services    
           </summary>
           <p>
-            Natalie Williams, Curation Services Lead, Digital Research Alliance of Canada
-          </p>
+            Natalie Williams and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
           <p>
             Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data.
           </p>
@@ -756,9 +755,9 @@ translationKey: "program"
             <summary class="h6">PennyLane-Calculquebec: Streamlining Quantum Algorithm Research on MonarQ 
             </summary>
             <p>
-              Samuel Richard & Felix-Gabriel Boucher-Luneau, Calcul Québec
+              Samuel Richard, Calcul Québec
             <p>
-              Come hear the details of the Arbutus Cloud renewal, the exciting capabilities it's bringing forward, and an exploration of how the rapidly-changing global landscape has put a sudden spotlight on technology autonomy at every level.
+              Calcul Québec developed PennyLane-CalculQuébec, a software plugin enabling hybrid quantum-classical workflows on MonarQ, Canada's 24-qubit quantum computer by Anyon Systems. This session introduces key plugin features and an overview of the architecture, concluding with future enhancements aimed at broader integration with Canada’s evolving quantum research infrastructure.
             </p>
           </details> 
       </div>
