@@ -139,7 +139,7 @@ translationKey: "program"
             <summary class="h6">Certification des utilisateurs : faisons-le !
             </summary>
             <p>
-              Sergey Mashchenko, Analyste CHP, SHARCNET
+              Sergey Mashchenko and Paul Preney, High Performance Computing Technical Consultant, University of Windsor
             <p>
               Dans cette présentation, nous discuterons des avantages et des inconvénients d’obliger les utilisateurs et utilisatrices à obtenir une certification. Ce peut être une bonne façon de leur donner une formation de base, ce qui réduit le gaspillage de personnel et de ressources de calcul. 
             </p>
@@ -443,7 +443,7 @@ translationKey: "program"
           <summary class="h6">Comment le DFDR fonctionne-t-il réellement ? Aperçu des services de conservation et de préservation 
           </summary>
           <p>
-            Natalie Williams, Responsable, services de curation, Alliance de recherche numérique du Canada
+         Natalie Williams and Amanda Tomé, Alliance de recherche numérique du Canada
           </p>
           <p>
             Des représentantes et représentants de l’équipe de service du DFDR discuteront des façons dont les activités de conservation et de préservation préviennent certains problèmes courants dans la réutilisation des données, ce qui prolonge la durée de vie utile des données de recherche. 
@@ -748,10 +748,10 @@ translationKey: "program"
             <summary class="h6">PennyLane-Calculqubec : Rationalisation de la recherche en algorithmes quantiques sur MonarQ 
             </summary>
             <p>
-              Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec; Felix-Gabriel Boucher-Luneau, Stagiaire, développement de logiciels, Calcul Québec
+              Samuel Richard, Stagiaire, développement de logiciels, Calcul Québec
             <p>
-              Découvrez les détails du renouvellement du nuage Arbutus, de ses intéressantes capacités et de la façon dont l’évolution rapide du paysage mondial a soudainement mis en lumière l’importance de l’autonomie technologique à tous les niveaux.  
-            </p>
+              Calcul Québec a développé PennyLane-CalculQuébec, un plugin logiciel permettant des workflows hybrides quantique-classique sur MonarQ, l'ordinateur quantique canadien de 24 qubits conçu par Anyon Systems. Cette session présente les principales fonctionnalités du plugin et un aperçu de l'architecture, en concluant par les améliorations futures visant une intégration plus large avec l'infrastructure de recherche quantique en évolution au Canada. 
+             </p>
           </details> 
       </div>
     </div>
