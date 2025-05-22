@@ -450,7 +450,7 @@ translationKey: "program"
           <summary class="h6">What Really Happens at FRDR? An Overview of Curation and Preservation Services    
           </summary>
           <p>
-            Natalie Williams, Curation Officers Lead and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
+            Natalie Williams, Curation Services Lead and Amanda Tomé, Preservation Coordinator, Digital Research Alliance of Canada
           <p>
             Representatives from the FRDR service team will discuss how curation and preservation activities prevent common issues with data reuse, extending the life and utility of research data.
           </p>
