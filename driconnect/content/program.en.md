@@ -196,7 +196,7 @@ translationKey: "program"
             <summary class="h6">The Future of HPC in the age of AI (AI clusters vs HPC systems. Are we ready?)
             </summary>
             <p>
-              Roman Baranowski, DRI Software Architect, ARC UBC
+              Roman Baranowski, DRI Software Architect, ARC UBC; Jeff Albert, Manager and Architect, Advanced Research Computing Infrastructure, University of Victoria
             <p>
               In this talk /panel discussion I/we would like to talk/discuss about the architectural differences between AI and 'typical' HPC based workflows and try to address the challenges we are facing and find a path forward.  We as an Alliance Community have to be ready .... so let's talk.... 
             </p>

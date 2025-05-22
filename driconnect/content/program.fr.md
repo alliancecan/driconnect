@@ -189,7 +189,7 @@ translationKey: "program"
             <summary class="h6">L’avenir du CHP à l’âge de l’IA (grappes IA vs systèmes CHP). Sommes-nous prêts ?)
             </summary>
             <p>
-              Roman Baranowski, Architecte logiciel IRN, ARC UBC
+              Roman Baranowski, Architecte logiciel IRN, ARC UBC; Jeff Albert, Directeur et architecte, Infrastructure de calcul informatique de pointe, Université de Victoria
             <p>
               Lors de cette table ronde, nous discuterons des différences entre les processus utilisant l’IA et ceux du CHP typique et aborderons les défis à relever afin de tracer une voie à suivre. La communauté de l’Alliance doit être prête; lançons donc la discussion! 
             </p>
