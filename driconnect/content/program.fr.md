@@ -27,7 +27,9 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-4 col-sm-2 text-nowrap">
-        13h30 (3 heures) 
+        13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (3 heures)
       </div>
       <div class="col-3 ">École de technologie supérieure  </div>
       <div class="col-2 ">Atelier Magic Castle   </div>
@@ -38,35 +40,41 @@ translationKey: "program"
 
 <hr />
 
-#### Jour 1 - Conference 
+#### Jour 1 - Conference
 
 <details>
   <summary class="h5">Mardi le 27 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
   <div class="container">
     <div class="row mt-2">
       <div class="col-3 col-sm-2 bg-primary text-white">Heure </div>
-      <div class="col-2 bg-primary text-white">Salle </div>
+      <div class="col-3 col-sm-2 bg-primary text-white">Salle </div>
       <div class="col bg-primary text-white">Description</div>
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        8h00 (60 min) 
+        8h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
-      <div class="col-2 ">Atrium   </div>
+      <div class="col-3 col-sm-2">Atrium   </div>
       <div class="col ">Inscription    </div>
     </div>
-    <div class="row my-4" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap">
-        9h00 (30 min) 
+        9h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
-      <div class="col-2 "> Amphithéâtre BMO   </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO   </div>
       <div class="col ">Discours d’ouverture    </div>
     </div>
-    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3" > <!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap">
-        9h30 (60 min) 
+        9h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
-      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
           <summary class="h6">Conférence: Le rôle de l’IA dans la recherche numérique, considérations éthiques dans l’adoption de l’IA ou prise de décision basée sur les données dans les environnements de recherche 
@@ -89,17 +97,21 @@ translationKey: "program"
          </details> 
        </div>
     </div>
-    <div class="row my-6" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10h30 (30 min) 
+        10h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Pause     </div>
     </div>
-    <div class="row my-7">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h00 (15 min)  
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
           <summary class="h6">Renforcer les partenariats mondiaux en matière de formation et de développement des compétences : L’Initiative d’échange entre des employés de l’ARDC et de l’Alliance   
@@ -113,10 +125,12 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-8" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h15 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
           <summary class="h6">Optimiser la présentation de rapports sur la formation dans l’écosystème de l’infrastructure de recherche numérique du Canada : un projet pilote mené par ACENET 
@@ -130,10 +144,12 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-9" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
         </div>
-        <div class="col-2 "> Amphithéâtre BMO  </div>
+        <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
         <div class="col ">
           <details>
             <summary class="h6">Certification des utilisateurs : faisons-le !
@@ -146,10 +162,12 @@ translationKey: "program"
           </details> 
         </div>
     </div>
-    <div class="row my-10" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h45 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
         </div>
-        <div class="col-2 "> Amphithéâtre BMO  </div>
+        <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
         <div class="col ">
           <details>
             <summary class="h6">Redéfinir la découverte de la formation : Présentation du nouveau portail de formation 
@@ -163,27 +181,31 @@ translationKey: "program"
           </details> 
         </div>
     </div>
-    <div class="row my-11" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (60 min) 
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Dîner      </div>
     </div>
-    <div class="row my-12" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 13h00  (75min )
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 1 details-->
       <summary class="h6"><strong> Volet 1 : Faire avancer le calcul haute performance </strong>  
           </summary> 
-   <div class="row my-13" >
+   <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min) 
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO   </div>
       <div class="col ">
         <details>
             <summary class="h6">L’avenir du CHP à l’âge de l’IA (grappes IA vs systèmes CHP). Sommes-nous prêts ?)
@@ -196,10 +218,12 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-14" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 "> Amphithéâtre BMO </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO </div>
       <div class="col ">
         <details>
             <summary class="h6">Kubernetes, une évolution naturelle du CIP : Privilégier la complémentarité et non la concurrence 
@@ -212,11 +236,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
           <summary class="h6">Au-delà de MPI et OpenMP : enseignement de la programmation parallèle en calcul informatique moderne </summary>
@@ -229,11 +255,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-16" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min) 
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO   </div>
       <div class="col ">
         <details>
           <summary class="h6">Calcul informatique et stockage de données à grande échelle : 10 ans, plus de 140 webinaires
@@ -248,20 +276,22 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 1 details-->
-    <div class="row my-17" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong> Volet 2 : Soutenir l’excellence </strong>  
           </summary> 
-    <div class="row my-18" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min) 
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
-      <div class="col-2 ">MB 3.435    </div>
+      <div class="col-3 col-sm-2">MB 3.435    </div>
       <div class="col ">
         <details>
             <summary class="h6">Une discussion ouverte sur la communication avec la communauté de recherche 
@@ -275,10 +305,12 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-19" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 "> MB 3.435  </div>
+      <div class="col-3 col-sm-2"> MB 3.435  </div>
       <div class="col ">
         <details>
             <summary class="h6">Connaître vos clients par les traces de leurs œuvres  
@@ -292,11 +324,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-20" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">MB 3.435   </div>
+      <div class="col-3 col-sm-2">MB 3.435   </div>
       <div class="col ">
         <details>
           <summary class="h6">Optimiser l’utilisation des ressources de calcul intensif : s’attaquer au gaspillage dans l’écosystème de l’Alliance </summary>
@@ -309,11 +343,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-21"  >
+    <div class="row my-3"  >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min)  
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">MB 3.435    </div>
+      <div class="col-3 col-sm-2">MB 3.435    </div>
       <div class="col ">
         <details>
           <summary class="h6">Surveiller l’utilisation du GPU et les meilleures pratiques en matière de gestion des gaspillages (groupe de travail sur les accélérateurs
@@ -328,20 +364,22 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 2 details-->
-        <div class="row my-22" >
+        <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 3 details-->
      <summary class="h6"><strong> Volet 3 : Plateformes pour le progrès </strong>  
           </summary> 
-    <div class="row my-23" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min)  
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
-      <div class="col-2 ">MB 3.445    </div>
+      <div class="col-3 col-sm-2">MB 3.445    </div>
       <div class="col ">
         <details>
             <summary class="h6">L’initiative Colibri : vers des services infonuagiques accessibles 
@@ -355,10 +393,12 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-24" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 "> MB 3.445  </div>
+      <div class="col-3 col-sm-2"> MB 3.445  </div>
       <div class="col ">
         <details>
             <summary class="h6">Votre modèle de PGD a-t-il besoin d’être réactualisé ? Une approche cybersensible à la gestion des données de recherche 
@@ -372,11 +412,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-25" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">MB 3.445   </div>
+      <div class="col-3 col-sm-2">MB 3.445   </div>
       <div class="col ">
         <details>
           <summary class="h6">Assistant PGD Un présent stable, un avenir évolutif </summary>
@@ -389,11 +431,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min) 
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">MB 3.445    </div>
+      <div class="col-3 col-sm-2">MB 3.445    </div>
       <div class="col ">
         <details>
           <summary class="h6">Adaptation de logiciels ouverts — une occasion d’apprentissage pour les chercheurs et les développeurs  
@@ -408,18 +452,22 @@ translationKey: "program"
       </div>
     </div>
     </details><!--end of Stream 3 details-->
-    <div class="row my-27" style="background-color: #FFE4B5" >
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)" >
       <div class="col-3 col-sm-2 text-nowrap">
-        14h15 (30 min)  
+        14h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Pause     </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h45 (30 min) 
+        14h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Démystifier la gestion des données de recherche : vos questions, nos réponses !  
@@ -433,11 +481,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-27" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h15 (15 min) 
+        15h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Comment le DFDR fonctionne-t-il réellement ? Aperçu des services de conservation et de préservation 
@@ -451,11 +501,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-29" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h30 (15 min) 
+        15h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO     </div>
       <div class="col ">
         <details>
           <summary class="h6">Créer une communauté interinstitutionnelle et interfonctionnelle de gestion des données de recherche : de la stratégie à la mise en œuvre 
@@ -469,11 +521,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-     <div class="row my-30" >
+     <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h45 (15 min) 
+        15h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO     </div>
       <div class="col ">
         <details>
           <summary class="h6">Jeter les bases : Projet pilote de gestion des données de recherche nationale (RDM Jumpstart)    
@@ -487,11 +541,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-      <div class="row my-31" >
+      <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        16h00 (15 min) 
+        16h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Est-ce magique ? Faux : Création de signatures électroniques pour les formats de fichiers de données de recherche   
@@ -505,11 +561,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-      <div class="row my-32" >
+      <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         16h30  
       </div>
-      <div class="col-2 ">ÉTS    </div>
+      <div class="col-3 col-sm-2">ÉTS    </div>
       <div class="col ">
         <details>
           <summary class="h6">Visite des superordinateurs avec Calcul Québec      
@@ -520,11 +576,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-33" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap">
         18h00 
       </div>
-      <div class="col-2 ">Wienstein & Gavino's 1434 Crescent St, Montreal, Quebec H3G 2B6  </div>
+      <div class="col-3 col-sm-2">Wienstein & Gavino's 1434 Crescent St, Montreal, Quebec H3G 2B6  </div>
       <div class="col ">Soirée de la rencontre sur l’IRN    </div>
     </div>
   </div>
@@ -539,14 +595,16 @@ translationKey: "program"
   <div class="container">
     <div class="row mt-2">
       <div class="col-3 col-sm-2 bg-primary text-white">Heure </div>
-      <div class="col-2 bg-primary text-white">Salle </div>
+      <div class="col-3 col-sm-2bg-primary text-white">Salle </div>
       <div class="col bg-primary text-white">Description</div>
     </div>
       <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        9h00 (60 min) 
+        9h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Conférence: Les sciences de la santé à l’ère numérique
@@ -563,11 +621,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-4" >
+    <div class="row my-3" >
     <div class="col-3 col-sm-2 text-nowrap"> 
-        10h00 (15 min) 
+        10h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6"> Infrastructure de recherche numérique sur les sciences humaines et sociales au Canada : État actuel et orientations futures  
@@ -583,11 +643,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-5.8" ><!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3" ><!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap" > 
-        10h15 (15 min) 
+        10h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Soutien et logiciels qualitatifs pour les chercheurs en sciences humaines et sociales (SHS) 
@@ -603,27 +665,33 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-6" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10h30 (30 min)  
+        10h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Pause      </div>
     </div>
-    <div class="row my-7" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h00 (75 min)
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (75 min)
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 1 details-->
      <summary class="h6"><strong> Volet 1: Bases solides et sécurisées </strong>  
           </summary> 
-    <div class="row my-8" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min)  
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
             <summary class="h6">Calcul informatique sensible avec SciNet4Health 
@@ -636,10 +704,12 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-9" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 "> Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2"> Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
             <summary class="h6">Données sécurisées pour la santé (SD4H), un nuage de recherche numérique sécurisé 
@@ -659,11 +729,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-10" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)   
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
-      <div class="col-2 ">Amphithéâtre BMO  </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO  </div>
       <div class="col ">
         <details>
           <summary class="h6">Identités fédérées pour plateformes scientifiques à l’aide de CILogon    </summary>
@@ -676,11 +748,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-11" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">Amphithéâtre BMO   </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO   </div>
       <div class="col ">
         <details>
           <summary class="h6">Sécurité API 
@@ -694,11 +768,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-12" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (15 min)   
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Initiative de gestion de l’accès contrôlé aux données de recherche (CAM) 
@@ -713,20 +789,22 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 1 details-->
-    <div class="row my-13" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong> Volet 2 : Systèmes innovants </strong>  
           </summary> 
-    <div class="row my-14" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min) 
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">MB 3.435    </div>
+      <div class="col-3 col-sm-2">MB 3.435    </div>
       <div class="col ">
         <details>
             <summary class="h6">MonarQ prend son envol
@@ -739,10 +817,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap">
+      11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 "> MB 3.435  </div>
+      <div class="col-3 col-sm-2"> MB 3.435  </div>
       <div class="col ">
         <details>
             <summary class="h6">PennyLane-Calculqubec : Rationalisation de la recherche en algorithmes quantiques sur MonarQ 
@@ -755,11 +836,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-16" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)   
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
-      <div class="col-2 ">MB 3.435   </div>
+      <div class="col-3 col-sm-2">MB 3.435   </div>
       <div class="col ">
         <details>
           <summary class="h6">Rationaliser la création de grappes Magic Castle chez calcul Québec à l’aide de Terraform Cloud   </summary>
@@ -771,11 +854,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-17" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">MB 3.435    </div>
+      <div class="col-3 col-sm-2">MB 3.435    </div>
       <div class="col ">
         <details>
           <summary class="h6">A Home Among the Clouds (une maison dans les nuages) 
@@ -789,11 +874,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-18" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (15 min)    
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)    
       </div>
-      <div class="col-2 ">MB 3.435    </div>
+      <div class="col-3 col-sm-2">MB 3.435    </div>
       <div class="col ">
         <details>
           <summary class="h6">État des accélérateurs   
@@ -808,20 +895,22 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 2 details-->
-    <div class="row my-19" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
-      <div class="col-2 ">  </div>
+      <div class="col-3 col-sm-2">  </div>
       <div class="col ">   </div>
     </div>
     <details>
     <summary class="h6"><strong> Volet 3 : Renforcer la recherche  </strong>  
           </summary> 
-    <div class="row my-20" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min) 
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
-      <div class="col-2 ">MB 3.445    </div>
+      <div class="col-3 col-sm-2">MB 3.445    </div>
       <div class="col ">
         <details>
             <summary class="h6">Mise à jour de la plateforme UseGalaxy Canada 
@@ -834,10 +923,12 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-21" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)   
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
-      <div class="col-2 "> MB 3.445   </div>
+      <div class="col-3 col-sm-2"> MB 3.445   </div>
       <div class="col ">
         <details>
             <summary class="h6">CBRAIN, Plateforme de calcul décentralisée sur le Web destinée à la recherche collaborative
@@ -850,11 +941,13 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-22" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)  
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">MB 3.445    </div>
+      <div class="col-3 col-sm-2">MB 3.445    </div>
       <div class="col ">
         <details>
           <summary class="h6">OssecMon — Solution de surveillance et conformité pour environnements Linux avec eBPF    </summary>
@@ -866,11 +959,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-23" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
-      <div class="col-2 ">MB 3.445     </div>
+      <div class="col-3 col-sm-2">MB 3.445     </div>
       <div class="col ">
         <details>
           <summary class="h6">Calcul de haute performance interactif avec Open OnDemand 
@@ -884,11 +979,13 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-24" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-       12h00 (15 min)    
+       12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)    
       </div>
-      <div class="col-2 ">MB 3.445     </div>
+      <div class="col-3 col-sm-2">MB 3.445     </div>
       <div class="col ">
         <details>
           <summary class="h6">De Bash Scripts à GitOps : Automatisation des déploiements de Kubernetes avec ArgoCD 
@@ -903,18 +1000,22 @@ translationKey: "program"
       </div>
     </div>
     </details><!--end of Stream 3 details-->
-    <div class="row my-25" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h15 (60 min) 
+        12h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Dîner      </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h15 (30 min)    
+        13h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)    
       </div>
-      <div class="col-2 ">Amphithéâtre BMO     </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO     </div>
       <div class="col ">
         <details>
           <summary class="h6">Mise à jour des projets et initiatives de l’Alliance   
@@ -925,11 +1026,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-27" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:45 pm (45 min)    
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">
         <details>
           <summary class="h6">Discussion avec l’Alliance  
@@ -940,18 +1041,18 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-28" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:30 pm (30 min) 
       </div>
-      <div class="col-2 ">Amphithéâtre BMO    </div>
+      <div class="col-3 col-sm-2">Amphithéâtre BMO    </div>
       <div class="col ">Mot de clôture de George Ross       </div>
     </div>
-    <div class="row my-29">
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 
         3:00 pm
       </div>
-      <div class="col-2 ">Atrium  </div>
+      <div class="col-3 col-sm-2">Atrium  </div>
       <div class="col ">Réseautage et fin du programme       </div>
     </div>
   </div>
