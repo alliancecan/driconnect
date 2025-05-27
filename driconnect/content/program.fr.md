@@ -27,7 +27,9 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-4 col-sm-2 text-nowrap">
-        13h30 (3 heures) 
+        13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (3 heures)
       </div>
       <div class="col-3 ">École de technologie supérieure  </div>
       <div class="col-2 ">Atelier Magic Castle   </div>
@@ -38,7 +40,7 @@ translationKey: "program"
 
 <hr />
 
-#### Jour 1 - Conference 
+#### Jour 1 - Conference
 
 <details>
   <summary class="h5">Mardi le 27 mai <small class="text-muted d-print-none"> (Cliquez pour afficher)</small></summary>
@@ -50,21 +52,27 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        8h00 (60 min) 
+        8h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
       <div class="col-2 ">Atrium   </div>
       <div class="col ">Inscription    </div>
     </div>
-    <div class="row my-4" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap">
-        9h00 (30 min) 
+        9h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
       <div class="col-2 "> Amphithéâtre BMO   </div>
       <div class="col ">Discours d’ouverture    </div>
     </div>
-    <div class="row my-5.8" > <!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3" > <!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap">
-        9h30 (60 min) 
+        9h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
@@ -89,15 +97,19 @@ translationKey: "program"
          </details> 
        </div>
     </div>
-    <div class="row my-6" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10h30 (30 min) 
+        10h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Pause     </div>
     </div>
-    <div class="row my-7">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h00 (15 min)  
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
@@ -113,8 +125,10 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-8" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h15 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
@@ -130,8 +144,10 @@ translationKey: "program"
         </details> 
       </div>
     </div>
-    <div class="row my-9" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
         </div>
         <div class="col-2 "> Amphithéâtre BMO  </div>
         <div class="col ">
@@ -146,8 +162,10 @@ translationKey: "program"
           </details> 
         </div>
     </div>
-    <div class="row my-10" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h45 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
         </div>
         <div class="col-2 "> Amphithéâtre BMO  </div>
         <div class="col ">
@@ -163,14 +181,16 @@ translationKey: "program"
           </details> 
         </div>
     </div>
-    <div class="row my-11" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (60 min) 
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Dîner      </div>
     </div>
-    <div class="row my-12" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 13h00  (75min )
       </div>
       <div class="col-2 ">  </div>
@@ -179,9 +199,11 @@ translationKey: "program"
     <details><!--start of Stream 1 details-->
       <summary class="h6"><strong> Volet 1 : Faire avancer le calcul haute performance </strong>  
           </summary> 
-   <div class="row my-13" >
+   <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min) 
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO   </div>
       <div class="col ">
@@ -196,8 +218,10 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-14" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 "> Amphithéâtre BMO </div>
       <div class="col ">
@@ -212,9 +236,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO  </div>
       <div class="col ">
@@ -229,9 +255,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-16" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min) 
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO   </div>
       <div class="col ">
@@ -248,7 +276,7 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 1 details-->
-    <div class="row my-17" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
@@ -257,9 +285,11 @@ translationKey: "program"
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong> Volet 2 : Soutenir l’excellence </strong>  
           </summary> 
-    <div class="row my-18" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min) 
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
       <div class="col-2 ">MB 3.435    </div>
       <div class="col ">
@@ -275,8 +305,10 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-19" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 "> MB 3.435  </div>
       <div class="col ">
@@ -292,9 +324,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-20" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">MB 3.435   </div>
       <div class="col ">
@@ -309,9 +343,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-21"  >
+    <div class="row my-3"  >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min)  
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">MB 3.435    </div>
       <div class="col ">
@@ -328,7 +364,7 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 2 details-->
-        <div class="row my-22" >
+        <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
@@ -337,9 +373,11 @@ translationKey: "program"
     <details><!--start of Stream 3 details-->
      <summary class="h6"><strong> Volet 3 : Plateformes pour le progrès </strong>  
           </summary> 
-    <div class="row my-23" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h00 (30 min)  
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
       <div class="col-2 ">MB 3.445    </div>
       <div class="col ">
@@ -355,8 +393,10 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-24" >
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30 (15 min) 
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 "> MB 3.445  </div>
       <div class="col ">
@@ -372,9 +412,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-25" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h45 (15 min) 
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">MB 3.445   </div>
       <div class="col ">
@@ -389,9 +431,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h00 (15 min) 
+        14h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">MB 3.445    </div>
       <div class="col ">
@@ -408,16 +452,20 @@ translationKey: "program"
       </div>
     </div>
     </details><!--end of Stream 3 details-->
-    <div class="row my-27" style="background-color: #FFE4B5" >
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)" >
       <div class="col-3 col-sm-2 text-nowrap">
-        14h15 (30 min)  
+        14h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Pause     </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        14h45 (30 min) 
+        14h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -433,9 +481,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-27" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h15 (15 min) 
+        15h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -451,9 +501,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-29" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h30 (15 min) 
+        15h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO     </div>
       <div class="col ">
@@ -469,9 +521,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-     <div class="row my-30" >
+     <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        15h45 (15 min) 
+        15h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO     </div>
       <div class="col ">
@@ -487,9 +541,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-      <div class="row my-31" >
+      <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        16h00 (15 min) 
+        16h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -505,7 +561,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-      <div class="row my-32" >
+      <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         16h30  
       </div>
@@ -520,7 +576,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-33" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap">
         18h00 
       </div>
@@ -544,7 +600,9 @@ translationKey: "program"
     </div>
       <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        9h00 (60 min) 
+        9h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -563,9 +621,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-4" >
+    <div class="row my-3" >
     <div class="col-3 col-sm-2 text-nowrap"> 
-        10h00 (15 min) 
+        10h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -583,9 +643,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-5.8" ><!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3" ><!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap" > 
-        10h15 (15 min) 
+        10h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -603,15 +665,19 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-6" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10h30 (30 min)  
+        10h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)  
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Pause      </div>
     </div>
-    <div class="row my-7" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h00 (75 min)
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap" > 11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (75 min)
       </div>
       <div class="col-2 ">  </div>
       <div class="col ">   </div>
@@ -619,9 +685,11 @@ translationKey: "program"
     <details><!--start of Stream 1 details-->
      <summary class="h6"><strong> Volet 1: Bases solides et sécurisées </strong>  
           </summary> 
-    <div class="row my-8" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min)  
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -636,8 +704,10 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-9" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 "> Amphithéâtre BMO  </div>
       <div class="col ">
@@ -659,9 +729,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-10" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)   
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
       <div class="col-2 ">Amphithéâtre BMO  </div>
       <div class="col ">
@@ -676,9 +748,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-11" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">Amphithéâtre BMO   </div>
       <div class="col ">
@@ -694,9 +768,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-12" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (15 min)   
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">
@@ -713,7 +789,7 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 1 details-->
-    <div class="row my-13" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
@@ -722,9 +798,11 @@ translationKey: "program"
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong> Volet 2 : Systèmes innovants </strong>  
           </summary> 
-    <div class="row my-14" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min) 
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">MB 3.435    </div>
       <div class="col ">
@@ -739,8 +817,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-15" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11:15 am (15 min)  
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap">
+      11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 "> MB 3.435  </div>
       <div class="col ">
@@ -755,9 +836,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-16" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)   
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
       <div class="col-2 ">MB 3.435   </div>
       <div class="col ">
@@ -771,9 +854,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-17" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">MB 3.435    </div>
       <div class="col ">
@@ -789,9 +874,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-18" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h00 (15 min)    
+        12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)    
       </div>
       <div class="col-2 ">MB 3.435    </div>
       <div class="col ">
@@ -808,7 +895,7 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 2 details-->
-    <div class="row my-19" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap" > 
       </div>
       <div class="col-2 ">  </div>
@@ -817,9 +904,11 @@ translationKey: "program"
     <details>
     <summary class="h6"><strong> Volet 3 : Renforcer la recherche  </strong>  
           </summary> 
-    <div class="row my-20" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h00 (15 min) 
+        11h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min) 
       </div>
       <div class="col-2 ">MB 3.445    </div>
       <div class="col ">
@@ -834,8 +923,10 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-21" >
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15 (15 min)   
+    <div class="row my-3" >
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)   
       </div>
       <div class="col-2 "> MB 3.445   </div>
       <div class="col ">
@@ -850,9 +941,11 @@ translationKey: "program"
           </details> 
       </div>
     </div>
-    <div class="row my-22" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h30 (15 min)  
+        11h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">MB 3.445    </div>
       <div class="col ">
@@ -866,9 +959,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-23" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        11h45 (15 min)  
+        11h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)  
       </div>
       <div class="col-2 ">MB 3.445     </div>
       <div class="col ">
@@ -884,9 +979,11 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-24" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-       12h00 (15 min)    
+       12h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (15 min)    
       </div>
       <div class="col-2 ">MB 3.445     </div>
       <div class="col ">
@@ -903,16 +1000,20 @@ translationKey: "program"
       </div>
     </div>
     </details><!--end of Stream 3 details-->
-    <div class="row my-25" style="background-color: #FFE4B5">
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap"> 
-        12h15 (60 min) 
+        12h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (60 min) 
       </div>
       <div class="col-2 ">Atrium  </div>
       <div class="col ">Dîner      </div>
     </div>
-    <div class="row my-26" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
-        13h15 (30 min)    
+        13h15
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)    
       </div>
       <div class="col-2 ">Amphithéâtre BMO     </div>
       <div class="col ">
@@ -925,7 +1026,7 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-27" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         1:45 pm (45 min)    
       </div>
@@ -940,14 +1041,14 @@ translationKey: "program"
         </details>   
       </div>
     </div>
-    <div class="row my-28" >
+    <div class="row my-3" >
       <div class="col-3 col-sm-2 text-nowrap"> 
         2:30 pm (30 min) 
       </div>
       <div class="col-2 ">Amphithéâtre BMO    </div>
       <div class="col ">Mot de clôture de George Ross       </div>
     </div>
-    <div class="row my-29">
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 
         3:00 pm
       </div>
