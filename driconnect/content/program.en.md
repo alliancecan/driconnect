@@ -678,7 +678,9 @@ translationKey: "program"
     </div>
     <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10:30 (30 min)
+        10:30 AM
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)
       </div>
       <div class="col-3">Atrium</div>
       <div class="col">Break</div>
