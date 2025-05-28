@@ -106,7 +106,8 @@ translationKey: "program"
       <div class="col">Pause</div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h00
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h00
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -125,7 +126,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h15
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -144,7 +146,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h30
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
         </div>
@@ -162,7 +165,8 @@ translationKey: "program"
         </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h45
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h45
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
         </div>
@@ -221,7 +225,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">13h30
+      <div class="col-3 col-sm-2 text-nowrap">
+        13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -308,7 +313,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">13h30
+      <div class="col-3 col-sm-2 text-nowrap">
+        13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -396,7 +402,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">13h30
+      <div class="col-3 col-sm-2 text-nowrap">
+        13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -677,7 +684,8 @@ translationKey: "program"
       <div class="col">Pause</div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h00
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h00
         <span class="d-inline d-lg-none"><br /></span>
         (75 min)
       </div>
@@ -707,7 +715,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h15
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -821,7 +830,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-      11h15
+        11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -926,7 +935,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11h15
+      <div class="col-3 col-sm-2 text-nowrap">
+        11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -983,7 +993,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-       12h00
+        12h00
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -1030,7 +1040,9 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        1:45 pm (45 min)
+        13h45
+        <span class="d-inline d-lg-none"><br /></span>
+        (45 min)
       </div>
       <div class="col-3">Amphithéâtre BMO</div>
       <div class="col">
@@ -1045,14 +1057,16 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        2:30 pm (30 min)
+        14h30
+        <span class="d-inline d-lg-none"><br /></span>
+        (30 min)
       </div>
       <div class="col-3">Amphithéâtre BMO</div>
       <div class="col">Mot de clôture de George Ross</div>
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        3:00 pm
+        15h00
       </div>
       <div class="col-3">Atrium</div>
       <div class="col">Réseautage et fin du programme</div>
