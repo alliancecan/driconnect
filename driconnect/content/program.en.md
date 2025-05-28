@@ -72,7 +72,7 @@ translationKey: "program"
       <div class="col-3">BMO Amphitheatre</div>
       <div class="col">Opening Remarks</div>
     </div>
-    <div class="row my-3"><!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         9:30 am
         <span class="d-inline d-lg-none"><br /></span>
@@ -654,7 +654,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3"><!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         10:15 AM
         <span class="d-inline d-lg-none"><br /></span>
