@@ -106,7 +106,7 @@ translationKey: "program"
       <div class="col">Pause</div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h00
+      <div class="col-3 col-sm-2 text-nowrap">11h00
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -125,7 +125,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+      <div class="col-3 col-sm-2 text-nowrap">11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -144,7 +144,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h30
+      <div class="col-3 col-sm-2 text-nowrap">11h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
         </div>
@@ -162,7 +162,7 @@ translationKey: "program"
         </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h45
+      <div class="col-3 col-sm-2 text-nowrap">11h45
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
         </div>
@@ -190,7 +190,10 @@ translationKey: "program"
       <div class="col">Dîner</div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 13h00  (75min )
+      <div class="col-3 col-sm-2 text-nowrap">
+        13h00
+        <span class="d-inline d-lg-none"><br /></span>
+        (75 min)
       </div>
       <div class="col-3"></div>
       <div class="col"></div>
@@ -218,7 +221,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+      <div class="col-3 col-sm-2 text-nowrap">13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -305,7 +308,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+      <div class="col-3 col-sm-2 text-nowrap">13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -393,7 +396,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 13h30
+      <div class="col-3 col-sm-2 text-nowrap">13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -629,7 +632,7 @@ translationKey: "program"
       <div class="col-3">Amphithéâtre BMO</div>
       <div class="col">
         <details>
-          <summary class="h6"> Infrastructure de recherche numérique sur les sciences humaines et sociales au Canada : État actuel et orientations futures
+          <summary class="h6">Infrastructure de recherche numérique sur les sciences humaines et sociales au Canada : État actuel et orientations futures
           </summary>
           <p>
             Alyssa Arbuckle, Chargée des subventions liées à l’infrastructure de recherche, Réseau canadien de documentation pour la recherche; James MacGregor, Directeur, Infrastructure et développement de la recherche, Réseau canadien de documentation pour la recherche
@@ -674,7 +677,7 @@ translationKey: "program"
       <div class="col">Pause</div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h00
+      <div class="col-3 col-sm-2 text-nowrap">11h00
         <span class="d-inline d-lg-none"><br /></span>
         (75 min)
       </div>
@@ -704,7 +707,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+      <div class="col-3 col-sm-2 text-nowrap">11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -923,7 +926,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11h15
+      <div class="col-3 col-sm-2 text-nowrap">11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>

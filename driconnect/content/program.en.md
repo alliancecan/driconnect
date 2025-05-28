@@ -232,7 +232,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -319,7 +319,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -406,7 +406,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -715,7 +715,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -828,7 +828,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -934,7 +934,7 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap"> 11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -1072,4 +1072,4 @@ translationKey: "program"
   </div>
 </details>
 <hr />
-The detailed descriptions are available <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">here</a>  in the language they were provided.
+The detailed descriptions are available <a href="https://docs.google.com/document/d/1vwas1KKeEDDf3PYVAfx1Auxsg-OQdRHx/edit?usp=sharing&ouid=109991764007851235677&rtpof=true&sd=true" target="_blank">here</a> in the language they were provided.
