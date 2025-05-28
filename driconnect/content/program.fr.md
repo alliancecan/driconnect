@@ -58,7 +58,7 @@ translationKey: "program"
       <div class="col-3">Atrium</div>
       <div class="col">Inscription</div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         9h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -67,7 +67,7 @@ translationKey: "program"
       <div class="col-3">Amphithéâtre BMO</div>
       <div class="col">Discours d’ouverture</div>
     </div>
-    <div class="row my-3" > <!--"row my-5" yields un expected spaces.-->
+    <div class="row my-3"><!--"row my-5" yields un expected spaces.-->
       <div class="col-3 col-sm-2 text-nowrap">
         9h30
         <span class="d-inline d-lg-none"><br /></span>
@@ -124,8 +124,8 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h15
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -143,8 +143,8 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h30
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 11h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
         </div>
@@ -161,7 +161,7 @@ translationKey: "program"
           </details>
         </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 11h45
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -189,16 +189,16 @@ translationKey: "program"
       <div class="col-3">Atrium</div>
       <div class="col">Dîner</div>
     </div>
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" > 13h00  (75min )
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 13h00  (75min )
       </div>
-      <div class="col-3"> </div>
-      <div class="col"> </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details><!--start of Stream 1 details-->
       <summary class="h6"><strong>Volet 1 : Faire avancer le calcul haute performance</strong>
           </summary>
-   <div class="row my-3" >
+   <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -217,7 +217,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -235,7 +235,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -254,7 +254,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         14h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -275,16 +275,16 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 1 details-->
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" >
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap">
       </div>
-      <div class="col-3"> </div>
-      <div class="col"> </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong>Volet 2 : Soutenir l’excellence</strong>
           </summary>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -304,7 +304,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -323,7 +323,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -342,7 +342,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3"  >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         14h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -363,16 +363,16 @@ translationKey: "program"
       </div>
     </div>
    </details><!--end of Stream 2 details-->
-        <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" >
+        <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap">
       </div>
-      <div class="col-3"> </div>
-      <div class="col"> </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details><!--start of Stream 3 details-->
      <summary class="h6"><strong>Volet 3 : Plateformes pour le progrès</strong>
           </summary>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -392,7 +392,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 13h30
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -411,7 +411,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -430,7 +430,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         14h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -451,7 +451,7 @@ translationKey: "program"
       </div>
     </div>
     </details><!--end of Stream 3 details-->
-    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)" >
+    <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
         14h15
         <span class="d-inline d-lg-none"><br /></span>
@@ -460,7 +460,7 @@ translationKey: "program"
       <div class="col-3">Atrium</div>
       <div class="col">Pause</div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         14h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -480,7 +480,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         15h15
         <span class="d-inline d-lg-none"><br /></span>
@@ -500,7 +500,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         15h30
         <span class="d-inline d-lg-none"><br /></span>
@@ -520,7 +520,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-     <div class="row my-3" >
+     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         15h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -540,7 +540,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-      <div class="row my-3" >
+      <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         16h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -560,7 +560,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-      <div class="row my-3" >
+      <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         16h30
       </div>
@@ -575,7 +575,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         18h00
       </div>
@@ -597,7 +597,7 @@ translationKey: "program"
       <div class="col-3 bg-primary text-white">Salle</div>
       <div class="col bg-primary text-white">Description</div>
     </div>
-      <div class="row my-3" >
+      <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         9h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -620,7 +620,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
     <div class="col-3 col-sm-2 text-nowrap">
         10h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -642,8 +642,8 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" ><!--"row my-5" yields un expected spaces.-->
-      <div class="col-3 col-sm-2 text-nowrap" >
+    <div class="row my-3"><!--"row my-5" yields un expected spaces.-->
+      <div class="col-3 col-sm-2 text-nowrap">
         10h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -673,18 +673,18 @@ translationKey: "program"
       <div class="col-3">Atrium</div>
       <div class="col">Pause</div>
     </div>
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" > 11h00
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap"> 11h00
         <span class="d-inline d-lg-none"><br /></span>
         (75 min)
       </div>
-      <div class="col-3"> </div>
-      <div class="col"> </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details><!--start of Stream 1 details-->
      <summary class="h6"><strong>Volet 1: Bases solides et sécurisées</strong>
           </summary>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -703,7 +703,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -728,7 +728,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h30
         <span class="d-inline d-lg-none"><br /></span>
@@ -747,7 +747,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -767,7 +767,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         12h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -788,16 +788,16 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 1 details-->
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" >
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap">
       </div>
-      <div class="col-3"> </div>
-      <div class="col"> </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details><!--start of Stream 2 details-->
      <summary class="h6"><strong>Volet 2 : Systèmes innovants</strong>
           </summary>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -816,7 +816,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
       11h15
         <span class="d-inline d-lg-none"><br /></span>
@@ -835,7 +835,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h30
         <span class="d-inline d-lg-none"><br /></span>
@@ -853,7 +853,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -873,7 +873,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         12h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -894,16 +894,16 @@ translationKey: "program"
       </div>
     </div>
   </details><!--end of Stream 2 details-->
-    <div class="row my-3" >
-      <div class="col-3 col-sm-2 text-nowrap" >
+    <div class="row my-3">
+      <div class="col-3 col-sm-2 text-nowrap">
       </div>
-      <div class="col-3">  </div>
-      <div class="col">   </div>
+      <div class="col-3"></div>
+      <div class="col"></div>
     </div>
     <details>
     <summary class="h6"><strong>Volet 3 : Renforcer la recherche</strong>
           </summary>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -922,7 +922,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap"> 11h15
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
@@ -940,7 +940,7 @@ translationKey: "program"
           </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h30
         <span class="d-inline d-lg-none"><br /></span>
@@ -958,7 +958,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         11h45
         <span class="d-inline d-lg-none"><br /></span>
@@ -978,7 +978,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
        12h00
         <span class="d-inline d-lg-none"><br /></span>
@@ -1008,7 +1008,7 @@ translationKey: "program"
       <div class="col-3">Atrium</div>
       <div class="col">Dîner</div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         13h15
         <span class="d-inline d-lg-none"><br /></span>
@@ -1025,7 +1025,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         1:45 pm (45 min)
       </div>
@@ -1040,7 +1040,7 @@ translationKey: "program"
         </details>
       </div>
     </div>
-    <div class="row my-3" >
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         2:30 pm (30 min)
       </div>
