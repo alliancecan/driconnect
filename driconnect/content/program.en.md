@@ -25,7 +25,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        1:30 pm
+        1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (3 hours)
       </div>
@@ -56,7 +56,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        8:00 am
+        8:00 AM
         <span class="d-inline d-lg-none"><br /></span>
         (60 min)
       </div>
@@ -65,7 +65,7 @@ translationKey: "program"
     </div>
     <div class="row my-4">
       <div class="col-3 col-sm-2 text-nowrap">
-        9:00 am
+        9:00 AM
         <span class="d-inline d-lg-none"><br /></span>
         (30 min)
       </div>
@@ -74,7 +74,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        9:30 am
+        9:30 AM
         <span class="d-inline d-lg-none"><br /></span>
         (60 min)
       </div>
@@ -103,7 +103,7 @@ translationKey: "program"
     </div>
     <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        10:30
+        10:30 AM
         <span class="d-inline d-lg-none"><br /></span>
         (30 min)
       </div>
@@ -112,7 +112,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        11:00 am
+        11:00 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -132,7 +132,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        11:15 am
+        11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -152,7 +152,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        11:30 am
+        11:30 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -193,7 +193,7 @@ translationKey: "program"
     </div>
     <div class="row my-3" style="background-color: rgba(255, 192, 0, 0.1)">
       <div class="col-3 col-sm-2 text-nowrap">
-        12 PM
+        12:00 PM
         <span class="d-inline d-lg-none"><br /></span>
         (60 min)
       </div>
@@ -202,7 +202,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        1 PM
+        1:00 PM
         <span class="d-inline d-lg-none"><br /></span>
         (75 min)
       </div>
@@ -211,8 +211,8 @@ translationKey: "program"
     </div>
     <details><!--start of Stream 1 details-->
       <summary class="h6"><strong>Stream 1: Advancing HPC</strong>
-          </summary>
-   <div class="row my-3">
+      </summary>
+    <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
         1:00 PM
         <span class="d-inline d-lg-none"><br /></span>
@@ -232,7 +232,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">
+        1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -319,7 +320,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">
+        1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -406,7 +408,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">1:30 PM
+      <div class="col-3 col-sm-2 text-nowrap">
+        1:30 PM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -574,7 +577,7 @@ translationKey: "program"
     </div>
       <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        4:30 pm
+        4:30 PM
       </div>
       <div class="col-3">ÉTS</div>
       <div class="col">
@@ -589,7 +592,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        6 pm
+        6:00 PM
       </div>
       <div class="col-3">Wienstein & Gavino's 1434 Crescent St, Montreal, Quebec H3G 2B6</div>
       <div class="col">DRI Connect Dinner</div>
@@ -717,7 +720,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">
+        11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -830,7 +834,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">
+        11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -936,7 +941,8 @@ translationKey: "program"
       </div>
     </div>
     <div class="row my-3">
-      <div class="col-3 col-sm-2 text-nowrap">11:15 AM
+      <div class="col-3 col-sm-2 text-nowrap">
+        11:15 AM
         <span class="d-inline d-lg-none"><br /></span>
         (15 min)
       </div>
@@ -1066,7 +1072,7 @@ translationKey: "program"
     </div>
     <div class="row my-3">
       <div class="col-3 col-sm-2 text-nowrap">
-        3:00 pm
+        3:00 PM
       </div>
       <div class="col-3">Atrium</div>
       <div class="col">Networking and end of program</div>
