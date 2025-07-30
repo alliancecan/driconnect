@@ -5,3 +5,4 @@
 ansible.log
 .hugo_build.lock
 driconnect/public/*
+.DS_Store
