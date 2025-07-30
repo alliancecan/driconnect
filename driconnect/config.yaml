@@ -24,18 +24,18 @@ languages:
       - name: "Program"
         url: "/program/"
         weight: 2
-      - name: "Registration"
-        url: "/registration/"
-        weight: 3  
+      #- name: "Registration"
+      #  url: "/registration/"
+      #  weight: 3  
       #- name: "Attending"
-        #url: "/attending/"
-        #weight: 3
+      #  url: "/attending/"
+      #  weight: 3
       #- name: "Accommodations"
-        #url: "/accommodations/"
-        #weight: 4
-      - name: "Venue"
-        url: "/venue/"
-        weight: 4
+      #  url: "/accommodations/"
+      #  weight: 4
+      #- name: "Venue"
+      #  url: "/venue/"
+      #  weight: 4
       - name: "Code of Conduct"
         url: "/codeofconduct"
         weight: 5
@@ -50,18 +50,18 @@ languages:
       - name: "Programme"
         url: "/fr/programme/"
         weight: 2
-      - name: "Inscription"
-        url: "/fr/inscription/"
-        weight: 3  
+      #- name: "Inscription"
+      #  url: "/fr/inscription/"
+      #  weight: 3  
       #- name: "Information"
         #url: "/fr/information/"
         #weight: 3
       #- name: "Hébergement"
         #url: "/fr/hebergement/"
         #weight: 4
-      - name: "Lieu"
-        url: "/fr/lieu/"
-        weight: 4
+      #- name: "Lieu"
+      #  url: "/fr/lieu/"
+      #  weight: 4
       - name: "Code de conduite"
         url: "/fr/codedeconduite"
         weight: 5

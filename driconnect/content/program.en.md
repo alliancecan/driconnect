@@ -34,7 +34,7 @@ translationKey: "program"
       <details>
           <summary class="h6">Magic Castle Workshop</summary>
           <p>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">Registration form</a>
+            <span class="text-decoration-line-through">Registration form</span>
           </p>
         </details>
         </div>

@@ -32,7 +32,7 @@ translationKey: "program"
       </div>
       <div class="col-3">École de technologie supérieure</div>
       <div class="col-2">Atelier Magic Castle</div>
-      <div class="col"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdkUnZFEvWUTUX4naHZSx_pGKOjP5MA_j3GhVXdR9ebpIHU7w/viewform" target="_blank">formulaire d'inscription</a></div>
+      <div class="col"><span class="text-decoration-line-through">formulaire d'inscription</span></div>
     </div>
   </div>
 </details>
