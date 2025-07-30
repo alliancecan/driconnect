@@ -1,5 +1,6 @@
 ---
 lang_code: "fr"
+title: "Rencontre sur l’IRN"
 translationKey: "home"
 ---
 

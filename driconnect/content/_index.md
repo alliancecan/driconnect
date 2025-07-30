@@ -1,5 +1,6 @@
 ---
 lang_code: "en"
+title: "DRI Connect"
 translationKey: "home"
 ---
 
